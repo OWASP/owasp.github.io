@@ -5,7 +5,7 @@ title: Welcome to OWASP
 permalink: /
 
 ---
-<span>a force site recompile span</span>
+<span style="color:blue;">a force site recompile span</span>
 <section class="homepage-promo">
   <img src="https://via.placeholder.com/400x400" alt="">
 </section>
