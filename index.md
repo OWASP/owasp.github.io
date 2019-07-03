@@ -6,7 +6,7 @@ permalink: /
 
 ---
 
-<!-- Rebuild Site Tag -->
+<!-- Rebuild Site Tag 1 -->
 
 <section class="homepage-promo">
   <img src="https://via.placeholder.com/400x400" alt="">
