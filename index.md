@@ -5,6 +5,9 @@ title: Welcome to OWASP
 permalink: /
 
 ---
+
+<!-- Rebuild Site Tag -->
+
 <section class="homepage-promo">
   <img src="https://via.placeholder.com/400x400" alt="">
 </section>
