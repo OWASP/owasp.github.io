@@ -52,9 +52,5 @@ permalink: /
   </ul>
 </section>
 <section id="imgs">
-  <img border="0" data-original-height="1067" data-original-width="1600" height="213" src="https://1.bp.blogspot.com/-UfDI35-nojg/XR96L4uAz_I/AAAAAAAAAZA/mcmHvKRr1UwpDaimmi0cDdmahNN3cNh8QCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_166.jpg" width="320" />
-<img border="0" data-original-height="1067" data-original-width="1600" height="213" src="https://1.bp.blogspot.com/-biQIG1VTDtQ/XR96L-9b-pI/AAAAAAAAAZA/MrjvHK5tHgw3W_w1mlkpRM_tujaCNLPWgCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_138.jpg" width="320" />
-<img border="0" data-original-height="1067" data-original-width="1600" height="213" src="https://1.bp.blogspot.com/-xlsIiHgbwM8/XR96L7usCuI/AAAAAAAAAZA/54AVsdJCZH4MazM-KP_-6HlOOo827eB7gCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_155.jpg" width="320" />
-<img border="0" data-original-height="1067" data-original-width="1600" height="213" src="https://1.bp.blogspot.com/-Bj7K-j0c3TY/XR96L6Cw9wI/AAAAAAAAAZA/Am4cq327dq8p57UfhEwWE3k6WRz8TeM7wCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_087.jpg" width="320" />
-<img border="0" data-original-height="1067" data-original-width="1600" height="213" src="https://1.bp.blogspot.com/-iAtWQdxuqvw/XR96L8sM24I/AAAAAAAAAZA/yyQ4T4jXtPkYn1B65xJ8NStw5g5yzz2OQCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_014.jpg" width="320" />
+  <img height="213" src="https://1.bp.blogspot.com/-UfDI35-nojg/XR96L4uAz_I/AAAAAAAAAZA/mcmHvKRr1UwpDaimmi0cDdmahNN3cNh8QCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_166.jpg" width="320" />
 </section>
