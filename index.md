@@ -6,10 +6,9 @@ permalink: /
 
 ---
 
-<!-- Rebuild Site Tag 2 -->
+<!-- Rebuild Site Tag 3 -->
 <section class="homepage-promo">
   <img src="https://via.placeholder.com/400x400" alt="">
-  <img src="https://lh3.googleusercontent.com/JcNhhMb-_hSjAvYEdc-rureK9VweOx-C4x13z9_2xQcPE-pYBoBcgNHIRX2H0QjYNw2_HO84YfrG3en5T1a4MN2pwaCK2ok41CvogVhu3_XbK3D5IuSR_H3KxNBzZkX_Pa1rU2WhJJAuQBwkaJ3vzVLDH7d7hBYujis4sAD7tETS1N1gLJoQMkkV6P72o2ITOs0Ghsg-11FGd1_AiNLwTKylrXOTAQjBHa8HGp0uYpFDBaYne56ptMYOUK36iZy5tgtv89jPIqAtTmK0uhzMUjxLii6u5srz1PYAkRBNyvQtc19ml2V52sDXIvdEiu-pnEbFKVuWGBVz-IMnrZwXBPhZTfXGBOgPQ1B96KHyFp9Pwwn1ux-ArKHMA64uY304mh-JrHGwB_joicY6A8U-nzMhihfyH5b-ED5xFRFsegPHY66qGti5n_r4vdwZSc-XWRCEaZ85OzvCQdgIWBYi8CvfUdLXngXEQEKYS45fuvRwmqlngQjNohxWbtKB7UZbhEU_kFzj2VKCkwapB0GOhizc9A9sK4BwDypo76JOCmNkB4qDpUQWXVkmXyZrkphWDZowf0gy-s5XKCC9_HXhWd6BVqjaDPBNFObw8xtsmJhSXh0ChjYfggs9NpznUWNvnWOMgtGnXDODF_S6HfM525UD=w400-no" alt="">
 </section>
 
 <section class="homepage-welcome">
