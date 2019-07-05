@@ -52,5 +52,5 @@ permalink: /
   </ul>
 </section>
 <section id="imgs">
-  <img height="213" src="https://1.bp.blogspot.com/-UfDI35-nojg/XR96L4uAz_I/AAAAAAAAAZA/mcmHvKRr1UwpDaimmi0cDdmahNN3cNh8QCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_166.jpg" width="320" />
+  <img src="https://1.bp.blogspot.com/-UfDI35-nojg/XR96L4uAz_I/AAAAAAAAAZA/mcmHvKRr1UwpDaimmi0cDdmahNN3cNh8QCKgBGAs/s320/Shlomi_Mizrahi_-_OWASP_Global-AppSec_Tel-Aviv_David-InterContinental_29-5-19_166.jpg"/>
 </section>
