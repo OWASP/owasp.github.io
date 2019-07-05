@@ -9,7 +9,7 @@ permalink: /
 <!-- Rebuild Site Tag 2 -->
 <section class="homepage-promo">
   <!--<img src="https://via.placeholder.com/400x400" alt="">-->
-  <img src="https://photos.app.goo.gl/XiPZLRHAuXThxJVu9=s400?.jpg" alt="">
+  <img src="https://lh3.googleusercontent.com/Q9cN0S79nRAyz4rTnM4zKv5dYgPOOPTA0i__Sb_Cu8rNIBWet_Z13sOlnY3u2p6CQii-4uKnXTkbJgyE_M2mdiDqq5nyJvs-B3nd5-sUiSGtnHkDZ9zTpt8jnuSdZVVIqDByBj4v=w400" alt="">
 </section>
 
 <section class="homepage-welcome">
