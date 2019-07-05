@@ -9,7 +9,7 @@ permalink: /
 <!-- Rebuild Site Tag 2 -->
 <section class="homepage-promo">
   <!--<img src="https://via.placeholder.com/400x400" alt="">-->
-  <img src="https://photos.app.goo.gl/XiPZLRHAuXThxJVu9" alt="">
+  <img src="https://photos.app.goo.gl/XiPZLRHAuXThxJVu9=s400?.jpg" alt="">
 </section>
 
 <section class="homepage-welcome">
