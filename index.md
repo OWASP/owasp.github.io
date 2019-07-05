@@ -7,9 +7,9 @@ permalink: /
 ---
 
 <!-- Rebuild Site Tag 2 -->
-
 <section class="homepage-promo">
-  <img src="https://via.placeholder.com/400x400" alt="">
+  <!--<img src="https://via.placeholder.com/400x400" alt="">-->
+  <img src="https://photos.google.com/share/AF1QipP2tcYYryb4rbktidzirL187o1p2Tx3oSVWzlZjpgw69-tt6B9UPXfrCqbUmT_mxw/photo/AF1QipMPwvyhJrfmPFIUzvKJh_CCMSUhwmIs__oeT9M?key=QlJUVnVQOWloQkxnUEp0M1pTc0JoOS1jOXZobmJB" alt="">
 </section>
 
 <section class="homepage-welcome">
