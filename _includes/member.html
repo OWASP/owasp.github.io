@@ -2,6 +2,8 @@
   {% if site.data.corp_members.size > 0 %}
   <script type="text/javascript">
     var images = [{% for img in site.data.corp_members%}"{{ img.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    var descs = [{% for img in site.data.corp_members%}"{{ img.description }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    var urls = [{% for img in site.data.corp_members%}"{{ img.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
   </script>
   <div class="member-wrapper">
     <section class="member-list">
@@ -22,7 +24,7 @@
                 {
                     img = images[randomIndex];
                     /* Could change href to use the img url using another js array */
-                    document.write('<a href="#" class="member-logo"><img src="' + img + '" alt="image" /></a>');
+                    document.write('<a href="'+ urls[randomIndex] + '" class="member-logo"><img src="' + img + '" alt="image" /></a>');
                     
                     randomIndexUsed.push(randomIndex);
 
@@ -35,8 +37,11 @@
     </section>
     <section class="member-spotlight">
       <h2>Spolight: Company name</h2>
-      <a href=""><img src="https://owasp.github.io/www--site/assets/images/corp-member-logo/accenture.png" alt=""></a>
-      <p>Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.</p>
+      <script type="text/javascript">
+      var randi = Math.floor(Math.random() * images.length);
+      document.write('<a href="'+ urls[randi] + '"><img src="' + images[randi] + '" alt="image" /></a>');
+      document.write('<p>' + descs[randi] + '</p>');
+      </script>
     </section>
     <section class="member-cta">
       <button>Become a OWASP Member Today</button>
