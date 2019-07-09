@@ -1,0 +1,47 @@
+<section class="member">
+  {% if site.data.corp_members.length > 0 %}
+  <script type="text/javascript">
+    var images = [{% for img in site.data.corp_members%}"{{ img.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+  </script>
+  <div class="member-wrapper">
+    <section class="member-list">
+      <h2>Corporate Members</h2>
+      <div>
+        <script type="text/javascript">
+            var randomIndexUsed = [];
+            var counter = 0;
+            var numberOfImages = 6;
+            while (counter < numberOfImages)
+            {
+                var randomIndex;
+                var img;
+
+                randomIndex = Math.floor(Math.random() * images.length);
+
+                if (randomIndexUsed.indexOf(randomIndex) == "-1")
+                {
+                    img = images[randomIndex];
+                    /* Could change href to use the img url using another js array */
+                    document.write('<a href="#" class="member-logo"><img src="' + img + '" alt="image" /></a>');
+                    
+                    randomIndexUsed.push(randomIndex);
+
+                    counter++;
+                }
+            }
+        </script>
+      </div>
+      <a href="" class="callout-link">See all members</a>
+    </section>
+    <section class="member-spotlight">
+      <h2>Spolight: Company name</h2>
+      <a href=""><img src="https://owasp.github.io/www--site/assets/image/corp-member-logo/accenture.png" alt=""></a>
+      <p>Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.</p>
+    </section>
+    <section class="member-cta">
+      <button>Become a OWASP Member Today</button>
+      <a href="#" class="callout-link">Why should you become a OWASP Foundation member?</a>
+    </section>
+  </div>
+  {% endif %}
+</section>
