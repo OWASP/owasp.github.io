@@ -1,7 +1,7 @@
 <section class="member">
   {% if site.data.corp_members.size > 0 %}
   <script type="text/javascript">
-    var images = [{% for img in site.data.corp_members%}"{{ site.baseurl }}{{ img.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    var images = [{% for img in site.data.corp_members%}"{{ img.image }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
   </script>
   <div class="member-wrapper">
     <section class="member-list">
