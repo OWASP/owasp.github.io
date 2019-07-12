@@ -8,7 +8,7 @@
   </script>
   <div class="member-wrapper">
     <section class="member-list">
-      <h2>Corporate Members</h2>
+      <h2 class="standout-header">Corporate Members</h2>
       <div>
         <script type="text/javascript">
             var randomIndexUsed = [];
@@ -37,7 +37,8 @@
     <section class="member-spotlight">
       <script type="text/javascript">
         var randi = Math.floor(Math.random() * images.length);
-        document.write('<h2>Spotlight: <a href="'+ urls[randi] + '"><img src="' + images[randi] + '" alt="image" /></a></h2>');
+        document.write('<h2 class="standout-header">Spotlight: ' + names[randi] + '</h2>');
+        document.write('<a href="'+ urls[randi] + '"><img src="' + images[randi] + '" alt="image" /></a></h2>');
         //document.write('<a href="'+ urls[randi] + '"><img src="' + images[randi] + '" alt="image" /></a>');
         document.write('<p>' + descs[randi] + '</p>');
       </script>
