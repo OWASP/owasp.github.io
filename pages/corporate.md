@@ -6,14 +6,32 @@ permalink: /corporate
 
 ---
 
-<section id="main" class="page-body tab" role="tabpanel" aria-labelledby="main-link" tabindex="0">
-  <h1 class="page-title">OWASP Foundation</h1>
-
-  <p>The OWASP Foundation came online on December 1st, 2001 it was established as a not-for-profit charitable organization in the United States on April 21, 2004, to ensure the ongoing availability and support for our work at OWASP. OWASP is an international organization and the OWASP Foundation supports OWASP efforts around the world. OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of the OWASP tools, documents, forums, and chapters are free and open to anyone interested in improving application security. We advocate approaching application security as a people, process, and technology problem because the most effective approaches to application security include improvements in all of these areas. We can be found at www.owasp.org.</p>
-
-  <p>OWASP is a new kind of organization. Our freedom from commercial pressures allows us to provide unbiased, practical, cost-effective information about application security. OWASP is not affiliated with any technology company, although we support the informed use of commercial security technology. Similar to many open-source software projects, OWASP produces many types of materials in a collaborative and open way. The OWASP Foundation is a not-for-profit entity that ensures the project's long-term success. </p>
-
-  <h2>OWASP Foundation Bylaws</h2>
-  <p>The business of the OWASP Foundation Inc. is outlined in the organizational by-laws. These by-laws govern the organization worldwide and allow the participants to understand the established process for doing so.</p>
-  
-</section>
+<h2>About OWASP</h2>
+<p>
+Every vibrant technology marketplace needs an unbiased source of information on best practices as well as an active body advocating open standards. In the Application Security space, one of those groups is the Open Web Application Security Project™ (or OWASP for short).
+The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations are able to make informed decisions. OWASP is in a unique position to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide. Operating as a community of like-minded professionals, OWASP issues software tools and knowledge-based documentation on application security.
+</p>
+<br>
+<p>
+Everyone is free to participate in OWASP and all of our materials are available under a free and open software license. You'll find everything about OWASP here on or linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
+</p>
+<br>
+<p>
+We ask that the community look out for inappropriate uses of the OWASP brand including use of our name, logos, project names, and other trademark issues.
+</p>
+<br>
+<p>
+There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If you're new, you may want to check out our getting started page. As a global group of volunteers with over 45,000 participants, questions or comments should be sent to one of our many mailing lists focused on a topic or directed to the staff using the OWASP Contact Us Form.
+</p> 
+<div style="height:16px;"></div>
+<hr>
+<h2>OWASP Foundation Staff</h2>
+<div style="display:table;">
+{% for member in site.data.staff %}
+    <div style="display:table-row;">
+        <div style="display:table-cell;background-image: url({{ member.image }});background-size:contain;width:150px;height:180px; background-repeat: no-repeat;"></div>
+        <div style="display:tabel-cell;float:left;padding-left:8px;"><span style="font-weight:bold;">{{ member.name }}<br/>{{ member.title }}</span><p>{{ member.description }}</p></div>
+    </div>
+    <div style="display:table-row;height:16px;"></div>
+{% endfor %}
+</div>

@@ -7,17 +7,20 @@ permalink: /sample
 ---
 <div>
   <p style="font-size: 40px; background-color: whitesmoke;">Content tags</p>
+  
 
-  <h1>This is a h1 tag.</h1>
-  <h2>This is a h2 tag.</h2>
-  <h3>This is a h3 tag.</h3>
-  <h4>This is a h4 tag.</h4>
-  <h5>This is a h5 tag.</h5>
-  <h6>This is a h6 tag.</h6>
-  <p><code>This is a code tag.</code></p>
-  <p><em>This is an em tag.</em></p>
-  <p><strong>This is a strong tag.</strong></p>
-  <blockquote>This is a blockquote tag.</blockquote>
+  <h1>This is h1.</h1>
+  <h2>This is h2.</h2>
+  <h3>This is h3 .</h3>
+  <h4>This is h4.</h4>
+  <h5>This is h5.</h5>
+  <h6>This is h6.</h6>
+  <p><code>This a line of code.</code></p>
+  <p><em>This is an italicized text.</em></p>
+  <p><strong>This is a bold text.</strong></p>
+  <blockquote>This is a quote.</blockquote>
+  <p><a href="#">This is a link.</a></p>
+  <s>This is a strikethrough text.</s>
 
   <ol>
     <li>Ordered list item 1</li>
@@ -39,8 +42,17 @@ permalink: /sample
 <div>
 <p style="font-size: 40px; background-color: whitesmoke;">Components</p>
 
+<p>(Everything in this section requires the use of CSS classes.)</p>
 
-<button class="cta-button">This is a CTA button component</button>
+
+<button class="cta-button">This is a CTA button</button>
+
+<button class="cta-button dark">This is a dark CTA button</button>
+
+<button class="cta-button green">This is a green CTA button</button>
+
+<button class="cta-button grey">This is a grey CTA button</button>
+
 
 <a class="callout-link">This is a stand alone full-block link component</a>
 
