@@ -1,6 +1,6 @@
 ---
 
-layout: col-generic
+layout: full-width
 title: Generic Page Example Title
 permalink: /corporate
 
