@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: Project Example Title
 permalink: /projects
+site_side: true
 
 ---
 
