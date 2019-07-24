@@ -6,11 +6,10 @@ permalink: /
 
 ---
 
-<div class="homepage-promo">
-  <a href="">
-    <img src="https://via.placeholder.com/400x400" alt="">
-  </a>
-</div>
+<!-- Rebuild Site Tag 17 -->
+<section class="homepage-promo">
+  <img src="https://via.placeholder.com/400x400" alt="">
+</section>
 
 <section class="homepage-welcome">
   <h1>What is the OWASP Foundation?</h1>
