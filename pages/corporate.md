@@ -6,7 +6,7 @@ permalink: /corporate
 
 ---
 
-##About OWASP##
+##About OWASP
 
 Every vibrant technology marketplace needs an unbiased source of information on best practices as well as an active body advocating open standards. In the Application Security space, one of those groups is the Open Web Application Security Project™ (or OWASP for short).
 
