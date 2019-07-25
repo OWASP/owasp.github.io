@@ -19,4 +19,3 @@ We ask that the community look out for inappropriate uses of the OWASP brand inc
 There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If you're new, you may want to check out our getting started page. As a global group of volunteers with over 45,000 participants, questions or comments should be sent to one of our many mailing lists focused on a topic or directed to the staff using the OWASP Contact Us Form.
 
 ##OWASP Foundation Staff
-
