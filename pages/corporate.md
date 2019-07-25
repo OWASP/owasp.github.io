@@ -6,7 +6,7 @@ permalink: /corporate
 
 ---
 
-##About OWASP
+## About OWASP
 
 Every vibrant technology marketplace needs an unbiased source of information on best practices as well as an active body advocating open standards. In the Application Security space, one of those groups is the Open Web Application Security Project™ (or OWASP for short).
 
@@ -18,4 +18,4 @@ We ask that the community look out for inappropriate uses of the OWASP brand inc
 
 There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If you're new, you may want to check out our getting started page. As a global group of volunteers with over 45,000 participants, questions or comments should be sent to one of our many mailing lists focused on a topic or directed to the staff using the OWASP Contact Us Form.
 
-##OWASP Foundation Staff
+## OWASP Foundation Staff
