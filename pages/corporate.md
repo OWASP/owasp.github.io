@@ -20,4 +20,12 @@ There are thousands of active wiki users around the globe who review the changes
 
 ## OWASP Foundation Staff
 
-<div>Hello, Div</div>
+<div style="display:table;">	
+ {% for member in site.data.staff %}	
+    <div style="display:table-row;">	
+        <div style="display:table-cell;background-image: url({{ member.image }});background-size:contain;width:150px;height:180px; background-repeat: no-repeat;"></div>	
+        <div style="display:tabel-cell;float:left;padding-left:8px;"><span style="font-weight:bold;">{{ member.name }}<br/>{{ member.title }}</span><p>{{ member.description }}</p></div>	
+    </div>	
+    <div style="display:table-row;height:16px;"></div>	
+{% endfor %}	
+</div>
