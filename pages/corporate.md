@@ -19,11 +19,5 @@ We ask that the community look out for inappropriate uses of the OWASP brand inc
 There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If you're new, you may want to check out our getting started page. As a global group of volunteers with over 45,000 participants, questions or comments should be sent to one of our many mailing lists focused on a topic or directed to the staff using the OWASP Contact Us Form.
 
 ## OWASP Foundation Staff
-|   |   |
-|---|---|
-|<img src={{member.img}}/>|{{member.name}}|
-{% for member in site.data.staff %}
-|<img src={{member.img}}/>|{{member.name}}|
-|<div style="display:table-cell;background-image: url({{ member.image }});background-size:contain;width:150px;height:180px; background-repeat: no-repeat;"></div>|	
-        <div style="display:tabel-cell;float:left;padding-left:8px;"><span style="font-weight:bold;">{{ member.name }}<br/>{{ member.title }}</span><p>{{ member.description }}</p></div>|	
-{% endfor %}	
+
+<div>Hello, Div</div>
