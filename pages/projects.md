@@ -6,27 +6,43 @@ permalink: /projects
 site_side: true
 
 ---
-
+{% comment %}
 {% include sub-nav.html %}
+{% endcomment %}
+# {{ page.title }}
 
-<h1 class="page-title">{{ page.title }}</h1>
 
-<div id="main" class="page-body tab" role="tabpanel" aria-labelledby="main-link" tabindex="0">
-  <p>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing. </p>
-  <p>For more videos see the links on the wiki videos page.</p>
-  <div class="video-container">
-    <iframe src="//www.youtube.com/embed/ztfgip-UhWw?" allowfullscreen="true" width="640" height="360" frameborder="0"></iframe>
-  </div>
-  <p>Interested in a ZAP talk or training event? See the talks tab. Not one near you? Contact a Zap Evangelist to arrange one! </p>
-</div>
 
-<div id="screenshots" class="page-body tab remove-el" role="tabpanel" aria-labelledby="screenshots-link" tabindex="0">
-  Testing another tab. This one is supposed to be for screenshots.
-</div>
+## Welcome to the OWASP Global Projects Page
 
-<div id="features" class="page-body tab remove-el" role="tabpanel" aria-labelledby="features-link" tabindex="0">
-  Testing another tab. This one is supposed to be for feature. Some more text.
-</div>
+An OWASP project is a collection of related tasks that have a defined roadmap and team members. OWASP project leaders are responsible for defining the vision, roadmap, and tasks for the project. The project leader also promotes the project and builds the team. OWASP currently has 'over '93' active projects', and new project applications are submitted every week.
+
+Why?
+
+This is one of the most popular divisions of OWASP as it gives members an opportunity to freely test theories and ideas with the professional advice and support of the OWASP community. Every project has an associated mail list. You can view all the lists, examine their archives, and subscribe to any project by visiting the OWASP Project Mailing Lists page. A summary of recent project announcements is available on the OWASP Updates page.
+
+Download the OWASP Project Handbook 2014
+
+Or read the wiki version: OWASP Project Handbook Wiki 2014
+
+Project Online Resources
+
+## Who Should Start an OWASP Project?
+* Application Developers.
+* Software Architects.
+* Information Security Authors.
+* Those who would like the support of a world wide professional community to develop or test an idea.
+* Anyone wishing to take advantage of the professional body of knowledge OWASP has to offer.
+
+Fund Information
+https://www.owasp.org/index.php/Funding
+
+OWASP Project Inventory
+All OWASP tools, document, and code library projects are organized into the following categories:
+
+Flagship Projects: The OWASP Flagship designation is given to projects that have demonstrated strategic value to OWASP and application security as a whole.
+Lab Projects: OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.
+Incubator Projects: OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
 
 <div class="github-buttons">
   <iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
