@@ -9,9 +9,6 @@ site_side: true
 {% comment %}
 {% include sub-nav.html %}
 {% endcomment %}
-# {{ page.title }}
-
-
 
 ## Welcome to the OWASP Global Projects Page
 
