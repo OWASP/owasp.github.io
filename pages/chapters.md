@@ -1,6 +1,7 @@
 ---
 title: Chapters
-layout: multisection
+layout: col-sidebar
+permalink: /Chapters
 side_side: true
 ---
 
