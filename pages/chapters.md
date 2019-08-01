@@ -1,7 +1,7 @@
 ---
 title: Chapters
 layout: col-sidebar
-permalink: /Chapters
+permalink: /chapters
 side_side: true
 ---
 
