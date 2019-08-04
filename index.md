@@ -33,7 +33,8 @@ permalink: /
 </section>
 
 <section class="homepage-chapter">
-  {% include featured_chapter.md %}
+  {% capture my_include %}{% include featured_chapter.md %}{% endcapture %}
+  {{ my_include | markdownify }}
 </section>
 
 <section class="homepage-blog">
