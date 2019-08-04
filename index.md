@@ -13,7 +13,7 @@ permalink: /
 
 <section class="homepage-welcome">
   <h1>What is the OWASP Foundation?</h1>
-<p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. Our community provides:</p>
+<p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. Join us for:</p>
 
 <ul>
 <li>Tools and Resources</li>
@@ -23,7 +23,7 @@ permalink: /
 
 <p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="#">Donate</a>, <a href="#">Join</a>, or become a <a href="#">Corporate Member</a> today.</p>
 
-  <a href="" class="callout-link">Find a local chapter</a>
+  <a href="https://www.meetup.com/pro/owasp" class="callout-link">Find a local chapter</a>
 </section>
 
 <section class="homepage-project">
