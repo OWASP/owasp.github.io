@@ -1,6 +1,6 @@
 ---
 
-title: Flagship Projects
+title: Flagship
 layout: null
 tab: true
 order: 1
