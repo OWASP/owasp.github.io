@@ -33,9 +33,7 @@ permalink: /
 </section>
 
 <section class="homepage-chapter">
-  <h2><a>Featured Chapter: Bay Area</a></h2>
-  <a><img src="assets/images/content/bay_area.jpg" alt="Bay Area Chapter Meeting"></a>
-  <p>Welcome to the London chapter homepage. The chapter board is Sam Stepanyan, Sherif Mansour Farag and Andra Lezza. Follow chapter news on Facebook at https://www.facebook.com/OWASPLondon , Twitter at http://twitter.com/owasplondon.</p>
+  {% include featured_chapter.md %}
 </section>
 
 <section class="homepage-blog">
