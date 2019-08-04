@@ -1,5 +1,5 @@
 
-## [Featured Chapter: Bay Area]('#')
+## [Featured Chapter: Bay Area](#)
 
 <a><img src="/assets/images/content/bay_area.jpg" alt="Bay Area Chapter Meeting"></a>
 
