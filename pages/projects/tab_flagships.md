@@ -1,6 +1,6 @@
 ---
 
-title: Flagship
+title: Flagships
 layout: null
 tab: true
 order: 1
