@@ -21,7 +21,7 @@ permalink: /
 <li>Education & Training</li>
 </ul>
 
-<p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="#">Donate</a>, <a hef="#">Join</a>, or become a <a href="#">Corporate Member</a> today.</p>
+<p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="#">Donate</a>, <a href="#">Join</a>, or become a <a href="#">Corporate Member</a> today.</p>
 
   <a href="" class="callout-link">Find a local chapter</a>
 </section>
