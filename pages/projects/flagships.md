@@ -1,8 +1,10 @@
 ---
-title:Flagship Projects
+
+title: Flagship Projects
 layout: null
 tab: true
 order: 1
+
 ---
 
 ## Flagship Projects
