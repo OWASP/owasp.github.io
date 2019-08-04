@@ -27,9 +27,8 @@ permalink: /
 </section>
 
 <section class="homepage-project">
-  <h2><a>Spotlight: Zed Attack Proxy</a></h2>
-  <a><img src="https://via.placeholder.com/400x200" alt=""></a>
-  <p></p>
+ {% capture my_include %}{% include featured_project.md %}{% endcapture %}
+  {{ my_include | markdownify }}
 </section>
 
 <section class="homepage-chapter">
