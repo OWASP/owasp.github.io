@@ -39,7 +39,7 @@ permalink: /
 <section class="homepage-blog">
   {% assign latest = site.posts | sort:"date" | reverse %}
   {% assign newest_post = latest.first %}
-  {{newest_post.url}}
+  {% include newest_post.url %}
 </section>
 
 {% include news-events.html %}
