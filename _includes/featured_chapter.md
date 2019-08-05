@@ -3,4 +3,4 @@
 
 <a><img src="/assets/images/content/bay_area.jpg" alt="Bay Area Chapter Meeting"></a>
 
-Welcome to the London chapter homepage. The chapter board is Sam Stepanyan, Sherif Mansour Farag and Andra Lezza. Follow chapter news on [Facebook](https://www.facebook.com/OWASPLondon) and [Twitter](http://twitter.com/owasplondon).
+One of our oldest and most active chapters, the Bay Area is host to three local OWASP chapters north, east and south bay. North Bay meets in the city monthly and often draws both startups and established Silicon Valley icons to their meetings. Last month their meeting was hosted at Mozilla’s event space at Embarcadero where the security team from Salesforce shared learnings on testing.
