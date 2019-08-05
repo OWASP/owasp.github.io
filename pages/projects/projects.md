@@ -37,9 +37,3 @@ All OWASP tools, document, and code library projects are organized into the foll
 Flagship Projects: The OWASP Flagship designation is given to projects that have demonstrated strategic value to OWASP and application security as a whole.
 Lab Projects: OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.
 Incubator Projects: OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
-
-{{ page.path }}
-
-{{ page.url }}
-
-{{ page.dir }}
