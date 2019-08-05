@@ -1,9 +1,13 @@
 ---
+
 date:   2019-06-12 19:50:36 -0400
 categories: jekyll update
 author: Mike McCamon
+author_image: /assets/images/people/harold_150_c.jpg
 layout: blogpost
+
 ---
+
 ## New Website Uses GitHub
 ![Harold](/assets/images/people/harold_150_c.jpg)
 {{ page.author }}
