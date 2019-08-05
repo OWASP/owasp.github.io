@@ -37,7 +37,9 @@ permalink: /
 </section>
 
 <section class="homepage-blog">
-  <h2><a href="#">New Website Uses GitHub</a></h2>
+  {% assign latest = site.posts | sort:"date" | reverse %}
+  {% assign newest_post = latest.first %}
+  <h2><a href="#">{{newest_post.title}}</a></h2>
   <a><img src="/assets/images/people/harold_150_c.jpg" alt="Harold"></a>
   <p class="author"><a>Harold Blankenship</a></p>
   <p>Blog post example content. Talk about using GitHub for the new website. More text to follow in a second here. Describe the functionality and the awesome CSS. New blog post example content. Talk about using GitHub for the new website. More text to the awesome CSS. blog post example content. Talk 12345 about using GitHub for the new website. More text to follow in a second here. Tak about uvvsing GitHub for the new website. More text to follow in a second here.  and the awesome CS wordlog ... <a href="#">Read more</a> </p>
