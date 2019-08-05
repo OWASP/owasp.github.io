@@ -37,8 +37,10 @@ permalink: /
 </section>
 
 <section class="homepage-blog">
- {{ site.posts.first }}
- <a href="{{ site.posts.first.url }}">...read more</a>
+  <h2><a href="#">{{ site.posts.first.title }}</a></h2>
+<a><img src="{{ site.posts.first.author_image }}" alt="image"></a>
+<p class="author"><a>{{ site.posts.first.author }}</a></p>
+<p>{{ site.posts.first.excerpt }}<a href="{{ site.posts.first.url }}">...read more</a></p>
 </section>
 
 {% include news-events.html %}
