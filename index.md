@@ -38,6 +38,7 @@ permalink: /
 
 <section class="homepage-blog">
  {{ site.posts.first }}
+ <a href="{{ site.posts.first.url }}">...read more</a>
 </section>
 
 {% include news-events.html %}
