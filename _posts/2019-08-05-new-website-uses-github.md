@@ -9,5 +9,7 @@ title: New Website Uses Github
 
 ---
 
-Blog post example content. Talk about using GitHub for the new website. More text to follow in a second here. Describe the functionality and the awesome CSS. New blog post example content. Talk about using GitHub for the new website. More text to the awesome CSS. blog post example content. Talk 12345 about using GitHub for the new website. More text to follow in a second here. Tak about uvvsing GitHub for the new website. More text to follow in a second here.  and the awesome CS wordlog ... <a href="#">Read more</a>
+Blog post example content. Talk about using GitHub for the new website. More text to follow in a second here. Describe the functionality and the awesome CSS. New blog post example content. Talk about using GitHub for the new website. More text to the awesome CSS. blog post example content. Talk 12345 about using GitHub for the new website. More text to follow in a second here. Tak about uvvsing GitHub for the new website. More text to follow in a second here.  and the awesome CS wordlog ... 
+
+And this is paragraph two because...well, just because.
 
