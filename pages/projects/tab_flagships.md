@@ -12,7 +12,7 @@ order: 1
 
 ### Tool Projects
  
-### OWASP Zed Attack Proxy (ZAP)
+### [OWASP Zed Attack Proxy (ZAP)](https://www2.owasp.org/www-project-zap)
 Automatically finds security vulnerabilities in your web applications while you are developing and testing your applications
 
 ### OWASP Web Testing Environment (WTE)
