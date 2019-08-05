@@ -4,7 +4,7 @@ date:   2019-06-12 19:50:36 -0400
 categories: jekyll update
 author: Harold Blankenship
 author_image: /assets/images/people/harold_150_c.jpg
-layout: blogpost
+layout: col-sidebar
 title: New Website Uses Github
 
 ---
