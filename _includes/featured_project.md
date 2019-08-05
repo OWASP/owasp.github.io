@@ -1,3 +1,3 @@
 ## [Spotlight: Zed Attack Proxy](#)
 
-<img src="https://via.placeholder.com/400x200" alt="">
+<a><img src="/assets/images/content/zap.jpg" alt="ZAP Presentation"></a>
