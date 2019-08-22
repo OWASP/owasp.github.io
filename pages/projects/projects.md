@@ -4,6 +4,7 @@ layout: col-sidebar
 title: Projects
 permalink: /projects
 site_side: true
+tags: projects
 
 ---
 
