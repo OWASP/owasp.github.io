@@ -18,6 +18,6 @@ permalink: /search
     });
 </script>
 <div class="search-results page-body">
-<div class="gcse-searchresults-only" data-queryParameterName="searchString" data-newWindow="false" data-linkTarget="_self">
+<div class="gcse-searchresults-only" data-queryParameterName="searchString" data-resultsUrl="https://www2.owasp.org/search" data-newWindow="false" data-linkTarget="_self">
 </div>
 </div>
