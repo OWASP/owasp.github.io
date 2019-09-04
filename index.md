@@ -11,6 +11,8 @@ permalink: /
   <img src="/assets/images/content/group_small.jpg" alt="Volunteers at AppSec">
 </section>
 
+ <hr class="mobile">
+
 <section class="homepage-welcome">
   <h1>What is the OWASP Foundation?</h1>
 <p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. Join us for:</p>
@@ -26,15 +28,21 @@ permalink: /
   <a href="https://www.meetup.com/pro/owasp" class="callout-link">Find a local chapter</a>
 </section>
 
+<hr>
+
 <section class="homepage-project">
  {% capture my_include %}{% include featured_project.md %}{% endcapture %}
   {{ my_include | markdownify }}
 </section>
 
+<hr class="mobile">
+
 <section class="homepage-chapter">
   {% capture my_include %}{% include featured_chapter.md %}{% endcapture %}
   {{ my_include | markdownify }}
 </section>
+
+<hr>
 
 <section class="homepage-blog">
   <h2><a href="#">{{ site.posts.first.title }}</a></h2>
@@ -42,5 +50,7 @@ permalink: /
 <p class="author"><a>{{ site.posts.first.author }}</a></p>
 <p>{{ site.posts.first.excerpt }}<a href="{{ site.posts.first.url }}">...read more</a></p>
 </section>
+
+<hr class="mobile">
 
 {% include news-events.html %}
