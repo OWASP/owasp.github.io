@@ -6,4 +6,4 @@ permalink: /success
 
 ---
 
-<h1>Thank you for your donation!</h2>
+<h2>Thank you for your donation!</h2>
