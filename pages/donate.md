@@ -36,6 +36,7 @@ permalink: /donate
       // https://stripe.com/docs/payments/checkout/fulfillment
       successUrl: 'https://www2.owasp.org/success',
       cancelUrl: 'https://www2.owasp.org/canceled',
+      submitType: 'donate',
     })
     .then(function (result) {
       if (result.error) {
@@ -61,6 +62,7 @@ permalink: /donate
       // https://stripe.com/docs/payments/checkout/fulfillment
       successUrl: 'https://www2.owasp.org/success',
       cancelUrl: 'https://www2.owasp.org/canceled',
+      submitType: 'donate',
     })
     .then(function (result) {
       if (result.error) {
