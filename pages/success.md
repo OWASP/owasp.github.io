@@ -8,9 +8,9 @@ permalink: /success
 
 <h2>Thank you for your donation!</h2>
 <!-- Modify this according to your requirement -->
-<h3>
+<div>
   Returning to <a href="https://wwww2.owasp.org/">the main site</a> after <span id="countdown">10</span> seconds
-</h3>
+</div>
 <!-- JavaScript part -->
 <script type="text/javascript">
     
