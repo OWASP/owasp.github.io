@@ -18,14 +18,40 @@ We ask that the community look out for inappropriate uses of the OWASP brand inc
 
 There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If you're new, you may want to check out our getting started page. As a global group of volunteers with over 45,000 participants, questions or comments should be sent to one of our many mailing lists focused on a topic or directed to the staff using the OWASP Contact Us Form.
 
-## OWASP Foundation Staff
+## Staff
 
-<div style="display:table;">	
- {% for member in site.data.staff %}	
-    <div style="display:table-row;">	
-        <div style="display:table-cell;background-image: url({{ member.image }});background-size:contain;width:150px;height:180px; background-repeat: no-repeat;"></div>	
-        <div style="display:tabel-cell;float:left;padding-left:8px;"><span style="font-weight:bold;">{{ member.name }}<br/>{{ member.title }}</span><p>{{ member.description }}</p></div>	
-    </div>	
-    <div style="display:table-row;height:16px;"></div>	
+<section id="staff" class="corporate">
+<div>	
+ {% for member in site.data.staff %}
+    <div class="member-container">
+        <div class="member-img-container">	
+            <div class="member-img" style="background-image: url(/assets/images{{ member.image }});">
+            </div>
+        </div>
+        <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/><div class="member-location">{{member.location}}</div></div><br/>
+        <div class="member-info">{{ member.description }}</div>	
+    </div>
+    <div style="height:18px;"></div>
 {% endfor %}	
 </div>
+</section>
+
+
+<h2>Board of Directors</h2>
+
+
+<section id="board" class="corporate">
+<div>	
+ {% for member in site.data.board %}
+    <div class="member-container">
+        <div class="member-img-container">	
+            <div class="member-img" style="background-image: url(/assets/images{{ member.image }});">
+            </div>
+        </div>
+        <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/><div class="member-location">{{member.location}}</div></div><br/>
+        <div class="member-info">{{ member.description }}</div>	
+    </div>
+    <div style="height:18px;"></div>
+{% endfor %}	
+</div>
+</section>

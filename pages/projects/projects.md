@@ -35,6 +35,16 @@ https://www.owasp.org/index.php/Funding
 OWASP Project Inventory
 All OWASP tools, document, and code library projects are organized into the following categories:
 
-Flagship Projects: The OWASP Flagship designation is given to projects that have demonstrated strategic value to OWASP and application security as a whole.
-Lab Projects: OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.
-Incubator Projects: OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
+<strong>Flagship Projects:</strong> The OWASP Flagship designation is given to projects that have demonstrated strategic value to OWASP and application security as a whole.
+<strong>Lab Projects:</strong> OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.
+<strong>Incubator Projects:</strong> OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
+
+## Alphabetical List of All Projects
+{% for repo in site.github.public_repositories %}
+    {% if repo.has_pages %}
+        Repo : {{ repo | jsonify | escape }}
+        {% if repo.site %}
+            <br/>HAS SITE
+        {% endif %}
+    {% endif %}
+{% endfor %}
