@@ -43,8 +43,8 @@ All OWASP tools, document, and code library projects are organized into the foll
 
 {% for repo in site.github.public_repositories %}
     {% if repo.has_pages and repo.name contains "www-project-" %}
-
-        [{{ repo.name }}](https://www2.owasp.org/{{ repo.name }})
-    
+    {% assign repoName = repo.name | slice: 12, 199 | split: "-"  %}
+    {% capture repoNameCase %}{% for word in repoName %}{{ word | capitalize | append: " " }}{% endfor %}{% endcapture %}
+[{{ repoNameCase }}](https://www2.owasp.org/{{ repo.name }})
     {% endif %}
 {% endfor %}
