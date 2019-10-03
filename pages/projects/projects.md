@@ -40,11 +40,11 @@ All OWASP tools, document, and code library projects are organized into the foll
 <strong>Incubator Projects:</strong> OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
 
 ## Alphabetical List of All Projects
+
 {% for repo in site.github.public_repositories %}
-    {% if repo.has_pages %}
-        Repo : {{ repo | jsonify | escape }}
-        {% if repo.site %}
-            <br/>HAS SITE
-        {% endif %}
+    {% if repo.has_pages and repo.name contains "www-project-" %}
+
+        [{{ repo.name }}](https://www2.owasp.org/{{ repo.name }})
+    
     {% endif %}
 {% endfor %}
