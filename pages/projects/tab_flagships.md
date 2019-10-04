@@ -1,6 +1,7 @@
 ---
 
 title: Flagships
+displaytext: Flagship Projects
 layout: null
 tab: true
 order: 1
