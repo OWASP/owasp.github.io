@@ -8,6 +8,11 @@ permalink: /migration
 
 # Website Migration Information and Tutorial
 
+Getting your page online is as easy as 1-2-3!
+1. Re-think your page design. The new template has a handy right column for general info (like links to Chapter Meetings or Code Repos) and you leadership team. We have also implemented a tabbed interface that might allow you to shorten you page length. The site is now responsive so think about that use case as well.
+2. We had considered writing a migration tool but our experience has been that copy/paste/edit is about as fast. Wiki and Git markdown are similar so we have been using the Edit feature of the Wiki to copy the content, and then paste into the index.md file knowing you'll have some light editing. (You would have had to do some light editing even with a migration tool).
+3. Commit your Changes and Debug. Our expectation is your migration will likely take around 30 mins to a few hours. It is work, and it is a pain, but wow, the new website will be SO much better at encouraing new visitors to join our community and your chapter/project!
+
 
 Each project and chapter will have their own repository located in the organization repo (https://github.com/OWASP).  The naming convention for repos is: 
 
