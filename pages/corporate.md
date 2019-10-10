@@ -1,6 +1,6 @@
 ---
 
-layout: col-blogsidebar.html
+layout: col-blogsidebar
 title: Generic Page Example Title
 permalink: /corporate
 
