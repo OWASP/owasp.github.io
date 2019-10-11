@@ -8,7 +8,7 @@ permalink: /membership
 
 # Memberships
 
-|Company Annual Revenue |Cost | Benefits|
+|Company Yearly Revenue |Cost | Benefits|
 |----------|------------|------------|
-|One|Two|Two and a half|
+|One|Two|Two and a half<br>lkdjfklsjdfljsd<br>sdfalsdjfklsdj|
 |Three|Four|Five|
