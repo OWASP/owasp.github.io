@@ -8,7 +8,7 @@ permalink: /membership
 
 # Memberships
 
-Corporate Membership<br>
+## Corporate Membership<br>
 [Effective August 1, 2019](https://docs.google.com/document/d/1uyvKi1yrisahNnZpT6cWUs6yMwje89PI2WvjhIMgkH4/edit)
 
 |Company Yearly Revenue |Cost | Benefits|
