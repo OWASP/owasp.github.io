@@ -1,7 +1,7 @@
 ---
 
 layout: home
-title: Welcome to OWASP
+title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
 
 ---
