@@ -49,7 +49,7 @@ All OWASP tools, document, and code library projects are organized into the foll
             "{{ repoNameCase }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
     var repoUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://www2.owasp.org/{{ repo.name }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
 
-    var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://api.github.com/v3/repos/owasp/{{ repo.name }}/contents/index.md"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
+    var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://owaspadmin.azurewebsites.net/api/get-repo-file?repo={{ repo.name }}&filepath=index.md"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
 
     $(function () {
         var htmlstring = "";
