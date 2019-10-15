@@ -41,10 +41,47 @@ All OWASP tools, document, and code library projects are organized into the foll
 
 ## Alphabetical List of All Projects
 
-{% for repo in site.github.public_repositories %}
-    {% if repo.has_pages and repo.name contains "www-project-" %}
-    {% assign repoName = repo.name | slice: 12, 199 | split: "-"  %}
-    {% capture repoNameCase %}{% for word in repoName %}{{ word | capitalize | append: " " }}{% endfor %}{% endcapture %}
-[{{ repoNameCase }}](https://www2.owasp.org/{{ repo.name }})
-    {% endif %}
-{% endfor %}
+<div id="project-list">
+</div>
+
+<script type="text/javascript">
+    var repoNames = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}{% assign repoName = repo.name | slice: 12, 199 | split: "-"  %}{% capture repoNameCase %}{% for word in repoName %}{{ word | capitalize | append: " " }}{% endfor %}{% endcapture %}
+            "{{ repoNameCase }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
+    var repoUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://www2.owasp.org/{{ repo.name }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
+
+    var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://github.com/owasp/{{ repo.name }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
+
+    $(function () {
+        var htmlstring = "";
+        $.each(repoNames, function(index){
+            htmlstring += "<a href=" + repoUrls[index] + ">" + repoNames[index];
+            $.ajax({url: githubUrls[index] + "/blob/master/index.md"}).done(function (data) {
+                var levelStr = "No level";
+                if(data.indexOf("level:") >= 0)
+                {
+                    var level = parseInt(data.substring(data.indexOf("level:") + 6, 1));
+                    switch(level)
+                    {
+                        case 1:
+                            lavelStr = "Inactive";
+                            break;
+                        case 2:
+                            levelStr = "Incubator";
+                            break;
+                        case 3:
+                            levelStr = "Lab";
+                            break;
+                        case 4:
+                            levelStr = "Flagship";
+                            break;
+                    }
+                }
+                htmlstring += levelString;
+            });
+            htmlstring += "</a><br/>";
+        });     
+
+
+        $("#project-list").html(htmlstring);
+    });
+</script>
