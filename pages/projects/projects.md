@@ -49,17 +49,18 @@ All OWASP tools, document, and code library projects are organized into the foll
             "{{ repoNameCase }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
     var repoUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://www2.owasp.org/{{ repo.name }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
 
-    var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://github.com/owasp/{{ repo.name }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
+    var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://api.github.com/v3/repos/owasp/{{ repo.name }}/contents/index.md"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
 
     $(function () {
         var htmlstring = "";
         $.each(repoNames, function(index){
             htmlstring += "<a href=" + repoUrls[index] + ">" + repoNames[index];
-            $.ajax({url: githubUrls[index] + "/blob/master/index.md"}).done(function (data) {
+            $.get(githubUrls[index]).done(function (data) {
+                var contents = atob(data["contents"]);
                 var levelStr = "No level";
-                if(data.indexOf("level:") >= 0)
+                if(contents.indexOf("level:") >= 0)
                 {
-                    var level = parseInt(data.substring(data.indexOf("level:") + 6, 1));
+                    var level = parseInt(contents.substring(contents.indexOf("level:") + 6, 1));
                     switch(level)
                     {
                         case 1:
@@ -80,7 +81,7 @@ All OWASP tools, document, and code library projects are organized into the foll
             });
             htmlstring += "</a><br/>";
         });     
-
+        //note that the above is not synchronous so this will not work
 
         $("#project-list").html(htmlstring);
     });
