@@ -51,35 +51,46 @@ All OWASP tools, document, and code library projects are organized into the foll
 
     var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://owaspadmin.azurewebsites.net/api/get-repo-file?repo={{ repo.name }}&filepath=index.md"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
 
+
     $(function () {
         var htmlstring = "";
+        
         $.each(repoNames, function(index){
             htmlstring += "<a href=" + repoUrls[index] + ">" + repoNames[index];
-            $.get(githubUrls[index]).done(function (data) {
-                var contents = atob(data["contents"]);
-                var levelStr = "No level";
-                if(contents.indexOf("level:") >= 0)
-                {
-                    var level = parseInt(contents.substring(contents.indexOf("level:") + 6, 1));
-                    switch(level)
-                    {
-                        case 1:
-                            lavelStr = "Inactive";
-                            break;
-                        case 2:
-                            levelStr = "Incubator";
-                            break;
-                        case 3:
-                            levelStr = "Lab";
-                            break;
-                        case 4:
-                            levelStr = "Flagship";
-                            break;
+            $.ajax({
+                    method: 'GET',
+                    url: githubUrls[index],
+                    contentType: 'application/json; charset=utf-8',
+                    success: function(data){
+                        var contents = atob(data["content"]);
+                        var levelStr = "<img src='https://img.shields.io/badge/owasp-no%20level-fb4d4d.svg' alt='No Level'></img>";
+                        
+                        if(contents.indexOf("This is an example of a Project") == -1 && contents.indexOf("level:") >= 0)
+                        {
+                            var lindex = contents.indexOf("level:") + 6;
+                            var level = parseInt(contents.substring(lindex, lindex + 2));
+
+                            switch(level)
+                            {
+                                case 1:
+                                    lavelStr = "<img src='https://img.shields.io/badge/owasp-inactive%20project-BFBDBC.svg' alt='No Level'></img>";
+                                    break;
+                                case 2:
+                                    levelStr = "<img src='https://img.shields.io/badge/owasp-incubator%20project-48A646.svg' alt='No Level'></img>";
+                                    break;
+                                case 3:
+                                    levelStr = "<img src='https://img.shields.io/badge/owasp-lab%20project-48A646.svg' alt='No Level'></img>";
+                                    break;
+                                case 4:
+                                    levelStr = "<img src='https://img.shields.io/badge/owasp-flagship%20project-48A646.svg' alt='No Level'></img>";
+                                    break;
+                            }
+                        }
+                        htmlstring += levelStr;
+                        $("#" + index.toString() + "-level").html(levelStr);
                     }
-                }
-                htmlstring += levelString;
-            });
-            htmlstring += "</a><br/>";
+                });
+            htmlstring += "</a><span style='margin-left:12px;' id='" + index.toString() + "-level'></span>" + "<br/>";
         });     
         //note that the above is not synchronous so this will not work
 
