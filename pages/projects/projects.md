@@ -69,20 +69,22 @@ All OWASP tools, document, and code library projects are organized into the foll
                         {
                             var lindex = contents.indexOf("level:") + 6;
                             var level = parseInt(contents.substring(lindex, lindex + 2));
-
+                            var tindex = contents.indexOf("type:") + 5;
+                            var tstop = contents.indexOf("\n", tindex);
+                            var type = contents.substring(tindex, tstop);
                             switch(level)
                             {
                                 case 1:
-                                    lavelStr = "<img src='https://img.shields.io/badge/owasp-inactive%20project-BFBDBC.svg' alt='No Level'></img>";
+                                    lavelStr = "<img src='https://img.shields.io/badge/owasp-inactive%20" + type + "%20project-BFBDBC.svg' alt='No Level'></img>";
                                     break;
                                 case 2:
-                                    levelStr = "<img src='https://img.shields.io/badge/owasp-incubator%20project-48A646.svg' alt='No Level'></img>";
+                                    levelStr = "<img src='https://img.shields.io/badge/owasp-incubator%20" + type + "%20project-48A646.svg' alt='No Level'></img>";
                                     break;
                                 case 3:
-                                    levelStr = "<img src='https://img.shields.io/badge/owasp-lab%20project-48A646.svg' alt='No Level'></img>";
+                                    levelStr = "<img src='https://img.shields.io/badge/owasp-lab%20" + type + "%20project-48A646.svg' alt='No Level'></img>";
                                     break;
                                 case 4:
-                                    levelStr = "<img src='https://img.shields.io/badge/owasp-flagship%20project-48A646.svg' alt='No Level'></img>";
+                                    levelStr = "<img src='https://img.shields.io/badge/owasp-flagship%20" + type + "%20project-48A646.svg' alt='No Level'></img>";
                                     break;
                             }
                         }
