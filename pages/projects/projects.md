@@ -72,6 +72,9 @@ All OWASP tools, document, and code library projects are organized into the foll
                             var tindex = contents.indexOf("type:") + 5;
                             var tstop = contents.indexOf("\n", tindex);
                             var type = contents.substring(tindex, tstop);
+                            if (type != "documentation" && type != "code" && type != "tool" && type != "other")
+                                type = "unknown";
+                                
                             switch(level)
                             {
                                 case 1:
