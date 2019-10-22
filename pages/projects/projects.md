@@ -39,11 +39,28 @@ All OWASP tools, document, and code library projects are organized into the foll
 <strong>Lab Projects:</strong> OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.
 <strong>Incubator Projects:</strong> OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
 
-## Alphabetical List of All Projects
+## List of Projects by Level
 
 <div id="project-list">
-    {% for project in site.data.projects %}
-    <p>Project: {{ project.name }}</p>
+    {% assign fs_projects = site.data.projects | where:'level', '4' %}
+    {% assign l_projects = site.data.projects | where:'level', '3' %}
+    {% assign i_projects = site.data.projects | where:'level', '2' %}
+    {% assign u_projects = site.data.projects | where:'level', '-1' %}
+    <h2>Flagship Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h2>
+    {% for project in fs_projects %}
+    <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+    {% endfor %}
+    <h2>Lab Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h2>
+    {% for project in l_projects %}
+    <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+    {% endfor %}
+    <h2>Incubator Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h2>
+    {% for project in i_projects %}
+    <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+    {% endfor %}
+    <h2>Projects Needing Website Update</h2>
+    {% for project in u_projects %}
+    <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
     {% endfor %}
 </div>
 
