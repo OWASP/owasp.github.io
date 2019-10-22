@@ -42,63 +42,12 @@ All OWASP tools, document, and code library projects are organized into the foll
 ## Alphabetical List of All Projects
 
 <div id="project-list">
+    {% for project in site.data.projects %}
+    <p>Project: {{ project.name }}</p>
+    {% endfor %}
 </div>
 
-<script type="text/javascript">
-    var repoNames = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}{% assign repoName = repo.name | slice: 12, 199 | split: "-"  %}{% capture repoNameCase %}{% for word in repoName %}{{ word | capitalize | append: " " }}{% endfor %}{% endcapture %}
-            "{{ repoNameCase }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
-    var repoUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://www2.owasp.org/{{ repo.name }}"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
-
-    var githubUrls = [{% for repo in site.github.public_repositories %}{% if repo.has_pages and repo.name contains "www-project-" %}"https://owaspadmin.azurewebsites.net/api/get-repo-file?repo={{ repo.name }}&filepath=index.md"{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}];
 
 
-    $(function () {
-        var htmlstring = "";
-        
-        $.each(repoNames, function(index){
-            htmlstring += "<a href=" + repoUrls[index] + ">" + repoNames[index];
-            $.ajax({
-                    method: 'GET',
-                    url: githubUrls[index],
-                    contentType: 'application/json; charset=utf-8',
-                    success: function(data){
-                        var contents = atob(data["content"]);
-                        var levelStr = "<img src='https://img.shields.io/badge/owasp-no%20level-fb4d4d.svg' alt='No Level'></img>";
-                        
-                        if(contents.indexOf("This is an example of a Project") == -1 && contents.indexOf("level:") >= 0)
-                        {
-                            var lindex = contents.indexOf("level:") + 6;
-                            var level = parseInt(contents.substring(lindex, lindex + 2));
-                            var tindex = contents.indexOf("type:") + 5;
-                            var tstop = contents.indexOf("\n", tindex);
-                            var type = contents.substring(tindex, tstop - 1);
-                            if (type != "documentation" && type != "code" && type != "tool" && type != "other")
-                                type = "unknown";
-                                
-                            switch(level)
-                            {
-                                case 1:
-                                    lavelStr = "<img src='https://img.shields.io/badge/owasp-inactive%20" + type + "%20project-BFBDBC.svg' alt='No Level'></img>";
-                                    break;
-                                case 2:
-                                    levelStr = "<img src='https://img.shields.io/badge/owasp-incubator%20" + type + "%20project-48A646.svg' alt='No Level'></img>";
-                                    break;
-                                case 3:
-                                    levelStr = "<img src='https://img.shields.io/badge/owasp-lab%20" + type + "%20project-48A646.svg' alt='No Level'></img>";
-                                    break;
-                                case 4:
-                                    levelStr = "<img src='https://img.shields.io/badge/owasp-flagship%20" + type + "%20project-48A646.svg' alt='No Level'></img>";
-                                    break;
-                            }
-                        }
-                        htmlstring += levelStr;
-                        $("#" + index.toString() + "-level").html(levelStr);
-                    }
-                });
-            htmlstring += "</a><span style='margin-left:12px;' id='" + index.toString() + "-level'></span>" + "<br/>";
-        });     
-        //note that the above is not synchronous so this will not work
 
-        $("#project-list").html(htmlstring);
-    });
-</script>
+   
