@@ -68,15 +68,15 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign documentation_projects = site.data.projects | where:'type', 'documentation' %}
         {% assign code_projects = site.data.projects | where:'type', 'code' %}
         {% assign other_projects = site.data.projects | where:'type', 'other' %}
-        <h2>Tool Projects</h2>
+        <h2>Tool Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
         {% for project in tool_projects %}
         <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
         {% endfor %}
-        <h2>Documentation Projects</h2><i class="fa fa-file-text-o fa-3x"></i> 
+        <h2>Documentation Projects<i style="margin-left:12px;" class="fa fa-file-pdf fa-lg"></i></h2> 
         {% for project in documentation_projects %}
         <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
         {% endfor %}
-        <h2>Code Projects</h2>
+        <h2>Code Projects<i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i></h2>
         {% for project in code_projects %}
         <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
         {% endfor %}
