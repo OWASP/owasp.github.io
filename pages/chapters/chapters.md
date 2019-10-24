@@ -85,7 +85,7 @@ For more detail visit the OWASP Chapter Resources Page.
 
 
 <div class='chapters-list'>
-    {% assign regions = site.data.chapters | map: 'region' %}
+    {% assign regions = site.data.chapters | map: 'region' | uniq %}
     {% for region in regions %}
         <p>{{ region }}</p>
     {% endfor %}
