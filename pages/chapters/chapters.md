@@ -83,3 +83,30 @@ OWASP Marketing Resources, Logos and Brand Guidelines.
 For more detail visit the OWASP Chapter Resources Page.
 
 
+
+<div class='chapters-list'>
+    {% assign regions = site.data.chapters | map: 'region' %}
+    {% for region in regions %}
+        <p>{{ region }}</p>
+    {% endfor %}
+</div>
+<script type="text/javascript">
+    $(function(){
+        $('#projects-type').click(function(){
+            $('#project-list-level').hide();
+            $('#project-list-type').show();
+            $('#projects-level').removeClass('active');
+            $('#projects-type').addClass('active');
+            $('#projects-level').addClass('inactive');
+            $('#projects-type').removeClass('inactive');
+        });
+        $('#projects-level').click(function(){
+            $('#project-list-type').hide();
+            $('#project-list-level').show();
+            $('#projects-type').removeClass('active');
+            $('#projects-level').addClass('active');
+             $('#projects-level').removeClass('inactive');
+            $('#projects-type').addClass('inactive');
+        });
+    });
+</script>
