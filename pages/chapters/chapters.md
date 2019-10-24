@@ -90,9 +90,11 @@ For more detail visit the OWASP Chapter Resources Page.
         <div class="region">
             <h2>{{ region }}</h2>
             {% for chapter in site.data.chapters %}
+                <ul>
                 {% if chapter.region == region %} 
-                    <a href='{{chapter.name}}'>{{ chapter.name }}</a>
+                    <li><a href='https://www2.owasp.org/www-chapter-{{ chapter.name }}'>{{ chapter.name }}</a></li>
                 {% endif %}
+                </ul>
             {% endfor %}
         </div>
     {% endfor %}
