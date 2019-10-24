@@ -47,21 +47,29 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign i_projects = site.data.projects | where:'level', '2' %}
         {% assign u_projects = site.data.projects | where:'level', '-1' %}
         <h2>Flagship Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h2>
+        <ul>
         {% for project in fs_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
         <h2>Lab Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h2>
+        <ul>
         {% for project in l_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
         <h2>Incubator Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h2>
+        <ul>
         {% for project in i_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
         <h2>Projects Needing Website Update</h2>
+        <ul>
         {% for project in u_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
     </div>
     <div id="project-list-type" style='display:none;'>
         {% assign tool_projects = site.data.projects | where:'type', 'tool' %}
@@ -69,21 +77,29 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign code_projects = site.data.projects | where:'type', 'code' %}
         {% assign other_projects = site.data.projects | where:'type', 'other' %}
         <h2>Tool Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
+        <ul>
         {% for project in tool_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
-        <h2>Documentation Projects<i style="margin-left:12px;" class="fa fa-file-pdf fa-lg"></i></h2> 
+        </ul>
+        <h2>Documentation Projects<i style="margin-left:12px;" class="fa fa-file-pdf fa-lg"></i></h2>
+        <ul> 
         {% for project in documentation_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
         <h2>Code Projects<i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i></h2>
+        <ul>
         {% for project in code_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
         <h2>Other Projects</h2>
+        <ul>
         {% for project in other_projects %}
-        <p><a href="{{ project.url }}">OWASP {{ project.name }}</a></p>
+        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
+        </ul>
     </div>
 </div>
 <script type="text/javascript">
