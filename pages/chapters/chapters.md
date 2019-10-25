@@ -92,7 +92,7 @@ For more detail visit the OWASP Chapter Resources Page.
             {% for chapter in site.data.chapters %}
                 <ul>
                 {% if chapter.region == region %} 
-                    <li><a href='https://www2.owasp.org/www-chapter-{{ chapter.name }}'>{{ chapter.name }}</a></li>
+                    <li><a href='{{ chapter.url }}'>{{ chapter.name }}</a></li>
                 {% endif %}
                 </ul>
             {% endfor %}
