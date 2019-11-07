@@ -39,7 +39,7 @@ All OWASP tools, document, and code library projects are organized into the foll
 <strong>Lab Projects:</strong> OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.
 <strong>Incubator Projects:</strong> OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
 
-<div class='projects-list'>
+<div id='all-projects' class='projects-list'>
     <h2>List of Projects by <a id="projects-level" class='active'>Level</a> or <a id="projects-type" class='inactive'>Type</a></h2>
     <div id="project-list-level" class='project-list'>
         {% assign fs_projects = site.data.projects | where:'level', '4' %}
