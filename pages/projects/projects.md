@@ -82,7 +82,7 @@ All OWASP tools, document, and code library projects are organized into the foll
         <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
         {% endfor %}
         </ul>
-        <h2>Documentation Projects<i style="margin-left:12px;" class="fa fa-file-pdf fa-lg"></i></h2>
+        <h2>Documentation Projects<i style="margin-left:12px;" class="fa fa-file-alt fa-lg"></i></h2>
         <ul> 
         {% for project in documentation_projects %}
         <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
