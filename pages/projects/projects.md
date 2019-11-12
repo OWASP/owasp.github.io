@@ -122,5 +122,3 @@ All OWASP tools, document, and code library projects are organized into the foll
         });
     });
 </script>
-
-   
