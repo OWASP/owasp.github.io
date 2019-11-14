@@ -1,4 +1,5 @@
 - id: 1001
+  type: 
   name: Accenture
   image: /assets/images/corp-member-logo/accenture.PNG
   url: https://www.accenture.com
@@ -14,10 +15,11 @@
   url: https://www.adobe.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
 - id: 1004
+  type: Elite
   name: Allstate
   image: /assets/images/corp-member-logo/allstate.png
   url: https://www.allstate.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: Allstate Corporation is the largest publicly held personal lines property and casualty insurer in America, serving more than 16 million households nationwide. Founded in 1931, Allstate has been dedicated to protecting our customers from life’s uncertainties and preparing them for the future for more than 85 years. As the needs of our customers evolve, so does our technology and security practices to ensure our customers remain in good hands.
 - id: 1005
   name: Altitude Networks
   image: /assets/images/corp-member-logo/altitude-networks.png

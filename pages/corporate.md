@@ -1,7 +1,7 @@
 ---
 
 layout: col-blogsidebar
-title: Generic Page Example Title
+title: Staff and Board
 permalink: /corporate
 
 ---
