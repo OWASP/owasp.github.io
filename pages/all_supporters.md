@@ -2,7 +2,7 @@
 
 layout: col-blogsidebar
 title: Corporate Supporters
-permalink: /corporate
+permalink: /supporters
 
 ---
 
@@ -10,7 +10,9 @@ _Disclaimer:_ The following information is not an endoresement for any particula
 
 
 {% for supporter in site.data.corp_members %}
-![{{ supporter.name }}]({{ supporter.image }})
+![{{ supporter.name }}]({{ supporter.image }}){:width="200px"}
+
+{{ supporter.description }}
 {% endfor %}
 
 
