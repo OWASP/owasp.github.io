@@ -1,97 +1,318 @@
-- id: 1001
-  type: 
+- member: true
+  sponsor: 
   name: Accenture
   image: /assets/images/corp-member-logo/accenture.PNG
   url: https://www.accenture.com
   description: Accenture Security helps businesses prepare, protect, detect, respond and recover along all points of the security lifecycle with over 5,000 exceptionally-skilled security professionals worldwide.  Cybersecurity challenges are different for every business in every industry. Leveraging our global resources and next-generation technologies, we create integrated, practical solutions that are tailored to each organization’s specific business goals and industry solutions that clients can put in place immediately. Whether defending against known threats, quickly detecting and responding to the unknown or running an entire security operations center, we help harden organizations and make it extremely difficult for even the most sophisticated cyber adversaries to succeed.
-- id: 1002
-  name: Acunetix
-  image: /assets/images/corp-member-logo/acunetix.png
-  url: https://www.acunetix.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1003
+- member: true
+  sponsor: 
   name: Adobe
   image: /assets/images/corp-member-logo/adobe.png
   url: https://www.adobe.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1004
-  type: Elite
+- member: true
+  sponsor: 
   name: Allstate
   image: /assets/images/corp-member-logo/allstate.png
   url: https://www.allstate.com
   description: Allstate Corporation is the largest publicly held personal lines property and casualty insurer in America, serving more than 16 million households nationwide. Founded in 1931, Allstate has been dedicated to protecting our customers from life’s uncertainties and preparing them for the future for more than 85 years. As the needs of our customers evolve, so does our technology and security practices to ensure our customers remain in good hands.
-- id: 1005
+- member: true
+  sponsor: 4
   name: Altitude Networks
   image: /assets/images/corp-member-logo/altitude-networks.png
   url: https://www.altitudenetworks.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1006
-  name: hackerone
-  image: /assets/images/corp-member-logo/hackerone.png
-  url: https://www.hackerone.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1007
-  name: netsparker
-  image: /assets/images/corp-member-logo/netsparker.png
-  url: https://www.netsparker.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1008
-  name: Qualys
-  image: /assets/images/corp-member-logo/qualys.png
-  url: https://www.qualys.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1009
-  name: RIPS Technologies
-  image: /assets/images/corp-member-logo/rips-tech.png
-  url: https://www.ripstech.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1010
-  name: Salesforce
-  image: /assets/images/corp-member-logo/salesforce.png
-  url: https://www.salesforce.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1011
-  name: Signal Sciences
-  image: /assets/images/corp-member-logo/signal-sciences.png
-  url: https://www.signalsciences.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1012
-  name: Waratek
-  image: /assets/images/corp-member-logo/waratek.png
-  url: https://www.waratek.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1013
-  name: Arxan
-  image: /assets/images/corp-member-logo/arxan.png
-  url: https://www.arxan.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1014
+- member: false
+  sponsor: 4
   name: Avatao
   image: /assets/images/corp-member-logo/avatao.png
   url: https://www.avatao.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1015
+- member: true
+  sponsor:
   name: Avi Networks
   image: /assets/images/corp-member-logo/avi-network.png
-  url: https://www.waratek.com
+  url: https://www.avinetworks.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1016
+- member: true
+  sponsor: 
   name: Brinqa
   image: /assets/images/corp-member-logo/brinqa.png
   url: https://www.brinqa.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1017
+- member: true
+  sponsor: 4
   name: Bugcrowd
   image: /assets/images/corp-member-logo/bugcrowd.png
   url: https://www.bugcrowd.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1018
-  name: CA Technologies
+- member: true
+  sponsor:
+  name: CA, Inc.
   image: /assets/images/corp-member-logo/ca-technologies.png
-  url: https://www.ca.com
+  url: https://www.catechnologies.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1019
+- member: false
+  sponsor: 1
+  name: Cequence Security
+  image: /assets/images/corp-member-logo/cequence.png
+  url: https://www.cequence.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Checkmarx
+  image: /assets/images/corp-member-logo/checkmarx.png
+  url: https://www.checkmarx.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: CodeDX
+  image: /assets/images/corp-member-logo/code-dx.png
+  url: https://www.codedx.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 1
+  name: Contrast Security
+  image: /assets/images/corp-member-logo/contrast-security.png
+  url: https://www.contrastsecurity.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor:
+  name: Denim Group
+  image: /assets/images/corp-member-logo/denim-group.png
+  url: https://www.denimgroup.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Detectify
+  image: /assets/images/corp-member-logo/detectify.png
+  url: https://www.detectify.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor:
+  name: FICO
+  image: /assets/images/corp-member-logo/fico.png
+  url: https://www.fico.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor:
+  name: Fortinet
+  image: /assets/images/corp-member-logo/fortinet.png
+  url: https://www.fortinet.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor:
+  name: GoSecure
+  image: /assets/images/corp-member-logo/go-secure.png
+  url: https://www.gosecure.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Gotham Digital Science
+  image: /assets/images/corp-member-logo/gotham-digital-science.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: HackerOne
+  image: /assets/images/corp-member-logo/hackerone.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 3
+  name: HCL America
+  image: /assets/images/corp-member-logo/hcl-america.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: High-Tech Bridge SA
+  image: /assets/images/corp-member-logo/hi-tech-bridge.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: HiSolutions
+  image: /assets/images/corp-member-logo/hi-solutions.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Kiuwan
+  image: /assets/images/corp-member-logo/kiuwan.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Lyft
+  image: /assets/images/corp-member-logo/lyft.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Mercari, Inc.
+  image: /assets/images/corp-member-logo/mercari.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Netsparker
+  image: /assets/images/corp-member-logo/netsparker.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: NetSPI
+  image: /assets/images/corp-member-logo/netspi_owler_20171208_205822_original.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: NowSecure
+  image: /assets/images/corp-member-logo/nowsecure.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Oneconsult
+  image: /assets/images/corp-member-logo/oneconsult.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Oracle
+  image: /assets/images/corp-member-logo/oracle.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Oxford Web Applications
+  image: /assets/images/corp-member-logo/oxford-web-apps-02.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Panasonic Corporation
+  image: /assets/images/corp-member-logo/panasonic.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Qualys
+  image: /assets/images/corp-member-logo/qualys.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Realware 
+  image: /assets/images/corp-member-logo/realware.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 3
+  name: RIPS Technologies
+  image: /assets/images/corp-member-logo/rips-tech.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Salesforce
+  image: /assets/images/corp-member-logo/salesforce.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Salt Security
+  image: /assets/images/corp-member-logo/salt-security.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: SCSK Corporation
+  image: /assets/images/corp-member-logo/scskcorp.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 3
+  name: Secure Code Warrior
+  image: /assets/images/corp-member-logo/secure-code-warrior.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: SecureBrain
+  image: /assets/images/corp-member-logo/secure-brain.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Security Innovation
+  image: /assets/images/corp-member-logo/security-innovation.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Security Journey
+  image: /assets/images/corp-member-logo/security-journey.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Shiftleft
+  image: /assets/images/corp-member-logo/shiftleft.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Signal Sciences
+  image: /assets/images/corp-member-logo/signal-sciences.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Software Improvement Group
+  image: /assets/images/corp-member-logo/software-improvement-group.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: StackHawk
+  image: /assets/images/corp-member-logo/stackhawk.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
   name: Symantec
-  image: /assets/images/corp-member-logo/cc678653.png
-  url: https://www.symantec.com
+  image: /assets/images/corp-member-logo/symantec.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Synack
+  image: /assets/images/corp-member-logo/synack.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Synopsys
+  image: /assets/images/corp-member-logo/synopsys.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: The Media Trust
+  image: /assets/images/corp-member-logo/the-media-trust.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: ThoughtWorks
+  image: /assets/images/corp-member-logo/thoughtworks.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Twistlock
+  image: /assets/images/corp-member-logo/twistlock.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: UBsecure
+  image: /assets/images/corp-member-logo/ub-secure.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Veracode
+  image: /assets/images/corp-member-logo/veracode.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Wallarm
+  image: /assets/images/corp-member-logo/wallarm.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Waratek
+  image: /assets/images/corp-member-logo/waratek.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: WhiteHat Security
+  image: /assets/images/corp-member-logo/white-hat-security.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: WhiteSource Software
+  image: /assets/images/corp-member-logo/whitsource.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: ZeroNorth
+  image: /assets/images/corp-member-logo/zero-north.png
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
