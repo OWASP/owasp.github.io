@@ -6,7 +6,7 @@ permalink: /
 
 ---
 
-<!-- Rebuild Site Tag 76 -->
+<!-- Rebuild Site Tag 77 -->
 <div class="homepage-promo">
   <img src="/assets/images/content/group_small.jpg" alt="Volunteers at AppSec">
 </div>
