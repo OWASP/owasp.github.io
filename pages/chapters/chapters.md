@@ -89,13 +89,13 @@ For more detail visit the OWASP Chapter Resources Page.
     {% for region in regions %}
         <div class="region">
             <h2>{{ region }}</h2>
+            <ul>
             {% for chapter in site.data.chapters %}
-                <ul>
                 {% if chapter.region == region %} 
                     <li><a href='{{ chapter.url }}'>{{ chapter.name }}</a></li>
                 {% endif %}
-                </ul>
             {% endfor %}
+            </ul>
         </div>
     {% endfor %}
 </div>
