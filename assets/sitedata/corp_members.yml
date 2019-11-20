@@ -1,95 +1,319 @@
-- id: 1001
+- member: true
+  sponsor: 
   name: Accenture
-  image: https://www2.owasp.org/assets/images/corp-member-logo/accenture.PNG
+  image: /assets/images/corp-member-logo/accenture.PNG
   url: https://www.accenture.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1002
-  name: Acunetix
-  image: https://www2.owasp.org/assets/images/corp-member-logo/acunetix.png
-  url: https://www.acunetix.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1003
+  description: Accenture Security helps businesses prepare, protect, detect, respond and recover along all points of the security lifecycle with over 5,000 exceptionally-skilled security professionals worldwide.  Cybersecurity challenges are different for every business in every industry. Leveraging our global resources and next-generation technologies, we create integrated, practical solutions that are tailored to each organization’s specific business goals and industry solutions that clients can put in place immediately. Whether defending against known threats, quickly detecting and responding to the unknown or running an entire security operations center, we help harden organizations and make it extremely difficult for even the most sophisticated cyber adversaries to succeed.
+- member: true
+  sponsor: 
   name: Adobe
-  image: https://www2.owasp.org/assets/images/corp-member-logo/adobe.png
+  image: /assets/images/corp-member-logo/adobe.png
   url: https://www.adobe.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1004
+  description: Adobe is the global leader in digital marketing and digital media solutions. Our tools and services allow our customers to create groundbreaking digital content, deploy it across media and devices, measure and optimize it over time, and achieve greater business success. We help our customers make, manage, measure, and monetize their content across every channel and screen.
+- member: true
+  sponsor: 
   name: Allstate
-  image: https://www2.owasp.org/assets/images/corp-member-logo/allstate.png
+  image: /assets/images/corp-member-logo/allstate.png
   url: https://www.allstate.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1005
+  description: Allstate Corporation is the largest publicly held personal lines property and casualty insurer in America, serving more than 16 million households nationwide. Founded in 1931, Allstate has been dedicated to protecting our customers from life’s uncertainties and preparing them for the future for more than 85 years. As the needs of our customers evolve, so does our technology and security practices to ensure our customers remain in good hands.
+- member: true
+  sponsor: 4
   name: Altitude Networks
-  image: https://www2.owasp.org/assets/images/corp-member-logo/altitude-networks.png
+  image: /assets/images/corp-member-logo/altitude-networks.png
   url: https://www.altitudenetworks.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1006
-  name: hackerone
-  image: https://www2.owasp.org/assets/images/corp-member-logo/hackerone.png
-  url: https://www.hackerone.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1007
-  name: netsparker
-  image: https://www2.owasp.org/assets/images/corp-member-logo/netsparker.png
-  url: https://www.netsparker.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1008
-  name: Qualys
-  image: https://www2.owasp.org/assets/images/corp-member-logo/qualys.png
-  url: https://www.qualys.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1009
-  name: RIPS Technologies
-  image: https://www2.owasp.org/assets/images/corp-member-logo/rips-tech.png
-  url: https://www.ripstech.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1010
-  name: Salesforce
-  image: https://www2.owasp.org/assets/images/corp-member-logo/salesforce.png
-  url: https://www.salesforce.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1011
-  name: Signal Sciences
-  image: https://www2.owasp.org/assets/images/corp-member-logo/signal-sciences.png
-  url: https://www.signalsciences.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1012
-  name: Waratek
-  image: https://www2.owasp.org/assets/images/corp-member-logo/waratek.png
-  url: https://www.waratek.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1013
-  name: Arxan
-  image: https://www2.owasp.org/assets/images/corp-member-logo/arxan.png
-  url: https://www.arxan.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1014
+  description: Altitude Networks tackles data security in the cloud to protect enterprises against unauthorized data access, accidental or malicious sharing to unintended individuals, and data theft.
+  sponsor: 4
   name: Avatao
-  image: https://www2.owasp.org/assets/images/corp-member-logo/avatao.png
+  image: /assets/images/corp-member-logo/avatao.png
   url: https://www.avatao.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1015
+  description: Avatao is an online training platform for building secure software. It offers a rich library of hands-on IT security exercises for software engineers to teach secure programming from design to deployment in a fun and intuitive way. Educating for secure software can significantly improve software quality, increase trust in a company’s brand, reduce development costs and reduce the risks of suffering significant losses from cyber-attacks. In today’s world, secure software development practices are a basic requirement and we believe the solution should be integrated into the ground roots of software development teams. The platform can be used to provide security awareness to software engineers, to enrich existing IT security training, meetups or allow self-directed learning for continuous professional development. Avatao hackathons are also an excellent method to discover talented developers and engage and build brand awareness in the community. Avatao is a creation out of CrySyS Lab, world-renowned experts in IT security. Learning communities like business teams use Avatao for an improved and efficient learning experience. Mid-size and large software and financial companies use Avatao’s gamified online training to organize security hackathons, onboard new hires or upskill software developers to build secure software. The Avatao platform was publicly launched in 2016 for end-users and business customers. Initial customers include LogMeIn (US), Prezi (HU), Microsec (HU), Emarsys (HU), Photobox (UK), and many other companies are piloting the platform including Fortune 100 companies. Avatao currently has 5000+ users and 500+ exercises.
+- member: true
+  sponsor:
   name: Avi Networks
-  image: https://www2.owasp.org/assets/images/corp-member-logo/avi-network.png
-  url: https://www.waratek.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1016
+  image: /assets/images/corp-member-logo/avi-network.png
+  url: https://www.avinetworks.com
+  description: Avi Networks completes enterprises’ digital transformation with its software load balancer, intelligent Web Application Firewall, and modern application services. The Avi Vantage Platform is deployed across data centers and clouds, delivering better elasticity, intelligence, and cost savings by providing granular per-tenant and per-app services. Customers enjoy 5X faster application rollouts, actionable analytics, and 70% lower costs.
+- member: true
+  sponsor: 
   name: Brinqa
-  image: https://www2.owasp.org/assets/images/corp-member-logo/brinqa.png
+  image: /assets/images/corp-member-logo/brinqa.png
   url: https://www.brinqa.com
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1017
+  description: Brinqa is a leading provider of unified risk management – enabling stakeholders, governance organizations, and infrastructure and security teams to effectively manage technology risk at the speed of business. Brinqa software and cloud services leverage an organization’s existing investment in systems, security, and governance programs to identify, measure, manage and monitor risk. With Brinqa, organizations are reducing response time to emerging threats, impact to the business, and technology risk and compliance costs by over 50% through real-time risk analytics, automated risk assessments, prioritized remediation, actionable insights, and improved communication. Founded in 2008 by industry leaders in risk management with a proven track record in delivering cutting edge, innovative and cost-effective solutions. Brinqa’s award-winning software and cloud services are trusted by fortune 500 companies across risk disciplines such as information technology risk, vendor risk, and regulatory compliance risk. Brinqa is headquartered in Austin, Texas and has a global presence.
+- member: true
+  sponsor: 4
   name: Bugcrowd
-  image: https://www2.owasp.org/assets/images/corp-member-logo/bugcrowd.png
+  image: /assets/images/corp-member-logo/bugcrowd.png
   url: https://www.bugcrowd.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1018
-  name: CA Technologies
-  image: https://www2.owasp.org/assets/images/corp-member-logo/ca-technologies.png
-  url: https://www.ca.com
+- member: true
+  sponsor:
+  name: CA, Inc.
+  image: /assets/images/corp-member-logo/ca-technologies.png
+  url: https://www.catechnologies.com
+  description: 	CA Technologies helps customers succeed in a future where every business—from apparel to energy—is being rewritten by software. From planning to development to management to security, at CA we create software that fuels transformation for companies in the application economy.
+- member: false
+  sponsor: 1
+  name: Cequence Security
+  image: /assets/images/corp-member-logo/cequence.png
+  url: https://www.cequence.com
+  description: 	Cequence Security is a venture-backed cybersecurity software company founded in 2015 and based in Sunnyvale, CA. Its mission is to transform application security by consolidating multiple innovative security functions within an open, AI-powered software platform that protects customers web, mobile, and API-based applications – and supports today’s cloud-native, container-based application architectures. The company is led by industry veterans that previously held leadership positions at Palo Alto Networks and Symantec. Customers include F500 organizations across multiple vertical markets, and the solution has earned multiple industry accolades.
+- member: true
+  sponsor: 4
+  name: Checkmarx
+  image: /assets/images/corp-member-logo/checkmarx.png
+  url: https://www.checkmarx.com
+  description: 	Checkmarx is an Application Security software company, whose mission is to provide enterprise organizations with application security testing products and services that empower developers to deliver secure applications. Amongst the company's 1,000 customers are 5 of the world's top 10 software vendors and many Fortune 500 and government organizations. Checkmarx CxSAST is a highly accurate and flexible Source Code Analysis product that allows organizations to automatically scan a un-compiled/un-built code and identify hundreds of security vulnerabilities in the most prevalent coding languages.
+- member: false
+  sponsor: 4
+  name: CodeDX
+  image: /assets/images/corp-member-logo/code-dx.png
+  url: https://www.codedx.com
+  description: Code Dx is committed to reducing barriers to effective application security. Our automated application vulnerability correlation and management tools help find and fix insecure code faster, with less effort and a smaller team. Focus your precious resources on developing valuable new features, and ship secure code faster and more often.
+- member: true
+  sponsor: 1
+  name: Contrast Security
+  image: /assets/images/corp-member-logo/contrast-security.png
+  url: https://www.contrastsecurity.com
+  description: Contrast Security delivers the world’s fastest application security software that eliminates the single greatest security risk to enterprises today. Industry research shows that application security flaws are the leading source of data breaches. Contrast can be deployed, automatically discover applications and identify vulnerabilities within seven minutes. Relying on sensors instead of expensive security experts, Contrast runs continuously and is 10 times more accurate than the competition. Unlike tedious, painful and slow legacy approaches, Contrast analyzes a complete portfolio of running applications simultaneously in real-time at any scale. As a result, organizations can act faster against threats and immediately reduce risk. 
+- member: true
+  sponsor:
+  name: Denim Group
+  image: /assets/images/corp-member-logo/denim-group.png
+  url: https://www.denimgroup.com
+  description: Denim Group is the leading independent application security firm, serving as a trusted advisor to customers on matters of application risk and security. The company helps organizations assess and mitigate application security risk. Denim Group’s flagship ThreadFix platform accelerates the process of application vulnerability remediation, reflecting the company’s rich understanding of what it takes to fix application vulnerabilities faster.
+- member: false
+  sponsor: 4
+  name: Detectify
+  image: /assets/images/corp-member-logo/detectify.png
+  url: https://www.detectify.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- id: 1019
+- member: true
+  sponsor:
+  name: FICO
+  image: /assets/images/corp-member-logo/fico.png
+  url: https://www.fico.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor:
+  name: Fortinet
+  image: /assets/images/corp-member-logo/fortinet.png
+  url: https://www.fortinet.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor:
+  name: GoSecure
+  image: /assets/images/corp-member-logo/go-secure.png
+  url: https://www.gosecure.com
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Gotham Digital Science
+  image: /assets/images/corp-member-logo/gotham-digital-science.png
+  url: https://www.gdssecurity.com/
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: HackerOne
+  image: /assets/images/corp-member-logo/hackerone.png
+  description: 	HackerOne (www.hackerone.com) is the #1 hacker-powered security platform, helping organizations receive and resolve critical vulnerabilities before they can be exploited. More than 1,000 organizations, including the U.S. Department of Defense, U.S. General Service Administration, General Motors, Twitter, GitHub, Nintendo, Panasonic Avionics, Qualcomm, Square, Starbucks, Dropbox and the CERT Coordination Center trust HackerOne to find critical software vulnerabilities. HackerOne customers have resolved over 57,000 vulnerabilities and awarded over $22M in bug bounties. HackerOne is headquartered in San Francisco with offices in London and the Netherlands.
+- member: false
+  sponsor: 3
+  name: HCL America
+  image: /assets/images/corp-member-logo/hcl-america.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: High-Tech Bridge SA 
+  image: /assets/images/corp-member-logo/hi-tech-bridge.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: HiSolutions
+  image: /assets/images/corp-member-logo/hi-solutions.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Kiuwan
+  image: /assets/images/corp-member-logo/kiuwan.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Lyft
+  image: /assets/images/corp-member-logo/lyft.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Mercari, Inc.
+  image: /assets/images/corp-member-logo/mercari.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Netsparker
+  image: /assets/images/corp-member-logo/netsparker.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: NetSPI
+  image: /assets/images/corp-member-logo/netspi_owler_20171208_205822_original.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: NowSecure
+  image: /assets/images/corp-member-logo/nowsecure.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Oneconsult
+  image: /assets/images/corp-member-logo/oneconsult.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Oracle
+  image: /assets/images/corp-member-logo/oracle.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Oxford Web Applications
+  image: /assets/images/corp-member-logo/oxford-web-apps-02.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Panasonic Corporation
+  image: /assets/images/corp-member-logo/panasonic.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Qualys
+  image: /assets/images/corp-member-logo/qualys.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Realware 
+  image: /assets/images/corp-member-logo/realware.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 3
+  name: RIPS Technologies
+  image: /assets/images/corp-member-logo/rips-tech.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Salesforce
+  image: /assets/images/corp-member-logo/salesforce.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Salt Security
+  image: /assets/images/corp-member-logo/salt-security.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: SCSK Corporation
+  image: /assets/images/corp-member-logo/scskcorp.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 3
+  name: Secure Code Warrior
+  image: /assets/images/corp-member-logo/secure-code-warrior.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: SecureBrain
+  image: /assets/images/corp-member-logo/secure-brain.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Security Innovation
+  image: /assets/images/corp-member-logo/security-innovation.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Security Journey
+  image: /assets/images/corp-member-logo/security-journey.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Shiftleft
+  image: /assets/images/corp-member-logo/shiftleft.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Signal Sciences
+  image: /assets/images/corp-member-logo/signal-sciences.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Software Improvement Group
+  image: /assets/images/corp-member-logo/software-improvement-group.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: StackHawk
+  image: /assets/images/corp-member-logo/stackhawk.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
   name: Symantec
-  image: https://www2.owasp.org/assets/images/corp-member-logo/cc678653.png
-  url: https://www.symantec.com
+  image: /assets/images/corp-member-logo/symantec.png
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Synack
+  image: /assets/images/corp-member-logo/synack.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: Synopsys
+  image: /assets/images/corp-member-logo/synopsys.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: The Media Trust
+  image: /assets/images/corp-member-logo/the-media-trust.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: ThoughtWorks
+  image: /assets/images/corp-member-logo/thoughtworks.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Twistlock
+  image: /assets/images/corp-member-logo/twistlock.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: UBsecure
+  image: /assets/images/corp-member-logo/ub-secure.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: Veracode
+  image: /assets/images/corp-member-logo/veracode.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Wallarm
+  image: /assets/images/corp-member-logo/wallarm.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: Waratek
+  image: /assets/images/corp-member-logo/waratek.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 
+  name: WhiteHat Security
+  image: /assets/images/corp-member-logo/white-hat-security.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: true
+  sponsor: 4
+  name: WhiteSource Software
+  image: /assets/images/corp-member-logo/whitsource.png
+  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+- member: false
+  sponsor: 4
+  name: ZeroNorth
+  image: /assets/images/corp-member-logo/zero-north.png
+  url: http://www.zeronorth.io/
+  description: ZeroNorth is the first company to deliver risk-based vulnerability orchestration across applications and infrastructure. By orchestrating scanning tools across the entire software lifecycle, ZeroNorth provides a comprehensive and continuous view of risk, and reduces costs associated with managing disparate technologies. ZeroNorth empowers customers across all industries to rapidly scale application and infrastructure security, while integrating seamlessly into developer environments to simplify and verify remediation.
