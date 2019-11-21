@@ -250,12 +250,12 @@
   sponsor: 
   name: StackHawk
   image: /assets/images/corp-member-logo/stackhawk.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: StackHawk is dynamic application vulnerability scanning built for modern development teams. With simple configuration, easy invocation via docker command, and interpretable results, StackHawk is built for developers to take control of their AppSec. 
 - member: true
   sponsor: 
   name: Symantec
   image: /assets/images/corp-member-logo/symantec.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats.
 - member: true
   sponsor: 
   name: Synack
@@ -265,7 +265,7 @@
   sponsor: 4
   name: Synopsys
   image: /assets/images/corp-member-logo/synopsys.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.
 - member: true
   sponsor: 
   name: The Media Trust
@@ -275,23 +275,23 @@
   sponsor: 
   name: ThoughtWorks
   image: /assets/images/corp-member-logo/thoughtworks.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: We are a software company and community of passionate, purpose-led individuals. We think disruptively to deliver technology that addresses our clients’ toughest challenges, all while seeking to revolutionize the IT industry and create positive social change. ThoughtWorks' 3,000 professionals serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Italy, Singapore, South Africa, Turkey, Uganda, the United Kingdom, and the United States. ThoughtWorks releases a regular technology radar, a study that looks at the key trends that impact software development and business strategies. The Radar helps companies stay on top of topics that are constantly evolving, such as security, and offers insight and practical tools to build secure systems at every stage of the development process.
 - member: true
   sponsor: 
   name: Twistlock
   image: /assets/images/corp-member-logo/twistlock.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: Twistlock is the most complete, automated and scalable cloud native cybersecurity platform. Trusted by hundreds of customers worldwide, Twistlock uses the strengths of cloud native to provide better security for teams using Docker, Kubernetes, Lambda, Fargate, and other modern technologies.
 - member: true
   sponsor: 
   name: UBsecure
   image: /assets/images/corp-member-logo/ub-secure.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: UBsecure is a leading web application security company based in Japan since 2007. We offer various security solutions for web application and smartphone application by utilizing in-house developed application security testing tool, Vex. Vex built by a tremendous amount of experience in professional security scanning and by its continuous feedback. The unique characteristic of the tool is that it used as a stand-alone security testing tool as well as the seamless security testing component within the SDLC. Therefore, Vex is not only for professional security auditors but also for software developers who need secure development cycles. Please visit our site for more information about Vex.
 - member: true
   sponsor: 
   name: Veracode
   image: /assets/images/corp-member-logo/veracode.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
-- member: false
+  description: Veracode gives companies a comprehensive view of security defects so they can create secure software, and ensure the software they are buying or downloading is free of vulnerabilities. As a result, companies using Veracode are free to boldly innovate, explore, discover, and change the world.
+ - member: false
   sponsor: 4
   name: Wallarm
   image: /assets/images/corp-member-logo/wallarm.png
@@ -300,17 +300,20 @@
   sponsor: 4
   name: Waratek
   image: /assets/images/corp-member-logo/waratek.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code.<br>
+  ● Instantly apply code equivalent security patches to Java and .NET applications<br>
+  ● Actively secure against the OWASP Top Ten / SANS 25 / Zero-Day vulnerabilities<br>
+  ● Virtually upgrade & secure out-of-support, vulnerable Java applications.  All with no source code changes or False Positives.<br>
 - member: true
   sponsor: 
   name: WhiteHat Security
   image: /assets/images/corp-member-logo/white-hat-security.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: WhiteHat Security is the leader in application security, enabling businesses to protect critical data, ensure compliance, and manage risk. Through a combination of technology, over a decade of intelligence metrics, and the judgment of people, WhiteHat Security provides complete web security at a scale and accuracy unmatched in the industry.
 - member: true
   sponsor: 4
   name: WhiteSource Software
   image: /assets/images/corp-member-logo/whitsource.png
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
+  description: WhiteSource helps software security teams manage open source components used in their products, automatically and continuously. It becomes part of your SDLC and automates the entire process of open source components selection, approval, and management, including finding and fixing vulnerable components.
 - member: false
   sponsor: 4
   name: ZeroNorth
