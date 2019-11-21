@@ -291,7 +291,7 @@
   name: Veracode
   image: /assets/images/corp-member-logo/veracode.png
   description: Veracode gives companies a comprehensive view of security defects so they can create secure software, and ensure the software they are buying or downloading is free of vulnerabilities. As a result, companies using Veracode are free to boldly innovate, explore, discover, and change the world.
- - member: false
+- member: false
   sponsor: 4
   name: Wallarm
   image: /assets/images/corp-member-logo/wallarm.png
@@ -301,9 +301,9 @@
   name: Waratek
   image: /assets/images/corp-member-logo/waratek.png
   description: The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code.<br>
-  ● Instantly apply code equivalent security patches to Java and .NET applications<br>
-  ● Actively secure against the OWASP Top Ten / SANS 25 / Zero-Day vulnerabilities<br>
-  ● Virtually upgrade & secure out-of-support, vulnerable Java applications.  All with no source code changes or False Positives.<br>
+  Instantly apply code equivalent security patches to Java and .NET applications<br>
+  Actively secure against the OWASP Top Ten / SANS 25 / Zero-Day vulnerabilities<br>
+  Virtually upgrade & secure out-of-support, vulnerable Java applications.  All with no source code changes or False Positives.<br>
 - member: true
   sponsor: 
   name: WhiteHat Security
