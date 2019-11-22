@@ -278,7 +278,7 @@ permalink: /membership
 {% endraw %}
 
 <script src="https://js.stripe.com/v3"></script>
-<script src="https://vuejs.org/js/vue.js"></script>
+<script src="https://unpkg.com/vue"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
 <script>
