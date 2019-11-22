@@ -1,0 +1,762 @@
+[
+    {
+        "name": "Afghanistan",
+        "discount": true
+    },
+    {
+        "name": "Albania",
+        "discount": true
+    },
+    {
+        "name": "Algeria",
+        "discount": false
+    },
+    {
+        "name": "Andorra",
+        "discount": true
+    },
+    {
+        "name": "Angola",
+        "discount": false
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "discount": true
+    },
+    {
+        "name": "Argentina",
+        "discount": false
+    },
+    {
+        "name": "Armenia",
+        "discount": true
+    },
+    {
+        "name": "Australia",
+        "discount": false
+    },
+    {
+        "name": "Austria",
+        "discount": false
+    },
+    {
+        "name": "Azerbaijan",
+        "discount": false
+    },
+    {
+        "name": "Bahamas, The",
+        "discount": true
+    },
+    {
+        "name": "Bahrain",
+        "discount": true
+    },
+    {
+        "name": "Bangladesh",
+        "discount": false
+    },
+    {
+        "name": "Barbados",
+        "discount": true
+    },
+    {
+        "name": "Belarus",
+        "discount": false
+    },
+    {
+        "name": "Belgium",
+        "discount": false
+    },
+    {
+        "name": "Belize",
+        "discount": true
+    },
+    {
+        "name": "Benin",
+        "discount": true
+    },
+    {
+        "name": "Bhutan",
+        "discount": true
+    },
+    {
+        "name": "Bolivia",
+        "discount": false
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "discount": true
+    },
+    {
+        "name": "Botswana",
+        "discount": true
+    },
+    {
+        "name": "Brazil",
+        "discount": false
+    },
+    {
+        "name": "Brunei",
+        "discount": true
+    },
+    {
+        "name": "Bulgaria",
+        "discount": false
+    },
+    {
+        "name": "Burkina Faso",
+        "discount": true
+    },
+    {
+        "name": "Burundi",
+        "discount": true
+    },
+    {
+        "name": "Cabo Verde",
+        "discount": true
+    },
+    {
+        "name": "Cambodia",
+        "discount": true
+    },
+    {
+        "name": "Cameroon",
+        "discount": true
+    },
+    {
+        "name": "Canada",
+        "discount": false
+    },
+    {
+        "name": "Central African Republic",
+        "discount": true
+    },
+    {
+        "name": "Chad",
+        "discount": true
+    },
+    {
+        "name": "Chile",
+        "discount": false
+    },
+    {
+        "name": "China",
+        "discount": false
+    },
+    {
+        "name": "Colombia",
+        "discount": false
+    },
+    {
+        "name": "Comoros",
+        "discount": true
+    },
+    {
+        "name": "Congo, Democratic Republic of the",
+        "discount": false
+    },
+    {
+        "name": "Congo, Republic of the",
+        "discount": true
+    },
+    {
+        "name": "Costa Rica",
+        "discount": false
+    },
+    {
+        "name": "Cote d'Ivoire",
+        "discount": false
+    },
+    {
+        "name": "Croatia",
+        "discount": false
+    },
+    {
+        "name": "Cuba",
+        "discount": false
+    },
+    {
+        "name": "Cyprus",
+        "discount": true
+    },
+    {
+        "name": "Czech Republic",
+        "discount": false
+    },
+    {
+        "name": "Denmark",
+        "discount": false
+    },
+    {
+        "name": "Djibouti",
+        "discount": true
+    },
+    {
+        "name": "Dominica",
+        "discount": true
+    },
+    {
+        "name": "Dominican Republic",
+        "discount": false
+    },
+    {
+        "name": "Ecuador",
+        "discount": false
+    },
+    {
+        "name": "Egypt",
+        "discount": false
+    },
+    {
+        "name": "El Salvador",
+        "discount": true
+    },
+    {
+        "name": "Equatorial Guinea",
+        "discount": true
+    },
+    {
+        "name": "Estonia",
+        "discount": true
+    },
+    {
+        "name": "Eswatini",
+        "discount": true
+    },
+    {
+        "name": "Ethiopia",
+        "discount": false
+    },
+    {
+        "name": "Fiji",
+        "discount": true
+    },
+    {
+        "name": "Finland",
+        "discount": false
+    },
+    {
+        "name": "France",
+        "discount": false
+    },
+    {
+        "name": "Gabon",
+        "discount": true
+    },
+    {
+        "name": "Gambia, The",
+        "discount": true
+    },
+    {
+        "name": "Georgia",
+        "discount": true
+    },
+    {
+        "name": "Germany",
+        "discount": false
+    },
+    {
+        "name": "Ghana",
+        "discount": false
+    },
+    {
+        "name": "Greece",
+        "discount": false
+    },
+    {
+        "name": "Grenada",
+        "discount": true
+    },
+    {
+        "name": "Guatemala",
+        "discount": false
+    },
+    {
+        "name": "Guinea",
+        "discount": true
+    },
+    {
+        "name": "Guinea-Bissau",
+        "discount": true
+    },
+    {
+        "name": "Guyana",
+        "discount": true
+    },
+    {
+        "name": "Haiti",
+        "discount": true
+    },
+    {
+        "name": "Honduras",
+        "discount": true
+    },
+    {
+        "name": "Hong Kong",
+        "discount": false
+    },
+    {
+        "name": "Hungary",
+        "discount": false
+    },
+    {
+        "name": "Iceland",
+        "discount": true
+    },
+    {
+        "name": "India",
+        "discount": false
+    },
+    {
+        "name": "Indonesia",
+        "discount": false
+    },
+    {
+        "name": "Iran",
+        "discount": false
+    },
+    {
+        "name": "Iraq",
+        "discount": false
+    },
+    {
+        "name": "Ireland",
+        "discount": false
+    },
+    {
+        "name": "Israel",
+        "discount": false
+    },
+    {
+        "name": "Italy",
+        "discount": false
+    },
+    {
+        "name": "Jamaica",
+        "discount": true
+    },
+    {
+        "name": "Japan",
+        "discount": false
+    },
+    {
+        "name": "Jordan",
+        "discount": false
+    },
+    {
+        "name": "Kazakhstan",
+        "discount": false
+    },
+    {
+        "name": "Kenya",
+        "discount": false
+    },
+    {
+        "name": "Kiribati",
+        "discount": true
+    },
+    {
+        "name": "Korea, South",
+        "discount": false
+    },
+    {
+        "name": "Kosovo",
+        "discount": true
+    },
+    {
+        "name": "Kuwait",
+        "discount": false
+    },
+    {
+        "name": "Kyrgyzstan",
+        "discount": true
+    },
+    {
+        "name": "Laos",
+        "discount": true
+    },
+    {
+        "name": "Latvia",
+        "discount": true
+    },
+    {
+        "name": "Lebanon",
+        "discount": false
+    },
+    {
+        "name": "Lesotho",
+        "discount": true
+    },
+    {
+        "name": "Liberia",
+        "discount": true
+    },
+    {
+        "name": "Libya",
+        "discount": false
+    },
+    {
+        "name": "Lithuania",
+        "discount": false
+    },
+    {
+        "name": "Luxembourg",
+        "discount": false
+    },
+    {
+        "name": "Macau",
+        "discount": false
+    },
+    {
+        "name": "Madagascar",
+        "discount": true
+    },
+    {
+        "name": "Malawi",
+        "discount": true
+    },
+    {
+        "name": "Malaysia",
+        "discount": false
+    },
+    {
+        "name": "Maldives",
+        "discount": true
+    },
+    {
+        "name": "Mali",
+        "discount": true
+    },
+    {
+        "name": "Malta",
+        "discount": true
+    },
+    {
+        "name": "Marshall Islands",
+        "discount": true
+    },
+    {
+        "name": "Mauritania",
+        "discount": true
+    },
+    {
+        "name": "Mauritius",
+        "discount": true
+    },
+    {
+        "name": "Mexico",
+        "discount": false
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "discount": true
+    },
+    {
+        "name": "Moldova",
+        "discount": true
+    },
+    {
+        "name": "Mongolia",
+        "discount": true
+    },
+    {
+        "name": "Montenegro",
+        "discount": true
+    },
+    {
+        "name": "Morocco",
+        "discount": false
+    },
+    {
+        "name": "Mozambique",
+        "discount": true
+    },
+    {
+        "name": "Myanmar",
+        "discount": false
+    },
+    {
+        "name": "Namibia",
+        "discount": true
+    },
+    {
+        "name": "Nauru",
+        "discount": true
+    },
+    {
+        "name": "Nepal",
+        "discount": true
+    },
+    {
+        "name": "Netherlands",
+        "discount": false
+    },
+    {
+        "name": "New Zealand",
+        "discount": false
+    },
+    {
+        "name": "Nicaragua",
+        "discount": true
+    },
+    {
+        "name": "Niger",
+        "discount": true
+    },
+    {
+        "name": "Nigeria",
+        "discount": false
+    },
+    {
+        "name": "North Macedonia",
+        "discount": true
+    },
+    {
+        "name": "Norway",
+        "discount": false
+    },
+    {
+        "name": "Oman",
+        "discount": false
+    },
+    {
+        "name": "Pakistan",
+        "discount": false
+    },
+    {
+        "name": "Palau",
+        "discount": true
+    },
+    {
+        "name": "Panama",
+        "discount": false
+    },
+    {
+        "name": "Papua New Guinea",
+        "discount": true
+    },
+    {
+        "name": "Paraguay",
+        "discount": false
+    },
+    {
+        "name": "Peru",
+        "discount": false
+    },
+    {
+        "name": "Philippines",
+        "discount": false
+    },
+    {
+        "name": "Poland",
+        "discount": false
+    },
+    {
+        "name": "Portugal",
+        "discount": false
+    },
+    {
+        "name": "Qatar",
+        "discount": false
+    },
+    {
+        "name": "Romania",
+        "discount": false
+    },
+    {
+        "name": "Russia",
+        "discount": false
+    },
+    {
+        "name": "Rwanda",
+        "discount": true
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "discount": true
+    },
+    {
+        "name": "Saint Lucia",
+        "discount": true
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "discount": true
+    },
+    {
+        "name": "Samoa",
+        "discount": true
+    },
+    {
+        "name": "San Marino",
+        "discount": true
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "discount": true
+    },
+    {
+        "name": "Saudi Arabia",
+        "discount": false
+    },
+    {
+        "name": "Senegal",
+        "discount": true
+    },
+    {
+        "name": "Serbia",
+        "discount": false
+    },
+    {
+        "name": "Seychelles",
+        "discount": true
+    },
+    {
+        "name": "Sierra Leone",
+        "discount": true
+    },
+    {
+        "name": "Singapore",
+        "discount": false
+    },
+    {
+        "name": "Slovak Republic",
+        "discount": false
+    },
+    {
+        "name": "Slovenia",
+        "discount": false
+    },
+    {
+        "name": "Solomon Islands",
+        "discount": true
+    },
+    {
+        "name": "Somalia",
+        "discount": true
+    },
+    {
+        "name": "South Africa",
+        "discount": false
+    },
+    {
+        "name": "Spain",
+        "discount": false
+    },
+    {
+        "name": "Sri Lanka",
+        "discount": false
+    },
+    {
+        "name": "Sudan",
+        "discount": false
+    },
+    {
+        "name": "Suriname",
+        "discount": true
+    },
+    {
+        "name": "Sweden",
+        "discount": false
+    },
+    {
+        "name": "Switzerland",
+        "discount": false
+    },
+    {
+        "name": "Taiwan",
+        "discount": false
+    },
+    {
+        "name": "Tajikistan",
+        "discount": true
+    },
+    {
+        "name": "Tanzania",
+        "discount": false
+    },
+    {
+        "name": "Thailand",
+        "discount": false
+    },
+    {
+        "name": "Timor-Leste",
+        "discount": true
+    },
+    {
+        "name": "Togo",
+        "discount": true
+    },
+    {
+        "name": "Tonga",
+        "discount": true
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "discount": true
+    },
+    {
+        "name": "Tunisia",
+        "discount": true
+    },
+    {
+        "name": "Turkey",
+        "discount": false
+    },
+    {
+        "name": "Turkmenistan",
+        "discount": false
+    },
+    {
+        "name": "Tuvalu",
+        "discount": true
+    },
+    {
+        "name": "Uganda",
+        "discount": true
+    },
+    {
+        "name": "Ukraine",
+        "discount": false
+    },
+    {
+        "name": "United Arab Emirates",
+        "discount": false
+    },
+    {
+        "name": "United Kingdom",
+        "discount": false
+    },
+    {
+        "name": "United States",
+        "discount": false
+    },
+    {
+        "name": "Uruguay",
+        "discount": false
+    },
+    {
+        "name": "Uzbekistan",
+        "discount": false
+    },
+    {
+        "name": "Vanuatu",
+        "discount": true
+    },
+    {
+        "name": "Vietnam",
+        "discount": false
+    },
+    {
+        "name": "West Bank and Gaza",
+        "discount": true
+    },
+    {
+        "name": "Zambia",
+        "discount": true
+    },
+    {
+        "name": "Zimbabwe",
+        "discount": true
+    }
+]
