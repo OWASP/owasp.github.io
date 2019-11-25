@@ -302,9 +302,9 @@ permalink: /donate
             </div>
           </div>
           <div>
-            <input type="text" v-model="name_on_card" aria-label="Name on Card" placeholder="Name on Card" />
-            <div class="error-text" v-if="errors.name_on_card">
-              {{ errors.name_on_card[0] }}
+            <input type="text" v-model="name" aria-label="Name on Card" placeholder="Name on Card" />
+            <div class="error-text" v-if="errors.name">
+              {{ errors.name[0] }}
             </div>
           </div>
         </div>
@@ -354,9 +354,11 @@ window.addEventListener('load', function () {
       mailing_list: false,
       attribution: false,
       projectName: null,
+      repoName: null,
       email: null,
       email_confirm: null,
-      name_on_card: null,
+      name: null,
+      source: null,
       loading: false,
       errors: {}
     },
@@ -380,14 +382,44 @@ window.addEventListener('load', function () {
     },
     methods: {
       handleSubmit: function () {
-        this.loading = true;
+        let vm = this;
+        vm.loading = true;
         this.validateForm();
 
-        if (Object.keys(this.errors).length > 0) {
-          this.loading = false;
-          this.$nextTick(function () {
+        if (Object.keys(vm.errors).length > 0) {
+          vm.loading = false;
+          vm.$nextTick(function () {
             document.getElementById('error-message').scrollIntoView();
           })
+        } else {
+          const postData = {
+            checkout_type: 'donation',
+            amount: vm.amount,
+            currency: vm.currency,
+            recurring: vm.recurring,
+            attribution: vm.attribution,
+            project_title: vm.projectName,
+            repo_name: vm.repoName,
+            email: vm.email,
+            name: vm.name,
+            source: vm.source
+          };
+
+          axios.post('http://localhost:7071/api/CreateCheckoutSession', postData)
+            .then(function (response) {
+	      stripe.redirectToCheckout({
+		sessionId: response.data.data.session_id
+	      }).then(function (result) {
+                console.log(result.error.message)
+	      }); 
+            })
+            .catch(function (error) {
+              vm.errors = error.response.data.errors
+              vm.loading = false
+              vm.$nextTick(function () {
+                document.getElementById('error-message').scrollIntoView();
+              })
+            });
         }
       },
       changeCurrency: function (currency) {
@@ -425,8 +457,8 @@ window.addEventListener('load', function () {
           errors.email_confirm = ['Both email addresses must match.'];
         }
 
-        if (!this.name_on_card) {
-          errors.name_on_card = ['Please enter your name as it appears on your credit card.'];
+        if (!this.name) {
+          errors.name = ['Please enter your name as it appears on your credit card.'];
         }
 
         this.errors = errors;
