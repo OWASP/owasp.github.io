@@ -324,7 +324,7 @@ window.addEventListener('load', function () {
           this.membership_type = 'One Year';
           this.membership_discount = true;
           this.$forceUpdate();
-        } else if (oldCountry.discount) {
+        } else if (oldCountry && oldCountry.discount) {
           this.membership_type = null;
           this.membership_discount = false;
           this.$forceUpdate();
