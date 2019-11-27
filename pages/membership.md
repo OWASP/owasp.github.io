@@ -337,6 +337,35 @@ window.addEventListener('load', function () {
           this.$nextTick(function () {
             document.getElementById('error-message').scrollIntoView();
           })
+        } else {
+          const postData = {
+            checkout_type: 'membership',
+            membership_type: this.membership_type,
+            discount: this.membership_discount,
+            recurring: this.auto_renew,
+            country: this.country,
+            postal_code: this.postal_code,
+            email: this.email,
+            name: this.name_on_card,
+            company: this.company_name,
+            mailing_list: this.mailing_list,
+            currency: 'usd'
+          };
+          axios.post('https://owaspadmin.azurewebsites.net/api/CreateCheckoutSession?code=ulMNYVfgzBytI1adat1lS6MQ3NabtwKE4IgCJ8yKuhvbFoQh6nOYaw==', postData)
+            .then(function (response) {
+              stripe.redirectToCheckout({
+                sessionId: response.data.data.session_id
+              }).then(function (result) {
+                console.log(result.error.message)
+              }); 
+            })
+            .catch(function (error) {
+              vm.errors = error.response.data.errors
+              vm.loading = false
+              vm.$nextTick(function () {
+                document.getElementById('error-message').scrollIntoView();
+              })
+            });
         }
       },
       updateMembership: function (name, discount) {
