@@ -302,7 +302,7 @@ permalink: /donate
             </div>
           </div>
           <div>
-            <input type="text" v-model="name" aria-label="Name on Card" placeholder="Name on Card" />
+            <input type="text" v-model="name" aria-label="Name" placeholder="Name" />
             <div class="error-text" v-if="errors.name">
               {{ errors.name[0] }}
             </div>
