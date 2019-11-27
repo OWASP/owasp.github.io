@@ -280,7 +280,7 @@ permalink: /donate
 	    <input type="checkbox" v-model="mailing_list">
 	    <span class="checkmark"></span>
 	  </label>
-	  <label class="checkbox-container" v-if="projectName">Publicly list me as a supporter of {{ projectName }}
+          <label class="checkbox-container" v-if="projectName">Publicly list me as a supporter of <span style="font-weight: 900; color: #233e81">{{ projectName }}</span>
 	    <input type="checkbox" v-model="attribution">
 	    <span class="checkmark"></span>
 	  </label>
@@ -347,7 +347,7 @@ window.addEventListener('load', function () {
   new Vue({
     el: '#donate-app',
     data: {
-      amount: 0,
+      amount: 50,
       isCustomAmount: false,
       currency: 'usd',
       recurring: false,
@@ -378,6 +378,9 @@ window.addEventListener('load', function () {
       const queryParams = new URLSearchParams(window.location.search);
       if (queryParams.has('title')) {
         this.projectName = queryParams.get('title');
+      }
+      if (queryParams.has('currency') && ['usd', 'eur', 'gbp'].includes(queryParams.get('currency'))) {
+        this.currency = queryParams.get('currency');
       }
     },
     methods: {

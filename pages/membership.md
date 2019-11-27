@@ -319,10 +319,14 @@ window.addEventListener('load', function () {
       }
     },
     watch: {
-      country: function (newCountry) {
-        if ((newCountry.discount && this.membership_type === 'Two Year') || (newCountry.discount && this.membership_type === 'Lifetime')) {
+      country: function (newCountry, oldCountry) {
+        if (newCountry.discount) {
+          this.membership_type = 'One Year';
+          this.membership_discount = true;
+          this.$forceUpdate();
+        } else if (oldCountry.discount) {
           this.membership_type = null;
-          this.membership_discount = null;
+          this.membership_discount = false;
           this.$forceUpdate();
         }
       }
