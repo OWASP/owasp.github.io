@@ -403,6 +403,7 @@ window.addEventListener('load', function () {
             attribution: vm.attribution,
             project_title: vm.projectName,
             repo_name: vm.repoName,
+            mailing_list: vm.mailing_list,
             email: vm.email,
             name: vm.name,
             source: vm.source
