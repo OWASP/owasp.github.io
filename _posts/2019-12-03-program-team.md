@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 Want to help plan our next Global AppSec event? OWASP is excited to announce the launch the Global AppSec Program Team. These teams will be responsible for selecting the program and training offerings for the Global AppSecs and will be comprised of volunteers from all around either Europe or North America. Be sure to apply to volunteer before the end of the year!<!--more--> 
 
-<p class="callout-mono right">"Our primary goal is to expand community involment in Global AppSec planning."</p>
+<p class="callout-mono right">"Our primary goal is to expand community involvement in Global AppSec planning."</p>
 
 The Program Team will replace the current model of only volunteers from the local chapter being eligible to participate in the planning of Global AppSecs. This new design will reduce the burden on local chapters while more importantly giving community members from across the continents the opportunity to participate in planning these events even if the Global AppSec is not being held in their local area. After the inaugural year, team members will serve a two-AppSec term providing consistency in process while still bringing in new ideas.
 
