@@ -1,5 +1,5 @@
 ---
-title: Chapters
+title: OWASP Local Chapters
 layout: col-generic
 permalink: /chapters
 side_side: true
