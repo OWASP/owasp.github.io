@@ -1,7 +1,7 @@
 ---
 
 date:   2019-12-03
-categories: Global AppSec Program Team
+categories: Volunteer
 author: Emily Berman
 author_image: /assets/images/people/staff_emily.jpg
 layout: blogpost
