@@ -24,7 +24,7 @@ OWASP Local Chapters foster lively discussions on application security around th
     {% assign regions = site.data.chapters | map: 'region' | uniq %}
     {% for region in regions %}
         <div class="region">
-            <h2><a name="{{ region | remove: " " }}"</a>{{ region }}</h2>
+            <h2><a name="{{ region | remove: " " }}"></a>{{ region }}</h2>
             <ul>
             {% for chapter in site.data.chapters %}
                 {% if chapter.region == region %} 
