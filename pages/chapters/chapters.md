@@ -27,7 +27,7 @@ Chapter pages have general information and leader contact info on this website w
 ## Chapters by Geographic Region
 
 <div class='chapters-list'>
-    {% assign regions = site.data.chapters | map: 'region' | uniq %}
+    {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
     {% for region in regions %}
         <div class="region">
             <h2><a name="{{ region | remove: " " }}"></a>{{ region }}</h2>
