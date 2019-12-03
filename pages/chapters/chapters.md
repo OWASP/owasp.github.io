@@ -6,19 +6,17 @@ side_side: true
 tags: chapters
 ---
 
-OWASP Local Chapters foster local discussions of application security around the world. Our Local Chapter Meetings are free and open to anyone to attend so both members and non-members are alway welcomed. Chapters have general information and leader contact info on this website while running local meeting RSVPs through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
+<img src="/assets/images/content/bay_area.jpg" alt="Bay Area Chapter Meeting">
 
+OWASP Local Chapters foster lively discussions on application security around the world. Our Local Chapter Meetings are free and open to anyone to attend so both members and non-members are always welcomed. Chapters have general information and leader contact info on this website while running local meeting RSVPs through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
+
+## Local Chapter Quick Find
 {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
 <ul>
     {% for region in regions %}
         <li><a href='#{{ region | remove: " " }}'>{{ region }}</a>
     {% endfor %}
 </ul>
-
-
-## Join a Local Chapter
-Attending meetings anywhere in the world is FREE and OPEN to anyone, membership is NOT required to do so. We suggest that you locate your "home chapter" and simply sign up on the appropriate mailing list, watch for the next local meeting stop by to introduce yourself ask questions and collaborate.
-
 
 ## Chapters by Geographic Region
 
