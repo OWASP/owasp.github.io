@@ -24,7 +24,7 @@ Chapter pages on this site have general information and leader contact info. Loc
     {% endfor %}
 </ul>
 
-<a href="https://meetup.com/pro/owasp" target="_blank" rel="noopener"><button class="cta-button dark">Search using Map</button></a>
+<a href="https://meetup.com/pro/owasp" target="_blank" rel="noopener"><button class="cta-button grey">Search using Map</button></a>
 
 
 ## Chapters by Geographic Region
