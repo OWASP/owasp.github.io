@@ -102,7 +102,7 @@
 - member: true
   sponsor:
   name: GoSecure
-  image: /assets/images/corp-member-logo/go-secure.png
+  image: /assets/images/corp-member-logo/go_secure.png
   url: https://www.gosecure.com
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
 - member: true
@@ -114,7 +114,7 @@
 - member: false
   sponsor: 3
   name: HCL America
-  image: /assets/images/corp-member-logo/hcl-america.png
+  image: /assets/images/corp-member-logo/hcl.png
   url: https://www.hcltech.com/
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
 - member: true
@@ -197,7 +197,7 @@
 - member: true
   sponsor: 
   name: Realware 
-  image: /assets/images/corp-member-logo/realware.png
+  image: /assets/images/corp-member-logo/real-ware.png
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.
 - member: true
   sponsor: 3
@@ -267,7 +267,7 @@
 - member: true
   sponsor: 
   name: StackHawk
-  image: /assets/images/corp-member-logo/stackhawk.png
+  image: /assets/images/corp-member-logo/Stackhawk.jpg
   url: https://www.stackhawk.com/
   description: StackHawk is dynamic application vulnerability scanning built for modern development teams. With simple configuration, easy invocation via docker command, and interpretable results, StackHawk is built for developers to take control of their AppSec. 
 - member: true
@@ -353,6 +353,6 @@
 - member: false
   sponsor: 4
   name: ZeroNorth
-  image: /assets/images/corp-member-logo/zero-north.png
+  image: /assets/images/corp-member-logo/zeronorth.png
   url: http://www.zeronorth.io/
   description: ZeroNorth is the first company to deliver risk-based vulnerability orchestration across applications and infrastructure. By orchestrating scanning tools across the entire software lifecycle, ZeroNorth provides a comprehensive and continuous view of risk, and reduces costs associated with managing disparate technologies. ZeroNorth empowers customers across all industries to rapidly scale application and infrastructure security, while integrating seamlessly into developer environments to simplify and verify remediation.
