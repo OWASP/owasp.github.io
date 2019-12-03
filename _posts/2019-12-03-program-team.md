@@ -28,6 +28,6 @@ In return for their efforts the Program Team volunteers OWASP will provide trave
 The application to participate can be found here: [https://www.globalappsec.org/forms/team_application](https://www.globalappsec.org/forms/team_application)
 
 ```
-Applications for the Dublin will be accepted until December 31, 2019
+Applications for Dublin will be accepted until December 31, 2019
 Applications for San Francisco will be accepted until February 29, 2019.
 ````
