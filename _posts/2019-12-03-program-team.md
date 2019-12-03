@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-Want to help plan our next Global AppSec event? OWASP is excited to announce the launch the Global AppSec Program Team. These teams will be responsible for selecting the program and training offerings for the Global AppSecs and will be comprised of volunteers from all around either Europe or North America. **Be sure to apply to volunteer before the end of the year!**<!--more--> 
+Want to help plan our next Global AppSec event? OWASP is excited to announce the launch the Global AppSec Program Team. These teams will be responsible for selecting the program and training offerings for the Global AppSecs and will be comprised of volunteers from all around either Europe or North America. Be sure to apply to volunteer before the end of the year!<!--more--> 
 
 <p class="callout-mono right">"Our primary goal is to expand community involment in Global AppSec planning."</p>
 
