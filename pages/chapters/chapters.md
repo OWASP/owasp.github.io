@@ -26,7 +26,7 @@ Attending meetings anywhere in the world is FREE and OPEN to anyone, membership 
     {% assign regions = site.data.chapters | map: 'region' | uniq %}
     {% for region in regions %}
         <div class="region">
-            <a name='{{ region | remove: " " }}'</a><h2>{{ region }}</h2>
+            <h2><a name="{{ region | remove: " " }}"</a>{{ region }}</h2>
             <ul>
             {% for chapter in site.data.chapters %}
                 {% if chapter.region == region %} 
