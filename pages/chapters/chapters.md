@@ -1,6 +1,6 @@
 ---
 title: OWASP Local Chapters
-layout: col-generic
+layout: col-sidebar
 permalink: /chapters
 side_side: true
 tags: chapters
