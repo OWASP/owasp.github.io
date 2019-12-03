@@ -6,7 +6,7 @@ side_side: true
 tags: chapters
 ---
 
-OWASP Local Chapters helps to foster local discussion of application security around the world. Our Local Chapters are free and open to anyone to attend. You do not need to be a member or donor of OWASP to attend. Local Chapters have pages on this website and run local meeting RSVPs through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
+OWASP Local Chapters foster local discussions of application security around the world. Our Local Chapter Meetings are free and open to anyone to attend so both members and non-members are alway welcomed. Chapters have general information and leader contact info on this website while running local meeting RSVPs through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
 
 {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
 <ul>
@@ -37,23 +37,3 @@ Attending meetings anywhere in the world is FREE and OPEN to anyone, membership 
         </div>
     {% endfor %}
 </div>
-<script type="text/javascript">
-    $(function(){
-        $('#projects-type').click(function(){
-            $('#project-list-level').hide();
-            $('#project-list-type').show();
-            $('#projects-level').removeClass('active');
-            $('#projects-type').addClass('active');
-            $('#projects-level').addClass('inactive');
-            $('#projects-type').removeClass('inactive');
-        });
-        $('#projects-level').click(function(){
-            $('#project-list-type').hide();
-            $('#project-list-level').show();
-            $('#projects-type').removeClass('active');
-            $('#projects-level').addClass('active');
-             $('#projects-level').removeClass('inactive');
-            $('#projects-type').addClass('inactive');
-        });
-    });
-</script>
