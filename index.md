@@ -25,7 +25,7 @@ permalink: /
 
 <p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="/donate">Donate</a>, <a href="/membership">Join</a>, or become a <a href="#">Corporate Member</a> today.</p>
 
-  <a href="/chapter"  class="callout-link">Find a local chapter</a>
+  <a href="/chapters"  class="callout-link">Find a local chapter</a>
 </section>
 
 <hr>
