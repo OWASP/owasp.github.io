@@ -18,7 +18,7 @@ OWASP Local Chapters build community for application security professionals arou
 
 Chapter pages on this site have general information and leader contact info. Local meeting RSVPs are handled through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
 
-## Local Chapter Quick Find
+## Local Chapters by Region
 {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
 <ul>
     {% for region in regions %}
@@ -29,7 +29,7 @@ Chapter pages on this site have general information and leader contact info. Loc
 <a href="https://meetup.com/pro/owasp" target="_blank" rel="noopener"><button class="cta-button grey">Search using Map</button></a>
 
 
-## Chapters by Geographic Region
+## Chapter Listing
 
 <div class='chapters-list'>
     {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
