@@ -18,10 +18,10 @@ _Disclaimer:_ The following information is not an endorsement for any particular
 {% assign level = site.data.sponsor_levels | where: 'level', supporter.sponsor | first %}
 {% else %}
 {% assign level = '' %}
+{% endif %}
 {% assign wstr = '200px' %}
 {% assign hstr = 'auto' %}
 {% if supporter.vertical == true %} {% assign wstr = 'auto' %}{% assign hstr = '75px' %}{% endif %}
-{% endif %}
 | [![{{ supporter.name }}]({{ supporter.image }}){:width='{{ wstr }}' height='{{ hstr }}'}]({{ supporter.url }}){:rel="noopener sponsored" target="_blank"}{% if supporter.member %} | ![](/assets/images/member.png){:width="65px"} {% endif %} ![]({{ level.image }}){:width="65px"} |
 
 {{ supporter.description }}
