@@ -1,6 +1,6 @@
 ---
 
-layout: col-blogsidebar
+layout: col-generic
 title: Corporate Supporters
 permalink: /supporters
 
