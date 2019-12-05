@@ -1,6 +1,6 @@
 ---
 
-layout: col-generic
+layout: col-sidebar
 title: Staff and Board
 permalink: /corporate
 
