@@ -84,7 +84,8 @@
 - member: true	
   sponsor:	
   name: FICO	
-  image: /assets/images/corp-member-logo/fico.png	
+  image: /assets/images/corp-member-logo/fico.png
+  vertical: true
   url: https://www.fico.com	
   description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
 - member: true	
@@ -199,7 +200,8 @@
   sponsor: 	
   name: Salesforce	
   image: /assets/images/corp-member-logo/salesforce.png	
-  url: https://www.allstate.com/	
+  url: https://www.salesforce.com/	
+  vertical: true
   description: Salesforce is the world's number one customer relationship management platform. Our cloud-based applications for sales, service, marketing, and more don’t require IT experts to set up or manage — simply log in and start connecting to customers in a whole new way.	
 - member: true	
   sponsor: number	
@@ -216,8 +218,9 @@
 - member: true	
   sponsor: 3	
   name: Secure Code Warrior	
-  image: /assets/images/corp-member-logo/secure-code-warrior.png	
-  url: https://securecodewarrior.com/	
+  image: /assets/images/corp-member-logo/secure-code-warrior.png
+  vertical: true	
+  url: https://securecodewarrior.com/
   description: Secure Code Warrior is a global security company that makes software development better and more secure. Our vision is to empower developers to be the first line of defense in their organization by making security highly visible and providing them with the skills and tools to write secure code from the beginning. We have built a powerful platform that moves the focus from reaction to prevention, training and equipping developers to think and act with a security mindset as they build and verify their skills, gain real-time advice and monitor skill development. Our customers include financial institutions, telecommunications providers and global technology companies in Europe, North America and the Asia Pacific. 	
 - member: true	
   sponsor: 	
