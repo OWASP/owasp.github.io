@@ -20,16 +20,14 @@ We are an open community dedicated to enabling organizations to conceive, develo
 
 For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. [Donate](/donate), [Become a Member](/membership), or become a [Corporate Supporter](/supporters) today.
 
-<a href="/corporate" target="_blank" rel="noopener"><button class="cta-button grey">Meet our Board & Staff</button></a>
-
-## Core Values
-- **Open**: Everything at OWASP is radically transparent from our finances to our code.
-- **Innovative**: We encourage and support innovation and experiments for solutions to software security challenges.
-- **Global**: Anyone around the world is encouraged to participate in the OWASP community.
-- **Integrity**: Our community is respectful, supportive, truthful, and vendor neutral
-
 ## Participation and Membership
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourange diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+
+## Core Values
+- Open: Everything at OWASP is radically transparent from our finances to our code.
+- Innovative: We encourage and support innovation and experiments for solutions to software security challenges.
+- Global: Anyone around the world is encouraged to participate in the OWASP community.
+- Integrity: Our community is respectful, supportive, truthful, and vendor neutral
 
 ## Contacting OWASP
 Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72). Several other common contact points include:
