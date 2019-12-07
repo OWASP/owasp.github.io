@@ -7,7 +7,13 @@ permalink: /events
 ---
 <img src="/assets/images/web/events-header.png" alt="Attendees at a Global AppSec Conference">
 
-Ever wanted to network and learn along with other AppSec professionals? OWASP events are a great way to improve you career skills, build your professional network, and learn about new trends in the industry. Our organization hosts nearly a dozen events each year varying in format to week long traings and conferences, to single day programs. While some of our events have corporate sponsors, the content is vendor neutral and speakers are carefully selected.
+Ever wanted to network and learn along with other AppSec professionals? We host nearly a dozen events each year varying in format to week long trainings and conferences, to single day programs. OWASP events are a great way to:
+
+- Improve you career skills
+- Build your professional network
+- Learn about new trends in the industry
+
+While some of our events have corporate sponsors, the content is vendor neutral, and speakers are carefully selected ensuring a good return on your investment of time and money. Often times are larger events also host Expositions, Capture the Flags, and Career Fairs. Often members get a discount on conference passes.
 
 ## Global Events
 
