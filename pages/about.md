@@ -27,6 +27,8 @@ Most questions you might have about the OWASP Foundation can be found by searchi
 - [Corporate Sponsorships or Support](mailto:kelly.santalucia@owasp.com?subject=Corporate%20Sponsorships%20or%20Support)
 - [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing)
 
+<a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button grey">Contact Us</button></a>
+
 Our global address for general correspondence and faxes can be sent to our physical office address, at: 
 
 ```
@@ -36,7 +38,6 @@ Bel Air, MD 21014
 +1 951-692-7703 (phone)
 +1 443-283-4021 (fax)
 ```
-[Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 
 The European legal address is:
 
