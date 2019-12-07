@@ -16,6 +16,8 @@ Pictured above is the Global Board Class of 2019. From left to right: [Martin Kn
 
 Under the direction of the Executive Director, staff implements programs and policies of the Foudation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.
 
+Each year the staff works with the Global Board to establish an [Operating Plan](/www-staff/operating-plan/2020) and Budget. The work efforts of our staff are tracked publicly on the [Staff Projects Page](/www-staff/) along with [upcoming milestones](/www-staff/milestones).
+
 <section id="staff" class="corporate">
 <div>	
  {% for member in site.data.staff %}
