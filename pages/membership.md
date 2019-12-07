@@ -180,14 +180,16 @@ permalink: /membership
       <!-- main membership form -->
 
       <h1>Individual Membership</h1>
+      <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
 
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.</p>
+      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we mover forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. There are many benefits to membership including:</p>
+      <ul>
+      	<li>Ongoing Support of our work</li>
+	<li>Discounted Conference Fees</li>
+	<li>Corpoate owasp.org email address</li>
+	<li>Priority access to Travel Grants</li>
+	<li>And many others...</li>
+      </ul>
 
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
