@@ -31,18 +31,18 @@ Our global address for general correspondence and faxes can be sent to our physi
 
 ```
 OWASP Foundation
-  1200-C Agora Drive, #232
-  Bel Air, MD 21014
- +1 951-692-7703 (phone)
- +1 443-283-4021 (fax)
- [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
+1200-C Agora Drive, #232
+Bel Air, MD 21014
++1 951-692-7703 (phone)
++1 443-283-4021 (fax)
+[Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 ```
 The European legal address is:
 
 ```
 OWASP Europe VZW
-  Leinstraat 104A
-  B-9660 Opbrakel
-  Belgium
-  [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
+Leinstraat 104A
+B-9660 Opbrakel
+Belgium
+[Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 ```
