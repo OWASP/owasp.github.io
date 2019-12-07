@@ -15,6 +15,8 @@ Ever wanted to network and learn along with other AppSec professionals? We host 
 
 While some of our events have corporate sponsors, the content is vendor neutral, and speakers are carefully selected ensuring a good return on your investment of time and money. Often times are larger events also host Expositions, Capture the Flags, and Career Fairs. Often members get a discount on conference passes.
 
+Skip to <a href="#regionalevents">Regional Events</a> or <a href="#globalpartnerevents">Partner Events</a>
+
 ## Global Events
 
 Our premier events with up to three days of training followed by a two day conference with keynotes and multiple tracks. A global team plans the agenda, selects the speakers, and hosts the event.
@@ -29,6 +31,7 @@ Our premier events with up to three days of training followed by a two day confe
 - Registration Opens March 1, 2020
 - [https://sf.globalappsec.org](https://sf.globalappsec.org)
 
+<a name="regionalevents"</a>
 ## Regional Events
 
 Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
@@ -45,6 +48,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 
 **This content will be rendered from a regional-events.yml file
 
+<a name="globalpartnerevents"</a>
 ## Global Partner Events
 
 Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing) for more information.
