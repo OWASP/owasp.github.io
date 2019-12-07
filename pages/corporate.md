@@ -10,7 +10,7 @@ permalink: /corporate
 
 The OWASP Foundation Global Board is comprised of seven elected members who serve for two-year terms. Each Fall, membership votes to elect new leadership for the Foundation. Generally our Board meets monthly and meetings are open to the public. The Global Board sets the strategic direction of the Foundation, its policies, and sets governance and leadership roles. 
 
-Pictured above is the Global Board Class of 2019. From left to right: [Martin Knobloch, Chair](mailto:martin.knobloch@owasp.org), [Sherif Mansour, Treasurer](mailto:sherif.mansour@owasp.org), [Owen Pendlebury, Vice Chair](mailto:owen.pendlebury@owasp.org), [Richard Greenberg, Member at Large](mailto:richard.greenberg@owasp.org), [Gary Robinson, Member at Large](mailto:gary.robinson@owasp.org), [Ofer Maor, Secretary](mailto:ofer.maor@owasp.org), [Chengxi Wang, Member at Large](mailto:chengxi.wang@owasp.org), 
+Pictured above is the Global Board Class of 2019. From left to right: [Martin Knobloch, Chair](mailto:martin.knobloch@owasp.org), [Sherif Mansour, Treasurer](mailto:sherif.mansour@owasp.org), [Owen Pendlebury, Vice Chair](mailto:owen.pendlebury@owasp.org), [Richard Greenberg, Member at Large](mailto:richard.greenberg@owasp.org), [Gary Robinson, Member at Large](mailto:gary.robinson@owasp.org), [Ofer Maor, Secretary](mailto:ofer.maor@owasp.org), [Chengxi Wang, Member at Large](mailto:chengxi.wang@owasp.org).
 
 ## Staff
 
