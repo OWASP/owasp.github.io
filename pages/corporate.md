@@ -1,24 +1,20 @@
 ---
 
 layout: col-generic
-title: Staff and Board
+title: Board and Staff
 permalink: /corporate
 
 ---
 
-## About OWASP
+<img src="/assets/images/web/board.png" alt="Global Board Class of 2019">
 
-Every vibrant technology marketplace needs an unbiased source of information on best practices as well as an active body advocating open standards. In the Application Security space, one of those groups is the Open Web Application Security Project™ (or OWASP for short).
+The OWASP Foundation Global Board is comprised of seven elected members who serve for two-year terms. Each Fall, membership votes to elect new leadership for the Foundation. Generally our Board meets monthly and meetings are open to the public. The Global Board sets the strategic direction of the Foundation, its policies, and sets governance and leadership roles. 
 
-The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations are able to make informed decisions. OWASP is in a unique position to provide impartial, practical information about AppSec to individuals, corporations, universities, government agencies, and other organizations worldwide. Operating as a community of like-minded professionals, OWASP issues software tools and knowledge-based documentation on application security.
+Pictured above is the Global Board Class of 2019. From left to right: [Martin Knobloch, Chair]((mailto:martin.knobloch@owasp.org), [Sherif Mansour, Treasurer]((mailto:sherif.mansour@owasp.org), [Owen Pendlebury, Vice Chair]((mailto:owen.pendlebury@owasp.org), [Richard Greenberg, Member at Large]((mailto:richard.greenberg@owasp.org), [Gary Robinson, Member at Large]((mailto:gary.robinson@owasp.org), [Ofer Maor, Secretary]((mailto:ofer.maor@owasp.org), [Chengxi Wang, Member at Large]((mailto:chengxi.wang@owasp.org), 
 
-Everyone is free to participate in OWASP and all of our materials are available under a free and open software license. You'll find everything about OWASP here on or linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
+n## Staff
 
-We ask that the community look out for inappropriate uses of the OWASP brand including use of our name, logos, project names, and other trademark issues.
-
-There are thousands of active wiki users around the globe who review the changes to the site to help ensure quality. If you're new, you may want to check out our getting started page. As a global group of volunteers with over 45,000 participants, questions or comments should be sent to one of our many mailing lists focused on a topic or directed to the staff using the OWASP Contact Us Form.
-
-## Staff
+Under the direction of the Executive Director, staff implement programs and policies of the Foudation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.
 
 <section id="staff" class="corporate">
 <div>	
