@@ -31,7 +31,7 @@ Our premier events with up to three days of training followed by a two day confe
 - Registration Opens March 1, 2020
 - [https://sf.globalappsec.org](https://sf.globalappsec.org)
 
-<a name="regionalevents"</a>
+<a name="regionalevents">
 ## Regional Events
 
 Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
@@ -48,7 +48,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 
 **This content will be rendered from a regional-events.yml file
 
-<a name="globalpartnerevents"</a>
+<a name="globalpartnerevents">
 ## Global Partner Events
 
 Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing) for more information.
