@@ -20,3 +20,26 @@ For nearly two decades corporations, foundations, developers, and volunteers hav
 
 <a href="/corporate" target="_blank" rel="noopener"><button class="cta-button grey">Meet our Board & Staff</button></a>
 
+
+## Contacting OWASP
+Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72). Several other common contact points include:
+
+- [Corporate Sponsorships or Support](mailto:kelly.santalucia@owasp.com)
+- [Partnership Marketing](mailto:lisa.jones@owasp.com)
+
+Our global address for general correspondence and faxes can be sent to our physical office address, at: 
+
+  OWASP Foundation
+  1200-C Agora Drive, #232
+  Bel Air, MD 21014
+ +1 951-692-7703 (phone)
+ +1 443-283-4021 (fax)
+ [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
+
+The European legal address is:
+
+  OWASP Europe VZW
+  Leinstraat 104A
+  B-9660 Opbrakel
+  Belgium
+  [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
