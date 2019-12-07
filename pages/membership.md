@@ -182,7 +182,7 @@ permalink: /membership
       <h1>Individual Membership</h1>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
 
-      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we mover forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. There are many benefits to membership including:</p>
+      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. Please note we also offer regional pricing to make OWASP accessible to everyone. There are many benefits to membership including:</p>
       <ul>
       	<li>Ongoing Support of our work</li>
 	<li>Discounted Conference Fees</li>
@@ -191,6 +191,7 @@ permalink: /membership
 	<li>And many others...</li>
       </ul>
 
+      <h2>Join Now</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
