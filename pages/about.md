@@ -28,6 +28,9 @@ For nearly two decades corporations, foundations, developers, and volunteers hav
 - **Global**: Anyone around the world is encouraged to participate in the OWASP community.
 - **Integrity**: Our community is respectful, supportive, truthful, and vendor neutral
 
+## Participation and Membership
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourange diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+
 ## Contacting OWASP
 Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72). Several other common contact points include:
 
@@ -55,8 +58,6 @@ Leinstraat 104A
 B-9660 Opbrakel
 Belgium
 ```
-## Participation and Membership
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourange diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Code of Conduct
 - Perform all professional activities and duties in accordance with all applicable laws and the highest ethical principles;
