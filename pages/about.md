@@ -39,6 +39,7 @@ OWASP Foundation
 Bel Air, MD 21014
 +1 951-692-7703 (phone)
 +1 443-283-4021 (fax)
+EIN #20-0963503
 ```
 
 The European legal address is:
