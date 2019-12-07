@@ -16,6 +16,8 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The OWASP Foundation launched on December 1st, 2001, becoming incorporated as a United States non-profit charity on April 21, 2004.
 
+<p class="callout-mono right">Our community improves the security of software.</p>
+
 For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. [Donate](/donate), [Become a Member](/membership), or become a [Corporate Supporter](/supporters) today.
 
 <a href="/corporate" target="_blank" rel="noopener"><button class="cta-button grey">Meet our Board & Staff</button></a>
@@ -27,7 +29,7 @@ Most questions you might have about the OWASP Foundation can be found by searchi
 - [Corporate Sponsorships or Support](mailto:kelly.santalucia@owasp.com?subject=Corporate%20Sponsorships%20or%20Support)
 - [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing)
 
-<a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button grey">Contact Us</button></a>
+<a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
 
 Our global address for general correspondence and faxes can be sent to our physical office address, at: 
 
