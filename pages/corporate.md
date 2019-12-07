@@ -1,7 +1,7 @@
 ---
 
 layout: col-generic
-title: Glboal Board and Staff
+title: Global Board and Staff
 permalink: /corporate
 
 ---
