@@ -14,13 +14,15 @@ Transparency is a core value of our community, and you will be expected to have 
 
 Principals only, applications are only considered when submitted to the links below.
 
-## Marketing Manager
+## Current Searches
+
+#### Marketing Manager
 
 The Marketing Manager will lead and grow global awareness for our mission, work product, and organization. Each year millions of visitors find useful tools and technical guidance on our website and we aim to convert that interest into active members of our community.
 
 Reporting to the Executive Director, this role is directly responsible for the growth and affinity of the OWASP brand as measured by Awareness, well attended conferences, along with web traffic and conversions. Successful candidates will have defined and managed marketing plans and tactics for international trade groups in the technology sector. Salary commensurate with experience with published range of $40,000 - $60,000 per year. [Apply Now](https://owasp.wufoo.com/forms/employment-application/def/field18=Marketing%20Manager)
 
-## Technical Manager
+#### Technical Manager
 
 The Technical Manager will manage and perform intermediate-level sysAdmin, IT, security, and integration coding projects for the Foundation. Several of our projects will offer unique opportunities for advanced integration techniques and visibility into our global InfoSec and developer community.
 
