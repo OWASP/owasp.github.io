@@ -15,7 +15,7 @@ Ever wanted to network and learn along with other AppSec professionals? We host 
 
 While some of our events have corporate sponsors, the content is vendor neutral, and speakers are carefully selected ensuring a good return on your investment of time and money. Often times are larger events also host Expositions, Capture the Flags, and Career Fairs. Often members get a discount on conference passes.
 
-Skip to <a href="#regionalevents">Regional Events</a> or <a href="#globalpartnerevents">Partner Events</a>
+Skip to <a href="#regionalevents">Regional Events</a> or <a href="#globalpartnerevents">Global Partner Events</a>
 
 ## Global Events
 
