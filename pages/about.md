@@ -1,7 +1,7 @@
 ---
 
 layout: col-generic
-title: About the OWASP Foundadtion
+title: About the OWASP Foundation
 permalink: /about
 
 ---
@@ -35,8 +35,9 @@ OWASP Foundation
 Bel Air, MD 21014
 +1 951-692-7703 (phone)
 +1 443-283-4021 (fax)
-[Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 ```
+[Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
+
 The European legal address is:
 
 ```
@@ -44,5 +45,4 @@ OWASP Europe VZW
 Leinstraat 104A
 B-9660 Opbrakel
 Belgium
-[Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 ```
