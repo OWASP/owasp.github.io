@@ -22,6 +22,11 @@ For nearly two decades corporations, foundations, developers, and volunteers hav
 
 <a href="/corporate" target="_blank" rel="noopener"><button class="cta-button grey">Meet our Board & Staff</button></a>
 
+## Core Values
+- **Open**: Everything at OWASP is radically transparent from our finances to our code.
+- **Innovative**: We encourage and support innovation and experiments for solutions to software security challenges.
+- **Global**: Anyone around the world is encouraged to participate in the OWASP community.
+- **Integrity**: Our community is respectful, supportive, truthful, and vendor neutral
 
 ## Contacting OWASP
 Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72). Several other common contact points include:
@@ -50,3 +55,21 @@ Leinstraat 104A
 B-9660 Opbrakel
 Belgium
 ```
+## Participation and Membership
+Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](). We especially encourange diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+
+## Code of Conduct
+- Perform all professional activities and duties in accordance with all applicable laws and the highest ethical principles;
+- Promote the implementation of and promote compliance with standards, procedures, controls for application security;
+- Maintain appropriate confidentiality of proprietary or otherwise sensitive information encountered in the course of professional activities;
+- Discharge professional responsibilities with diligence and honesty;
+- To communicate openly and honestly;
+- Refrain from any activities which might constitute a conflict of interest or otherwise damage the reputation of employers, the information security profession, or the Association;
+- To maintain and affirm our objectivity and independence;
+- To reject inappropriate pressure from industry or others;
+- Not intentionally injure or impugn the professional reputation of practice of colleagues, clients, or employers;
+- Treat everyone with respect and dignity; and
+- To avoid relationships that impair — or may appear to impair — OWASP's objectivity and independence.
+
+## Licensing
+All OWASP materials are available under an approved FLOSS License.
