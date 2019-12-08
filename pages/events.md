@@ -5,7 +5,7 @@ title: OWASP Global & Regional Events
 permalink: /events
 
 ---
-<img src="/assets/images/web/events-header.png" alt="Attendees at a Global AppSec Conference">
+![Attendees at a Global AppSec Conference](/assets/images/web/events-header.png)
 
 Ever wanted to network and learn along with other AppSec professionals? We host nearly a dozen events each year varying in format to week long trainings and conferences, to single day programs. OWASP events are a great way to:
 
