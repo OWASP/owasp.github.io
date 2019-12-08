@@ -5,6 +5,8 @@ title: About the OWASP Foundation
 permalink: /about
 
 ---
+
+![Attendees at a Global AppSec Conference](/assets/images/web/about_header.png)
 <img src="/assets/images/web/about_header.png" alt="Attendees at a Global AppSec Conference">
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programming includes:
