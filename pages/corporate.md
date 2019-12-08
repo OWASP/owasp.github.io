@@ -6,7 +6,7 @@ permalink: /corporate
 
 ---
 
-<img src="/assets/images/web/board.png" alt="Global Board Class of 2019">
+![Global Board Class of 2019](/assets/images/web/board.png)
 
 The OWASP Foundation Global Board is comprised of seven elected members who serve for two-year terms. Each Fall, membership votes to elect new leadership for the Foundation. Generally our Board meets monthly and meetings are open to the public. The Global Board sets the strategic direction of the Foundation, its policies, and sets governance and leadership roles. 
 
