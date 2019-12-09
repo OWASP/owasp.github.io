@@ -5,8 +5,10 @@ title: Finance
 permalink: /finance
 
 ---
+## Securing the Web for Everyone
+![Women in AppSec Training at Global AppSec DC](/assets/images/web/wia_dc.png)
 
-## Securing the Web
+The OWASP Foundation is deeply committed to making apps more secure - and more inclusive. Pictured above is a recent Introduction to AppSec Training Class at our Global AppSec Conference that was offered at no charge to diversity candidates. The Women in AppSec Committee has championed this effort and is making progress at increasing the diversity of the AppSec community.  In 2019, the OWASP Foundation committed over USD$100,000 towards diversity programs.  Additionally we offer discounted membership dues for students and people living in developing economies. And of course, all of OWASP Projects, Chapters, Local Meetings, and many events are free and open to all attendees.
 
 Copy about our transparency. Copy about % of funds directly to programs.
 
