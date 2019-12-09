@@ -12,6 +12,8 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 
 Pictured above is the Global Board Class of 2019. From left to right: [Martin Knobloch, Chair](mailto:martin.knobloch@owasp.org), [Sherif Mansour, Treasurer](mailto:sherif.mansour@owasp.org), [Owen Pendlebury, Vice Chair](mailto:owen.pendlebury@owasp.org), [Richard Greenberg, Member at Large](mailto:richard.greenberg@owasp.org), [Gary Robinson, Member at Large](mailto:gary.robinson@owasp.org), [Ofer Maor, Secretary](mailto:ofer.maor@owasp.org), [Chengxi Wang, Member at Large](mailto:chengxi.wang@owasp.org).
 
+The [Global Board Home Page](/www-board/) has information about upcoming meetings, former meeting minutes, Board decisions, contact information, and other general information.
+
 ## Staff
 
 Under the direction of the Executive Director, staff implements programs and policies of the Foudation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.
