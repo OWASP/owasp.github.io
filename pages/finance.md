@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Finance
-permalink: /Finance
+permalink: /finance
 
 ---
 
