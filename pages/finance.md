@@ -26,6 +26,7 @@ As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foun
 - [2019 W-9](/assets/legal/2019_W9.pdf){:target='_blank'}
 
 ## Tax Returns (Form 990)
+The OWASP Foundadtion is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December and we post our 990 as early as July of each year and have our finanicals audited every three years.
 
 - [2018 Coming Soon]
 - [2017](/assets/financial-taxreturns/2017_Form_990.pdf){:target='_blank'}
@@ -40,7 +41,6 @@ As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foun
 - [2008](/assets/financial-taxreturns/2008_Form_990.pdf){:target='_blank'}
 - [2007](/assets/financial-taxreturns/2007_Form_990.pdf){:target='_blank'}
 
-The OWASP Foundadtion is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December and we post our 990 as early as July of each year and have our finanicals audited every three years.
 
 ## Audited Financial Statements
 
