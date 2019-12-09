@@ -41,6 +41,11 @@ The OWASP Foundadtion is a registered 501(c)(3) non-profit organization. Our fis
 
 ## Audited Financial Statements
 
+The OWASP Foundation audits their finacials every three years. The next audit year is 2019.
+- [2016 - Coming Soon](#){:target='_blank'}
 - [2013](/assets/financial-audits/OWASP_Audit_Report_2013.pdf){:target='_blank'}
 - [2010](/assets/financial-audits/OWASP_Audit_Report_2010.pdf){:target='_blank'}
 - [2007](/assets/financial-audits/OWASP_Audit_Report_2007.pdf){:target='_blank'}
+
+## Tax Deductability
+As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foundation are generally tax deductable. OWASP membership fees, OWASP conferences fees, and OWASP conference sponsorship include benefits for the paying organization/individual which limits their tax-deductability. Please consult a tax professional or your local taxing authority for details. The OWASP Foundation US Tax ID (EIN) is: 20-0963503.
