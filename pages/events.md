@@ -21,15 +21,15 @@ Skip to <a href="#regionalevents">Regional Events</a> or <a href="#globalpartner
 
 Our premier events with up to three days of training followed by a two day conference with keynotes and multiple tracks. A global team plans the agenda, selects the speakers, and hosts the event.
 
-#### Global AppSec Dublin
-- June 15-19, 2020
-- Registration Opens February 1, 2020
-- [https://dublin.globalappsec.org](https://dublin.globalappsec.org)
-
-#### Global AppSec San Francisco
-- October 19-23, 2020
-- Registration Opens March 1, 2020
-- [https://sf.globalappsec.org](https://sf.globalappsec.org)
+{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'global'" | sort: 'start-date' | limit: 100 %}
+{% for event in eventlist %}
+<h3>{{ event.name }}</h3>
+<ul>
+<li>{{ event.dates }}</li>
+{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
+<li><a href='{{ event.url }}' target='_blank'>{{ event.url }}</a></li>
+</ul>
+{% endfor %}
 
 <a name="regionalevents">
 ## Regional Events
@@ -45,18 +45,6 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 <li><a href='{{ event.url }}' target='_blank'>{{ event.url }}</a></li>
 </ul>
 {% endfor %}
-
-#### German OWAPS Day 2019
-- December 9-10, 2019
-- Karlsruhe, Germany
-- [https://god.owasp.de/]([https://god.owasp.de/)
-
-#### OWASP Italy Day Udine 2019
-- December 14, 2019
-- Udine, Italy
-- [https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019](https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019)
-
-**This content will be rendered from a regional-events.yml file
 
 <a name="globalpartnerevents">
 ## Global Partner Events
