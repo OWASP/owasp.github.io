@@ -36,6 +36,21 @@ Our premier events with up to three days of training followed by a two day confe
 
 Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
 
+
+{% assign event-list = site.events | sort: 'start-date' | limit: 100 %}
+{% for event in event-list %}
+ {% if event.type contains 'local' %}
+  <h3>{{ event.name }}</h3>
+    <ul>
+      <li>{{ event.dates }}</li>
+      {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% end if %}
+      <li>
+        <a href='{{ event.url }}' target='_blank'>{{ event.url }}</a></li>
+ {% endif %}
+{% endfor %}
+
+
+
 #### German OWAPS Day 2019
 - December 9-10, 2019
 - Karlsruhe, Germany
