@@ -41,15 +41,15 @@
   url: https://www.brinqa.com	
   description: Brinqa is a leading provider of unified risk management – enabling stakeholders, governance organizations, and infrastructure and security teams to effectively manage technology risk at the speed of business. Brinqa software and cloud services leverage an organization’s existing investment in systems, security, and governance programs to identify, measure, manage and monitor risk. With Brinqa, organizations are reducing response time to emerging threats, impact to the business, and technology risk and compliance costs by over 50% through real-time risk analytics, automated risk assessments, prioritized remediation, actionable insights, and improved communication. Founded in 2008 by industry leaders in risk management with a proven track record in delivering cutting edge, innovative and cost-effective solutions. Brinqa’s award-winning software and cloud services are trusted by fortune 500 companies across risk disciplines such as information technology risk, vendor risk, and regulatory compliance risk. Brinqa is headquartered in Austin, Texas and has a global presence.	
 - member: true	
-  sponsor: 4	
+  sponsor:
   name: Bugcrowd	
   image: /assets/images/corp-member-logo/bugcrowd.png	
   url: https://www.bugcrowd.com	
   description: Bugcrowd is the world’s number one crowdsourced security company. Our award-winning platform combines actionable, contextual intelligence with the skill and experience of the world’s most trusted, skilled hackers to help leading organizations solve security challenges, protect customers, and make the digitally-connected world a safer place.	
 - member: true	
-  sponsor:	
+  sponsor: 4	
   name: CA, Inc.	
-  image: /assets/images/corp-member-logo/ca-technologies.jpg  	
+  image: /assets/images/corp-member-logo/ca-technologies.png  	
   url: https://www.catechnologies.com	
   description: CA Technologies helps customers succeed in a future where every business—from apparel to energy—is being rewritten by software. From planning to development to management to security, at CA we create software that fuels transformation for companies in the application economy.	
 - member: false	
@@ -84,22 +84,10 @@
   description: Denim Group is the leading independent application security firm, serving as a trusted advisor to customers on matters of application risk and security. The company helps organizations assess and mitigate application security risks.  Denim Group’s flagship ThreadFix platform accelerates the process of application vulnerability remediation, reflecting the company’s rich understanding of what it takes to fix application vulnerabilities faster.		
 - member: true	
   sponsor:	
-  name: FICO	
-  image: /assets/images/corp-member-logo/fico.png	
-  url: https://www.fico.com	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
-- member: true	
-  sponsor:	
-  name: Fortinet	
-  image: /assets/images/corp-member-logo/fortinet.png	
-  url: https://www.fortinet.com	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
-- member: true	
-  sponsor:	
   name: GoSecure	
   image: /assets/images/corp-member-logo/go_secure.png	
   url: https://www.gosecure.com	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
+  description: Founded in 2012, GoSecure has worked towards one simple goal – preventing breaches. Tactics change, technology adapts, security teams ebb and flow in size and budget, yet breaches still occur. As organizations adopt a “when, not if” approach towards breaches, many are looking for true help, not just another new technology. GoSecure Managed Detection and Response is the only MDR solution that combines visibility across all major attack vectors with industry leading threat intelligence and operational experience. It’s this unique combination that allows GoSecure MDR to detect breaches sooner and respond before data loss begins. Detection with Response the GoSecure way!
 - member: true	
   sponsor: 	
   name: HackerOne	
@@ -110,8 +98,8 @@
   sponsor: 3	
   name: HCL America	
   image: /assets/images/corp-member-logo/hcl.png	
-  url: https://www.hcltech.com/	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
+  url: https://www.hcltechsw.com/wps/portal/products/appscan	
+  description: HCL AppScan provides a family of application security testing tools that help software publishers detect and remediate vulnerabilities, and comply with regulations and security best practices. It's powerful static, dynamic, and open source scanning engines can deploy in every phase of the development lifecycle and test web applications, APIs, mobile apps, and more.	
 - member: true	
   sponsor: 	
   name: High-Tech Bridge SA 	
@@ -165,9 +153,9 @@
   name: Oracle	
   image: /assets/images/corp-member-logo/oracle.png	
   url: https://www.oracle.com/index.html	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
+  description: Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems. In 2018, Oracle was the third-largest software company by revenue. 	
 - member: true	
-  sponsor: 	
+  sponsor: 	 
   name: Oxford Web Applications	
   image: /assets/images/corp-member-logo/oxford-web-apps-02.png	
   url: https://www.oxfordwebapps.co.uk/	
@@ -183,13 +171,13 @@
   name: Qualys	
   image: /assets/images/corp-member-logo/qualys.png	
   url: https://www.qualys.com/	
-  description: 	Qualys is a pioneer and leading provider of cloud-based security and compliance solutions. The Qualys Cloud Platform and its integrated apps - including Web Application Scanning (WAS) - help businesses simplify security operations and lower the cost of compliance by delivering critical security intelligence and automating the full spectrum of auditing, compliance, and protection for IT systems and web applications. Founded in 1999, Qualys has established strategic partnerships with leading managed service providers and consulting organizations including Accenture, BT, Cognizant Technology Solutions, Deutsche Telekom, Fujitsu, HP Enterprise, IBM, Infosys, NTT, Optiv, SecureWorks, Tata Communications, Verizon, and Wipro. The company is also a founding member of the Cloud Security Alliance. 	
+  description: Qualys is a pioneer and leading provider of cloud-based security and compliance solutions. The Qualys Cloud Platform and its integrated apps - including Web Application Scanning (WAS) - help businesses simplify security operations and lower the cost of compliance by delivering critical security intelligence and automating the full spectrum of auditing, compliance, and protection for IT systems and web applications. Founded in 1999, Qualys has established strategic partnerships with leading managed service providers and consulting organizations including Accenture, BT, Cognizant Technology Solutions, Deutsche Telekom, Fujitsu, HP Enterprise, IBM, Infosys, NTT, Optiv, SecureWorks, Tata Communications, Verizon, and Wipro. The company is also a founding member of the Cloud Security Alliance. 	
 - member: true	
   sponsor: 	
   name: Realware 	
   image: /assets/images/corp-member-logo/real-ware.png	
-  url: https://www.real-ware.com/about_overview.html	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
+  url: https://www.real-ware.com
+  description: Realware is a digital transformation solution provider that offers complete e-business solutions. Realware starts with expert strategy, realizes it in impactful design and functional solutions, and sustains growth with ongoing support and development. Our Custom SaaS deployment model allows our clients to take advantage of our functional and non-functional (security, performance, compliance) expertise. Realware has helped global enterprises achieve their international business goals for over 20 years. Brands from industries as diverse as telecommunications, health care, consumer products and financial services come to us (and come back) because of the continued value we deliver.
 - member: true	
   sponsor: 3	
   name: RIPS Technologies	
@@ -200,7 +188,8 @@
   sponsor: 	
   name: Salesforce	
   image: /assets/images/corp-member-logo/salesforce.png	
-  url: https://www.allstate.com/	
+  url: https://www.salesforce.com/	
+  vertical: true
   description: Salesforce is the world's number one customer relationship management platform. Our cloud-based applications for sales, service, marketing, and more don’t require IT experts to set up or manage — simply log in and start connecting to customers in a whole new way.	
 - member: true	
   sponsor: number	
@@ -217,8 +206,9 @@
 - member: true	
   sponsor: 3	
   name: Secure Code Warrior	
-  image: /assets/images/corp-member-logo/secure-code-warrior.png	
-  url: https://securecodewarrior.com/	
+  image: /assets/images/corp-member-logo/secure-code-warrior.png
+  vertical: true	
+  url: https://securecodewarrior.com/
   description: Secure Code Warrior is a global security company that makes software development better and more secure. Our vision is to empower developers to be the first line of defense in their organization by making security highly visible and providing them with the skills and tools to write secure code from the beginning. We have built a powerful platform that moves the focus from reaction to prevention, training and equipping developers to think and act with a security mindset as they build and verify their skills, gain real-time advice and monitor skill development. Our customers include financial institutions, telecommunications providers and global technology companies in Europe, North America and the Asia Pacific. 	
 - member: true	
   sponsor: 	
@@ -235,7 +225,7 @@
 - member: false	
   sponsor: 4	
   name: Security Journey	
-  image: /assets/images/corp-member-logo/Security_Journey.png	
+  image: /assets/images/corp-member-logo/securityjourney.png
   url: https://www.securityjourney.com/	
   description: Security Journey is the leader in application security education using security belt programs. We guide our clients many in tech, healthcare, and finance to building long-term, sustainable application security culture. We incorporate everything you need to deploy and manage an education program.  Our cloud-based platform delivers application security lessons from an ever-growing library of content, provides hands-on, immersive experiments, measures student and organizational growth, rewards student achievements, and transforms an enterprise’s security culture. We promote security awareness organization-wide with learning that is engaging, motivating, and fun. In short, we provide security education developers, testers, and managers love.	
 - member: true	
@@ -255,17 +245,17 @@
   name: Software Improvement Group	
   image: /assets/images/corp-member-logo/sig.png
   url: https://www.softwareimprovementgroup.com/	
-  description: Qui ut et qui culpa. Corporis aut non quae ea eum ad non. Qui mollitia aliquam veritatis. Reprehenderit voluptas assumenda rem et neque ullam. Iure sequi quisquam iure voluptatibus.	
+  description: SIG gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
 - member: true	
   sponsor: 	
   name: StackHawk	
-  image: /assets/images/corp-member-logo/Stackhawk.jpg	
+  image: /assets/images/corp-member-logo/stackhawk.png	
   url: https://www.stackhawk.com/	
   description: StackHawk is dynamic application vulnerability scanning built for modern development teams. With simple configuration, easy invocation via docker command, and interpretable results, StackHawk is built for developers to take control of their AppSec. 	
 - member: true	
   sponsor: 	
   name: Symantec	
-  image: /assets/images/corp-member-logo/Symantec.jpg	
+  image: /assets/images/corp-member-logo/symantec.jpg	
   url: https://www.symantec.com/	
   description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."	
 - member: true	
