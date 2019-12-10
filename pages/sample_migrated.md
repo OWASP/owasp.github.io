@@ -21,7 +21,7 @@ Please visit our [Page Migration Guide](https://www2.owasp.org/migration) for mo
 
 Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-front matter for this file
+{front matter for this file}
 
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
@@ -30,7 +30,7 @@ front matter for this file
 - region: This is the region you are in according to our data
 ```
 
-copy for this file
+{copy for this file}
 
 ```
 ## Welcome
@@ -48,11 +48,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings.
 
 ```
-info.md
+{info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
 
-leaders.md
+{leaders.md}
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
