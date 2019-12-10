@@ -1,7 +1,7 @@
 ---
 
 title: Sample Migrated Page
-layout: col-sidebar
+layout: col-generic
 region: 
 tags:
 permalink: /sample-migrated
