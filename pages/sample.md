@@ -147,6 +147,8 @@ permalink: /sample
 
 <section class="news-events">
   
+ <div style="font-size: 40px; background-color: #EFF15E;">
+  
 <i class="far fa-exclamation-circle"></i>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
@@ -155,5 +157,5 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 - title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
 - tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
 - region: This is the region you are in according to our data
-
+</div>
 </section>
