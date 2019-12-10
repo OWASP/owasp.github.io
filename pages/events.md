@@ -23,7 +23,7 @@ Our premier events with up to three days of training followed by a two day confe
 
 {% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'global'" | sort: 'start-date' | limit: 100 %}
 {% for event in eventlist %}
-<h3>{{ event.name }}</h3>
+<h4>{{ event.name }}</h4>
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
@@ -38,7 +38,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 
 {% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'local'" | sort: 'start-date' | limit: 100 %}
 {% for event in eventlist %}
-<h3>{{ event.name }}</h3>
+<h4>{{ event.name }}</h4>
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
