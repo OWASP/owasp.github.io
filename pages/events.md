@@ -38,13 +38,12 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 
 {% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'local'" | sort: 'start-date' | limit: 100 %}
 {% for event in eventlist %}
-  <h3>{{ event.name }}</h3>
-    <ul>
-      <li>{{ event.dates }}</li>
-      {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-      <li>
-        <a href='{{ event.url }}' target='_blank'>{{ event.url }}</a></li>
-    </ul>
+<h3>{{ event.name }}</h3>
+<ul>
+<li>{{ event.dates }}</li>
+{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
+<li><a href='{{ event.url }}' target='_blank'>{{ event.url }}</a></li>
+</ul>
 {% endfor %}
 
 #### German OWAPS Day 2019
