@@ -18,7 +18,7 @@ Please visit our [Page Migration Guide](https://www2.owasp.org/migration) for mo
 
 <p hidden>This is an example of a Project or Chapter Page.</p>
 
-<-- Standard Chapter Page Template
+<!-- Standard Chapter Page Template
 
 Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
