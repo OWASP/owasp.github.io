@@ -149,6 +149,6 @@ permalink: /sample
   
  <div style="padding: 10px; background-color: #ffd21c;">
   
-<p>Thank you for visiting OWASP.org. We recently migrated our community to a new web platform and regretably the content for this group needed to be programmatically ported from its previous wiki page. There’s still some work to be done so the migrated content can be [found here](migrated_content).</p>
+<p>Thank you for visiting OWASP.org. We recently migrated our community to a new web platform and regretably the content for this group needed to be programmatically ported from its previous wiki page. There’s still some work to be done so the historical content can be <a href="/migrated_content">found here</a>.</p>
 </div>
 </section>
