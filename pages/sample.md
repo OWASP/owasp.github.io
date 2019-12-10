@@ -147,7 +147,7 @@ permalink: /sample
 
 <section class="news-events">
   
- <div style="font-color: #ffffff; padding: 10px; background-color: #434545;">
+ <div style="padding: 10px; background-color: #ffd21c;">
   
 <p>Thank you for visiting OWASP.org. We recently migrated our community to a new web platform and regretably the content for this group needed to be programmatically ported from its previous wiki page. There’s still some work to be done so the migrated content can be [found here](migrated_content).</p>
 </div>
