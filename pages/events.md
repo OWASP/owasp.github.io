@@ -44,6 +44,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
       {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
       <li>
         <a href='{{ event.url }}' target='_blank'>{{ event.url }}</a></li>
+    </ul>
 {% endfor %}
 
 #### German OWAPS Day 2019
@@ -67,4 +68,4 @@ Throughout the year, the OWASP Foundation partners with major AppSec conferences
 - December, 2-5, 2019
 - London, England
 - € 200.00 discount code available
-- [Registion Site](https://www.blackhat.com/eu-19/?_mc=sem_x_bheur_le_tsnr_bheu_x_goog_x-BHEU2019Beu&ppc=y&kw=x&gclid=EAIaIQobChMI7M7t_9im5QIVAj0MCh1kDAAlEAAYASAAEgK18vD_BwE)
+- [Registration Site](https://www.blackhat.com/eu-19/?_mc=sem_x_bheur_le_tsnr_bheu_x_goog_x-BHEU2019Beu&ppc=y&kw=x&gclid=EAIaIQobChMI7M7t_9im5QIVAj0MCh1kDAAlEAAYASAAEgK18vD_BwE)
