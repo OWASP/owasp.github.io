@@ -1,340 +1,898 @@
-- member: true	
-  sponsor: 	
-  name: Accenture	
-  image: /assets/images/corp-member-logo/accenture.PNG	
-  url: https://www.accenture.com	
-  description: Accenture Security helps businesses prepare, protect, detect, respond and recover along all points of the security lifecycle with over 5,000 exceptionally-skilled security professionals worldwide.  Cybersecurity challenges are different for every business in every industry. Leveraging our global resources and next-generation technologies, we create integrated, practical solutions that are tailored to each organization’s specific business goals and industry solutions that clients can put in place immediately. Whether defending against known threats, quickly detecting and responding to the unknown or running an entire security operations center, we help harden organizations and make it extremely difficult for even the most sophisticated cyber adversaries to succeed.	
-- member: true	
-  sponsor: 	
-  name: Adobe	
-  image: /assets/images/corp-member-logo/adobe.png	
-  url: https://www.adobe.com	
-  description: Adobe is the global leader in digital marketing and digital media solutions. Our tools and services allow our customers to create groundbreaking digital content, deploy it across media and devices, measure and optimize it over time, and achieve greater business success. We help our customers make, manage, measure, and monetize their content across every channel and screen.	
-- member: true	
-  sponsor: 	
-  name: Allstate	
-  image: /assets/images/corp-member-logo/allstate.png	
-  url: https://www.allstate.com	
-  description: Allstate Corporation is the largest publicly held personal lines property and casualty insurer in America, serving more than 16 million households nationwide. Founded in 1931, Allstate has been dedicated to protecting our customers from life’s uncertainties and preparing them for the future for more than 85 years. As the needs of our customers evolve, so does our technology and security practices to ensure our customers remain in good hands.	
-- member: true	
-  sponsor: 4	
-  name: Altitude Networks	
-  image: /assets/images/corp-member-logo/altitude-networks.png	
-  url: https://www.altitudenetworks.com	
-  description: Altitude Networks tackles data security in the cloud to protect enterprises against unauthorized data access, accidental or malicious sharing to unintended individuals, and data theft.	
-- member: true  
-  sponsor: 4	
-  name: Avatao	
-  image: /assets/images/corp-member-logo/avatao.png	
-  url: https://www.avatao.com	
-  description: Avatao is an online training platform for building secure software. It offers a rich library of hands-on IT security exercises for software engineers to teach secure programming from design to deployment in a fun and intuitive way. Educating for secure software can significantly improve software quality, increase trust in a company’s brand, reduce development costs and reduce the risks of suffering significant losses from cyber-attacks. In today’s world, secure software development practices are a basic requirement and we believe the solution should be integrated into the ground roots of software development teams. The platform can be used to provide security awareness to software engineers, to enrich existing IT security training, meetups or allow self-directed learning for continuous professional development. Avatao hackathons are also an excellent method to discover talented developers and engage and build brand awareness in the community. Avatao is a creation out of CrySyS Lab, world-renowned experts in IT security. Learning communities like business teams use Avatao for an improved and efficient learning experience. Mid-size and large software and financial companies use Avatao’s gamified online training to organize security hackathons, onboard new hires or upskill software developers to build secure software. The Avatao platform was publicly launched in 2016 for end-users and business customers. Initial customers include LogMeIn (US), Prezi (HU), Microsec (HU), Emarsys (HU), Photobox (UK), and many other companies are piloting the platform including Fortune 100 companies. Avatao currently has 5000+ users and 500+ exercises.	
-- member: true	
-  sponsor:	
-  name: Avi Networks	
-  image: /assets/images/corp-member-logo/avi-network.png	
-  url: https://www.avinetworks.com	
-  description: Avi Networks completes enterprises’ digital transformation with its software load balancer, intelligent Web Application Firewall, and modern application services. The Avi Vantage Platform is deployed across data centers and clouds, delivering better elasticity, intelligence, and cost savings by providing granular per-tenant and per-app services. Customers enjoy 5X faster application rollouts, actionable analytics, and 70% lower costs.	
-- member: true	
-  sponsor: 	
-  name: Brinqa	
-  image: /assets/images/corp-member-logo/brinqa.png	
-  url: https://www.brinqa.com	
-  description: Brinqa is a leading provider of unified risk management – enabling stakeholders, governance organizations, and infrastructure and security teams to effectively manage technology risk at the speed of business. Brinqa software and cloud services leverage an organization’s existing investment in systems, security, and governance programs to identify, measure, manage and monitor risk. With Brinqa, organizations are reducing response time to emerging threats, impact to the business, and technology risk and compliance costs by over 50% through real-time risk analytics, automated risk assessments, prioritized remediation, actionable insights, and improved communication. Founded in 2008 by industry leaders in risk management with a proven track record in delivering cutting edge, innovative and cost-effective solutions. Brinqa’s award-winning software and cloud services are trusted by fortune 500 companies across risk disciplines such as information technology risk, vendor risk, and regulatory compliance risk. Brinqa is headquartered in Austin, Texas and has a global presence.	
-- member: true	
-  sponsor:
-  name: Bugcrowd	
-  image: /assets/images/corp-member-logo/bugcrowd.png	
-  url: https://www.bugcrowd.com	
-  description: Bugcrowd is the world’s number one crowdsourced security company. Our award-winning platform combines actionable, contextual intelligence with the skill and experience of the world’s most trusted, skilled hackers to help leading organizations solve security challenges, protect customers, and make the digitally-connected world a safer place.	
-- member: true	
-  sponsor: 4	
-  name: CA, Inc.	
-  image: /assets/images/corp-member-logo/ca-technologies.png  	
-  url: https://www.catechnologies.com	
-  description: CA Technologies helps customers succeed in a future where every business—from apparel to energy—is being rewritten by software. From planning to development to management to security, at CA we create software that fuels transformation for companies in the application economy.	
-- member: false	
-  sponsor: 1	
-  name: Cequence Security	
-  image: /assets/images/corp-member-logo/cequence.png	
-  url: https://www.cequence.com	
-  description: Cequence Security is a venture-backed cybersecurity software company founded in 2015 and based in Sunnyvale, CA. Its mission is to transform application security by consolidating multiple innovative security functions within an open, AI-powered software platform that protects customers web, mobile, and API-based applications – and supports today’s cloud-native, container-based application architectures. The company is led by industry veterans that previously held leadership positions at Palo Alto Networks and Symantec. Customers include F500 organizations across multiple vertical markets, and the solution has earned multiple industry accolades.	
-- member: true	
-  sponsor: 4	
-  name: Checkmarx	
-  image: /assets/images/corp-member-logo/checkmarx.png	
-  url: https://www.checkmarx.com	
-  description: Checkmarx is an Application Security software company, whose mission is to provide enterprise organizations with application security testing products and services that empower developers to deliver secure applications. Amongst the company's 1,000 customers are 5 of the world's top 10 software vendors and many Fortune 500 and government organizations. Checkmarx CxSAST is a highly accurate and flexible Source Code Analysis product that allows organizations to automatically scan a un-compiled/un-built code and identify hundreds of security vulnerabilities in the most prevalent coding languages.	
-- member: false	
-  sponsor: 4	
-  name: CodeDX	
-  image: /assets/images/corp-member-logo/code-dx.png	
-  url: https://www.codedx.com	
-  description: Code Dx is committed to reducing barriers to effective application security. Our automated application vulnerability correlation and management tools help find and fix insecure code faster, with less effort and a smaller team. Focus your precious resources on developing valuable new features, and ship secure code faster and more often.	
-- member: true	
-  sponsor: 1	
-  name: Contrast Security	
-  image: /assets/images/corp-member-logo/contrast-security.png	
-  url: https://www.contrastsecurity.com	
-  description: Contrast Security delivers the world’s fastest application security software that eliminates the single greatest security risk to enterprises today. Industry research shows that application security flaws are the leading source of data breaches. Contrast can be deployed, automatically discover applications and identify vulnerabilities within seven minutes. Relying on sensors instead of expensive security experts, Contrast runs continuously and is 10 times more accurate than the competition. Unlike tedious, painful and slow legacy approaches, Contrast analyzes a complete portfolio of running applications simultaneously in real-time at any scale. As a result, organizations can act faster against threats and immediately reduce risk. 	
-- member: true	
-  sponsor:	
-  name: Denim Group	
-  image: /assets/images/corp-member-logo/denim-group.png	
-  url: https://www.denimgroup.com	
-  description: Denim Group is the leading independent application security firm, serving as a trusted advisor to customers on matters of application risk and security. The company helps organizations assess and mitigate application security risks.  Denim Group’s flagship ThreadFix platform accelerates the process of application vulnerability remediation, reflecting the company’s rich understanding of what it takes to fix application vulnerabilities faster.		
-- member: true	
-  sponsor:	
-  name: GoSecure	
-  image: /assets/images/corp-member-logo/go_secure.png	
-  url: https://www.gosecure.com	
-  description: Founded in 2012, GoSecure has worked towards one simple goal – preventing breaches. Tactics change, technology adapts, security teams ebb and flow in size and budget, yet breaches still occur. As organizations adopt a “when, not if” approach towards breaches, many are looking for true help, not just another new technology. GoSecure Managed Detection and Response is the only MDR solution that combines visibility across all major attack vectors with industry leading threat intelligence and operational experience. It’s this unique combination that allows GoSecure MDR to detect breaches sooner and respond before data loss begins. Detection with Response the GoSecure way!
-- member: true	
-  sponsor: 	
-  name: HackerOne	
-  image: /assets/images/corp-member-logo/hackerone.png	
-  url: https://www.hackerone.com/	
-  description: HackerOne is the number 1 hacker-powered security platform, helping organizations receive and resolve critical vulnerabilities before they can be exploited. More than 1,000 organizations, including the U.S. Department of Defense, U.S. General Service Administration, General Motors, Twitter, GitHub, Nintendo, Panasonic Avionics, Qualcomm, Square, Starbucks, Dropbox and the CERT Coordination Center trust HackerOne to find critical software vulnerabilities. HackerOne customers have resolved over 57,000 vulnerabilities and awarded over $22M in bug bounties. HackerOne is headquartered in San Francisco with offices in London and the Netherlands.	
-- member: false	
-  sponsor: 3	
-  name: HCL America	
-  image: /assets/images/corp-member-logo/hcl.png	
-  url: https://www.hcltechsw.com/wps/portal/products/appscan	
-  description: HCL AppScan provides a family of application security testing tools that help software publishers detect and remediate vulnerabilities, and comply with regulations and security best practices. It's powerful static, dynamic, and open source scanning engines can deploy in every phase of the development lifecycle and test web applications, APIs, mobile apps, and more.	
-- member: true	
-  sponsor: 	
-  name: High-Tech Bridge SA 	
-  image: /assets/images/corp-member-logo/immuniweb.png	
-  url: https://www.immuniweb.com/	
-  description: High-Tech Bridge is a global provider of web and mobile Application Security Testing (AST) services. Our award-winning AST platform ImmuniWeb® combines the genius of Human Intelligence with the power of Artificial Intelligence and Machine Learning. ImmuniWeb® leverages Artificial Intelligence (AI) and Machine Learning (ML) for intelligent automation of application vulnerability scanning and acceleration of application penetration testing. High-Tech Bridge's security experts from our CREST-accredited SOC look for the most complicated application vulnerabilities and attack vectors in instant synchronization and correlation with automated vulnerability scanning. Invented by High-Tech Bridge, this type of hybrid security testing, enhanced with AI/ML, delivers the most comprehensive vulnerability detection rate, continuously reduces human intervention without impacting the quality of testing, and contractually guarantees zero false-positives to every customer.	
-- member: true	
-  sponsor: 	
-  name: HiSolutions	
-  image: /assets/images/corp-member-logo/hi-solutions.png	
-  url: https://www.hisolutions.com/	
-  description: We combine know-how in the areas of security consulting, IT governance, risk & compliance with conceptual strength, innovation and implementation expertise. In addition to protecting applications and networks, our core competencies also include organizational tasks such as setting up security, risk, and service management system. HiSolutions AG is one of the leading consulting specialists for IT management and information security in Germany. More than 200 experts advise in the areas of security consulting, IT governance, business continuity management, and digitalization. We actively participate in the development of national and international standards and are involved in various research projects and university teachings.	
-- member: true	
-  sponsor: 	
-  name: Kiuwan	
-  image: /assets/images/corp-member-logo/kiuwan.png	
-  url: https://www.kiuwan.com/	
-  description: Kiuwan provides an end-to-end Software Analytics platform that offers objective data to make informed decisions to secure, analyze and control the entire SDLC of any application portfolio. With Kiuwan Code Security, the scope in threat mitigation is unparalleled, with over 4000+ custom rules, ability to suppress defects and create tailored action plans while meeting the most stringent industry standard requirements. In constant evolution, it boasts broad language support and integration with Jira, Jenkins, and Github to name but a few of the possibilities brought about by the platform.	
-- member: true	
-  sponsor: 	
-  name: Mercari, Inc.	
-  image: /assets/images/corp-member-logo/mercari.png	
-  url: https://about.mercari.com/en/	
-  description: Mercari is a C2C marketplace app that makes it easy for people to safely sell and ship their things. Launched in 2013, it's now among the largest peer-to-peer selling platforms globally. From fashion to toys, shoes to electronics and beyond, Mercari's mission is to "create value in a global marketplace where anyone can buy and sell."	
-- member: true	
-  sponsor: 	
-  name: Netsparker	
-  image: /assets/images/corp-member-logo/netsparker.png	
-  url: https://www.netsparker.com/	
-  description: Netsparker develops an industry leading automated web application security scanner. Available as Windows desktop software and as a Cloud service, the Netsparker scanner is very easy to use and its proof-based vulnerability scanning technology enables you to easily and automatically detect SQL Injection, Cross-site scripting and other vulnerabilities in your websites, web applications and web services. Netsparker’s unique scanning, detection and auto exploitation techniques allow it to be dead accurate. Therefore you do not have to waste time manually verifying the scanner’s findings and instead can focus on fixing the identified vulnerabilities. Netsparker is trusted and used by world renowned companies such as Samsung, Ernst & Young, Skype, NASA, ISACA and ING Bank.	
-- member: true	
-  sponsor: 	
-  name: NetSPI	
-  image: /assets/images/corp-member-logo/netspi_owler_20171208_205822_original.png	
-  url: http://www.netspi.com/	
-  description: NetSPI is a privately held information-security consulting company founded in 2001. By using its consulting team's deep security knowledge and its CorrelatedVM vulnerability management & reporting solution, the company is a trusted advisor to large enterprises. NetSPI provides a range of assessment and advisory services designed to analyze and mitigate risks and ensure compliance with relevant regulations and industry standards. Clients include large financial services firms, retailers, healthcare organizations and technology companies.	
-- member: true	
-  sponsor: 4	
-  name: NowSecure	
-  image: /assets/images/corp-member-logo/nowsecure.png	
-  url: https://www.nowsecure.com/	
-  description: Only the NowSecure Platform delivers automated 360-degree coverage of mobile app security testing with the speed and depth modern enterprises require. The world’s most demanding organizations and advanced security teams trust NowSecure to identify the broadest array of security, privacy, and compliance gaps in custom, third-party, and business-critical mobile apps.	
-- member: true	
-  sponsor: 	
-  name: Oneconsult	
-  image: /assets/images/corp-member-logo/oneconsult.png	
-  url: https://www.oneconsult.com/en/	
-  description: Oneconsult group is your renowned Swiss cyber security services partner since 2003 with offices in Switzerland and Germany and 1500+ completed security projects worldwide. Get expert advice from an owner-managed and vendor-independent consultancy with 35+ highly qualified cyber security experts, including certified penetration testers (OPST, OPSA, OSCP, OSCE, GXPN), digital forensics specialists (GCFA, GCFE, GREM), ISO security auditors (ISO 27001 Lead Auditor, ISO 27005 Risk Manager) and dedicated IT security researchers to solve even your most demanding information security challenges. Together we address your external and internal threats such as malware infections, hacker attacks and APT as well as digital fraud and data leakage with core services like penetration testing, ethical hacking, real-life APT tests and ISO 27001 security audits. In case of emergency, One consults incident response & IT forensics team supports you with around-the-clock expert assistance 24 h x 365 days. 	
-- member: true	
-  sponsor: 	
-  name: Oracle	
-  image: /assets/images/corp-member-logo/oracle.png	
-  url: https://www.oracle.com/index.html	
-  description: Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood Shores, California. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems. In 2018, Oracle was the third-largest software company by revenue. 	
-- member: true	
-  sponsor: 	 
-  name: Oxford Web Applications	
-  image: /assets/images/corp-member-logo/oxford-web-apps-02.png	
-  url: https://www.oxfordwebapps.co.uk/	
-  description: Since 1995 we have always developed the most up-to-date and progressive digital solutions designed to empower people. Our mission is to deploy the latest proven technology to deliver unique products with astounding performance. Our Oxford based team are responsible for delivering our full range of services which includes the design, development, hosting, supporting and testing of interactive Web Applications and websites.	
-- member: true	
-  sponsor: 	
-  name: Panasonic Corporation	
-  image: /assets/images/corp-member-logo/panasonic.png	
-  url: https://www.panasonic.com/	
-  description: 100 years ago, Panasonic started with a desire to create things with value. Since then, the challenge has continued into various fields including home appliances to realize "A Better Life, A Better World".  Considering product security as part of quality management, we have strived to improve the security of products. Specific activities include threat analysis during the design process, and vulnerability testing before shipment. After shipment, Panasonic PSIRT- Product Security Incident Response Team works to respond to incidents toward a quick resolution. To provide products that our customers can use with peace of mind, we will continue product security initiatives.	
-- member: true	
-  sponsor: 4	
-  name: Qualys	
-  image: /assets/images/corp-member-logo/qualys.png	
-  url: https://www.qualys.com/	
-  description: Qualys is a pioneer and leading provider of cloud-based security and compliance solutions. The Qualys Cloud Platform and its integrated apps - including Web Application Scanning (WAS) - help businesses simplify security operations and lower the cost of compliance by delivering critical security intelligence and automating the full spectrum of auditing, compliance, and protection for IT systems and web applications. Founded in 1999, Qualys has established strategic partnerships with leading managed service providers and consulting organizations including Accenture, BT, Cognizant Technology Solutions, Deutsche Telekom, Fujitsu, HP Enterprise, IBM, Infosys, NTT, Optiv, SecureWorks, Tata Communications, Verizon, and Wipro. The company is also a founding member of the Cloud Security Alliance. 	
-- member: true	
-  sponsor: 	
-  name: Realware 	
-  image: /assets/images/corp-member-logo/real-ware.png	
-  url: https://www.real-ware.com
-  description: Realware is a digital transformation solution provider that offers complete e-business solutions. Realware starts with expert strategy, realizes it in impactful design and functional solutions, and sustains growth with ongoing support and development. Our Custom SaaS deployment model allows our clients to take advantage of our functional and non-functional (security, performance, compliance) expertise. Realware has helped global enterprises achieve their international business goals for over 20 years. Brands from industries as diverse as telecommunications, health care, consumer products and financial services come to us (and come back) because of the continued value we deliver.
-- member: true	
-  sponsor: 3	
-  name: RIPS Technologies	
-  image: /assets/images/corp-member-logo/rips-tech.png	
-  url: https://www.ripstech.com/	
-  description: RIPS Technologies delivers automated security analysis for web applications as platform independent software or highly scalable cloud service. With our unique approach, even complex security vulnerabilities are detected that no other solution can detect. Detailed patch instructions allow remediating security risks time and cost efficiently, before these are exposed to attackers.	
-- member: true	
-  sponsor: 	
-  name: Salesforce	
-  image: /assets/images/corp-member-logo/salesforce.png	
-  url: https://www.salesforce.com/	
-  vertical: true
-  description: Salesforce is the world's number one customer relationship management platform. Our cloud-based applications for sales, service, marketing, and more don’t require IT experts to set up or manage — simply log in and start connecting to customers in a whole new way.	
-- member: true	
-  sponsor: number	
-  name: Salt Security	
-  image: /assets/images/corp-member-logo/Salt_Security.png	
-  url: https://salt.security/	
-  description: Salt Security makes it safe to innovate by protecting the APIs at the core of every SaaS, web, mobile, microservices and IoT application. Our API Protection Platform is deployed in minutes, and requires no configuration or customization. We use patented behavioral protection to automatically and continuously discover and learn the granular behavior of each unique API to ensure protection. The company was founded in 2016 by alumni of the Israeli Defense Forces (IDF) and serial cybersecurity executives. In 2019 Salt Security was selected as a finalist for the RSA Innovation Sandbox and as the winner of the OWASP Innovation Fair.	
-- member: true	
-  sponsor: 	
-  name: SCSK Corporation	
-  image: /assets/images/corp-member-logo/SCSK.jpeg	
-  url: http://www.scsk.jp/index_en.html	
-  description: SCSK provides a full lineup of services to support any area of IT solution required for businesses from system integration to IT infrastructure implementation, IT management, BPO(business process outsourcing), and IT hardware and software sales.In addition, we take advantage of the capability to support a global IT system network for customers including Sumitomo Corporation, aiming for further leaps ahead as a global IT services company.	
-- member: true	
-  sponsor: 3	
-  name: Secure Code Warrior	
-  image: /assets/images/corp-member-logo/secure-code-warrior.png
-  vertical: true	
-  url: https://securecodewarrior.com/
-  description: Secure Code Warrior is a global security company that makes software development better and more secure. Our vision is to empower developers to be the first line of defense in their organization by making security highly visible and providing them with the skills and tools to write secure code from the beginning. We have built a powerful platform that moves the focus from reaction to prevention, training and equipping developers to think and act with a security mindset as they build and verify their skills, gain real-time advice and monitor skill development. Our customers include financial institutions, telecommunications providers and global technology companies in Europe, North America and the Asia Pacific. 	
-- member: true	
-  sponsor: 	
-  name: SecureBrain	
-  image: /assets/images/corp-member-logo/SecureBrain.png	
-  url: https://www.securebrain.co.jp/eng/	
-  description: SecureBrain a Hitachi Group Company is a leader in providing software and services to help protect enterprises and their customers against cybercrime including online fraud and malware attacks.  To ensure that our customers are always protected from the latest trend of cybercrime, SecureBrain has its own advanced security research center. Team of security researchers works closely with many Japanese government research agencies to research and develop solutions against the latest cyber threats.	
-- member: true	
-  sponsor: 	
-  name: Security Innovation	
-  image: /assets/images/corp-member-logo/security-innovation.png	
-  url: https://www.securityinnovation.com/	
-  description: 	Security Innovation is a pioneer in software security and trusted advisor to its clients. Since 2002, organizations have relied on our assessment and training solutions to make the use of software systems safer in the most challenging environments – whether in Web applications, IoT devices, or the cloud. The company’s flagship product, CMD+CTRL Cyber Range, is the industry’s only simulated Web site environment designed to build the skills teams need to protect the enterprise where it is most vulnerable – at the application layer. Security Innovation is privately held and headquartered in Wilmington, MA USA.	
-- member: false	
-  sponsor: 4	
-  name: Security Journey	
-  image: /assets/images/corp-member-logo/security-journey.png
-  url: https://www.securityjourney.com/	
-  description: Security Journey is the leader in application security education using security belt programs. We guide our clients many in tech, healthcare, and finance to building long-term, sustainable application security culture. We incorporate everything you need to deploy and manage an education program.  Our cloud-based platform delivers application security lessons from an ever-growing library of content, provides hands-on, immersive experiments, measures student and organizational growth, rewards student achievements, and transforms an enterprise’s security culture. We promote security awareness organization-wide with learning that is engaging, motivating, and fun. In short, we provide security education developers, testers, and managers love.	
-- member: true	
-  sponsor: 4	
-  name: Shiftleft	
-  image: /assets/images/corp-member-logo/shiftleft.png	
-  url: https://www.shiftleft.io/?utm_source=blog&utm_medium=web	
-  description: ShiftLeft is a continuous application security platform, purpose built for the modern software development life cycle. It combines next-generation static code analysis to quickly and accurately identify vulnerabilities with application instrumentation to protect the application in an automated workflow. This combination of runtime-informed code analysis and code- informed runtime protection delivers the most accurate, automated, and comprehensive application security solution.	
-- member: true	
-  sponsor: 	
-  name: Signal Sciences	
-  image: /assets/images/corp-member-logo/signal-sciences.png
-  url: https://www.signalsciences.com/
-  description: Signal Sciences secures the most important web applications, APIs, and microservices of the world's leading companies. Our next-gen WAF and RASP help you increase security and maintain site reliability without sacrificing velocity, all at the lowest total cost of ownership. Learn how our patented approach can help you.	
-- member: true	
-  sponsor: 	
-  name: Software Improvement Group	
-  image: /assets/images/corp-member-logo/sig.png
-  url: https://www.softwareimprovementgroup.com/	
-  description: SIG gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
-- member: true	
-  sponsor: 	
-  name: StackHawk	
-  image: /assets/images/corp-member-logo/stackhawk.png	
-  url: https://www.stackhawk.com/	
-  description: StackHawk is dynamic application vulnerability scanning built for modern development teams. With simple configuration, easy invocation via docker command, and interpretable results, StackHawk is built for developers to take control of their AppSec. 	
-- member: true	
-  sponsor: 	
-  name: Symantec	
-  image: /assets/images/corp-member-logo/symantec.jpg	
-  url: https://www.symantec.com/	
-  description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."	
-- member: true	
-  sponsor: 	
-  name: Synack	
-  image: /assets/images/corp-member-logo/Synack.png	
-  url: https://www.synack.com/	
-  description: Synack, the most trusted crowdsourced security testing platform, delivers smarter penetration testing for dynamic attack surfaces on a continuous cadence. The company’s hacker-powered, AI-enabled pen test provides access to the best worldwide talent, scalable and smart technology, and insights that secure our nation's critical infrastructure and leading brands and businesses.	
-- member: true	
-  sponsor: 4	
-  name: Synopsys	
-  image: /assets/images/corp-member-logo/synopsys.png	
-  url: https://www.synopsys.com/	
-  description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.	
-- member: true	
-  sponsor: 	
-  name: The Media Trust	
-  image: /assets/images/corp-member-logo/the-media-trust.png	
-  url: https://mediatrust.com/	
-  description: The Media Trust is on a mission fixing the internet. To make the internet a healthier, more valuable place for businesses, governments and consumers, The Media Trust’s centralized platform provides real-time visibility and insight into non-compliant activity and threats operating in enterprise website and mobile app environments. With an emphasis on third-party code beyond libraries, the platform identifies all executing code (including code from first, third and nth parties), analyzes its behavior, assesses compliance with company policies, and resolves violating behavior. The ability to manage third-party digital risk helps defend against website breaches which can lead to regulatory fines, revenue loss, and reputational harm 	
-- member: true	
-  sponsor: 	
-  name: ThoughtWorks	
-  image: /assets/images/corp-member-logo/thoughtworks.png	
-  url: https://www.thoughtworks.com/	
-  description: We are a software company and community of passionate, purpose-led individuals. We think disruptively to deliver technology that addresses our clients’ toughest challenges, all while seeking to revolutionize the IT industry and create positive social change. ThoughtWorks' 3,000 professionals serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Italy, Singapore, South Africa, Turkey, Uganda, the United Kingdom, and the United States. ThoughtWorks releases a regular technology radar, a study that looks at the key trends that impact software development and business strategies. The Radar helps companies stay on top of topics that are constantly evolving, such as security, and offers insight and practical tools to build secure systems at every stage of the development process.	
-- member: true	
-  sponsor: 	
-  name: Twistlock	
-  image: /assets/images/corp-member-logo/twistlock.png	
-  url: https://www.twistlock.com/	
-  description: Twistlock is the most complete, automated and scalable cloud native cybersecurity platform. Trusted by hundreds of customers worldwide, Twistlock uses the strengths of cloud native to provide better security for teams using Docker, Kubernetes, Lambda, Fargate, and other modern technologies.	
-- member: true	
-  sponsor: 	
-  name: UBsecure	
-  image: /assets/images/corp-member-logo/ub-secure.png	
-  url: https://vex.ubsecure.jp/lpen	
-  description: UBsecure is a leading web application security company based in Japan since 2007. We offer various security solutions for web application and smartphone application by utilizing in-house developed application security testing tool, Vex. Vex built by a tremendous amount of experience in professional security scanning and by its continuous feedback. The unique characteristic of the tool is that it used as a stand-alone security testing tool as well as the seamless security testing component within the SDLC. Therefore, Vex is not only for professional security auditors but also for software developers who need secure development cycles. Please visit our site for more information about Vex.	
-- member: true	
-  sponsor: 	
-  name: Veracode	
-  image: /assets/images/corp-member-logo/veracode.png	
-  url: https://www.veracode.com/	
-  description: Veracode gives companies a comprehensive view of security defects so they can create secure software, and ensure the software they are buying or downloading is free of vulnerabilities. As a result, companies using Veracode are free to boldly innovate, explore, discover, and change the world.	
-- member: false	
-  sponsor: 4	
-  name: Wallarm	
-  image: /assets/images/corp-member-logo/wallarm.png	
-  url: https://wallarm.com/	
-  description: 'Wallarm delivers automated cloud-native application and API security throughout application development and deployment lifecycle. Wallarm AI-powered Application Security Platform includes FAST for CI/CD-integrated security test automation during development and Advanced WAF attack blocking and vulnerability protection after deployment. Wallarm platform aligns security and development into a unified pipeline.	
-  Detects OWASP Top 10, 0 day and behavioral issues<br />	
-  Provides highly accurate detection based on patent-pending technology<br />	
-  Improves security test coverage by automatically generating and running tests<br />	
-  Automates issue management with deep learning, policies and build in active rechecker<br />	
-  Provide easy-to-manage multi-tenant multi-application unified management platform<br />'	
-- member: false	
-  sponsor: 4	
-  name: Waratek	
-  image: /assets/images/corp-member-logo/waratek.png	
-  url: http://www.waratek.com/	
-  description: "The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code.<br />	
-  Instantly apply code equivalent security patches to Java and .NET applications<br />	
-  Actively secure against the OWASP Top Ten / SANS 25 / Zero-Day vulnerabilities<br />	
-  Virtually upgrade & secure out-of-support, vulnerable Java applications.  All with no source code changes or False Positives.<br />"	
-- member: true	
-  sponsor: 	
-  name: WhiteHat Security	
-  image: /assets/images/corp-member-logo/white-hat-security.png	
-  url: https://www.whitehatsec.com/	
-  description: WhiteHat Security is the leader in application security, enabling businesses to protect critical data, ensure compliance, and manage risk. Through a combination of technology, over a decade of intelligence metrics, and the judgment of people, WhiteHat Security provides complete web security at a scale and accuracy unmatched in the industry.	
-- member: true	
-  sponsor: 4	
-  name: WhiteSource Software	
-  image: /assets/images/corp-member-logo/whitesource.png	
-  url: https://www.whitesourcesoftware.com/	
-  description: WhiteSource helps software security teams manage open source components used in their products, automatically and continuously. It becomes part of your SDLC and automates the entire process of open source components selection, approval, and management, including finding and fixing vulnerable components.	
-- member: false	
-  sponsor: 4	
-  name: ZeroNorth	
-  image: /assets/images/corp-member-logo/zeronorth.png	
-  url: http://www.zeronorth.io/	
-  description: ZeroNorth is the first company to deliver risk-based vulnerability orchestration across applications and infrastructure. By orchestrating scanning tools across the entire software lifecycle, ZeroNorth provides a comprehensive and continuous view of risk, and reduces costs associated with managing disparate technologies. ZeroNorth empowers customers across all industries to rapidly scale application and infrastructure security, while integrating seamlessly into developer environments to simplify and verify remediation.
+LSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjogCQogIG5hbWU6IEFjY2VudHVy
+ZQkKICBpbWFnZTogL2Fzc2V0cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9h
+Y2NlbnR1cmUuUE5HCQogIHVybDogaHR0cHM6Ly93d3cuYWNjZW50dXJlLmNv
+bQkKICBkZXNjcmlwdGlvbjogQWNjZW50dXJlIFNlY3VyaXR5IGhlbHBzIGJ1
+c2luZXNzZXMgcHJlcGFyZSwgcHJvdGVjdCwgZGV0ZWN0LCByZXNwb25kIGFu
+ZCByZWNvdmVyIGFsb25nIGFsbCBwb2ludHMgb2YgdGhlIHNlY3VyaXR5IGxp
+ZmVjeWNsZSB3aXRoIG92ZXIgNSwwMDAgZXhjZXB0aW9uYWxseS1za2lsbGVk
+IHNlY3VyaXR5IHByb2Zlc3Npb25hbHMgd29ybGR3aWRlLiAgQ3liZXJzZWN1
+cml0eSBjaGFsbGVuZ2VzIGFyZSBkaWZmZXJlbnQgZm9yIGV2ZXJ5IGJ1c2lu
+ZXNzIGluIGV2ZXJ5IGluZHVzdHJ5LiBMZXZlcmFnaW5nIG91ciBnbG9iYWwg
+cmVzb3VyY2VzIGFuZCBuZXh0LWdlbmVyYXRpb24gdGVjaG5vbG9naWVzLCB3
+ZSBjcmVhdGUgaW50ZWdyYXRlZCwgcHJhY3RpY2FsIHNvbHV0aW9ucyB0aGF0
+IGFyZSB0YWlsb3JlZCB0byBlYWNoIG9yZ2FuaXphdGlvbuKAmXMgc3BlY2lm
+aWMgYnVzaW5lc3MgZ29hbHMgYW5kIGluZHVzdHJ5IHNvbHV0aW9ucyB0aGF0
+IGNsaWVudHMgY2FuIHB1dCBpbiBwbGFjZSBpbW1lZGlhdGVseS4gV2hldGhl
+ciBkZWZlbmRpbmcgYWdhaW5zdCBrbm93biB0aHJlYXRzLCBxdWlja2x5IGRl
+dGVjdGluZyBhbmQgcmVzcG9uZGluZyB0byB0aGUgdW5rbm93biBvciBydW5u
+aW5nIGFuIGVudGlyZSBzZWN1cml0eSBvcGVyYXRpb25zIGNlbnRlciwgd2Ug
+aGVscCBoYXJkZW4gb3JnYW5pemF0aW9ucyBhbmQgbWFrZSBpdCBleHRyZW1l
+bHkgZGlmZmljdWx0IGZvciBldmVuIHRoZSBtb3N0IHNvcGhpc3RpY2F0ZWQg
+Y3liZXIgYWR2ZXJzYXJpZXMgdG8gc3VjY2VlZC4JCi0gbWVtYmVyOiB0cnVl
+CQogIHNwb25zb3I6IAkKICBuYW1lOiBBZG9iZQkKICBpbWFnZTogL2Fzc2V0
+cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9hZG9iZS5wbmcJCiAgdXJsOiBo
+dHRwczovL3d3dy5hZG9iZS5jb20JCiAgZGVzY3JpcHRpb246IEFkb2JlIGlz
+IHRoZSBnbG9iYWwgbGVhZGVyIGluIGRpZ2l0YWwgbWFya2V0aW5nIGFuZCBk
+aWdpdGFsIG1lZGlhIHNvbHV0aW9ucy4gT3VyIHRvb2xzIGFuZCBzZXJ2aWNl
+cyBhbGxvdyBvdXIgY3VzdG9tZXJzIHRvIGNyZWF0ZSBncm91bmRicmVha2lu
+ZyBkaWdpdGFsIGNvbnRlbnQsIGRlcGxveSBpdCBhY3Jvc3MgbWVkaWEgYW5k
+IGRldmljZXMsIG1lYXN1cmUgYW5kIG9wdGltaXplIGl0IG92ZXIgdGltZSwg
+YW5kIGFjaGlldmUgZ3JlYXRlciBidXNpbmVzcyBzdWNjZXNzLiBXZSBoZWxw
+IG91ciBjdXN0b21lcnMgbWFrZSwgbWFuYWdlLCBtZWFzdXJlLCBhbmQgbW9u
+ZXRpemUgdGhlaXIgY29udGVudCBhY3Jvc3MgZXZlcnkgY2hhbm5lbCBhbmQg
+c2NyZWVuLgkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjogCQogIG5hbWU6
+IEFsbHN0YXRlCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJl
+ci1sb2dvL2FsbHN0YXRlLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3LmFsbHN0
+YXRlLmNvbQkKICBkZXNjcmlwdGlvbjogQWxsc3RhdGUgQ29ycG9yYXRpb24g
+aXMgdGhlIGxhcmdlc3QgcHVibGljbHkgaGVsZCBwZXJzb25hbCBsaW5lcyBw
+cm9wZXJ0eSBhbmQgY2FzdWFsdHkgaW5zdXJlciBpbiBBbWVyaWNhLCBzZXJ2
+aW5nIG1vcmUgdGhhbiAxNiBtaWxsaW9uIGhvdXNlaG9sZHMgbmF0aW9ud2lk
+ZS4gRm91bmRlZCBpbiAxOTMxLCBBbGxzdGF0ZSBoYXMgYmVlbiBkZWRpY2F0
+ZWQgdG8gcHJvdGVjdGluZyBvdXIgY3VzdG9tZXJzIGZyb20gbGlmZeKAmXMg
+dW5jZXJ0YWludGllcyBhbmQgcHJlcGFyaW5nIHRoZW0gZm9yIHRoZSBmdXR1
+cmUgZm9yIG1vcmUgdGhhbiA4NSB5ZWFycy4gQXMgdGhlIG5lZWRzIG9mIG91
+ciBjdXN0b21lcnMgZXZvbHZlLCBzbyBkb2VzIG91ciB0ZWNobm9sb2d5IGFu
+ZCBzZWN1cml0eSBwcmFjdGljZXMgdG8gZW5zdXJlIG91ciBjdXN0b21lcnMg
+cmVtYWluIGluIGdvb2QgaGFuZHMuCQotIG1lbWJlcjogdHJ1ZQkKICBzcG9u
+c29yOiA0CQogIG5hbWU6IEFsdGl0dWRlIE5ldHdvcmtzCQogIGltYWdlOiAv
+YXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2FsdGl0dWRlLW5ldHdv
+cmtzLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3LmFsdGl0dWRlbmV0d29ya3Mu
+Y29tCQogIGRlc2NyaXB0aW9uOiBBbHRpdHVkZSBOZXR3b3JrcyB0YWNrbGVz
+IGRhdGEgc2VjdXJpdHkgaW4gdGhlIGNsb3VkIHRvIHByb3RlY3QgZW50ZXJw
+cmlzZXMgYWdhaW5zdCB1bmF1dGhvcml6ZWQgZGF0YSBhY2Nlc3MsIGFjY2lk
+ZW50YWwgb3IgbWFsaWNpb3VzIHNoYXJpbmcgdG8gdW5pbnRlbmRlZCBpbmRp
+dmlkdWFscywgYW5kIGRhdGEgdGhlZnQuCQotIG1lbWJlcjogdHJ1ZSAgCiAg
+c3BvbnNvcjogNAkKICBuYW1lOiBBdmF0YW8JCiAgaW1hZ2U6IC9hc3NldHMv
+aW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vYXZhdGFvLnBuZwkKICB1cmw6IGh0
+dHBzOi8vd3d3LmF2YXRhby5jb20JCiAgZGVzY3JpcHRpb246IEF2YXRhbyBp
+cyBhbiBvbmxpbmUgdHJhaW5pbmcgcGxhdGZvcm0gZm9yIGJ1aWxkaW5nIHNl
+Y3VyZSBzb2Z0d2FyZS4gSXQgb2ZmZXJzIGEgcmljaCBsaWJyYXJ5IG9mIGhh
+bmRzLW9uIElUIHNlY3VyaXR5IGV4ZXJjaXNlcyBmb3Igc29mdHdhcmUgZW5n
+aW5lZXJzIHRvIHRlYWNoIHNlY3VyZSBwcm9ncmFtbWluZyBmcm9tIGRlc2ln
+biB0byBkZXBsb3ltZW50IGluIGEgZnVuIGFuZCBpbnR1aXRpdmUgd2F5LiBF
+ZHVjYXRpbmcgZm9yIHNlY3VyZSBzb2Z0d2FyZSBjYW4gc2lnbmlmaWNhbnRs
+eSBpbXByb3ZlIHNvZnR3YXJlIHF1YWxpdHksIGluY3JlYXNlIHRydXN0IGlu
+IGEgY29tcGFueeKAmXMgYnJhbmQsIHJlZHVjZSBkZXZlbG9wbWVudCBjb3N0
+cyBhbmQgcmVkdWNlIHRoZSByaXNrcyBvZiBzdWZmZXJpbmcgc2lnbmlmaWNh
+bnQgbG9zc2VzIGZyb20gY3liZXItYXR0YWNrcy4gSW4gdG9kYXnigJlzIHdv
+cmxkLCBzZWN1cmUgc29mdHdhcmUgZGV2ZWxvcG1lbnQgcHJhY3RpY2VzIGFy
+ZSBhIGJhc2ljIHJlcXVpcmVtZW50IGFuZCB3ZSBiZWxpZXZlIHRoZSBzb2x1
+dGlvbiBzaG91bGQgYmUgaW50ZWdyYXRlZCBpbnRvIHRoZSBncm91bmQgcm9v
+dHMgb2Ygc29mdHdhcmUgZGV2ZWxvcG1lbnQgdGVhbXMuIFRoZSBwbGF0Zm9y
+bSBjYW4gYmUgdXNlZCB0byBwcm92aWRlIHNlY3VyaXR5IGF3YXJlbmVzcyB0
+byBzb2Z0d2FyZSBlbmdpbmVlcnMsIHRvIGVucmljaCBleGlzdGluZyBJVCBz
+ZWN1cml0eSB0cmFpbmluZywgbWVldHVwcyBvciBhbGxvdyBzZWxmLWRpcmVj
+dGVkIGxlYXJuaW5nIGZvciBjb250aW51b3VzIHByb2Zlc3Npb25hbCBkZXZl
+bG9wbWVudC4gQXZhdGFvIGhhY2thdGhvbnMgYXJlIGFsc28gYW4gZXhjZWxs
+ZW50IG1ldGhvZCB0byBkaXNjb3ZlciB0YWxlbnRlZCBkZXZlbG9wZXJzIGFu
+ZCBlbmdhZ2UgYW5kIGJ1aWxkIGJyYW5kIGF3YXJlbmVzcyBpbiB0aGUgY29t
+bXVuaXR5LiBBdmF0YW8gaXMgYSBjcmVhdGlvbiBvdXQgb2YgQ3J5U3lTIExh
+Yiwgd29ybGQtcmVub3duZWQgZXhwZXJ0cyBpbiBJVCBzZWN1cml0eS4gTGVh
+cm5pbmcgY29tbXVuaXRpZXMgbGlrZSBidXNpbmVzcyB0ZWFtcyB1c2UgQXZh
+dGFvIGZvciBhbiBpbXByb3ZlZCBhbmQgZWZmaWNpZW50IGxlYXJuaW5nIGV4
+cGVyaWVuY2UuIE1pZC1zaXplIGFuZCBsYXJnZSBzb2Z0d2FyZSBhbmQgZmlu
+YW5jaWFsIGNvbXBhbmllcyB1c2UgQXZhdGFv4oCZcyBnYW1pZmllZCBvbmxp
+bmUgdHJhaW5pbmcgdG8gb3JnYW5pemUgc2VjdXJpdHkgaGFja2F0aG9ucywg
+b25ib2FyZCBuZXcgaGlyZXMgb3IgdXBza2lsbCBzb2Z0d2FyZSBkZXZlbG9w
+ZXJzIHRvIGJ1aWxkIHNlY3VyZSBzb2Z0d2FyZS4gVGhlIEF2YXRhbyBwbGF0
+Zm9ybSB3YXMgcHVibGljbHkgbGF1bmNoZWQgaW4gMjAxNiBmb3IgZW5kLXVz
+ZXJzIGFuZCBidXNpbmVzcyBjdXN0b21lcnMuIEluaXRpYWwgY3VzdG9tZXJz
+IGluY2x1ZGUgTG9nTWVJbiAoVVMpLCBQcmV6aSAoSFUpLCBNaWNyb3NlYyAo
+SFUpLCBFbWFyc3lzIChIVSksIFBob3RvYm94IChVSyksIGFuZCBtYW55IG90
+aGVyIGNvbXBhbmllcyBhcmUgcGlsb3RpbmcgdGhlIHBsYXRmb3JtIGluY2x1
+ZGluZyBGb3J0dW5lIDEwMCBjb21wYW5pZXMuIEF2YXRhbyBjdXJyZW50bHkg
+aGFzIDUwMDArIHVzZXJzIGFuZCA1MDArIGV4ZXJjaXNlcy4JCi0gbWVtYmVy
+OiB0cnVlCQogIHNwb25zb3I6CQogIG5hbWU6IEF2aSBOZXR3b3JrcwkKICBp
+bWFnZTogL2Fzc2V0cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9hdmktbmV0
+d29yay5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5hdmluZXR3b3Jrcy5jb20J
+CiAgZGVzY3JpcHRpb246IEF2aSBOZXR3b3JrcyBjb21wbGV0ZXMgZW50ZXJw
+cmlzZXPigJkgZGlnaXRhbCB0cmFuc2Zvcm1hdGlvbiB3aXRoIGl0cyBzb2Z0
+d2FyZSBsb2FkIGJhbGFuY2VyLCBpbnRlbGxpZ2VudCBXZWIgQXBwbGljYXRp
+b24gRmlyZXdhbGwsIGFuZCBtb2Rlcm4gYXBwbGljYXRpb24gc2VydmljZXMu
+IFRoZSBBdmkgVmFudGFnZSBQbGF0Zm9ybSBpcyBkZXBsb3llZCBhY3Jvc3Mg
+ZGF0YSBjZW50ZXJzIGFuZCBjbG91ZHMsIGRlbGl2ZXJpbmcgYmV0dGVyIGVs
+YXN0aWNpdHksIGludGVsbGlnZW5jZSwgYW5kIGNvc3Qgc2F2aW5ncyBieSBw
+cm92aWRpbmcgZ3JhbnVsYXIgcGVyLXRlbmFudCBhbmQgcGVyLWFwcCBzZXJ2
+aWNlcy4gQ3VzdG9tZXJzIGVuam95IDVYIGZhc3RlciBhcHBsaWNhdGlvbiBy
+b2xsb3V0cywgYWN0aW9uYWJsZSBhbmFseXRpY3MsIGFuZCA3MCUgbG93ZXIg
+Y29zdHMuCQotIG1lbWJlcjogdHJ1ZQkKICBzcG9uc29yOiAJCiAgbmFtZTog
+QnJpbnFhCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1s
+b2dvL2JyaW5xYS5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5icmlucWEuY29t
+CQogIGRlc2NyaXB0aW9uOiBCcmlucWEgaXMgYSBsZWFkaW5nIHByb3ZpZGVy
+IG9mIHVuaWZpZWQgcmlzayBtYW5hZ2VtZW50IOKAkyBlbmFibGluZyBzdGFr
+ZWhvbGRlcnMsIGdvdmVybmFuY2Ugb3JnYW5pemF0aW9ucywgYW5kIGluZnJh
+c3RydWN0dXJlIGFuZCBzZWN1cml0eSB0ZWFtcyB0byBlZmZlY3RpdmVseSBt
+YW5hZ2UgdGVjaG5vbG9neSByaXNrIGF0IHRoZSBzcGVlZCBvZiBidXNpbmVz
+cy4gQnJpbnFhIHNvZnR3YXJlIGFuZCBjbG91ZCBzZXJ2aWNlcyBsZXZlcmFn
+ZSBhbiBvcmdhbml6YXRpb27igJlzIGV4aXN0aW5nIGludmVzdG1lbnQgaW4g
+c3lzdGVtcywgc2VjdXJpdHksIGFuZCBnb3Zlcm5hbmNlIHByb2dyYW1zIHRv
+IGlkZW50aWZ5LCBtZWFzdXJlLCBtYW5hZ2UgYW5kIG1vbml0b3Igcmlzay4g
+V2l0aCBCcmlucWEsIG9yZ2FuaXphdGlvbnMgYXJlIHJlZHVjaW5nIHJlc3Bv
+bnNlIHRpbWUgdG8gZW1lcmdpbmcgdGhyZWF0cywgaW1wYWN0IHRvIHRoZSBi
+dXNpbmVzcywgYW5kIHRlY2hub2xvZ3kgcmlzayBhbmQgY29tcGxpYW5jZSBj
+b3N0cyBieSBvdmVyIDUwJSB0aHJvdWdoIHJlYWwtdGltZSByaXNrIGFuYWx5
+dGljcywgYXV0b21hdGVkIHJpc2sgYXNzZXNzbWVudHMsIHByaW9yaXRpemVk
+IHJlbWVkaWF0aW9uLCBhY3Rpb25hYmxlIGluc2lnaHRzLCBhbmQgaW1wcm92
+ZWQgY29tbXVuaWNhdGlvbi4gRm91bmRlZCBpbiAyMDA4IGJ5IGluZHVzdHJ5
+IGxlYWRlcnMgaW4gcmlzayBtYW5hZ2VtZW50IHdpdGggYSBwcm92ZW4gdHJh
+Y2sgcmVjb3JkIGluIGRlbGl2ZXJpbmcgY3V0dGluZyBlZGdlLCBpbm5vdmF0
+aXZlIGFuZCBjb3N0LWVmZmVjdGl2ZSBzb2x1dGlvbnMuIEJyaW5xYeKAmXMg
+YXdhcmQtd2lubmluZyBzb2Z0d2FyZSBhbmQgY2xvdWQgc2VydmljZXMgYXJl
+IHRydXN0ZWQgYnkgZm9ydHVuZSA1MDAgY29tcGFuaWVzIGFjcm9zcyByaXNr
+IGRpc2NpcGxpbmVzIHN1Y2ggYXMgaW5mb3JtYXRpb24gdGVjaG5vbG9neSBy
+aXNrLCB2ZW5kb3IgcmlzaywgYW5kIHJlZ3VsYXRvcnkgY29tcGxpYW5jZSBy
+aXNrLiBCcmlucWEgaXMgaGVhZHF1YXJ0ZXJlZCBpbiBBdXN0aW4sIFRleGFz
+IGFuZCBoYXMgYSBnbG9iYWwgcHJlc2VuY2UuCQotIG1lbWJlcjogdHJ1ZQkK
+ICBzcG9uc29yOgogIG5hbWU6IEJ1Z2Nyb3dkCQogIGltYWdlOiAvYXNzZXRz
+L2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2J1Z2Nyb3dkLnBuZwkKICB1cmw6
+IGh0dHBzOi8vd3d3LmJ1Z2Nyb3dkLmNvbQkKICBkZXNjcmlwdGlvbjogQnVn
+Y3Jvd2QgaXMgdGhlIHdvcmxk4oCZcyBudW1iZXIgb25lIGNyb3dkc291cmNl
+ZCBzZWN1cml0eSBjb21wYW55LiBPdXIgYXdhcmQtd2lubmluZyBwbGF0Zm9y
+bSBjb21iaW5lcyBhY3Rpb25hYmxlLCBjb250ZXh0dWFsIGludGVsbGlnZW5j
+ZSB3aXRoIHRoZSBza2lsbCBhbmQgZXhwZXJpZW5jZSBvZiB0aGUgd29ybGTi
+gJlzIG1vc3QgdHJ1c3RlZCwgc2tpbGxlZCBoYWNrZXJzIHRvIGhlbHAgbGVh
+ZGluZyBvcmdhbml6YXRpb25zIHNvbHZlIHNlY3VyaXR5IGNoYWxsZW5nZXMs
+IHByb3RlY3QgY3VzdG9tZXJzLCBhbmQgbWFrZSB0aGUgZGlnaXRhbGx5LWNv
+bm5lY3RlZCB3b3JsZCBhIHNhZmVyIHBsYWNlLgkKLSBtZW1iZXI6IHRydWUJ
+CiAgc3BvbnNvcjogNAkKICBuYW1lOiBDQSwgSW5jLgkKICBpbWFnZTogL2Fz
+c2V0cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9jYS10ZWNobm9sb2dpZXMu
+cG5nICAJCiAgdXJsOiBodHRwczovL3d3dy5jYXRlY2hub2xvZ2llcy5jb20J
+CiAgZGVzY3JpcHRpb246IENBIFRlY2hub2xvZ2llcyBoZWxwcyBjdXN0b21l
+cnMgc3VjY2VlZCBpbiBhIGZ1dHVyZSB3aGVyZSBldmVyeSBidXNpbmVzc+KA
+lGZyb20gYXBwYXJlbCB0byBlbmVyZ3nigJRpcyBiZWluZyByZXdyaXR0ZW4g
+Ynkgc29mdHdhcmUuIEZyb20gcGxhbm5pbmcgdG8gZGV2ZWxvcG1lbnQgdG8g
+bWFuYWdlbWVudCB0byBzZWN1cml0eSwgYXQgQ0Egd2UgY3JlYXRlIHNvZnR3
+YXJlIHRoYXQgZnVlbHMgdHJhbnNmb3JtYXRpb24gZm9yIGNvbXBhbmllcyBp
+biB0aGUgYXBwbGljYXRpb24gZWNvbm9teS4JCi0gbWVtYmVyOiBmYWxzZQkK
+ICBzcG9uc29yOiAxCQogIG5hbWU6IENlcXVlbmNlIFNlY3VyaXR5CQogIGlt
+YWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2NlcXVlbmNl
+LnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3LmNlcXVlbmNlLmNvbQkKICBkZXNj
+cmlwdGlvbjogQ2VxdWVuY2UgU2VjdXJpdHkgaXMgYSB2ZW50dXJlLWJhY2tl
+ZCBjeWJlcnNlY3VyaXR5IHNvZnR3YXJlIGNvbXBhbnkgZm91bmRlZCBpbiAy
+MDE1IGFuZCBiYXNlZCBpbiBTdW5ueXZhbGUsIENBLiBJdHMgbWlzc2lvbiBp
+cyB0byB0cmFuc2Zvcm0gYXBwbGljYXRpb24gc2VjdXJpdHkgYnkgY29uc29s
+aWRhdGluZyBtdWx0aXBsZSBpbm5vdmF0aXZlIHNlY3VyaXR5IGZ1bmN0aW9u
+cyB3aXRoaW4gYW4gb3BlbiwgQUktcG93ZXJlZCBzb2Z0d2FyZSBwbGF0Zm9y
+bSB0aGF0IHByb3RlY3RzIGN1c3RvbWVycyB3ZWIsIG1vYmlsZSwgYW5kIEFQ
+SS1iYXNlZCBhcHBsaWNhdGlvbnMg4oCTIGFuZCBzdXBwb3J0cyB0b2RheeKA
+mXMgY2xvdWQtbmF0aXZlLCBjb250YWluZXItYmFzZWQgYXBwbGljYXRpb24g
+YXJjaGl0ZWN0dXJlcy4gVGhlIGNvbXBhbnkgaXMgbGVkIGJ5IGluZHVzdHJ5
+IHZldGVyYW5zIHRoYXQgcHJldmlvdXNseSBoZWxkIGxlYWRlcnNoaXAgcG9z
+aXRpb25zIGF0IFBhbG8gQWx0byBOZXR3b3JrcyBhbmQgU3ltYW50ZWMuIEN1
+c3RvbWVycyBpbmNsdWRlIEY1MDAgb3JnYW5pemF0aW9ucyBhY3Jvc3MgbXVs
+dGlwbGUgdmVydGljYWwgbWFya2V0cywgYW5kIHRoZSBzb2x1dGlvbiBoYXMg
+ZWFybmVkIG11bHRpcGxlIGluZHVzdHJ5IGFjY29sYWRlcy4JCi0gbWVtYmVy
+OiB0cnVlCQogIHNwb25zb3I6IDQJCiAgbmFtZTogQ2hlY2ttYXJ4CQogIGlt
+YWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2NoZWNrbWFy
+eC5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5jaGVja21hcnguY29tCQogIGRl
+c2NyaXB0aW9uOiBDaGVja21hcnggaXMgYW4gQXBwbGljYXRpb24gU2VjdXJp
+dHkgc29mdHdhcmUgY29tcGFueSwgd2hvc2UgbWlzc2lvbiBpcyB0byBwcm92
+aWRlIGVudGVycHJpc2Ugb3JnYW5pemF0aW9ucyB3aXRoIGFwcGxpY2F0aW9u
+IHNlY3VyaXR5IHRlc3RpbmcgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIHRoYXQg
+ZW1wb3dlciBkZXZlbG9wZXJzIHRvIGRlbGl2ZXIgc2VjdXJlIGFwcGxpY2F0
+aW9ucy4gQW1vbmdzdCB0aGUgY29tcGFueSdzIDEsMDAwIGN1c3RvbWVycyBh
+cmUgNSBvZiB0aGUgd29ybGQncyB0b3AgMTAgc29mdHdhcmUgdmVuZG9ycyBh
+bmQgbWFueSBGb3J0dW5lIDUwMCBhbmQgZ292ZXJubWVudCBvcmdhbml6YXRp
+b25zLiBDaGVja21hcnggQ3hTQVNUIGlzIGEgaGlnaGx5IGFjY3VyYXRlIGFu
+ZCBmbGV4aWJsZSBTb3VyY2UgQ29kZSBBbmFseXNpcyBwcm9kdWN0IHRoYXQg
+YWxsb3dzIG9yZ2FuaXphdGlvbnMgdG8gYXV0b21hdGljYWxseSBzY2FuIGEg
+dW4tY29tcGlsZWQvdW4tYnVpbHQgY29kZSBhbmQgaWRlbnRpZnkgaHVuZHJl
+ZHMgb2Ygc2VjdXJpdHkgdnVsbmVyYWJpbGl0aWVzIGluIHRoZSBtb3N0IHBy
+ZXZhbGVudCBjb2RpbmcgbGFuZ3VhZ2VzLgkKLSBtZW1iZXI6IGZhbHNlCQog
+IHNwb25zb3I6IDQJCiAgbmFtZTogQ29kZURYCQogIGltYWdlOiAvYXNzZXRz
+L2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2NvZGUtZHgucG5nCQogIHVybDog
+aHR0cHM6Ly93d3cuY29kZWR4LmNvbQkKICBkZXNjcmlwdGlvbjogQ29kZSBE
+eCBpcyBjb21taXR0ZWQgdG8gcmVkdWNpbmcgYmFycmllcnMgdG8gZWZmZWN0
+aXZlIGFwcGxpY2F0aW9uIHNlY3VyaXR5LiBPdXIgYXV0b21hdGVkIGFwcGxp
+Y2F0aW9uIHZ1bG5lcmFiaWxpdHkgY29ycmVsYXRpb24gYW5kIG1hbmFnZW1l
+bnQgdG9vbHMgaGVscCBmaW5kIGFuZCBmaXggaW5zZWN1cmUgY29kZSBmYXN0
+ZXIsIHdpdGggbGVzcyBlZmZvcnQgYW5kIGEgc21hbGxlciB0ZWFtLiBGb2N1
+cyB5b3VyIHByZWNpb3VzIHJlc291cmNlcyBvbiBkZXZlbG9waW5nIHZhbHVh
+YmxlIG5ldyBmZWF0dXJlcywgYW5kIHNoaXAgc2VjdXJlIGNvZGUgZmFzdGVy
+IGFuZCBtb3JlIG9mdGVuLgkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjog
+MQkKICBuYW1lOiBDb250cmFzdCBTZWN1cml0eQkKICBpbWFnZTogL2Fzc2V0
+cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9jb250cmFzdC1zZWN1cml0eS5w
+bmcJCiAgdXJsOiBodHRwczovL3d3dy5jb250cmFzdHNlY3VyaXR5LmNvbQkK
+ICBkZXNjcmlwdGlvbjogQ29udHJhc3QgU2VjdXJpdHkgZGVsaXZlcnMgdGhl
+IHdvcmxk4oCZcyBmYXN0ZXN0IGFwcGxpY2F0aW9uIHNlY3VyaXR5IHNvZnR3
+YXJlIHRoYXQgZWxpbWluYXRlcyB0aGUgc2luZ2xlIGdyZWF0ZXN0IHNlY3Vy
+aXR5IHJpc2sgdG8gZW50ZXJwcmlzZXMgdG9kYXkuIEluZHVzdHJ5IHJlc2Vh
+cmNoIHNob3dzIHRoYXQgYXBwbGljYXRpb24gc2VjdXJpdHkgZmxhd3MgYXJl
+IHRoZSBsZWFkaW5nIHNvdXJjZSBvZiBkYXRhIGJyZWFjaGVzLiBDb250cmFz
+dCBjYW4gYmUgZGVwbG95ZWQsIGF1dG9tYXRpY2FsbHkgZGlzY292ZXIgYXBw
+bGljYXRpb25zIGFuZCBpZGVudGlmeSB2dWxuZXJhYmlsaXRpZXMgd2l0aGlu
+IHNldmVuIG1pbnV0ZXMuIFJlbHlpbmcgb24gc2Vuc29ycyBpbnN0ZWFkIG9m
+IGV4cGVuc2l2ZSBzZWN1cml0eSBleHBlcnRzLCBDb250cmFzdCBydW5zIGNv
+bnRpbnVvdXNseSBhbmQgaXMgMTAgdGltZXMgbW9yZSBhY2N1cmF0ZSB0aGFu
+IHRoZSBjb21wZXRpdGlvbi4gVW5saWtlIHRlZGlvdXMsIHBhaW5mdWwgYW5k
+IHNsb3cgbGVnYWN5IGFwcHJvYWNoZXMsIENvbnRyYXN0IGFuYWx5emVzIGEg
+Y29tcGxldGUgcG9ydGZvbGlvIG9mIHJ1bm5pbmcgYXBwbGljYXRpb25zIHNp
+bXVsdGFuZW91c2x5IGluIHJlYWwtdGltZSBhdCBhbnkgc2NhbGUuIEFzIGEg
+cmVzdWx0LCBvcmdhbml6YXRpb25zIGNhbiBhY3QgZmFzdGVyIGFnYWluc3Qg
+dGhyZWF0cyBhbmQgaW1tZWRpYXRlbHkgcmVkdWNlIHJpc2suIAkKLSBtZW1i
+ZXI6IHRydWUJCiAgc3BvbnNvcjoJCiAgbmFtZTogRGVuaW0gR3JvdXAJCiAg
+aW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vZGVuaW0t
+Z3JvdXAucG5nCQogIHVybDogaHR0cHM6Ly93d3cuZGVuaW1ncm91cC5jb20J
+CiAgZGVzY3JpcHRpb246IERlbmltIEdyb3VwIGlzIHRoZSBsZWFkaW5nIGlu
+ZGVwZW5kZW50IGFwcGxpY2F0aW9uIHNlY3VyaXR5IGZpcm0sIHNlcnZpbmcg
+YXMgYSB0cnVzdGVkIGFkdmlzb3IgdG8gY3VzdG9tZXJzIG9uIG1hdHRlcnMg
+b2YgYXBwbGljYXRpb24gcmlzayBhbmQgc2VjdXJpdHkuIFRoZSBjb21wYW55
+IGhlbHBzIG9yZ2FuaXphdGlvbnMgYXNzZXNzIGFuZCBtaXRpZ2F0ZSBhcHBs
+aWNhdGlvbiBzZWN1cml0eSByaXNrcy7CoMKgRGVuaW0gR3JvdXDigJlzIGZs
+YWdzaGlwIFRocmVhZEZpeCBwbGF0Zm9ybSBhY2NlbGVyYXRlcyB0aGUgcHJv
+Y2VzcyBvZiBhcHBsaWNhdGlvbiB2dWxuZXJhYmlsaXR5IHJlbWVkaWF0aW9u
+LCByZWZsZWN0aW5nIHRoZSBjb21wYW554oCZcyByaWNoIHVuZGVyc3RhbmRp
+bmcgb2Ygd2hhdCBpdCB0YWtlcyB0byBmaXggYXBwbGljYXRpb24gdnVsbmVy
+YWJpbGl0aWVzIGZhc3Rlci4JCQotIG1lbWJlcjogdHJ1ZQkKICBzcG9uc29y
+OgkKICBuYW1lOiBHb1NlY3VyZQkKICBpbWFnZTogL2Fzc2V0cy9pbWFnZXMv
+Y29ycC1tZW1iZXItbG9nby9nb19zZWN1cmUucG5nCQogIHVybDogaHR0cHM6
+Ly93d3cuZ29zZWN1cmUuY29tCQogIGRlc2NyaXB0aW9uOiBGb3VuZGVkIGlu
+IDIwMTIsIEdvU2VjdXJlIGhhcyB3b3JrZWQgdG93YXJkcyBvbmUgc2ltcGxl
+IGdvYWwg4oCTIHByZXZlbnRpbmcgYnJlYWNoZXMuIFRhY3RpY3MgY2hhbmdl
+LCB0ZWNobm9sb2d5IGFkYXB0cywgc2VjdXJpdHkgdGVhbXMgZWJiIGFuZCBm
+bG93IGluIHNpemUgYW5kIGJ1ZGdldCwgeWV0IGJyZWFjaGVzIHN0aWxsIG9j
+Y3VyLiBBcyBvcmdhbml6YXRpb25zIGFkb3B0IGEg4oCcd2hlbiwgbm90IGlm
+4oCdIGFwcHJvYWNoIHRvd2FyZHMgYnJlYWNoZXMsIG1hbnkgYXJlIGxvb2tp
+bmcgZm9yIHRydWUgaGVscCwgbm90IGp1c3QgYW5vdGhlciBuZXcgdGVjaG5v
+bG9neS4gR29TZWN1cmUgTWFuYWdlZCBEZXRlY3Rpb24gYW5kIFJlc3BvbnNl
+IGlzIHRoZSBvbmx5IE1EUiBzb2x1dGlvbiB0aGF0IGNvbWJpbmVzIHZpc2li
+aWxpdHkgYWNyb3NzIGFsbCBtYWpvciBhdHRhY2sgdmVjdG9ycyB3aXRoIGlu
+ZHVzdHJ5IGxlYWRpbmcgdGhyZWF0IGludGVsbGlnZW5jZSBhbmQgb3BlcmF0
+aW9uYWwgZXhwZXJpZW5jZS4gSXTigJlzIHRoaXMgdW5pcXVlIGNvbWJpbmF0
+aW9uIHRoYXQgYWxsb3dzIEdvU2VjdXJlIE1EUiB0byBkZXRlY3QgYnJlYWNo
+ZXMgc29vbmVyIGFuZCByZXNwb25kIGJlZm9yZSBkYXRhIGxvc3MgYmVnaW5z
+LiBEZXRlY3Rpb24gd2l0aCBSZXNwb25zZSB0aGUgR29TZWN1cmUgd2F5IQot
+IG1lbWJlcjogdHJ1ZQkKICBzcG9uc29yOiAJCiAgbmFtZTogSGFja2VyT25l
+CQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2hh
+Y2tlcm9uZS5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5oYWNrZXJvbmUuY29t
+LwkKICBkZXNjcmlwdGlvbjogSGFja2VyT25lIGlzIHRoZSBudW1iZXIgMSBo
+YWNrZXItcG93ZXJlZCBzZWN1cml0eSBwbGF0Zm9ybSwgaGVscGluZyBvcmdh
+bml6YXRpb25zIHJlY2VpdmUgYW5kIHJlc29sdmUgY3JpdGljYWwgdnVsbmVy
+YWJpbGl0aWVzIGJlZm9yZSB0aGV5IGNhbiBiZSBleHBsb2l0ZWQuIE1vcmUg
+dGhhbiAxLDAwMCBvcmdhbml6YXRpb25zLCBpbmNsdWRpbmcgdGhlIFUuUy4g
+RGVwYXJ0bWVudCBvZiBEZWZlbnNlLCBVLlMuIEdlbmVyYWwgU2VydmljZSBB
+ZG1pbmlzdHJhdGlvbiwgR2VuZXJhbCBNb3RvcnMsIFR3aXR0ZXIsIEdpdEh1
+YiwgTmludGVuZG8sIFBhbmFzb25pYyBBdmlvbmljcywgUXVhbGNvbW0sIFNx
+dWFyZSwgU3RhcmJ1Y2tzLCBEcm9wYm94IGFuZCB0aGUgQ0VSVCBDb29yZGlu
+YXRpb24gQ2VudGVyIHRydXN0IEhhY2tlck9uZSB0byBmaW5kIGNyaXRpY2Fs
+IHNvZnR3YXJlIHZ1bG5lcmFiaWxpdGllcy4gSGFja2VyT25lIGN1c3RvbWVy
+cyBoYXZlIHJlc29sdmVkIG92ZXIgNTcsMDAwIHZ1bG5lcmFiaWxpdGllcyBh
+bmQgYXdhcmRlZCBvdmVyICQyMk0gaW4gYnVnIGJvdW50aWVzLiBIYWNrZXJP
+bmUgaXMgaGVhZHF1YXJ0ZXJlZCBpbiBTYW4gRnJhbmNpc2NvIHdpdGggb2Zm
+aWNlcyBpbiBMb25kb24gYW5kIHRoZSBOZXRoZXJsYW5kcy4JCi0gbWVtYmVy
+OiBmYWxzZQkKICBzcG9uc29yOiAzCQogIG5hbWU6IEhDTCBBbWVyaWNhCQog
+IGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL2hjbC5w
+bmcJCiAgdXJsOiBodHRwczovL3d3dy5oY2x0ZWNoc3cuY29tL3dwcy9wb3J0
+YWwvcHJvZHVjdHMvYXBwc2NhbgkKICBkZXNjcmlwdGlvbjogSENMIEFwcFNj
+YW4gcHJvdmlkZXMgYSBmYW1pbHkgb2YgYXBwbGljYXRpb24gc2VjdXJpdHkg
+dGVzdGluZyB0b29scyB0aGF0IGhlbHAgc29mdHdhcmUgcHVibGlzaGVycyBk
+ZXRlY3QgYW5kIHJlbWVkaWF0ZSB2dWxuZXJhYmlsaXRpZXMsIGFuZCBjb21w
+bHkgd2l0aCByZWd1bGF0aW9ucyBhbmQgc2VjdXJpdHkgYmVzdCBwcmFjdGlj
+ZXMuIEl0J3MgcG93ZXJmdWwgc3RhdGljLCBkeW5hbWljLCBhbmQgb3BlbiBz
+b3VyY2Ugc2Nhbm5pbmcgZW5naW5lcyBjYW4gZGVwbG95IGluIGV2ZXJ5IHBo
+YXNlIG9mIHRoZSBkZXZlbG9wbWVudCBsaWZlY3ljbGUgYW5kIHRlc3Qgd2Vi
+IGFwcGxpY2F0aW9ucywgQVBJcywgbW9iaWxlIGFwcHMsIGFuZCBtb3JlLgkK
+LSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjogCQogIG5hbWU6IEhpZ2gtVGVj
+aCBCcmlkZ2UgU0EgCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1l
+bWJlci1sb2dvL2ltbXVuaXdlYi5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5p
+bW11bml3ZWIuY29tLwkKICBkZXNjcmlwdGlvbjogSGlnaC1UZWNoIEJyaWRn
+ZSBpcyBhIGdsb2JhbCBwcm92aWRlciBvZiB3ZWIgYW5kIG1vYmlsZSBBcHBs
+aWNhdGlvbiBTZWN1cml0eSBUZXN0aW5nIChBU1QpIHNlcnZpY2VzLiBPdXIg
+YXdhcmQtd2lubmluZyBBU1QgcGxhdGZvcm0gSW1tdW5pV2Viwq4gY29tYmlu
+ZXMgdGhlIGdlbml1cyBvZiBIdW1hbiBJbnRlbGxpZ2VuY2Ugd2l0aCB0aGUg
+cG93ZXIgb2YgQXJ0aWZpY2lhbCBJbnRlbGxpZ2VuY2UgYW5kIE1hY2hpbmUg
+TGVhcm5pbmcuIEltbXVuaVdlYsKuIGxldmVyYWdlcyBBcnRpZmljaWFsIElu
+dGVsbGlnZW5jZSAoQUkpIGFuZCBNYWNoaW5lIExlYXJuaW5nIChNTCkgZm9y
+IGludGVsbGlnZW50IGF1dG9tYXRpb24gb2YgYXBwbGljYXRpb24gdnVsbmVy
+YWJpbGl0eSBzY2FubmluZyBhbmQgYWNjZWxlcmF0aW9uIG9mIGFwcGxpY2F0
+aW9uIHBlbmV0cmF0aW9uIHRlc3RpbmcuIEhpZ2gtVGVjaCBCcmlkZ2UncyBz
+ZWN1cml0eSBleHBlcnRzIGZyb20gb3VyIENSRVNULWFjY3JlZGl0ZWQgU09D
+IGxvb2sgZm9yIHRoZSBtb3N0IGNvbXBsaWNhdGVkIGFwcGxpY2F0aW9uIHZ1
+bG5lcmFiaWxpdGllcyBhbmQgYXR0YWNrIHZlY3RvcnMgaW4gaW5zdGFudCBz
+eW5jaHJvbml6YXRpb24gYW5kIGNvcnJlbGF0aW9uIHdpdGggYXV0b21hdGVk
+IHZ1bG5lcmFiaWxpdHkgc2Nhbm5pbmcuIEludmVudGVkIGJ5IEhpZ2gtVGVj
+aCBCcmlkZ2UsIHRoaXMgdHlwZSBvZiBoeWJyaWQgc2VjdXJpdHkgdGVzdGlu
+ZywgZW5oYW5jZWQgd2l0aCBBSS9NTCwgZGVsaXZlcnMgdGhlIG1vc3QgY29t
+cHJlaGVuc2l2ZSB2dWxuZXJhYmlsaXR5IGRldGVjdGlvbiByYXRlLCBjb250
+aW51b3VzbHkgcmVkdWNlcyBodW1hbiBpbnRlcnZlbnRpb24gd2l0aG91dCBp
+bXBhY3RpbmcgdGhlIHF1YWxpdHkgb2YgdGVzdGluZywgYW5kIGNvbnRyYWN0
+dWFsbHkgZ3VhcmFudGVlcyB6ZXJvIGZhbHNlLXBvc2l0aXZlcyB0byBldmVy
+eSBjdXN0b21lci4JCi0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IAkKICBu
+YW1lOiBIaVNvbHV0aW9ucwkKICBpbWFnZTogL2Fzc2V0cy9pbWFnZXMvY29y
+cC1tZW1iZXItbG9nby9oaS1zb2x1dGlvbnMucG5nCQogIHVybDogaHR0cHM6
+Ly93d3cuaGlzb2x1dGlvbnMuY29tLwkKICBkZXNjcmlwdGlvbjogV2UgY29t
+YmluZSBrbm93LWhvdyBpbiB0aGUgYXJlYXMgb2Ygc2VjdXJpdHkgY29uc3Vs
+dGluZywgSVQgZ292ZXJuYW5jZSwgcmlzayAmIGNvbXBsaWFuY2Ugd2l0aCBj
+b25jZXB0dWFsIHN0cmVuZ3RoLCBpbm5vdmF0aW9uIGFuZCBpbXBsZW1lbnRh
+dGlvbiBleHBlcnRpc2UuIEluIGFkZGl0aW9uIHRvIHByb3RlY3RpbmcgYXBw
+bGljYXRpb25zIGFuZCBuZXR3b3Jrcywgb3VyIGNvcmUgY29tcGV0ZW5jaWVz
+IGFsc28gaW5jbHVkZSBvcmdhbml6YXRpb25hbCB0YXNrcyBzdWNoIGFzIHNl
+dHRpbmcgdXAgc2VjdXJpdHksIHJpc2ssIGFuZCBzZXJ2aWNlIG1hbmFnZW1l
+bnQgc3lzdGVtLiBIaVNvbHV0aW9ucyBBRyBpcyBvbmUgb2YgdGhlIGxlYWRp
+bmcgY29uc3VsdGluZyBzcGVjaWFsaXN0cyBmb3IgSVQgbWFuYWdlbWVudCBh
+bmQgaW5mb3JtYXRpb24gc2VjdXJpdHkgaW4gR2VybWFueS4gTW9yZSB0aGFu
+IDIwMCBleHBlcnRzIGFkdmlzZSBpbiB0aGUgYXJlYXMgb2Ygc2VjdXJpdHkg
+Y29uc3VsdGluZywgSVQgZ292ZXJuYW5jZSwgYnVzaW5lc3MgY29udGludWl0
+eSBtYW5hZ2VtZW50LCBhbmQgZGlnaXRhbGl6YXRpb24uIFdlIGFjdGl2ZWx5
+IHBhcnRpY2lwYXRlIGluIHRoZSBkZXZlbG9wbWVudCBvZiBuYXRpb25hbCBh
+bmQgaW50ZXJuYXRpb25hbCBzdGFuZGFyZHMgYW5kIGFyZSBpbnZvbHZlZCBp
+biB2YXJpb3VzIHJlc2VhcmNoIHByb2plY3RzIGFuZCB1bml2ZXJzaXR5IHRl
+YWNoaW5ncy4JCi0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IAkKICBuYW1l
+OiBLaXV3YW4JCiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVy
+LWxvZ28va2l1d2FuLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3LmtpdXdhbi5j
+b20vCQogIGRlc2NyaXB0aW9uOiBLaXV3YW4gcHJvdmlkZXMgYW4gZW5kLXRv
+LWVuZCBTb2Z0d2FyZSBBbmFseXRpY3MgcGxhdGZvcm0gdGhhdCBvZmZlcnMg
+b2JqZWN0aXZlIGRhdGEgdG8gbWFrZSBpbmZvcm1lZCBkZWNpc2lvbnMgdG8g
+c2VjdXJlLCBhbmFseXplIGFuZCBjb250cm9sIHRoZSBlbnRpcmUgU0RMQyBv
+ZiBhbnkgYXBwbGljYXRpb24gcG9ydGZvbGlvLiBXaXRoIEtpdXdhbiBDb2Rl
+IFNlY3VyaXR5LCB0aGUgc2NvcGUgaW4gdGhyZWF0IG1pdGlnYXRpb24gaXMg
+dW5wYXJhbGxlbGVkLCB3aXRoIG92ZXIgNDAwMCsgY3VzdG9tIHJ1bGVzLCBh
+YmlsaXR5IHRvIHN1cHByZXNzIGRlZmVjdHMgYW5kIGNyZWF0ZSB0YWlsb3Jl
+ZCBhY3Rpb24gcGxhbnMgd2hpbGUgbWVldGluZyB0aGUgbW9zdCBzdHJpbmdl
+bnQgaW5kdXN0cnkgc3RhbmRhcmQgcmVxdWlyZW1lbnRzLiBJbiBjb25zdGFu
+dCBldm9sdXRpb24sIGl0IGJvYXN0cyBicm9hZCBsYW5ndWFnZSBzdXBwb3J0
+IGFuZCBpbnRlZ3JhdGlvbiB3aXRoIEppcmEsIEplbmtpbnMsIGFuZCBHaXRo
+dWIgdG8gbmFtZSBidXQgYSBmZXcgb2YgdGhlIHBvc3NpYmlsaXRpZXMgYnJv
+dWdodCBhYm91dCBieSB0aGUgcGxhdGZvcm0uCQotIG1lbWJlcjogdHJ1ZQkK
+ICBzcG9uc29yOiAJCiAgbmFtZTogTWVyY2FyaSwgSW5jLgkKICBpbWFnZTog
+L2Fzc2V0cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9tZXJjYXJpLnBuZwkK
+ICB1cmw6IGh0dHBzOi8vYWJvdXQubWVyY2FyaS5jb20vZW4vCQogIGRlc2Ny
+aXB0aW9uOiBNZXJjYXJpIGlzIGEgQzJDIG1hcmtldHBsYWNlIGFwcCB0aGF0
+IG1ha2VzIGl0IGVhc3kgZm9yIHBlb3BsZSB0byBzYWZlbHkgc2VsbCBhbmQg
+c2hpcCB0aGVpciB0aGluZ3MuIExhdW5jaGVkIGluIDIwMTMsIGl0J3Mgbm93
+IGFtb25nIHRoZSBsYXJnZXN0IHBlZXItdG8tcGVlciBzZWxsaW5nIHBsYXRm
+b3JtcyBnbG9iYWxseS4gRnJvbSBmYXNoaW9uIHRvIHRveXMsIHNob2VzIHRv
+IGVsZWN0cm9uaWNzIGFuZCBiZXlvbmQsIE1lcmNhcmkncyBtaXNzaW9uIGlz
+IHRvICJjcmVhdGUgdmFsdWUgaW4gYSBnbG9iYWwgbWFya2V0cGxhY2Ugd2hl
+cmUgYW55b25lIGNhbiBidXkgYW5kIHNlbGwuIgkKLSBtZW1iZXI6IHRydWUJ
+CiAgc3BvbnNvcjogCQogIG5hbWU6IE5ldHNwYXJrZXIJCiAgaW1hZ2U6IC9h
+c3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vbmV0c3Bhcmtlci5wbmcJ
+CiAgdXJsOiBodHRwczovL3d3dy5uZXRzcGFya2VyLmNvbS8JCiAgZGVzY3Jp
+cHRpb246IE5ldHNwYXJrZXIgZGV2ZWxvcHMgYW4gaW5kdXN0cnkgbGVhZGlu
+ZyBhdXRvbWF0ZWQgd2ViIGFwcGxpY2F0aW9uIHNlY3VyaXR5IHNjYW5uZXIu
+IEF2YWlsYWJsZSBhcyBXaW5kb3dzIGRlc2t0b3Agc29mdHdhcmUgYW5kIGFz
+IGEgQ2xvdWQgc2VydmljZSwgdGhlIE5ldHNwYXJrZXIgc2Nhbm5lciBpcyB2
+ZXJ5IGVhc3kgdG8gdXNlIGFuZCBpdHMgcHJvb2YtYmFzZWQgdnVsbmVyYWJp
+bGl0eSBzY2FubmluZyB0ZWNobm9sb2d5IGVuYWJsZXMgeW91IHRvIGVhc2ls
+eSBhbmQgYXV0b21hdGljYWxseSBkZXRlY3QgU1FMIEluamVjdGlvbiwgQ3Jv
+c3Mtc2l0ZSBzY3JpcHRpbmcgYW5kIG90aGVyIHZ1bG5lcmFiaWxpdGllcyBp
+biB5b3VyIHdlYnNpdGVzLCB3ZWIgYXBwbGljYXRpb25zIGFuZCB3ZWIgc2Vy
+dmljZXMuIE5ldHNwYXJrZXLigJlzIHVuaXF1ZSBzY2FubmluZywgZGV0ZWN0
+aW9uIGFuZCBhdXRvIGV4cGxvaXRhdGlvbiB0ZWNobmlxdWVzIGFsbG93IGl0
+IHRvIGJlIGRlYWQgYWNjdXJhdGUuIFRoZXJlZm9yZSB5b3UgZG8gbm90IGhh
+dmUgdG8gd2FzdGUgdGltZSBtYW51YWxseSB2ZXJpZnlpbmcgdGhlIHNjYW5u
+ZXLigJlzIGZpbmRpbmdzIGFuZCBpbnN0ZWFkIGNhbiBmb2N1cyBvbiBmaXhp
+bmcgdGhlIGlkZW50aWZpZWQgdnVsbmVyYWJpbGl0aWVzLiBOZXRzcGFya2Vy
+IGlzIHRydXN0ZWQgYW5kIHVzZWQgYnkgd29ybGQgcmVub3duZWQgY29tcGFu
+aWVzIHN1Y2ggYXMgU2Ftc3VuZywgRXJuc3QgJiBZb3VuZywgU2t5cGUsIE5B
+U0EsIElTQUNBIGFuZCBJTkcgQmFuay4JCi0gbWVtYmVyOiB0cnVlCQogIHNw
+b25zb3I6IAkKICBuYW1lOiBOZXRTUEkJCiAgaW1hZ2U6IC9hc3NldHMvaW1h
+Z2VzL2NvcnAtbWVtYmVyLWxvZ28vbmV0c3BpX293bGVyXzIwMTcxMjA4XzIw
+NTgyMl9vcmlnaW5hbC5wbmcJCiAgdXJsOiBodHRwOi8vd3d3Lm5ldHNwaS5j
+b20vCQogIGRlc2NyaXB0aW9uOiBOZXRTUEkgaXMgYSBwcml2YXRlbHkgaGVs
+ZCBpbmZvcm1hdGlvbi1zZWN1cml0eSBjb25zdWx0aW5nIGNvbXBhbnkgZm91
+bmRlZCBpbiAyMDAxLiBCeSB1c2luZyBpdHMgY29uc3VsdGluZyB0ZWFtJ3Mg
+ZGVlcCBzZWN1cml0eSBrbm93bGVkZ2UgYW5kIGl0cyBDb3JyZWxhdGVkVk0g
+dnVsbmVyYWJpbGl0eSBtYW5hZ2VtZW50ICYgcmVwb3J0aW5nIHNvbHV0aW9u
+LCB0aGUgY29tcGFueSBpcyBhIHRydXN0ZWQgYWR2aXNvciB0byBsYXJnZSBl
+bnRlcnByaXNlcy4gTmV0U1BJIHByb3ZpZGVzIGEgcmFuZ2Ugb2YgYXNzZXNz
+bWVudCBhbmQgYWR2aXNvcnkgc2VydmljZXMgZGVzaWduZWQgdG8gYW5hbHl6
+ZSBhbmQgbWl0aWdhdGUgcmlza3MgYW5kIGVuc3VyZSBjb21wbGlhbmNlIHdp
+dGggcmVsZXZhbnQgcmVndWxhdGlvbnMgYW5kIGluZHVzdHJ5IHN0YW5kYXJk
+cy4gQ2xpZW50cyBpbmNsdWRlIGxhcmdlIGZpbmFuY2lhbCBzZXJ2aWNlcyBm
+aXJtcywgcmV0YWlsZXJzLCBoZWFsdGhjYXJlIG9yZ2FuaXphdGlvbnMgYW5k
+IHRlY2hub2xvZ3kgY29tcGFuaWVzLgkKLSBtZW1iZXI6IHRydWUJCiAgc3Bv
+bnNvcjogNAkKICBuYW1lOiBOb3dTZWN1cmUJCiAgaW1hZ2U6IC9hc3NldHMv
+aW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vbm93c2VjdXJlLnBuZwkKICB1cmw6
+IGh0dHBzOi8vd3d3Lm5vd3NlY3VyZS5jb20vCQogIGRlc2NyaXB0aW9uOiBP
+bmx5IHRoZSBOb3dTZWN1cmUgUGxhdGZvcm0gZGVsaXZlcnMgYXV0b21hdGVk
+IDM2MC1kZWdyZWUgY292ZXJhZ2Ugb2YgbW9iaWxlIGFwcCBzZWN1cml0eSB0
+ZXN0aW5nIHdpdGggdGhlIHNwZWVkIGFuZCBkZXB0aCBtb2Rlcm4gZW50ZXJw
+cmlzZXMgcmVxdWlyZS4gVGhlIHdvcmxk4oCZcyBtb3N0IGRlbWFuZGluZyBv
+cmdhbml6YXRpb25zIGFuZCBhZHZhbmNlZCBzZWN1cml0eSB0ZWFtcyB0cnVz
+dCBOb3dTZWN1cmUgdG8gaWRlbnRpZnkgdGhlIGJyb2FkZXN0IGFycmF5IG9m
+IHNlY3VyaXR5LCBwcml2YWN5LCBhbmQgY29tcGxpYW5jZSBnYXBzIGluIGN1
+c3RvbSwgdGhpcmQtcGFydHksIGFuZCBidXNpbmVzcy1jcml0aWNhbCBtb2Jp
+bGUgYXBwcy4JCi0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IAkKICBuYW1l
+OiBPbmVjb25zdWx0CQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1l
+bWJlci1sb2dvL29uZWNvbnN1bHQucG5nCQogIHVybDogaHR0cHM6Ly93d3cu
+b25lY29uc3VsdC5jb20vZW4vCQogIGRlc2NyaXB0aW9uOiBPbmVjb25zdWx0
+IGdyb3VwIGlzIHlvdXIgcmVub3duZWQgU3dpc3MgY3liZXIgc2VjdXJpdHkg
+c2VydmljZXMgcGFydG5lciBzaW5jZSAyMDAzIHdpdGggb2ZmaWNlcyBpbiBT
+d2l0emVybGFuZCBhbmQgR2VybWFueSBhbmQgMTUwMCsgY29tcGxldGVkIHNl
+Y3VyaXR5IHByb2plY3RzIHdvcmxkd2lkZS4gR2V0IGV4cGVydCBhZHZpY2Ug
+ZnJvbSBhbiBvd25lci1tYW5hZ2VkIGFuZCB2ZW5kb3ItaW5kZXBlbmRlbnQg
+Y29uc3VsdGFuY3kgd2l0aCAzNSsgaGlnaGx5IHF1YWxpZmllZCBjeWJlciBz
+ZWN1cml0eSBleHBlcnRzLCBpbmNsdWRpbmcgY2VydGlmaWVkIHBlbmV0cmF0
+aW9uIHRlc3RlcnMgKE9QU1QsIE9QU0EsIE9TQ1AsIE9TQ0UsIEdYUE4pLCBk
+aWdpdGFsIGZvcmVuc2ljcyBzcGVjaWFsaXN0cyAoR0NGQSwgR0NGRSwgR1JF
+TSksIElTTyBzZWN1cml0eSBhdWRpdG9ycyAoSVNPIDI3MDAxIExlYWQgQXVk
+aXRvciwgSVNPIDI3MDA1IFJpc2sgTWFuYWdlcikgYW5kIGRlZGljYXRlZCBJ
+VCBzZWN1cml0eSByZXNlYXJjaGVycyB0byBzb2x2ZSBldmVuIHlvdXIgbW9z
+dCBkZW1hbmRpbmcgaW5mb3JtYXRpb24gc2VjdXJpdHkgY2hhbGxlbmdlcy4g
+VG9nZXRoZXIgd2UgYWRkcmVzcyB5b3VyIGV4dGVybmFsIGFuZCBpbnRlcm5h
+bCB0aHJlYXRzIHN1Y2ggYXMgbWFsd2FyZSBpbmZlY3Rpb25zLCBoYWNrZXIg
+YXR0YWNrcyBhbmQgQVBUIGFzIHdlbGwgYXMgZGlnaXRhbCBmcmF1ZCBhbmQg
+ZGF0YSBsZWFrYWdlIHdpdGggY29yZSBzZXJ2aWNlcyBsaWtlIHBlbmV0cmF0
+aW9uIHRlc3RpbmcsIGV0aGljYWwgaGFja2luZywgcmVhbC1saWZlIEFQVCB0
+ZXN0cyBhbmQgSVNPIDI3MDAxIHNlY3VyaXR5IGF1ZGl0cy4gSW4gY2FzZSBv
+ZiBlbWVyZ2VuY3ksIE9uZSBjb25zdWx0cyBpbmNpZGVudCByZXNwb25zZSAm
+IElUIGZvcmVuc2ljcyB0ZWFtIHN1cHBvcnRzIHlvdSB3aXRoIGFyb3VuZC10
+aGUtY2xvY2sgZXhwZXJ0IGFzc2lzdGFuY2UgMjQgaCB4IDM2NSBkYXlzLiAJ
+Ci0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IAkKICBuYW1lOiBPcmFjbGUJ
+CiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vb3Jh
+Y2xlLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3Lm9yYWNsZS5jb20vaW5kZXgu
+aHRtbAkKICBkZXNjcmlwdGlvbjogT3JhY2xlIENvcnBvcmF0aW9uIGlzIGFu
+IEFtZXJpY2FuIG11bHRpbmF0aW9uYWwgY29tcHV0ZXIgdGVjaG5vbG9neSBj
+b3Jwb3JhdGlvbiBoZWFkcXVhcnRlcmVkIGluIFJlZHdvb2QgU2hvcmVzLCBD
+YWxpZm9ybmlhLiBUaGUgY29tcGFueSBzZWxscyBkYXRhYmFzZSBzb2Z0d2Fy
+ZSBhbmQgdGVjaG5vbG9neSwgY2xvdWQgZW5naW5lZXJlZCBzeXN0ZW1zLCBh
+bmQgZW50ZXJwcmlzZSBzb2Z0d2FyZSBwcm9kdWN0c+KAlHBhcnRpY3VsYXJs
+eSBpdHMgb3duIGJyYW5kcyBvZiBkYXRhYmFzZSBtYW5hZ2VtZW50IHN5c3Rl
+bXMuIEluIDIwMTgsIE9yYWNsZSB3YXMgdGhlIHRoaXJkLWxhcmdlc3Qgc29m
+dHdhcmUgY29tcGFueSBieSByZXZlbnVlLiAJCi0gbWVtYmVyOiB0cnVlCQog
+IHNwb25zb3I6IAkgCiAgbmFtZTogT3hmb3JkIFdlYiBBcHBsaWNhdGlvbnMJ
+CiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vb3hm
+b3JkLXdlYi1hcHBzLTAyLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3Lm94Zm9y
+ZHdlYmFwcHMuY28udWsvCQogIGRlc2NyaXB0aW9uOiBTaW5jZSAxOTk1IHdl
+IGhhdmUgYWx3YXlzIGRldmVsb3BlZCB0aGUgbW9zdCB1cC10by1kYXRlIGFu
+ZCBwcm9ncmVzc2l2ZSBkaWdpdGFsIHNvbHV0aW9ucyBkZXNpZ25lZCB0byBl
+bXBvd2VyIHBlb3BsZS4gT3VyIG1pc3Npb24gaXMgdG8gZGVwbG95IHRoZSBs
+YXRlc3QgcHJvdmVuIHRlY2hub2xvZ3kgdG8gZGVsaXZlciB1bmlxdWUgcHJv
+ZHVjdHMgd2l0aCBhc3RvdW5kaW5nIHBlcmZvcm1hbmNlLiBPdXIgT3hmb3Jk
+IGJhc2VkIHRlYW0gYXJlIHJlc3BvbnNpYmxlIGZvciBkZWxpdmVyaW5nIG91
+ciBmdWxsIHJhbmdlIG9mIHNlcnZpY2VzIHdoaWNoIGluY2x1ZGVzIHRoZSBk
+ZXNpZ24sIGRldmVsb3BtZW50LCBob3N0aW5nLCBzdXBwb3J0aW5nIGFuZCB0
+ZXN0aW5nIG9mIGludGVyYWN0aXZlIFdlYiBBcHBsaWNhdGlvbnMgYW5kIHdl
+YnNpdGVzLgkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjogCQogIG5hbWU6
+IFBhbmFzb25pYyBDb3Jwb3JhdGlvbgkKICBpbWFnZTogL2Fzc2V0cy9pbWFn
+ZXMvY29ycC1tZW1iZXItbG9nby9wYW5hc29uaWMucG5nCQogIHVybDogaHR0
+cHM6Ly93d3cucGFuYXNvbmljLmNvbS8JCiAgZGVzY3JpcHRpb246IDEwMCB5
+ZWFycyBhZ28sIFBhbmFzb25pYyBzdGFydGVkIHdpdGggYSBkZXNpcmUgdG8g
+Y3JlYXRlIHRoaW5ncyB3aXRoIHZhbHVlLiBTaW5jZSB0aGVuLCB0aGUgY2hh
+bGxlbmdlIGhhcyBjb250aW51ZWQgaW50byB2YXJpb3VzIGZpZWxkcyBpbmNs
+dWRpbmcgaG9tZSBhcHBsaWFuY2VzIHRvIHJlYWxpemUgIkEgQmV0dGVyIExp
+ZmUsIEEgQmV0dGVyIFdvcmxkIi4gIENvbnNpZGVyaW5nIHByb2R1Y3Qgc2Vj
+dXJpdHkgYXMgcGFydCBvZiBxdWFsaXR5IG1hbmFnZW1lbnQsIHdlIGhhdmUg
+c3RyaXZlZCB0byBpbXByb3ZlIHRoZSBzZWN1cml0eSBvZiBwcm9kdWN0cy4g
+U3BlY2lmaWMgYWN0aXZpdGllcyBpbmNsdWRlIHRocmVhdCBhbmFseXNpcyBk
+dXJpbmcgdGhlIGRlc2lnbiBwcm9jZXNzLCBhbmQgdnVsbmVyYWJpbGl0eSB0
+ZXN0aW5nIGJlZm9yZSBzaGlwbWVudC4gQWZ0ZXIgc2hpcG1lbnQsIFBhbmFz
+b25pYyBQU0lSVC0gUHJvZHVjdCBTZWN1cml0eSBJbmNpZGVudCBSZXNwb25z
+ZSBUZWFtIHdvcmtzIHRvIHJlc3BvbmQgdG8gaW5jaWRlbnRzIHRvd2FyZCBh
+IHF1aWNrIHJlc29sdXRpb24uIFRvIHByb3ZpZGUgcHJvZHVjdHMgdGhhdCBv
+dXIgY3VzdG9tZXJzIGNhbiB1c2Ugd2l0aCBwZWFjZSBvZiBtaW5kLCB3ZSB3
+aWxsIGNvbnRpbnVlIHByb2R1Y3Qgc2VjdXJpdHkgaW5pdGlhdGl2ZXMuCQot
+IG1lbWJlcjogdHJ1ZQkKICBzcG9uc29yOiA0CQogIG5hbWU6IFF1YWx5cwkK
+ICBpbWFnZTogL2Fzc2V0cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9xdWFs
+eXMucG5nCQogIHVybDogaHR0cHM6Ly93d3cucXVhbHlzLmNvbS8JCiAgZGVz
+Y3JpcHRpb246IFF1YWx5cyBpcyBhIHBpb25lZXIgYW5kIGxlYWRpbmcgcHJv
+dmlkZXIgb2YgY2xvdWQtYmFzZWQgc2VjdXJpdHkgYW5kIGNvbXBsaWFuY2Ug
+c29sdXRpb25zLiBUaGUgUXVhbHlzIENsb3VkIFBsYXRmb3JtIGFuZCBpdHMg
+aW50ZWdyYXRlZCBhcHBzIC0gaW5jbHVkaW5nIFdlYiBBcHBsaWNhdGlvbiBT
+Y2FubmluZyAoV0FTKSAtIGhlbHAgYnVzaW5lc3NlcyBzaW1wbGlmeSBzZWN1
+cml0eSBvcGVyYXRpb25zIGFuZCBsb3dlciB0aGUgY29zdCBvZiBjb21wbGlh
+bmNlIGJ5IGRlbGl2ZXJpbmcgY3JpdGljYWwgc2VjdXJpdHkgaW50ZWxsaWdl
+bmNlIGFuZCBhdXRvbWF0aW5nIHRoZSBmdWxsIHNwZWN0cnVtIG9mIGF1ZGl0
+aW5nLCBjb21wbGlhbmNlLCBhbmQgcHJvdGVjdGlvbiBmb3IgSVQgc3lzdGVt
+cyBhbmQgd2ViIGFwcGxpY2F0aW9ucy4gRm91bmRlZCBpbiAxOTk5LCBRdWFs
+eXMgaGFzIGVzdGFibGlzaGVkIHN0cmF0ZWdpYyBwYXJ0bmVyc2hpcHMgd2l0
+aCBsZWFkaW5nIG1hbmFnZWQgc2VydmljZSBwcm92aWRlcnMgYW5kIGNvbnN1
+bHRpbmcgb3JnYW5pemF0aW9ucyBpbmNsdWRpbmcgQWNjZW50dXJlLCBCVCwg
+Q29nbml6YW50IFRlY2hub2xvZ3kgU29sdXRpb25zLCBEZXV0c2NoZSBUZWxl
+a29tLCBGdWppdHN1LCBIUCBFbnRlcnByaXNlLCBJQk0sIEluZm9zeXMsIE5U
+VCwgT3B0aXYsIFNlY3VyZVdvcmtzLCBUYXRhIENvbW11bmljYXRpb25zLCBW
+ZXJpem9uLCBhbmQgV2lwcm8uIFRoZSBjb21wYW55IGlzIGFsc28gYSBmb3Vu
+ZGluZyBtZW1iZXIgb2YgdGhlIENsb3VkIFNlY3VyaXR5IEFsbGlhbmNlLiAJ
+Ci0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IAkKICBuYW1lOiBSZWFsd2Fy
+ZSAJCiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28v
+cmVhbC13YXJlLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3LnJlYWwtd2FyZS5j
+b20KICBkZXNjcmlwdGlvbjogUmVhbHdhcmUgaXMgYSBkaWdpdGFsIHRyYW5z
+Zm9ybWF0aW9uIHNvbHV0aW9uIHByb3ZpZGVyIHRoYXQgb2ZmZXJzIGNvbXBs
+ZXRlIGUtYnVzaW5lc3Mgc29sdXRpb25zLiBSZWFsd2FyZSBzdGFydHMgd2l0
+aCBleHBlcnQgc3RyYXRlZ3ksIHJlYWxpemVzIGl0IGluIGltcGFjdGZ1bCBk
+ZXNpZ24gYW5kIGZ1bmN0aW9uYWwgc29sdXRpb25zLCBhbmQgc3VzdGFpbnMg
+Z3Jvd3RoIHdpdGggb25nb2luZyBzdXBwb3J0IGFuZCBkZXZlbG9wbWVudC4g
+T3VyIEN1c3RvbSBTYWFTIGRlcGxveW1lbnQgbW9kZWwgYWxsb3dzIG91ciBj
+bGllbnRzIHRvIHRha2UgYWR2YW50YWdlIG9mIG91ciBmdW5jdGlvbmFsIGFu
+ZCBub24tZnVuY3Rpb25hbCAoc2VjdXJpdHksIHBlcmZvcm1hbmNlLCBjb21w
+bGlhbmNlKSBleHBlcnRpc2UuIFJlYWx3YXJlIGhhcyBoZWxwZWQgZ2xvYmFs
+IGVudGVycHJpc2VzIGFjaGlldmUgdGhlaXIgaW50ZXJuYXRpb25hbCBidXNp
+bmVzcyBnb2FscyBmb3Igb3ZlciAyMCB5ZWFycy4gQnJhbmRzIGZyb20gaW5k
+dXN0cmllcyBhcyBkaXZlcnNlIGFzIHRlbGVjb21tdW5pY2F0aW9ucywgaGVh
+bHRoIGNhcmUsIGNvbnN1bWVyIHByb2R1Y3RzIGFuZCBmaW5hbmNpYWwgc2Vy
+dmljZXMgY29tZSB0byB1cyAoYW5kIGNvbWUgYmFjaykgYmVjYXVzZSBvZiB0
+aGUgY29udGludWVkIHZhbHVlIHdlIGRlbGl2ZXIuCi0gbWVtYmVyOiB0cnVl
+CQogIHNwb25zb3I6IDMJCiAgbmFtZTogUklQUyBUZWNobm9sb2dpZXMJCiAg
+aW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vcmlwcy10
+ZWNoLnBuZwkKICB1cmw6IGh0dHBzOi8vd3d3LnJpcHN0ZWNoLmNvbS8JCiAg
+ZGVzY3JpcHRpb246IFJJUFMgVGVjaG5vbG9naWVzIGRlbGl2ZXJzIGF1dG9t
+YXRlZCBzZWN1cml0eSBhbmFseXNpcyBmb3Igd2ViIGFwcGxpY2F0aW9ucyBh
+cyBwbGF0Zm9ybSBpbmRlcGVuZGVudCBzb2Z0d2FyZSBvciBoaWdobHkgc2Nh
+bGFibGUgY2xvdWQgc2VydmljZS4gV2l0aCBvdXIgdW5pcXVlIGFwcHJvYWNo
+LCBldmVuIGNvbXBsZXggc2VjdXJpdHkgdnVsbmVyYWJpbGl0aWVzIGFyZSBk
+ZXRlY3RlZCB0aGF0IG5vIG90aGVyIHNvbHV0aW9uIGNhbiBkZXRlY3QuIERl
+dGFpbGVkIHBhdGNoIGluc3RydWN0aW9ucyBhbGxvdyByZW1lZGlhdGluZyBz
+ZWN1cml0eSByaXNrcyB0aW1lIGFuZCBjb3N0IGVmZmljaWVudGx5LCBiZWZv
+cmUgdGhlc2UgYXJlIGV4cG9zZWQgdG8gYXR0YWNrZXJzLgkKLSBtZW1iZXI6
+IHRydWUJCiAgc3BvbnNvcjogCQogIG5hbWU6IFNhbGVzZm9yY2UJCiAgaW1h
+Z2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vc2FsZXNmb3Jj
+ZS5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5zYWxlc2ZvcmNlLmNvbS8JCiAg
+dmVydGljYWw6IHRydWUKICBkZXNjcmlwdGlvbjogU2FsZXNmb3JjZSBpcyB0
+aGUgd29ybGQncyBudW1iZXIgb25lIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBt
+YW5hZ2VtZW50IHBsYXRmb3JtLiBPdXIgY2xvdWQtYmFzZWQgYXBwbGljYXRp
+b25zIGZvciBzYWxlcywgc2VydmljZSwgbWFya2V0aW5nLCBhbmQgbW9yZSBk
+b27igJl0IHJlcXVpcmUgSVQgZXhwZXJ0cyB0byBzZXQgdXAgb3IgbWFuYWdl
+IOKAlCBzaW1wbHkgbG9nIGluIGFuZCBzdGFydCBjb25uZWN0aW5nIHRvIGN1
+c3RvbWVycyBpbiBhIHdob2xlIG5ldyB3YXkuCQotIG1lbWJlcjogdHJ1ZQkK
+ICBzcG9uc29yOiBudW1iZXIJCiAgbmFtZTogU2FsdCBTZWN1cml0eQkKICBp
+bWFnZTogL2Fzc2V0cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9TYWx0X1Nl
+Y3VyaXR5LnBuZwkKICB1cmw6IGh0dHBzOi8vc2FsdC5zZWN1cml0eS8JCiAg
+ZGVzY3JpcHRpb246IFNhbHQgU2VjdXJpdHkgbWFrZXMgaXQgc2FmZSB0byBp
+bm5vdmF0ZSBieSBwcm90ZWN0aW5nIHRoZSBBUElzIGF0IHRoZSBjb3JlIG9m
+IGV2ZXJ5IFNhYVMsIHdlYiwgbW9iaWxlLCBtaWNyb3NlcnZpY2VzIGFuZCBJ
+b1QgYXBwbGljYXRpb24uIE91ciBBUEkgUHJvdGVjdGlvbiBQbGF0Zm9ybSBp
+cyBkZXBsb3llZCBpbiBtaW51dGVzLCBhbmQgcmVxdWlyZXMgbm8gY29uZmln
+dXJhdGlvbiBvciBjdXN0b21pemF0aW9uLiBXZSB1c2UgcGF0ZW50ZWQgYmVo
+YXZpb3JhbCBwcm90ZWN0aW9uIHRvIGF1dG9tYXRpY2FsbHkgYW5kIGNvbnRp
+bnVvdXNseSBkaXNjb3ZlciBhbmQgbGVhcm4gdGhlIGdyYW51bGFyIGJlaGF2
+aW9yIG9mIGVhY2ggdW5pcXVlIEFQSSB0byBlbnN1cmUgcHJvdGVjdGlvbi4g
+VGhlIGNvbXBhbnkgd2FzIGZvdW5kZWQgaW4gMjAxNiBieSBhbHVtbmkgb2Yg
+dGhlIElzcmFlbGkgRGVmZW5zZSBGb3JjZXMgKElERikgYW5kIHNlcmlhbCBj
+eWJlcnNlY3VyaXR5IGV4ZWN1dGl2ZXMuIEluIDIwMTkgU2FsdCBTZWN1cml0
+eSB3YXMgc2VsZWN0ZWQgYXMgYSBmaW5hbGlzdCBmb3IgdGhlIFJTQSBJbm5v
+dmF0aW9uIFNhbmRib3ggYW5kIGFzIHRoZSB3aW5uZXIgb2YgdGhlIE9XQVNQ
+IElubm92YXRpb24gRmFpci4JCi0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6
+IAkKICBuYW1lOiBTQ1NLIENvcnBvcmF0aW9uCQogIGltYWdlOiAvYXNzZXRz
+L2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL1NDU0suanBlZwkKICB1cmw6IGh0
+dHA6Ly93d3cuc2Nzay5qcC9pbmRleF9lbi5odG1sCQogIGRlc2NyaXB0aW9u
+OiBTQ1NLIHByb3ZpZGVzIGEgZnVsbCBsaW5ldXAgb2Ygc2VydmljZXMgdG8g
+c3VwcG9ydCBhbnkgYXJlYSBvZiBJVCBzb2x1dGlvbiByZXF1aXJlZCBmb3Ig
+YnVzaW5lc3NlcyBmcm9tIHN5c3RlbSBpbnRlZ3JhdGlvbiB0byBJVCBpbmZy
+YXN0cnVjdHVyZSBpbXBsZW1lbnRhdGlvbiwgSVQgbWFuYWdlbWVudCwgQlBP
+KGJ1c2luZXNzIHByb2Nlc3Mgb3V0c291cmNpbmcpLCBhbmQgSVQgaGFyZHdh
+cmUgYW5kIHNvZnR3YXJlIHNhbGVzLkluIGFkZGl0aW9uLCB3ZSB0YWtlIGFk
+dmFudGFnZSBvZiB0aGUgY2FwYWJpbGl0eSB0byBzdXBwb3J0IGEgZ2xvYmFs
+IElUIHN5c3RlbSBuZXR3b3JrIGZvciBjdXN0b21lcnMgaW5jbHVkaW5nIFN1
+bWl0b21vIENvcnBvcmF0aW9uLCBhaW1pbmcgZm9yIGZ1cnRoZXIgbGVhcHMg
+YWhlYWQgYXMgYSBnbG9iYWwgSVQgc2VydmljZXMgY29tcGFueS4JCi0gbWVt
+YmVyOiB0cnVlCQogIHNwb25zb3I6IDMJCiAgbmFtZTogU2VjdXJlIENvZGUg
+V2FycmlvcgkKICBpbWFnZTogL2Fzc2V0cy9pbWFnZXMvY29ycC1tZW1iZXIt
+bG9nby9zZWN1cmUtY29kZS13YXJyaW9yLnBuZwogIHZlcnRpY2FsOiB0cnVl
+CQogIHVybDogaHR0cHM6Ly9zZWN1cmVjb2Rld2Fycmlvci5jb20vCiAgZGVz
+Y3JpcHRpb246IFNlY3VyZSBDb2RlIFdhcnJpb3IgaXMgYSBnbG9iYWwgc2Vj
+dXJpdHkgY29tcGFueSB0aGF0IG1ha2VzIHNvZnR3YXJlIGRldmVsb3BtZW50
+IGJldHRlciBhbmQgbW9yZSBzZWN1cmUuIE91ciB2aXNpb24gaXMgdG8gZW1w
+b3dlciBkZXZlbG9wZXJzIHRvIGJlIHRoZSBmaXJzdCBsaW5lIG9mIGRlZmVu
+c2UgaW4gdGhlaXIgb3JnYW5pemF0aW9uIGJ5IG1ha2luZyBzZWN1cml0eSBo
+aWdobHkgdmlzaWJsZSBhbmQgcHJvdmlkaW5nIHRoZW0gd2l0aCB0aGUgc2tp
+bGxzIGFuZCB0b29scyB0byB3cml0ZSBzZWN1cmUgY29kZSBmcm9tIHRoZSBi
+ZWdpbm5pbmcuIFdlIGhhdmUgYnVpbHQgYSBwb3dlcmZ1bCBwbGF0Zm9ybSB0
+aGF0IG1vdmVzIHRoZSBmb2N1cyBmcm9tIHJlYWN0aW9uIHRvIHByZXZlbnRp
+b24sIHRyYWluaW5nIGFuZCBlcXVpcHBpbmcgZGV2ZWxvcGVycyB0byB0aGlu
+ayBhbmQgYWN0IHdpdGggYSBzZWN1cml0eSBtaW5kc2V0IGFzIHRoZXkgYnVp
+bGQgYW5kIHZlcmlmeSB0aGVpciBza2lsbHMsIGdhaW4gcmVhbC10aW1lIGFk
+dmljZSBhbmQgbW9uaXRvciBza2lsbCBkZXZlbG9wbWVudC4gT3VyIGN1c3Rv
+bWVycyBpbmNsdWRlIGZpbmFuY2lhbCBpbnN0aXR1dGlvbnMsIHRlbGVjb21t
+dW5pY2F0aW9ucyBwcm92aWRlcnMgYW5kIGdsb2JhbCB0ZWNobm9sb2d5IGNv
+bXBhbmllcyBpbiBFdXJvcGUsIE5vcnRoIEFtZXJpY2EgYW5kIHRoZSBBc2lh
+IFBhY2lmaWMuIAkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjogCQogIG5h
+bWU6IFNlY3VyZUJyYWluCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3Jw
+LW1lbWJlci1sb2dvL1NlY3VyZUJyYWluLnBuZwkKICB1cmw6IGh0dHBzOi8v
+d3d3LnNlY3VyZWJyYWluLmNvLmpwL2VuZy8JCiAgZGVzY3JpcHRpb246IFNl
+Y3VyZUJyYWluIGEgSGl0YWNoaSBHcm91cCBDb21wYW55IGlzIGEgbGVhZGVy
+IGluIHByb3ZpZGluZyBzb2Z0d2FyZSBhbmQgc2VydmljZXMgdG8gaGVscCBw
+cm90ZWN0IGVudGVycHJpc2VzIGFuZCB0aGVpciBjdXN0b21lcnMgYWdhaW5z
+dCBjeWJlcmNyaW1lIGluY2x1ZGluZyBvbmxpbmUgZnJhdWQgYW5kIG1hbHdh
+cmUgYXR0YWNrcy4gIFRvIGVuc3VyZSB0aGF0IG91ciBjdXN0b21lcnMgYXJl
+IGFsd2F5cyBwcm90ZWN0ZWQgZnJvbSB0aGUgbGF0ZXN0IHRyZW5kIG9mIGN5
+YmVyY3JpbWUsIFNlY3VyZUJyYWluIGhhcyBpdHMgb3duIGFkdmFuY2VkIHNl
+Y3VyaXR5IHJlc2VhcmNoIGNlbnRlci4gVGVhbSBvZiBzZWN1cml0eSByZXNl
+YXJjaGVycyB3b3JrcyBjbG9zZWx5IHdpdGggbWFueSBKYXBhbmVzZSBnb3Zl
+cm5tZW50IHJlc2VhcmNoIGFnZW5jaWVzIHRvIHJlc2VhcmNoIGFuZCBkZXZl
+bG9wIHNvbHV0aW9ucyBhZ2FpbnN0IHRoZSBsYXRlc3QgY3liZXIgdGhyZWF0
+cy4JCi0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IAkKICBuYW1lOiBTZWN1
+cml0eSBJbm5vdmF0aW9uCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3Jw
+LW1lbWJlci1sb2dvL3NlY3VyaXR5LWlubm92YXRpb24ucG5nCQogIHVybDog
+aHR0cHM6Ly93d3cuc2VjdXJpdHlpbm5vdmF0aW9uLmNvbS8JCiAgZGVzY3Jp
+cHRpb246IAlTZWN1cml0eSBJbm5vdmF0aW9uIGlzIGEgcGlvbmVlciBpbiBz
+b2Z0d2FyZSBzZWN1cml0eSBhbmQgdHJ1c3RlZCBhZHZpc29yIHRvIGl0cyBj
+bGllbnRzLiBTaW5jZSAyMDAyLCBvcmdhbml6YXRpb25zIGhhdmUgcmVsaWVk
+IG9uIG91ciBhc3Nlc3NtZW50IGFuZCB0cmFpbmluZyBzb2x1dGlvbnMgdG8g
+bWFrZSB0aGUgdXNlIG9mIHNvZnR3YXJlIHN5c3RlbXMgc2FmZXIgaW4gdGhl
+IG1vc3QgY2hhbGxlbmdpbmcgZW52aXJvbm1lbnRzIOKAkyB3aGV0aGVyIGlu
+IFdlYiBhcHBsaWNhdGlvbnMsIElvVCBkZXZpY2VzLCBvciB0aGUgY2xvdWQu
+IFRoZSBjb21wYW554oCZcyBmbGFnc2hpcCBwcm9kdWN0LCBDTUQrQ1RSTCBD
+eWJlciBSYW5nZSwgaXMgdGhlIGluZHVzdHJ54oCZcyBvbmx5IHNpbXVsYXRl
+ZCBXZWIgc2l0ZSBlbnZpcm9ubWVudCBkZXNpZ25lZCB0byBidWlsZCB0aGUg
+c2tpbGxzIHRlYW1zIG5lZWQgdG8gcHJvdGVjdCB0aGUgZW50ZXJwcmlzZSB3
+aGVyZSBpdCBpcyBtb3N0IHZ1bG5lcmFibGUg4oCTIGF0IHRoZSBhcHBsaWNh
+dGlvbiBsYXllci4gU2VjdXJpdHkgSW5ub3ZhdGlvbiBpcyBwcml2YXRlbHkg
+aGVsZCBhbmQgaGVhZHF1YXJ0ZXJlZCBpbiBXaWxtaW5ndG9uLCBNQSBVU0Eu
+CQotIG1lbWJlcjogZmFsc2UJCiAgc3BvbnNvcjogNAkKICBuYW1lOiBTZWN1
+cml0eSBKb3VybmV5CQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1l
+bWJlci1sb2dvL3NlY3VyaXR5LWpvdXJuZXkucG5nCiAgdXJsOiBodHRwczov
+L3d3dy5zZWN1cml0eWpvdXJuZXkuY29tLwkKICBkZXNjcmlwdGlvbjogU2Vj
+dXJpdHkgSm91cm5leSBpcyB0aGUgbGVhZGVyIGluIGFwcGxpY2F0aW9uIHNl
+Y3VyaXR5IGVkdWNhdGlvbiB1c2luZyBzZWN1cml0eSBiZWx0IHByb2dyYW1z
+LiBXZSBndWlkZSBvdXIgY2xpZW50cyBtYW55IGluIHRlY2gsIGhlYWx0aGNh
+cmUsIGFuZCBmaW5hbmNlIHRvIGJ1aWxkaW5nIGxvbmctdGVybSwgc3VzdGFp
+bmFibGUgYXBwbGljYXRpb24gc2VjdXJpdHkgY3VsdHVyZS4gV2UgaW5jb3Jw
+b3JhdGUgZXZlcnl0aGluZyB5b3UgbmVlZCB0byBkZXBsb3kgYW5kIG1hbmFn
+ZSBhbiBlZHVjYXRpb24gcHJvZ3JhbS4gIE91ciBjbG91ZC1iYXNlZCBwbGF0
+Zm9ybSBkZWxpdmVycyBhcHBsaWNhdGlvbiBzZWN1cml0eSBsZXNzb25zIGZy
+b20gYW4gZXZlci1ncm93aW5nIGxpYnJhcnkgb2YgY29udGVudCwgcHJvdmlk
+ZXMgaGFuZHMtb24sIGltbWVyc2l2ZSBleHBlcmltZW50cywgbWVhc3VyZXMg
+c3R1ZGVudCBhbmQgb3JnYW5pemF0aW9uYWwgZ3Jvd3RoLCByZXdhcmRzIHN0
+dWRlbnQgYWNoaWV2ZW1lbnRzLCBhbmQgdHJhbnNmb3JtcyBhbiBlbnRlcnBy
+aXNl4oCZcyBzZWN1cml0eSBjdWx0dXJlLiBXZSBwcm9tb3RlIHNlY3VyaXR5
+IGF3YXJlbmVzcyBvcmdhbml6YXRpb24td2lkZSB3aXRoIGxlYXJuaW5nIHRo
+YXQgaXMgZW5nYWdpbmcsIG1vdGl2YXRpbmcsIGFuZCBmdW4uIEluIHNob3J0
+LCB3ZSBwcm92aWRlIHNlY3VyaXR5IGVkdWNhdGlvbiBkZXZlbG9wZXJzLCB0
+ZXN0ZXJzLCBhbmQgbWFuYWdlcnMgbG92ZS4JCi0gbWVtYmVyOiB0cnVlCQog
+IHNwb25zb3I6IDQJCiAgbmFtZTogU2hpZnRsZWZ0CQogIGltYWdlOiAvYXNz
+ZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL3NoaWZ0bGVmdC5wbmcJCiAg
+dXJsOiBodHRwczovL3d3dy5zaGlmdGxlZnQuaW8vP3V0bV9zb3VyY2U9Ymxv
+ZyZ1dG1fbWVkaXVtPXdlYgkKICBkZXNjcmlwdGlvbjogU2hpZnRMZWZ0IGlz
+IGEgY29udGludW91cyBhcHBsaWNhdGlvbiBzZWN1cml0eSBwbGF0Zm9ybSwg
+cHVycG9zZSBidWlsdCBmb3IgdGhlIG1vZGVybiBzb2Z0d2FyZSBkZXZlbG9w
+bWVudCBsaWZlIGN5Y2xlLiBJdCBjb21iaW5lcyBuZXh0LWdlbmVyYXRpb24g
+c3RhdGljIGNvZGUgYW5hbHlzaXMgdG8gcXVpY2tseSBhbmQgYWNjdXJhdGVs
+eSBpZGVudGlmeSB2dWxuZXJhYmlsaXRpZXMgd2l0aCBhcHBsaWNhdGlvbiBp
+bnN0cnVtZW50YXRpb24gdG8gcHJvdGVjdCB0aGUgYXBwbGljYXRpb24gaW4g
+YW4gYXV0b21hdGVkIHdvcmtmbG93LiBUaGlzIGNvbWJpbmF0aW9uIG9mIHJ1
+bnRpbWUtaW5mb3JtZWQgY29kZSBhbmFseXNpcyBhbmQgY29kZS0gaW5mb3Jt
+ZWQgcnVudGltZSBwcm90ZWN0aW9uIGRlbGl2ZXJzIHRoZSBtb3N0IGFjY3Vy
+YXRlLCBhdXRvbWF0ZWQsIGFuZCBjb21wcmVoZW5zaXZlIGFwcGxpY2F0aW9u
+IHNlY3VyaXR5IHNvbHV0aW9uLgkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNv
+cjogCQogIG5hbWU6IFNpZ25hbCBTY2llbmNlcwkKICBpbWFnZTogL2Fzc2V0
+cy9pbWFnZXMvY29ycC1tZW1iZXItbG9nby9zaWduYWwtc2NpZW5jZXMucG5n
+CiAgdXJsOiBodHRwczovL3d3dy5zaWduYWxzY2llbmNlcy5jb20vCiAgZGVz
+Y3JpcHRpb246IFNpZ25hbCBTY2llbmNlcyBzZWN1cmVzIHRoZSBtb3N0IGlt
+cG9ydGFudCB3ZWIgYXBwbGljYXRpb25zLCBBUElzLCBhbmQgbWljcm9zZXJ2
+aWNlcyBvZiB0aGUgd29ybGQncyBsZWFkaW5nIGNvbXBhbmllcy4gT3VyIG5l
+eHQtZ2VuIFdBRiBhbmQgUkFTUCBoZWxwIHlvdSBpbmNyZWFzZSBzZWN1cml0
+eSBhbmQgbWFpbnRhaW4gc2l0ZSByZWxpYWJpbGl0eSB3aXRob3V0IHNhY3Jp
+ZmljaW5nIHZlbG9jaXR5LCBhbGwgYXQgdGhlIGxvd2VzdCB0b3RhbCBjb3N0
+IG9mIG93bmVyc2hpcC4gTGVhcm4gaG93IG91ciBwYXRlbnRlZCBhcHByb2Fj
+aCBjYW4gaGVscCB5b3UuCQotIG1lbWJlcjogdHJ1ZQkKICBzcG9uc29yOiAJ
+CiAgbmFtZTogU29mdHdhcmUgSW1wcm92ZW1lbnQgR3JvdXAJCiAgaW1hZ2U6
+IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vc2lnLnBuZwogIHVy
+bDogaHR0cHM6Ly93d3cuc29mdHdhcmVpbXByb3ZlbWVudGdyb3VwLmNvbS8J
+CiAgZGVzY3JpcHRpb246IFNJRyBnaXZlcyB0ZWNobm9sb2d5IGxlYWRlcnMg
+dGhlIHZpc2liaWxpdHkgdGhleSBuZWVkIHRvIGFkZHJlc3MgY3VycmVudCBz
+b2Z0d2FyZSBwcm9ibGVtcyBhbmQgcHJldmVudCBmdXR1cmUgb25lcyBmcm9t
+IGV2ZXIgaGFwcGVuaW5nLiBEcmF3aW5nIG9uIHByb3ByaWV0YXJ5IG1ldGhv
+ZHMgYW5kIGRlY2FkZXMgb2YgZXhwZXJ0aXNlLCBTSUcgaGVscHMgb3JnYW5p
+emF0aW9ucyBmdW5kYW1lbnRhbGx5IGltcHJvdmUgdGhlIHNlY3VyaXR5IGFu
+ZCBwZXJmb3JtYW5jZSBvZiB0aGUgZW50ZXJwcmlzZSBhcHBsaWNhdGlvbnMg
+dGhhdCBzdXBwb3J0IGV2ZXJ5IGFzcGVjdCBvZiB0aGVpciBidXNpbmVzc2Vz
+LgotIG1lbWJlcjogdHJ1ZQkKICBzcG9uc29yOiAJCiAgbmFtZTogU3RhY2tI
+YXdrCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dv
+L3N0YWNraGF3ay5wbmcJCiAgdXJsOiBodHRwczovL3d3dy5zdGFja2hhd2su
+Y29tLwkKICBkZXNjcmlwdGlvbjogU3RhY2tIYXdrIGlzIGR5bmFtaWMgYXBw
+bGljYXRpb24gdnVsbmVyYWJpbGl0eSBzY2FubmluZyBidWlsdCBmb3IgbW9k
+ZXJuIGRldmVsb3BtZW50IHRlYW1zLiBXaXRoIHNpbXBsZSBjb25maWd1cmF0
+aW9uLCBlYXN5IGludm9jYXRpb24gdmlhIGRvY2tlciBjb21tYW5kLCBhbmQg
+aW50ZXJwcmV0YWJsZSByZXN1bHRzLCBTdGFja0hhd2sgaXMgYnVpbHQgZm9y
+IGRldmVsb3BlcnMgdG8gdGFrZSBjb250cm9sIG9mIHRoZWlyIEFwcFNlYy4g
+CQotIG1lbWJlcjogdHJ1ZQkKICBzcG9uc29yOiAJCiAgbmFtZTogU3ltYW50
+ZWMJCiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28v
+c3ltYW50ZWMucG5nCiAgdXJsOiBodHRwczovL3d3dy5zeW1hbnRlYy5jb20v
+CQogIGRlc2NyaXB0aW9uOiAiU3ltYW50ZWMgQ29ycG9yYXRpb24gKE5BU0RB
+UTogU1lNQyksIHRoZSB3b3JsZOKAmXMgbGVhZGluZyBjeWJlcnNlY3VyaXR5
+IGNvbXBhbnksIGhlbHBzIG9yZ2FuaXphdGlvbnMsIGdvdmVybm1lbnRzLCBh
+bmQgcGVvcGxlIHNlY3VyZSB0aGVpciBtb3N0IGltcG9ydGFudCBkYXRhIHdo
+ZXJldmVyIGl0IGxpdmVzLiBPcmdhbml6YXRpb25zIGFjcm9zcyB0aGUgd29y
+bGQgbG9vayB0byBTeW1hbnRlYyBmb3Igc3RyYXRlZ2ljLCBpbnRlZ3JhdGVk
+IHNvbHV0aW9ucyB0byBkZWZlbmQgYWdhaW5zdCBzb3BoaXN0aWNhdGVkIGF0
+dGFja3MgYWNyb3NzIGVuZHBvaW50cywgY2xvdWQsIGFuZCBpbmZyYXN0cnVj
+dHVyZS4gTGlrZXdpc2UsIGEgZ2xvYmFsIGNvbW11bml0eSBvZiBtb3JlIHRo
+YW4gNTAgbWlsbGlvbiBwZW9wbGUgYW5kIGZhbWlsaWVzIHJlbHkgb24gU3lt
+YW50ZWPigJlzIE5vcnRvbiBhbmQgTGlmZUxvY2sgcHJvZHVjdCBzdWl0ZXMg
+dG8gcHJvdGVjdCB0aGVpciBkaWdpdGFsIGxpdmVzIGF0IGhvbWUgYW5kIGFj
+cm9zcyB0aGVpciBkZXZpY2VzLiBTeW1hbnRlYyBvcGVyYXRlcyBvbmUgb2Yg
+dGhlIHdvcmxk4oCZcyBsYXJnZXN0IGNpdmlsaWFuIGN5YmVyIGludGVsbGln
+ZW5jZSBuZXR3b3JrcywgYWxsb3dpbmcgaXQgdG8gc2VlIGFuZCBwcm90ZWN0
+IGFnYWluc3QgdGhlIG1vc3QgYWR2YW5jZWQgdGhyZWF0cy4iCQotIG1lbWJl
+cjogdHJ1ZQkKICBzcG9uc29yOiAJCiAgbmFtZTogU3luYWNrCQogIGltYWdl
+OiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL1N5bmFjay5wbmcJ
+CiAgdXJsOiBodHRwczovL3d3dy5zeW5hY2suY29tLwkKICBkZXNjcmlwdGlv
+bjogU3luYWNrLCB0aGUgbW9zdCB0cnVzdGVkIGNyb3dkc291cmNlZCBzZWN1
+cml0eSB0ZXN0aW5nIHBsYXRmb3JtLCBkZWxpdmVycyBzbWFydGVyIHBlbmV0
+cmF0aW9uIHRlc3RpbmcgZm9yIGR5bmFtaWMgYXR0YWNrIHN1cmZhY2VzIG9u
+IGEgY29udGludW91cyBjYWRlbmNlLiBUaGUgY29tcGFueeKAmXMgaGFja2Vy
+LXBvd2VyZWQsIEFJLWVuYWJsZWQgcGVuIHRlc3QgcHJvdmlkZXMgYWNjZXNz
+IHRvIHRoZSBiZXN0IHdvcmxkd2lkZSB0YWxlbnQsIHNjYWxhYmxlIGFuZCBz
+bWFydCB0ZWNobm9sb2d5LCBhbmQgaW5zaWdodHMgdGhhdCBzZWN1cmUgb3Vy
+IG5hdGlvbidzIGNyaXRpY2FsIGluZnJhc3RydWN0dXJlIGFuZCBsZWFkaW5n
+IGJyYW5kcyBhbmQgYnVzaW5lc3Nlcy4JCi0gbWVtYmVyOiB0cnVlCQogIHNw
+b25zb3I6IDQJCiAgbmFtZTogU3lub3BzeXMJCiAgaW1hZ2U6IC9hc3NldHMv
+aW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vc3lub3BzeXMucG5nCQogIHVybDog
+aHR0cHM6Ly93d3cuc3lub3BzeXMuY29tLwkKICBkZXNjcmlwdGlvbjogU3lu
+b3BzeXMgdGVjaG5vbG9neSBpcyBhdCB0aGUgaGVhcnQgb2YgaW5ub3ZhdGlv
+bnMgdGhhdCBhcmUgY2hhbmdpbmcgdGhlIHdheSB3ZSBsaXZlIGFuZCB3b3Jr
+LiBUaGUgSW50ZXJuZXQgb2YgVGhpbmdzLiBBdXRvbm9tb3VzIGNhcnMuIFdl
+YXJhYmxlcy4gU21hcnQgbWVkaWNhbCBkZXZpY2VzLiBTZWN1cmUgZmluYW5j
+aWFsIHNlcnZpY2VzLiBNYWNoaW5lIGxlYXJuaW5nIGFuZCBjb21wdXRlciB2
+aXNpb24uIFRoZXNlIGJyZWFrdGhyb3VnaHMgYXJlIHVzaGVyaW5nIGluIHRo
+ZSBlcmEgb2YgU21hcnQsIFNlY3VyZSBFdmVyeXRoaW5n4oCVd2hlcmUgZGV2
+aWNlcyBhcmUgZ2V0dGluZyBzbWFydGVyLCBldmVyeXRoaW5n4oCZcyBjb25u
+ZWN0ZWQsIGFuZCBldmVyeXRoaW5nIG11c3QgYmUgc2VjdXJlLiBQb3dlcmlu
+ZyB0aGlzIG5ldyBlcmEgb2YgdGVjaG5vbG9neSBhcmUgYWR2YW5jZWQgc2ls
+aWNvbiBjaGlwcywgd2hpY2ggYXJlIG1hZGUgZXZlbiBzbWFydGVyIGJ5IHRo
+ZSByZW1hcmthYmxlIHNvZnR3YXJlIHRoYXQgZHJpdmVzIHRoZW0uIFN5bm9w
+c3lzIGlzIGF0IHRoZSBmb3JlZnJvbnQgb2YgU21hcnQsIFNlY3VyZSBFdmVy
+eXRoaW5nIHdpdGggdGhlIHdvcmxk4oCZcyBtb3N0IGFkdmFuY2VkIHRvb2xz
+IGZvciBzaWxpY29uIGNoaXAgZGVzaWduLCB2ZXJpZmljYXRpb24sIElQIGlu
+dGVncmF0aW9uLCBhbmQgYXBwbGljYXRpb24gc2VjdXJpdHkgdGVzdGluZy4g
+T3VyIHRlY2hub2xvZ3kgaGVscHMgY3VzdG9tZXJzIGlubm92YXRlIGZyb20g
+U2lsaWNvbiB0byBTb2Z0d2FyZSwgc28gdGhleSBjYW4gZGVsaXZlciBTbWFy
+dCwgU2VjdXJlIEV2ZXJ5dGhpbmcuCQotIG1lbWJlcjogdHJ1ZQkKICBzcG9u
+c29yOiAJCiAgbmFtZTogVGhlIE1lZGlhIFRydXN0CQogIGltYWdlOiAvYXNz
+ZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL3RoZS1tZWRpYS10cnVzdC5w
+bmcJCiAgdXJsOiBodHRwczovL21lZGlhdHJ1c3QuY29tLwkKICBkZXNjcmlw
+dGlvbjogVGhlIE1lZGlhIFRydXN0IGlzIG9uIGEgbWlzc2lvbiBmaXhpbmcg
+dGhlIGludGVybmV0LiBUbyBtYWtlIHRoZSBpbnRlcm5ldCBhIGhlYWx0aGll
+ciwgbW9yZSB2YWx1YWJsZSBwbGFjZSBmb3IgYnVzaW5lc3NlcywgZ292ZXJu
+bWVudHMgYW5kIGNvbnN1bWVycywgVGhlIE1lZGlhIFRydXN04oCZcyBjZW50
+cmFsaXplZCBwbGF0Zm9ybSBwcm92aWRlcyByZWFsLXRpbWUgdmlzaWJpbGl0
+eSBhbmQgaW5zaWdodCBpbnRvIG5vbi1jb21wbGlhbnQgYWN0aXZpdHkgYW5k
+IHRocmVhdHMgb3BlcmF0aW5nIGluIGVudGVycHJpc2Ugd2Vic2l0ZSBhbmQg
+bW9iaWxlIGFwcCBlbnZpcm9ubWVudHMuIFdpdGggYW4gZW1waGFzaXMgb24g
+dGhpcmQtcGFydHkgY29kZSBiZXlvbmQgbGlicmFyaWVzLCB0aGUgcGxhdGZv
+cm0gaWRlbnRpZmllcyBhbGwgZXhlY3V0aW5nIGNvZGUgKGluY2x1ZGluZyBj
+b2RlIGZyb20gZmlyc3QsIHRoaXJkIGFuZCBudGggcGFydGllcyksIGFuYWx5
+emVzIGl0cyBiZWhhdmlvciwgYXNzZXNzZXMgY29tcGxpYW5jZSB3aXRoIGNv
+bXBhbnkgcG9saWNpZXMsIGFuZCByZXNvbHZlcyB2aW9sYXRpbmcgYmVoYXZp
+b3IuIFRoZSBhYmlsaXR5IHRvIG1hbmFnZSB0aGlyZC1wYXJ0eSBkaWdpdGFs
+IHJpc2sgaGVscHMgZGVmZW5kIGFnYWluc3Qgd2Vic2l0ZSBicmVhY2hlcyB3
+aGljaCBjYW4gbGVhZCB0byByZWd1bGF0b3J5IGZpbmVzLCByZXZlbnVlIGxv
+c3MsIGFuZCByZXB1dGF0aW9uYWwgaGFybSAJCi0gbWVtYmVyOiB0cnVlCQog
+IHNwb25zb3I6IAkKICBuYW1lOiBUaG91Z2h0V29ya3MJCiAgaW1hZ2U6IC9h
+c3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vdGhvdWdodHdvcmtzLnBu
+ZwkKICB1cmw6IGh0dHBzOi8vd3d3LnRob3VnaHR3b3Jrcy5jb20vCQogIGRl
+c2NyaXB0aW9uOiBXZSBhcmUgYSBzb2Z0d2FyZSBjb21wYW55IGFuZCBjb21t
+dW5pdHkgb2YgcGFzc2lvbmF0ZSwgcHVycG9zZS1sZWQgaW5kaXZpZHVhbHMu
+IFdlIHRoaW5rIGRpc3J1cHRpdmVseSB0byBkZWxpdmVyIHRlY2hub2xvZ3kg
+dGhhdCBhZGRyZXNzZXMgb3VyIGNsaWVudHPigJkgdG91Z2hlc3QgY2hhbGxl
+bmdlcywgYWxsIHdoaWxlIHNlZWtpbmcgdG8gcmV2b2x1dGlvbml6ZSB0aGUg
+SVQgaW5kdXN0cnkgYW5kIGNyZWF0ZSBwb3NpdGl2ZSBzb2NpYWwgY2hhbmdl
+LiBUaG91Z2h0V29ya3MnIDMsMDAwIHByb2Zlc3Npb25hbHMgc2VydmUgY2xp
+ZW50cyBmcm9tIG9mZmljZXMgaW4gQXVzdHJhbGlhLCBCcmF6aWwsIENhbmFk
+YSwgQ2hpbmEsIEVjdWFkb3IsIEdlcm1hbnksIEluZGlhLCBJdGFseSwgU2lu
+Z2Fwb3JlLCBTb3V0aCBBZnJpY2EsIFR1cmtleSwgVWdhbmRhLCB0aGUgVW5p
+dGVkIEtpbmdkb20sIGFuZCB0aGUgVW5pdGVkIFN0YXRlcy4gVGhvdWdodFdv
+cmtzIHJlbGVhc2VzIGEgcmVndWxhciB0ZWNobm9sb2d5IHJhZGFyLCBhIHN0
+dWR5IHRoYXQgbG9va3MgYXQgdGhlIGtleSB0cmVuZHMgdGhhdCBpbXBhY3Qg
+c29mdHdhcmUgZGV2ZWxvcG1lbnQgYW5kIGJ1c2luZXNzIHN0cmF0ZWdpZXMu
+IFRoZSBSYWRhciBoZWxwcyBjb21wYW5pZXMgc3RheSBvbiB0b3Agb2YgdG9w
+aWNzIHRoYXQgYXJlIGNvbnN0YW50bHkgZXZvbHZpbmcsIHN1Y2ggYXMgc2Vj
+dXJpdHksIGFuZCBvZmZlcnMgaW5zaWdodCBhbmQgcHJhY3RpY2FsIHRvb2xz
+IHRvIGJ1aWxkIHNlY3VyZSBzeXN0ZW1zIGF0IGV2ZXJ5IHN0YWdlIG9mIHRo
+ZSBkZXZlbG9wbWVudCBwcm9jZXNzLgkKLSBtZW1iZXI6IHRydWUJCiAgc3Bv
+bnNvcjogCQogIG5hbWU6IFR3aXN0bG9jawkKICBpbWFnZTogL2Fzc2V0cy9p
+bWFnZXMvY29ycC1tZW1iZXItbG9nby90d2lzdGxvY2sucG5nCQogIHVybDog
+aHR0cHM6Ly93d3cudHdpc3Rsb2NrLmNvbS8JCiAgZGVzY3JpcHRpb246IFR3
+aXN0bG9jayBpcyB0aGUgbW9zdCBjb21wbGV0ZSwgYXV0b21hdGVkIGFuZCBz
+Y2FsYWJsZSBjbG91ZCBuYXRpdmUgY3liZXJzZWN1cml0eSBwbGF0Zm9ybS4g
+VHJ1c3RlZCBieSBodW5kcmVkcyBvZiBjdXN0b21lcnMgd29ybGR3aWRlLCBU
+d2lzdGxvY2sgdXNlcyB0aGUgc3RyZW5ndGhzIG9mIGNsb3VkIG5hdGl2ZSB0
+byBwcm92aWRlIGJldHRlciBzZWN1cml0eSBmb3IgdGVhbXMgdXNpbmcgRG9j
+a2VyLCBLdWJlcm5ldGVzLCBMYW1iZGEsIEZhcmdhdGUsIGFuZCBvdGhlciBt
+b2Rlcm4gdGVjaG5vbG9naWVzLgkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNv
+cjogCQogIG5hbWU6IFVCc2VjdXJlCQogIGltYWdlOiAvYXNzZXRzL2ltYWdl
+cy9jb3JwLW1lbWJlci1sb2dvL3ViLXNlY3VyZS5wbmcJCiAgdXJsOiBodHRw
+czovL3ZleC51YnNlY3VyZS5qcC9scGVuCQogIGRlc2NyaXB0aW9uOiBVQnNl
+Y3VyZSBpcyBhIGxlYWRpbmcgd2ViIGFwcGxpY2F0aW9uIHNlY3VyaXR5IGNv
+bXBhbnkgYmFzZWQgaW4gSmFwYW4gc2luY2UgMjAwNy4gV2Ugb2ZmZXIgdmFy
+aW91cyBzZWN1cml0eSBzb2x1dGlvbnMgZm9yIHdlYiBhcHBsaWNhdGlvbiBh
+bmQgc21hcnRwaG9uZSBhcHBsaWNhdGlvbiBieSB1dGlsaXppbmcgaW4taG91
+c2UgZGV2ZWxvcGVkIGFwcGxpY2F0aW9uIHNlY3VyaXR5IHRlc3RpbmcgdG9v
+bCwgVmV4LiBWZXggYnVpbHQgYnkgYSB0cmVtZW5kb3VzIGFtb3VudCBvZiBl
+eHBlcmllbmNlIGluIHByb2Zlc3Npb25hbCBzZWN1cml0eSBzY2FubmluZyBh
+bmQgYnkgaXRzIGNvbnRpbnVvdXMgZmVlZGJhY2suIFRoZSB1bmlxdWUgY2hh
+cmFjdGVyaXN0aWMgb2YgdGhlIHRvb2wgaXMgdGhhdCBpdCB1c2VkIGFzIGEg
+c3RhbmQtYWxvbmUgc2VjdXJpdHkgdGVzdGluZyB0b29sIGFzIHdlbGwgYXMg
+dGhlIHNlYW1sZXNzIHNlY3VyaXR5IHRlc3RpbmcgY29tcG9uZW50IHdpdGhp
+biB0aGUgU0RMQy4gVGhlcmVmb3JlLCBWZXggaXMgbm90IG9ubHkgZm9yIHBy
+b2Zlc3Npb25hbCBzZWN1cml0eSBhdWRpdG9ycyBidXQgYWxzbyBmb3Igc29m
+dHdhcmUgZGV2ZWxvcGVycyB3aG8gbmVlZCBzZWN1cmUgZGV2ZWxvcG1lbnQg
+Y3ljbGVzLiBQbGVhc2UgdmlzaXQgb3VyIHNpdGUgZm9yIG1vcmUgaW5mb3Jt
+YXRpb24gYWJvdXQgVmV4LgkKLSBtZW1iZXI6IHRydWUJCiAgc3BvbnNvcjog
+CQogIG5hbWU6IFZlcmFjb2RlCQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9j
+b3JwLW1lbWJlci1sb2dvL3ZlcmFjb2RlLnBuZwkKICB1cmw6IGh0dHBzOi8v
+d3d3LnZlcmFjb2RlLmNvbS8JCiAgZGVzY3JpcHRpb246IFZlcmFjb2RlIGdp
+dmVzIGNvbXBhbmllcyBhIGNvbXByZWhlbnNpdmUgdmlldyBvZiBzZWN1cml0
+eSBkZWZlY3RzIHNvIHRoZXkgY2FuIGNyZWF0ZSBzZWN1cmUgc29mdHdhcmUs
+IGFuZCBlbnN1cmUgdGhlIHNvZnR3YXJlIHRoZXkgYXJlIGJ1eWluZyBvciBk
+b3dubG9hZGluZyBpcyBmcmVlIG9mIHZ1bG5lcmFiaWxpdGllcy4gQXMgYSBy
+ZXN1bHQsIGNvbXBhbmllcyB1c2luZyBWZXJhY29kZSBhcmUgZnJlZSB0byBi
+b2xkbHkgaW5ub3ZhdGUsIGV4cGxvcmUsIGRpc2NvdmVyLCBhbmQgY2hhbmdl
+IHRoZSB3b3JsZC4JCi0gbWVtYmVyOiBmYWxzZQkKICBzcG9uc29yOiA0CQog
+IG5hbWU6IFdhbGxhcm0JCiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAt
+bWVtYmVyLWxvZ28vd2FsbGFybS5wbmcJCiAgdXJsOiBodHRwczovL3dhbGxh
+cm0uY29tLwkKICBkZXNjcmlwdGlvbjogJ1dhbGxhcm0gZGVsaXZlcnMgYXV0
+b21hdGVkIGNsb3VkLW5hdGl2ZSBhcHBsaWNhdGlvbiBhbmQgQVBJIHNlY3Vy
+aXR5IHRocm91Z2hvdXQgYXBwbGljYXRpb24gZGV2ZWxvcG1lbnQgYW5kIGRl
+cGxveW1lbnQgbGlmZWN5Y2xlLiBXYWxsYXJtIEFJLXBvd2VyZWQgQXBwbGlj
+YXRpb24gU2VjdXJpdHkgUGxhdGZvcm0gaW5jbHVkZXMgRkFTVCBmb3IgQ0kv
+Q0QtaW50ZWdyYXRlZCBzZWN1cml0eSB0ZXN0IGF1dG9tYXRpb24gZHVyaW5n
+IGRldmVsb3BtZW50IGFuZCBBZHZhbmNlZCBXQUYgYXR0YWNrIGJsb2NraW5n
+IGFuZCB2dWxuZXJhYmlsaXR5IHByb3RlY3Rpb24gYWZ0ZXIgZGVwbG95bWVu
+dC4gV2FsbGFybSBwbGF0Zm9ybSBhbGlnbnMgc2VjdXJpdHkgYW5kIGRldmVs
+b3BtZW50IGludG8gYSB1bmlmaWVkIHBpcGVsaW5lLgkKICBEZXRlY3RzIE9X
+QVNQIFRvcCAxMCwgMCBkYXkgYW5kIGJlaGF2aW9yYWwgaXNzdWVzPGJyIC8+
+CQogIFByb3ZpZGVzIGhpZ2hseSBhY2N1cmF0ZSBkZXRlY3Rpb24gYmFzZWQg
+b24gcGF0ZW50LXBlbmRpbmcgdGVjaG5vbG9neTxiciAvPgkKICBJbXByb3Zl
+cyBzZWN1cml0eSB0ZXN0IGNvdmVyYWdlIGJ5IGF1dG9tYXRpY2FsbHkgZ2Vu
+ZXJhdGluZyBhbmQgcnVubmluZyB0ZXN0czxiciAvPgkKICBBdXRvbWF0ZXMg
+aXNzdWUgbWFuYWdlbWVudCB3aXRoIGRlZXAgbGVhcm5pbmcsIHBvbGljaWVz
+IGFuZCBidWlsZCBpbiBhY3RpdmUgcmVjaGVja2VyPGJyIC8+CQogIFByb3Zp
+ZGUgZWFzeS10by1tYW5hZ2UgbXVsdGktdGVuYW50IG11bHRpLWFwcGxpY2F0
+aW9uIHVuaWZpZWQgbWFuYWdlbWVudCBwbGF0Zm9ybTxiciAvPicJCi0gbWVt
+YmVyOiBmYWxzZQkKICBzcG9uc29yOiA0CQogIG5hbWU6IFdhcmF0ZWsJCiAg
+aW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vd2FyYXRl
+ay5wbmcJCiAgdXJsOiBodHRwOi8vd3d3LndhcmF0ZWsuY29tLwkKICBkZXNj
+cmlwdGlvbjogIlRoZSBXYXJhdGVrIEFSTVIgUGxhdGZvcm0gcHJvdmlkZXMg
+dW5pcXVlIHByb3RlY3Rpb24gaW4gdGhlIGFwcGxpY2F0aW9ucyBydW50aW1l
+IGVudmlyb25tZW50LiBUaGlzIHVuaXF1ZSBzZWN1cml0eSBsYXllciBwcm92
+aWRlcyBmYXN0IGFuZCBhY2N1cmF0ZSBzZWN1cml0eSBpbiB0aGUgY29tcGls
+YXRpb24gcGlwZWxpbmUsIHByb3ZpZGluZyBwcm90ZWN0aW9uIHRoYXQgYmVj
+b21lcyBwYXJ0IG9mIHlvdXIgYXBwbGljYXRpb24g4oCTIGJ1dCBuZXZlciBy
+ZXF1aXJlcyBjaGFuZ2VzIHRvIHNvdXJjZSBjb2RlLjxiciAvPgkKICBJbnN0
+YW50bHkgYXBwbHkgY29kZSBlcXVpdmFsZW50IHNlY3VyaXR5IHBhdGNoZXMg
+dG8gSmF2YSBhbmQgLk5FVCBhcHBsaWNhdGlvbnM8YnIgLz4JCiAgQWN0aXZl
+bHkgc2VjdXJlIGFnYWluc3QgdGhlIE9XQVNQIFRvcCBUZW4gLyBTQU5TIDI1
+IC8gWmVyby1EYXkgdnVsbmVyYWJpbGl0aWVzPGJyIC8+CQogIFZpcnR1YWxs
+eSB1cGdyYWRlICYgc2VjdXJlIG91dC1vZi1zdXBwb3J0LCB2dWxuZXJhYmxl
+IEphdmEgYXBwbGljYXRpb25zLiAgQWxsIHdpdGggbm8gc291cmNlIGNvZGUg
+Y2hhbmdlcyBvciBGYWxzZSBQb3NpdGl2ZXMuPGJyIC8+IgkKLSBtZW1iZXI6
+IHRydWUJCiAgc3BvbnNvcjogCQogIG5hbWU6IFdoaXRlSGF0IFNlY3VyaXR5
+CQogIGltYWdlOiAvYXNzZXRzL2ltYWdlcy9jb3JwLW1lbWJlci1sb2dvL3do
+aXRlLWhhdC1zZWN1cml0eS5wbmcJCiAgdXJsOiBodHRwczovL3d3dy53aGl0
+ZWhhdHNlYy5jb20vCQogIGRlc2NyaXB0aW9uOiBXaGl0ZUhhdCBTZWN1cml0
+eSBpcyB0aGUgbGVhZGVyIGluIGFwcGxpY2F0aW9uIHNlY3VyaXR5LCBlbmFi
+bGluZyBidXNpbmVzc2VzIHRvIHByb3RlY3QgY3JpdGljYWwgZGF0YSwgZW5z
+dXJlIGNvbXBsaWFuY2UsIGFuZCBtYW5hZ2Ugcmlzay4gVGhyb3VnaCBhIGNv
+bWJpbmF0aW9uIG9mIHRlY2hub2xvZ3ksIG92ZXIgYSBkZWNhZGUgb2YgaW50
+ZWxsaWdlbmNlIG1ldHJpY3MsIGFuZCB0aGUganVkZ21lbnQgb2YgcGVvcGxl
+LCBXaGl0ZUhhdCBTZWN1cml0eSBwcm92aWRlcyBjb21wbGV0ZSB3ZWIgc2Vj
+dXJpdHkgYXQgYSBzY2FsZSBhbmQgYWNjdXJhY3kgdW5tYXRjaGVkIGluIHRo
+ZSBpbmR1c3RyeS4JCi0gbWVtYmVyOiB0cnVlCQogIHNwb25zb3I6IDQJCiAg
+bmFtZTogV2hpdGVTb3VyY2UgU29mdHdhcmUJCiAgaW1hZ2U6IC9hc3NldHMv
+aW1hZ2VzL2NvcnAtbWVtYmVyLWxvZ28vd2hpdGVzb3VyY2UucG5nCQogIHVy
+bDogaHR0cHM6Ly93d3cud2hpdGVzb3VyY2Vzb2Z0d2FyZS5jb20vCQogIGRl
+c2NyaXB0aW9uOiBXaGl0ZVNvdXJjZSBoZWxwcyBzb2Z0d2FyZSBzZWN1cml0
+eSB0ZWFtcyBtYW5hZ2Ugb3BlbiBzb3VyY2UgY29tcG9uZW50cyB1c2VkIGlu
+IHRoZWlyIHByb2R1Y3RzLCBhdXRvbWF0aWNhbGx5IGFuZCBjb250aW51b3Vz
+bHkuIEl0IGJlY29tZXMgcGFydCBvZiB5b3VyIFNETEMgYW5kIGF1dG9tYXRl
+cyB0aGUgZW50aXJlIHByb2Nlc3Mgb2Ygb3BlbiBzb3VyY2UgY29tcG9uZW50
+cyBzZWxlY3Rpb24sIGFwcHJvdmFsLCBhbmQgbWFuYWdlbWVudCwgaW5jbHVk
+aW5nIGZpbmRpbmcgYW5kIGZpeGluZyB2dWxuZXJhYmxlIGNvbXBvbmVudHMu
+CQotIG1lbWJlcjogZmFsc2UJCiAgc3BvbnNvcjogNAkKICBuYW1lOiBaZXJv
+Tm9ydGgJCiAgaW1hZ2U6IC9hc3NldHMvaW1hZ2VzL2NvcnAtbWVtYmVyLWxv
+Z28vemVyb25vcnRoLnBuZwkKICB1cmw6IGh0dHA6Ly93d3cuemVyb25vcnRo
+LmlvLwkKICBkZXNjcmlwdGlvbjogWmVyb05vcnRoIGlzIHRoZSBmaXJzdCBj
+b21wYW55IHRvIGRlbGl2ZXIgcmlzay1iYXNlZCB2dWxuZXJhYmlsaXR5IG9y
+Y2hlc3RyYXRpb24gYWNyb3NzIGFwcGxpY2F0aW9ucyBhbmQgaW5mcmFzdHJ1
+Y3R1cmUuIEJ5IG9yY2hlc3RyYXRpbmcgc2Nhbm5pbmcgdG9vbHMgYWNyb3Nz
+IHRoZSBlbnRpcmUgc29mdHdhcmUgbGlmZWN5Y2xlLCBaZXJvTm9ydGggcHJv
+dmlkZXMgYSBjb21wcmVoZW5zaXZlIGFuZCBjb250aW51b3VzIHZpZXcgb2Yg
+cmlzaywgYW5kIHJlZHVjZXMgY29zdHMgYXNzb2NpYXRlZCB3aXRoIG1hbmFn
+aW5nIGRpc3BhcmF0ZSB0ZWNobm9sb2dpZXMuIFplcm9Ob3J0aCBlbXBvd2Vy
+cyBjdXN0b21lcnMgYWNyb3NzIGFsbCBpbmR1c3RyaWVzIHRvIHJhcGlkbHkg
+c2NhbGUgYXBwbGljYXRpb24gYW5kIGluZnJhc3RydWN0dXJlIHNlY3VyaXR5
+LCB3aGlsZSBpbnRlZ3JhdGluZyBzZWFtbGVzc2x5IGludG8gZGV2ZWxvcGVy
+IGVudmlyb25tZW50cyB0byBzaW1wbGlmeSBhbmQgdmVyaWZ5IHJlbWVkaWF0
+aW9uLgo=
