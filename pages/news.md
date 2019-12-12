@@ -10,6 +10,7 @@ permalink: /news
 
 Check back here for weekly news and opinions from OWASP leadership, staff, and community members.
   
+<section class="homepage-blog">
 {% for post in site.posts | limit: 100 %} <!-- reversed -->
   
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -18,3 +19,4 @@ Check back here for weekly news and opinions from OWASP leadership, staff, and c
     <p>({{ post.date }}), {{ post.excerpt }}<a href="{{ post.url }}">... more</a></p>
     <hr>
 {% endfor %}	
+</section>
