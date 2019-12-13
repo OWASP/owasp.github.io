@@ -5,8 +5,6 @@ layout: full-width
 
 ---
 
-Below is the current version of the OWASP ByLaws and prior versions linked as PDF files.  If you would like to suggest a change to the OWASP ByLaws, please make those suggestions on the [https://github.com/OWASP-Foundation/Bylaws OWASP ByLaws Git repository] either with a pull request or opening up an issue in that repo.  All changes must be approved by a vote of the OWASP Board of Directors.  An  [[:File:Owasp-bylaws 2017-05-22.pdf|unofficial PDF version]] of the OWASP ByLaws below is also available.
-
 #  OWASP FOUNDATION Bylaws
 
 - ARTICLE I OFFICES
