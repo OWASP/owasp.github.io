@@ -16,7 +16,7 @@ We are a community of developers, technologists and evangelists improving the se
 - Visibility: Our website gets more than six million visitors a year
 - Credibility: OWASP is well known in the AppSec community
 - Resources: Funding and Project Summits are available for qualifying Programs
-- Community: Our Conferences and Local Chapter Meetings connect Projects with users
+- Community: Our Conferences and Local Chapters connect Projects with users
 
 OWASP Projects are a collection of related tasks that have a defined roadmap and team members. Our projects are open source and are built by our community of volunteers - people just like you! OWASP project leaders are responsible for defining the vision, roadmap, and tasks for the project. The project leader also promotes the project and builds the team. OWASP currently has 'over '93' active projects', and new project applications are submitted every week.
 
