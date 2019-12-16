@@ -32,6 +32,12 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 - [Conflict of Interest](/www-policy/operational/conflict-of-interest)
 - [Whistleblower & Anti-Retaliation](/www-policy/whistleblower)
 
+## Operations
+- [Foundational Staff](/corporate)
+- [Operating Plan for 2020](/www-staff/operating-plan/2020)
+- [Budget for 2020](/www-staff/budget/2020)
+- [Staff Projects & Worklplans](/www-staff)
+
 ## Code of Conduct
 - Perform all professional activities and duties in accordance with all applicable laws and the highest ethical principles;
 - Promote the implementation of and promote compliance with standards, procedures, controls for application security;
