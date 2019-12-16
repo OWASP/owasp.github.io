@@ -30,7 +30,7 @@ Projects gives members an opportunity to freely test theories and ideas with the
 - Information Security Authors
 - Those who would like the support of a world wide professional community to develop or test an idea.
 
-### OWASP Project Inventory
+## OWASP Project Inventory
 All OWASP tools, document, and code library projects are organized into the following categories:
 
 <strong>Flagship Projects:</strong> The OWASP Flagship designation is given to projects that have demonstrated strategic value to OWASP and application security as a whole.<br>
