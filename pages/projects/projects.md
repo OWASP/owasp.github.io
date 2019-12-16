@@ -12,7 +12,7 @@ tags: projects
 
 ## Projects for Good
 
-we are a community of developers, technologists and evangelists improving the security of softare. The OWASP Foundation gives aspiring open source projects a plaform to secure the web with:
+We are a community of developers, technologists and evangelists improving the security of softare. The OWASP Foundation gives aspiring open source projects a plaform to secure the web with:
 - Visibility: Our website gets more than six million visitors a year
 - Credibility: OWASP is well known in the AppSec community
 - Resources: Funding and Project Summits are available for qualifying Programs
