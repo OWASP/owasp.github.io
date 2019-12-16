@@ -18,9 +18,9 @@ We are a community of developers, technologists and evangelists improving the se
 - Resources: Funding and Project Summits are available for qualifying Programs
 - Community: Our Conferences and Local Chapter Meetings connect Projects with users
 
-<p class="callout-mono right">Together we will improve the security of software.</p>
+OWASP Projects are a collection of related tasks that have a defined roadmap and team members. Our projects are open source and are built by our community of volunteers - people just like you! OWASP project leaders are responsible for defining the vision, roadmap, and tasks for the project. The project leader also promotes the project and builds the team. OWASP currently has 'over '93' active projects', and new project applications are submitted every week.
 
-OWASP Projects are a collection of related tasks that have a defined roadmap and team members. OWASP project leaders are responsible for defining the vision, roadmap, and tasks for the project. The project leader also promotes the project and builds the team. OWASP currently has 'over '93' active projects', and new project applications are submitted every week.
+<p class="callout-mono right">Code, software, reference material, and documentation all help secure the world's software.</p>
 
 Projects gives members an opportunity to freely test theories and ideas with the professional advice and support of the OWASP community. Every project minimally has their own webpage, mailing list, and Slack Channel.
 
