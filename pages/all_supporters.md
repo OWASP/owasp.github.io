@@ -41,7 +41,7 @@ Organizations looking to support the mission of OWASP while also interested in e
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
 - Public acknowledgment on various other channels
 
-Visit [Corporate Sponsorship](/corporate-sponsorship) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+Visit [Corporate Sponsorship](/corporate-sponsorships) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ---
 ## Corporate Members & Sponsors
