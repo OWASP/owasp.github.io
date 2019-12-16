@@ -22,7 +22,7 @@ OWASP Projects are a collection of related tasks that have a defined roadmap and
 
 <p class="callout-mono right">Code, software, reference material, and documentation all help secure the world's software.</p>
 
-Projects gives members an opportunity to freely test theories and ideas with the professional advice and support of the OWASP community. Every project minimally has their own webpage, mailing list, and Slack Channel. Most projects maintain their content on GitHub.
+Projects gives members an opportunity to freely test theories and ideas with the professional advice and support of the OWASP community. Every project minimally has their own webpage, mailing list, and Slack Channel. Most projects maintain their content in our [GitHub organization](https://github.com/OWASP){:target='_blank'}.
 
 ## Who Should Start an OWASP Project?
 - Application Developers
