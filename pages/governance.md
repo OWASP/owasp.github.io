@@ -6,8 +6,6 @@ permalink: /governance
 
 ---
 
-# Governance
-
 The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed by the Global Board and administered by its executive director, staff, and contractcors. Volunteers contribute to the mission of the Foundation and lead projects and local chapters worldwide.
 
 ## Goals for 2020
@@ -33,5 +31,6 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 - [Conflict Resolution](/www-policy/operational/conflict-resolution)
 - [Conflict of Interest](/www-policy/operational/conflict-of-interest)
 - [Whistleblower & Anti-Harrasement]()
+
 
 
