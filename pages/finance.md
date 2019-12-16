@@ -5,8 +5,9 @@ title: Finance
 permalink: /finance
 
 ---
-## Securing the Web for Everyone
 ![Women in AppSec Training at Global AppSec DC](/assets/images/web/wia_dc.png)
+
+## Securing the Web for Everyone
 
 The OWASP Foundation is deeply committed to making apps more secure - and our industry more inclusive. Pictured above is a recent Introduction to AppSec Training Class at our Global AppSec Conference that was offered at no charge to diversity candidates. The Women in AppSec Committee has championed this effort and is making progress at increasing the diversity of the AppSec community.  
 
