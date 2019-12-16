@@ -17,7 +17,7 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 1. Improve satisfaction with OWASP by survey measured a 5% increase.
 1. Increase all classes of membership by 25%
 
-## Global Board
+## Global Board of Directors
 - [Home Page and Upcoming Meetings](/www-board)
 - [Meeting Typical Agenda](/www-board/typical_agenda)
 - [Historical Board Actions](/www-board/#div-voting)
