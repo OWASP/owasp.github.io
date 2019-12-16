@@ -379,6 +379,9 @@ window.addEventListener('load', function () {
       if (queryParams.has('title')) {
         this.projectName = queryParams.get('title');
       }
+      if (queryParams.has('reponame')) {
+        this.repoName = queryParams.get('reponame');
+      }
       if (queryParams.has('currency') && ['usd', 'eur', 'gbp'].includes(queryParams.get('currency'))) {
         this.currency = queryParams.get('currency');
       }
