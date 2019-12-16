@@ -15,7 +15,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 - Tens of thousands of members
 - Industry-leading educational and training conferences
 
-<p class="callout-mono right">Corporate support accelerates our impact.</p>
+<p class="callout-mono right">Corporate support accelerates our impact. Become a member and support our mission.</p>
 
 We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
 
@@ -41,7 +41,7 @@ Organizations looking to support the mission of OWASP while also interested in e
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
 - Public acknowledgment on various other channels
 
-Visit [Corporate Sponsorship](/corporate-sponsorships) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+Visit [Corporate Sponsorship](/pages/corporate-sponsorships) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ---
 ## Corporate Members & Sponsors
