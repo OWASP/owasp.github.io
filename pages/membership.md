@@ -226,7 +226,7 @@ permalink: /membership
           {{ errors.membership_type[0] }}
         </div>
         <div style="margin-bottom: 35px; margin-top: 35px;">
-	  <label class="checkbox-container">Set my Membership to Auto-renew
+	  <label class="checkbox-container" v-if="!student">Set my Membership to Auto-renew
 	    <input type="checkbox" v-model="auto_renew">
 	    <span class="checkmark"></span>
 	  </label>
@@ -251,7 +251,13 @@ permalink: /membership
               {{ errors.email_confirm[0] }}
             </div>
           </div>
-          <div>
+          <div v-if="student">
+            <input type="text" v-model="university" aria-label="University" placeholder="University" />
+            <div class="error-text" v-if="errors.university">
+              {{ errors.university[0] }}
+            </div>
+          </div>
+          <div v-else>
             <input type="text" v-model="company_name" aria-label="Company Name" placeholder="Company Name" />
             <div class="error-text" v-if="errors.company_name">
               {{ errors.company_name[0] }}
@@ -303,11 +309,27 @@ window.addEventListener('load', function () {
       email_confirm: null,
       name_on_card: null,
       company_name: null,
+      university: null,
       auto_renew: false,
+      student: false,
       mailing_list: false
+    },
+    created: function () {
+      const queryParams = new URLSearchParams(window.location.search);
+      if (queryParams.has('student')) {
+        this.student = true
+        this.membership_type = 'One Year';
+        this.membership_discount = false;
+        this.$forceUpdate();
+      }
     },
     computed: {
       membershipOptions: function () {
+        if (this.student) {
+          return [
+            { name: 'One Year', amount: '$20', discount: false }
+          ];
+        }
         if (!this.country || !this.country.hasOwnProperty('discount') ||
         this.country.discount == false) {
           return [
@@ -324,6 +346,10 @@ window.addEventListener('load', function () {
     },
     watch: {
       country: function (newCountry, oldCountry) {
+        if (this.student) {
+          return;
+        }
+
         if (newCountry.discount) {
           this.membership_type = 'One Year';
           this.membership_discount = true;
@@ -356,7 +382,9 @@ window.addEventListener('load', function () {
             email: this.email,
             name: this.name_on_card,
             company: this.company_name,
+            university: this.university,
             mailing_list: this.mailing_list,
+            student: this.student,
             currency: 'usd'
           };
           axios.post('https://owaspadmin.azurewebsites.net/api/CreateCheckoutSession?code=ulMNYVfgzBytI1adat1lS6MQ3NabtwKE4IgCJ8yKuhvbFoQh6nOYaw==', postData)
@@ -398,6 +426,10 @@ window.addEventListener('load', function () {
 
         if (!this.name_on_card) {
           errors.name_on_card = ['Please enter your name as it appears on your credit card.'];
+        }
+
+        if (this.student && !this.university) {
+          errors.university = ['Please enter your university name'];
         }
 
         if (!this.country) {
