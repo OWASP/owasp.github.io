@@ -308,6 +308,13 @@ permalink: /donate
             </div>
           </div>
         </div>
+        <div class="donation-options" v-if="showRestrictedOption">
+          <label class="checkbox-container"> Make my donation restricted to a
+          particular project
+	    <input type="checkbox" v-model="restricted">
+	    <span class="checkmark"></span>
+	  </label>
+        </div>
         <div class="submit-container">
           <button type="submit" class="donate-button" v-bind:disabled="loading">Donate</button>
         </div>
@@ -353,6 +360,7 @@ window.addEventListener('load', function () {
       recurring: false,
       mailing_list: false,
       attribution: false,
+      restricted: false,
       projectName: null,
       repoName: null,
       email: null,
@@ -372,6 +380,19 @@ window.addEventListener('load', function () {
         }
 
         return '&#163;';
+      },
+      showRestrictedOption: function () {
+        if (this.amount > 1000) {
+          return true;
+        }
+        return false;
+      }
+    },
+    watch: {
+      amount: function (newAmount) {
+        if (newAmount <= 1000) {
+          this.restricted = false;
+        }
       }
     },
     created: function () {
@@ -384,6 +405,12 @@ window.addEventListener('load', function () {
       }
       if (queryParams.has('currency') && ['usd', 'eur', 'gbp'].includes(queryParams.get('currency'))) {
         this.currency = queryParams.get('currency');
+      }
+      if (queryParams.has('restricted') && queryParams.get('restricted') ==
+      'yes') {
+        this.setCustomAmount();
+        this.amount = 1001;
+        this.restricted = true;
       }
     },
     methods: {
@@ -407,6 +434,7 @@ window.addEventListener('load', function () {
             project_title: vm.projectName,
             repo_name: vm.repoName,
             mailing_list: vm.mailing_list,
+            restricted: vm.restricted,
             email: vm.email,
             name: vm.name,
             source: vm.source
