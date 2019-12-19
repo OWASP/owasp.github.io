@@ -318,7 +318,7 @@ permalink: /donate
         </div>
       </form>
 
-      <p class="legal-text">* Unless otherwise noted, your gift to the OWASP Foundation, net credit card processing fees,
+      <p class="legal-text">* Unless otherwise noted your gift to the OWASP Foundation, net credit card processing fees,
       is unrestricted and will be used at the sole discretion of the
       organization to fulfill its mission and objectives. You do have the option
       to be listed as a Supporter of a Project or Chapter; however, this option
