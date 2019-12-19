@@ -217,8 +217,7 @@ permalink: /donate
 
       <p>The Open Web Application Security Project (OWASP) is a nonprofit
       foundation improving the security of software. Through community-led open
-      source software projects and over 260 local chapters worldwide, your
-      unrestricted gift* will support the Foundation and its many activities
+      source software projects and hundreds of local chapters worldwide, your gift* will support the Foundation and its many activities
       around the world to secure the web.</p>
 
 
@@ -319,15 +318,13 @@ permalink: /donate
         </div>
       </form>
 
-      <p class="legal-text">* Your gift to the OWASP Foundation, net credit card processing fees,
+      <p class="legal-text">* Unless otherwise noted, your gift to the OWASP Foundation, net credit card processing fees,
       is unrestricted and will be used at the sole discretion of the
       organization to fulfill its mission and objectives. You do have the option
       to be listed as a Supporter of a Project or Chapter; however, this option
       does not restrict your gift in anyway whatsoever. The OWASP Foundation is
       a 501(c)3 therefore in some cases your gift may be tax-deductible and you
-      should consult with a tax professional for more details. For more
-      information about restricted gifts greater than $1,000, please contact
-      donations@owasp.org.</p>
+      should consult with a tax professional for more details.</p>
 
       <!-- end donation form -->
 
