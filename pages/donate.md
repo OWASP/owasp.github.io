@@ -309,8 +309,7 @@ permalink: /donate
           </div>
         </div>
         <div class="donation-options" v-if="showRestrictedOption">
-          <label class="checkbox-container"> Make my donation restricted to a
-          particular project
+          <label class="checkbox-container"> I understand this restricted gift amount is net 15% administration costs and unspent restricted gift balances become unrestricted at the end of each calendar year.
 	    <input type="checkbox" v-model="restricted">
 	    <span class="checkmark"></span>
 	  </label>
