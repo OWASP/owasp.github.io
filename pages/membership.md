@@ -186,7 +186,7 @@ permalink: /membership
       <ul>
       	<li>Ongoing Support of our work</li>
 	<li>Discounted Conference Fees</li>
-	<li>Corpoate owasp.org email address</li>
+	<li>Corporate owasp.org email address</li>
 	<li>Priority access to Travel Grants</li>
 	<li>And many others...</li>
       </ul>
