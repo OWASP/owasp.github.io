@@ -61,7 +61,7 @@ permalink: /manage-membership
       <h1>Manage Your Membership</h1>
 
       <div v-if="state === 'unsubmitted'">
-        <p>If you have an existing OWASP membership or recurring gift, enter your email address below and you will receive an email including a URL which you can visit to update your billing information.</p>
+        <p>If you have an existing OWASP membership or recurring gift, enter your address below and you will receive an email response that includes a URL which you can visit to update your billing information.</p>
         <form v-on:submit.prevent="handleSubmit" class="form-container">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
