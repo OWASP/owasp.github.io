@@ -190,7 +190,7 @@ permalink: /membership
 	<li>Priority access to Travel Grants</li>
 	<li>And many others...</li>
       </ul>
-      <p>You can <a href="/manage-membership">Manage your Membership</a> to renew an exisitng plan or modify billing details. Looking to have your business become a <a href="/supporters">Corporate Member</a>? </p>
+      <p>You can <a href="/manage-membership">Manage your Membership</a> to renew an existing plan or modify billing details. Looking to have your business become a <a href="/supporters">Corporate Member</a>? </p>
 
       <h2>Join Now</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
