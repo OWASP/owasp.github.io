@@ -61,7 +61,7 @@ permalink: /manage-membership
       <h1>Manage Your Membership</h1>
 
       <div v-if="state === 'unsubmitted'">
-        <p>If you have an existing OWASP membership, enter your email address below and you will receive an email including a URL which you can visit to update your billing information.</p>
+        <p>If you have an existing OWASP membership or recurring gift, enter your email address below and you will receive an email including a URL which you can visit to update your billing information.</p>
         <form v-on:submit.prevent="handleSubmit" class="form-container">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
@@ -80,7 +80,7 @@ permalink: /manage-membership
       </div>
       <div v-else-if="state === 'submitted'">
         <p>Thanks! We just send you an email with instructions for how to update
-        your membership payment information.</p>
+        your membership or payment information. The internet is fast but sometimes our bots are slow. Please wait 5-10 minutes for your email. If you don't receive one, please check your SPAM folder as well. If all else fails, you likely used an email address we didn't find in our system.</p>
       </div>
       <div style="display: flex;" v-else-if="state === 'redirecting'">
         <div style="margin-right: 18px;">
@@ -91,7 +91,7 @@ permalink: /manage-membership
         </div>
       </div>
       <div v-else-if="state === 'cancelled'">
-      <p>We're sorry to see you go! Your OWASP membership has been cancelled. You will remain a member until the end of your current billing period.</p>
+      <p>We're sorry to see you go! Your OWASP information has been modified. You will remain a member until the end of your current billing period.</p>
       </div>
 
       </div>
