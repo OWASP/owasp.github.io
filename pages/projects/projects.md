@@ -8,7 +8,7 @@ tags: projects
 
 ---
 
-<!-- rebuild 2 -->
+<!-- rebuild 3 -->
 ![Global Board Class of 2019](/assets/images/web/juice-shop.png)
 
 ## Projects for Good
