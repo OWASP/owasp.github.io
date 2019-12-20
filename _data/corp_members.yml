@@ -27,7 +27,7 @@
   name: Avatao	
   image: /assets/images/corp-member-logo/avatao.png	
   url: https://www.avatao.com	
-  description: Avatao is an online training platform for building secure software. It offers a rich library of hands-on IT security exercises for software engineers to teach secure programming from design to deployment in a fun and intuitive way. Educating for secure software can significantly improve software quality, increase trust in a company’s brand, reduce development costs and reduce the risks of suffering significant losses from cyber-attacks. In today’s world, secure software development practices are a basic requirement and we believe the solution should be integrated into the ground roots of software development teams. The platform can be used to provide security awareness to software engineers, to enrich existing IT security training, meetups or allow self-directed learning for continuous professional development. Avatao hackathons are also an excellent method to discover talented developers and engage and build brand awareness in the community. Avatao is a creation out of CrySyS Lab, world-renowned experts in IT security. Learning communities like business teams use Avatao for an improved and efficient learning experience. Mid-size and large software and financial companies use Avatao’s gamified online training to organize security hackathons, onboard new hires or upskill software developers to build secure software. The Avatao platform was publicly launched in 2016 for end-users and business customers. Initial customers include LogMeIn (US), Prezi (HU), Microsec (HU), Emarsys (HU), Photobox (UK), and many other companies are piloting the platform including Fortune 100 companies. Avatao currently has 5000+ users and 500+ exercises.	
+  description: Avatao is an online training platform for building secure software. It offers a rich library of hands-on IT security exercises for software engineers to teach secure programming from design to deployment in a fun and intuitive way. Educating for secure software can significantly improve software quality, increase trust in a company’s brand, reduce development costs and reduce the risks of suffering significant losses from cyber-attacks. In today’s world, secure software development practices are a basic requirement and we believe the solution should be integrated into the ground roots of software development teams. The platform can be used to provide security awareness to software engineers, to enrich existing IT security training, meetups or allow self-directed learning for continuous professional development. Avatao hackathons are also an excellent method to discover talented developers and engage and build brand awareness in the community.	
 - member: true	
   sponsor:	
   name: Avi Networks	
@@ -39,7 +39,7 @@
   name: Brinqa	
   image: /assets/images/corp-member-logo/brinqa.png	
   url: https://www.brinqa.com	
-  description: Brinqa is a leading provider of unified risk management – enabling stakeholders, governance organizations, and infrastructure and security teams to effectively manage technology risk at the speed of business. Brinqa software and cloud services leverage an organization’s existing investment in systems, security, and governance programs to identify, measure, manage and monitor risk. With Brinqa, organizations are reducing response time to emerging threats, impact to the business, and technology risk and compliance costs by over 50% through real-time risk analytics, automated risk assessments, prioritized remediation, actionable insights, and improved communication. Founded in 2008 by industry leaders in risk management with a proven track record in delivering cutting edge, innovative and cost-effective solutions. Brinqa’s award-winning software and cloud services are trusted by fortune 500 companies across risk disciplines such as information technology risk, vendor risk, and regulatory compliance risk. Brinqa is headquartered in Austin, Texas and has a global presence.	
+  description: Brinqa is a leading provider of unified risk management – enabling stakeholders, governance organizations, and infrastructure and security teams to effectively manage technology risk at the speed of business. Brinqa software and cloud services leverage an organization’s existing investment in systems, security, and governance programs to identify, measure, manage and monitor risk. With Brinqa, organizations are reducing response time to emerging threats, impact to the business, and technology risk and compliance costs by over 50% through real-time risk analytics, automated risk assessments, prioritized remediation, actionable insights, and improved communication.
 - member: true	
   sponsor:
   name: Bugcrowd	
@@ -256,7 +256,7 @@
   name: Symantec	
   image: /assets/images/corp-member-logo/symantec.png
   url: https://www.symantec.com/	
-  description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."	
+  description: Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats.	
 - member: true	
   sponsor: 	
   name: Synack	
@@ -305,20 +305,12 @@
   image: /assets/images/corp-member-logo/wallarm.png	
   url: https://wallarm.com/	
   description: 'Wallarm delivers automated cloud-native application and API security throughout application development and deployment lifecycle. Wallarm AI-powered Application Security Platform includes FAST for CI/CD-integrated security test automation during development and Advanced WAF attack blocking and vulnerability protection after deployment. Wallarm platform aligns security and development into a unified pipeline.	
-  Detects OWASP Top 10, 0 day and behavioral issues<br />	
-  Provides highly accurate detection based on patent-pending technology<br />	
-  Improves security test coverage by automatically generating and running tests<br />	
-  Automates issue management with deep learning, policies and build in active rechecker<br />	
-  Provide easy-to-manage multi-tenant multi-application unified management platform<br />'	
 - member: false	
   sponsor: 4	
   name: Waratek	
   image: /assets/images/corp-member-logo/waratek.png	
   url: http://www.waratek.com/	
-  description: "The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code.<br />	
-  Instantly apply code equivalent security patches to Java and .NET applications<br />	
-  Actively secure against the OWASP Top Ten / SANS 25 / Zero-Day vulnerabilities<br />	
-  Virtually upgrade & secure out-of-support, vulnerable Java applications.  All with no source code changes or False Positives.<br />"	
+  description: "The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code.
 - member: true	
   sponsor: 	
   name: WhiteHat Security	
