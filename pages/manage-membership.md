@@ -79,7 +79,7 @@ permalink: /manage-membership
         </form>
       </div>
       <div v-else-if="state === 'submitted'">
-        <p>Thanks! We just send you an email with instructions for how to update
+        <p>Thanks! We just sent you an email with instructions for how to update
         your membership or payment information. The internet is fast but sometimes our bots are slow. Please wait 5-10 minutes for your email. If you don't receive one, please check your SPAM folder as well. If all else fails, you likely used an email address we didn't find in our system.</p>
       </div>
       <div style="display: flex;" v-else-if="state === 'redirecting'">
