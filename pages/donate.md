@@ -324,7 +324,7 @@ permalink: /donate
       to be listed as a Supporter of a Project or Chapter; however, this option
       does not restrict your gift in anyway whatsoever. The OWASP Foundation is
       a 501(c)3 therefore in some cases your gift may be tax-deductible and you
-      should consult with a tax professional for more details.</p>
+      should consult with a tax professional for more details. Additionally you can elect to receive marketing mails from us by  selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
       <!-- end donation form -->
 
