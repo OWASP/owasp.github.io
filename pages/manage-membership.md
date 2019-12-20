@@ -1,7 +1,7 @@
 ---
 
 layout: full-width
-title: Manage Membership
+title: Manage your Information
 permalink: /manage-membership
 
 ---
