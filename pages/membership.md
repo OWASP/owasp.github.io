@@ -230,7 +230,7 @@ permalink: /membership
 	    <input type="checkbox" v-model="auto_renew">
 	    <span class="checkmark"></span>
 	  </label>
-	  <label class="checkbox-container">Join the OWASP Mailing List
+	  <label class="checkbox-container">Join the OWASP Mailing List (See details below)
 	    <input type="checkbox" v-model="mailing_list">
 	    <span class="checkmark"></span>
 	  </label>
@@ -274,6 +274,8 @@ permalink: /membership
           <button type="submit" class="membership-button" v-bind:disabled="loading">Join Now</button>
         </div>
       </form>
+
+      <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and Student Memberships are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
       <!-- end memberhip form -->
 
