@@ -218,7 +218,7 @@ permalink: /donate
       <p>The Open Web Application Security Project (OWASP) is a nonprofit
       foundation improving the security of software. Through community-led open
       source software projects and hundreds of local chapters worldwide, your gift* will support the Foundation and its many activities
-      around the world to secure the web.</p>
+      around the world to secure the web. Existing donors can <a href="/manage-membership">Modify Recurring Gifts</a></p>
 
 
       <form class="form-container" v-on:submit.prevent="handleSubmit">
