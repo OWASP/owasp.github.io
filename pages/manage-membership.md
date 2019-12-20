@@ -74,7 +74,7 @@ permalink: /manage-membership
         </div>
         </div>
         <div>
-        <button type="submit" class="submit-button" v-bind:disabled="loading">Update Payment Information</button>
+        <button type="submit" class="submit-button" v-bind:disabled="loading">Request Account Information</button>
         </div>
         </form>
       </div>
