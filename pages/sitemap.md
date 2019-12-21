@@ -84,8 +84,8 @@ permalink: /sitemap
 <ul>
   <li><h2>Legal</h2></li>
   <li><a href="/www-policy/operational/code-of-conduct.html">Code of Conduct</a></li>
-  <li><a href="/www-policy/operational/conferences-events.html">Conference and Event Attendee Policy</a></li>
   <li><a href="/www-policy/operational/conflict-of-interest.html">Conflict of Interest</a></li>
+  <li><a href="/www-policy/operational/conferences-events.html">Event Attendee Policy</a></li>
   <li><a href="/www-policy/operational/general-disclaimer.html">General Disclaimer</a></li>
   <li><a href="/www-policy/operational/privacy.html">Privacy Policy</a></li>
 </ul>
