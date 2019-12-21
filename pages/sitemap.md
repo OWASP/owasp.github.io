@@ -13,7 +13,7 @@ permalink: /sitemap
 <ul>
   <li><h2>Getting Involved</h2></li>
   <li><a href="/donate">Make a Donation</a></li>
-  <li><a href="/membership">Become a Members</a></li>
+  <li><a href="/membership">Become a Member</a></li>
   <li><a href="/chapters">Visit a Local Chapter</a></li>
   <li><a href="/projects">Contribute to a Project</a></li>
   <li><a href="/supporters">Becoming a Corporate Supporter</a></li>
@@ -21,7 +21,7 @@ permalink: /sitemap
 
 <ul>
   <li><h2>Chapters</h2></li>
-  <li><a href="/chapters">Find a Local Chapter"</a></li>
+  <li><a href="/chapters">Find a Local Chapter</a></li>
   <li><a href="/chapters#Asia/Pacific">Asia/Pacific</a></li>
   <li><a href="/chapters#Europe">Europe</a></li>
   <li><a href="/chapters#LatinAmerica">Latin America</a></li>
