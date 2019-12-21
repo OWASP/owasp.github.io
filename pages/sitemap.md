@@ -16,7 +16,7 @@ permalink: /sitemap
   <li><a href="/membership">Become a Members</a></li>
   <li><a href="/chapters">Visit a Local Chapter</a></li>
   <li><a href="/projects">Contribute to a Project</a></li>
-	<li><a href="/supporters">Becoming a Corporate Supporter</a></li>
+  <li><a href="/supporters">Becoming a Corporate Supporter</a></li>
 </ul>
 
 <ul>
@@ -31,14 +31,15 @@ permalink: /sitemap
   
 <ul>
   <li><h2>Events</h2></li>
- <li><a href="/events">OWASP Global Events</a></li>
- <li><a href="/events#regionalevents">Regional Events</a></li>
- <li><a href="/events#globalpartnerevents">Global Partner Events</a></li>
+  <li><a href="/events">OWASP Global Events</a></li>
+  <li><a href="/events#regionalevents">Regional Events</a></li>
+  <li><a href="/events#globalpartnerevents">Global Partner Events</a></li>
   <li><a href="https://dublin.globalappsec.org" target="_blank">Global AppSec Dublin</a></li>
- <li><a href="https://sf.globalappsec.org" target="_blank">Global AppSec San Francisco</a></li>
+  <li><a href="https://sf.globalappsec.org" target="_blank">Global AppSec San Francisco</a></li>
 </ul> 
 
-<li><h2>Who are we?</h2></li>
+<ul>
+  <li><h2>Who are we?</h2></li>
   <li><a href="/about">About OWASP</a></li>
   <li><a href="/corporate">Board & Staff</a></li>
   <li><a href="/www-staff/budget/2020">Budget for 2020</a></li>  
@@ -64,7 +65,8 @@ permalink: /sitemap
   <li><a href="/www-project-security-knowledge-framework/">Security Knowledge Framework</a></li>
   <li><a href="/www-project-testing/">Web Security Testing Guide</a></li>
   <li><a href="/www-project-zap">Zed Attack Proxy</a></li>
-  <li><a href="/projects">Browse All Projects"</a></li></ul>
+  <li><a href="/projects">Browse All Projects"</a></li>
+</ul>
 
 <ul>
   <li><h2>Getting Help</h2></li>
