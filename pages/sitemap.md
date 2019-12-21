@@ -15,7 +15,7 @@ permalink: /sitemap
   <li><a href="/donate">Make a Donation</a></li>
   <li><a href="/membership">Become a Member</a></li>
   <li><a href="/chapters">Visit a Local Chapter</a></li>
-  <li><a href="/projects">Contribute to a Project</a></li>
+  <li><a href="/projects">Work on a Project</a></li>
   <li><a href="/supporters">Becoming a Corporate Supporter</a></li>
 </ul>
 
