@@ -1,5 +1,13 @@
 [
     {
+        "name": "United States",
+        "discount": false
+    },
+    {
+        "name": "United Kingdom",
+        "discount": false
+    },
+    {
         "name": "Afghanistan",
         "discount": true
     },
@@ -9,7 +17,11 @@
     },
     {
         "name": "Algeria",
-        "discount": false
+        "discount": true
+    },
+    {
+        "name": "American Samoa",
+        "discount": true
     },
     {
         "name": "Andorra",
@@ -17,7 +29,7 @@
     },
     {
         "name": "Angola",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Antigua and Barbuda",
@@ -32,6 +44,10 @@
         "discount": true
     },
     {
+        "name": "Aruba",
+        "discount": false
+    },
+    {
         "name": "Australia",
         "discount": false
     },
@@ -41,23 +57,23 @@
     },
     {
         "name": "Azerbaijan",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Bahamas, The",
-        "discount": true
-    },
-    {
-        "name": "Bahrain",
-        "discount": true
-    },
-    {
-        "name": "Bangladesh",
         "discount": false
     },
     {
-        "name": "Barbados",
+        "name": "Bahrain",
+        "discount": false
+    },
+    {
+        "name": "Bangladesh",
         "discount": true
+    },
+    {
+        "name": "Barbados",
+        "discount": false
     },
     {
         "name": "Belarus",
@@ -76,28 +92,36 @@
         "discount": true
     },
     {
+        "name": "Bermuda",
+        "discount": true
+    },
+    {
         "name": "Bhutan",
         "discount": true
     },
     {
         "name": "Bolivia",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Bosnia and Herzegovina",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Botswana",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Brazil",
         "discount": false
     },
     {
-        "name": "Brunei",
-        "discount": true
+        "name": "British Virgin Islands",
+        "discount": false
+    },
+    {
+        "name": "Brunei Darussalam",
+        "discount": false
     },
     {
         "name": "Bulgaria",
@@ -128,11 +152,23 @@
         "discount": false
     },
     {
+        "name": "Cayman Islands",
+        "discount": false
+    },
+    {
         "name": "Central African Republic",
         "discount": true
     },
     {
+        "name": "Central Europe and the Baltics",
+        "discount": false
+    },
+    {
         "name": "Chad",
+        "discount": true
+    },
+    {
+        "name": "Channel Islands",
         "discount": true
     },
     {
@@ -152,11 +188,11 @@
         "discount": true
     },
     {
-        "name": "Congo, Democratic Republic of the",
-        "discount": false
+        "name": "Congo, Dem. Rep.",
+        "discount": true
     },
     {
-        "name": "Congo, Republic of the",
+        "name": "Congo, Rep.",
         "discount": true
     },
     {
@@ -165,7 +201,7 @@
     },
     {
         "name": "Cote d'Ivoire",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Croatia",
@@ -173,11 +209,15 @@
     },
     {
         "name": "Cuba",
-        "discount": false
+        "discount": true
+    },
+    {
+        "name": "Curacao",
+        "discount": true
     },
     {
         "name": "Cyprus",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Czech Republic",
@@ -193,7 +233,7 @@
     },
     {
         "name": "Dominica",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Dominican Republic",
@@ -204,8 +244,8 @@
         "discount": false
     },
     {
-        "name": "Egypt",
-        "discount": false
+        "name": "Egypt, Arab Rep.",
+        "discount": true
     },
     {
         "name": "El Salvador",
@@ -213,11 +253,15 @@
     },
     {
         "name": "Equatorial Guinea",
+        "discount": false
+    },
+    {
+        "name": "Eritrea",
         "discount": true
     },
     {
         "name": "Estonia",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Eswatini",
@@ -225,11 +269,15 @@
     },
     {
         "name": "Ethiopia",
-        "discount": false
+        "discount": true
+    },
+    {
+        "name": "Faroe Islands",
+        "discount": true
     },
     {
         "name": "Fiji",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Finland",
@@ -240,8 +288,12 @@
         "discount": false
     },
     {
-        "name": "Gabon",
+        "name": "French Polynesia",
         "discount": true
+    },
+    {
+        "name": "Gabon",
+        "discount": false
     },
     {
         "name": "Gambia, The",
@@ -257,6 +309,10 @@
     },
     {
         "name": "Ghana",
+        "discount": true
+    },
+    {
+        "name": "Gibraltar",
         "discount": false
     },
     {
@@ -264,12 +320,20 @@
         "discount": false
     },
     {
+        "name": "Greenland",
+        "discount": false
+    },
+    {
         "name": "Grenada",
         "discount": true
     },
     {
+        "name": "Guam",
+        "discount": true
+    },
+    {
         "name": "Guatemala",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Guinea",
@@ -292,7 +356,7 @@
         "discount": true
     },
     {
-        "name": "Hong Kong",
+        "name": "Hong Kong SAR, China",
         "discount": false
     },
     {
@@ -301,27 +365,31 @@
     },
     {
         "name": "Iceland",
-        "discount": true
+        "discount": false
     },
     {
         "name": "India",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Indonesia",
-        "discount": false
+        "discount": true
     },
     {
-        "name": "Iran",
-        "discount": false
+        "name": "Iran, Islamic Rep.",
+        "discount": true
     },
     {
         "name": "Iraq",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Ireland",
         "discount": false
+    },
+    {
+        "name": "Isle of Man",
+        "discount": true
     },
     {
         "name": "Israel",
@@ -341,7 +409,7 @@
     },
     {
         "name": "Jordan",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Kazakhstan",
@@ -349,14 +417,18 @@
     },
     {
         "name": "Kenya",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Kiribati",
         "discount": true
     },
     {
-        "name": "Korea, South",
+        "name": "Korea, Dem. People’s Rep.",
+        "discount": true
+    },
+    {
+        "name": "Korea, Rep.",
         "discount": false
     },
     {
@@ -368,16 +440,20 @@
         "discount": false
     },
     {
-        "name": "Kyrgyzstan",
+        "name": "Kyrgyz Republic",
         "discount": true
     },
     {
-        "name": "Laos",
+        "name": "Lao PDR",
         "discount": true
+    },
+    {
+        "name": "Latin America & Caribbean",
+        "discount": false
     },
     {
         "name": "Latvia",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Lebanon",
@@ -396,16 +472,20 @@
         "discount": false
     },
     {
-        "name": "Lithuania",
+        "name": "Liechtenstein",
         "discount": false
+    },
+    {
+        "name": "Lithuania",
+        "discount": true
     },
     {
         "name": "Luxembourg",
         "discount": false
     },
     {
-        "name": "Macau",
-        "discount": false
+        "name": "Macao SAR, China",
+        "discount": true
     },
     {
         "name": "Madagascar",
@@ -421,7 +501,7 @@
     },
     {
         "name": "Maldives",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Mali",
@@ -441,18 +521,22 @@
     },
     {
         "name": "Mauritius",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Mexico",
         "discount": false
     },
     {
-        "name": "Micronesia, Federated States of",
+        "name": "Micronesia, Fed. Sts.",
         "discount": true
     },
     {
         "name": "Moldova",
+        "discount": true
+    },
+    {
+        "name": "Monaco",
         "discount": true
     },
     {
@@ -461,11 +545,11 @@
     },
     {
         "name": "Montenegro",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Morocco",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Mozambique",
@@ -473,11 +557,11 @@
     },
     {
         "name": "Myanmar",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Namibia",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Nauru",
@@ -490,6 +574,10 @@
     {
         "name": "Netherlands",
         "discount": false
+    },
+    {
+        "name": "New Caledonia",
+        "discount": true
     },
     {
         "name": "New Zealand",
@@ -505,10 +593,14 @@
     },
     {
         "name": "Nigeria",
-        "discount": false
+        "discount": true
     },
     {
         "name": "North Macedonia",
+        "discount": true
+    },
+    {
+        "name": "Northern Mariana Islands",
         "discount": true
     },
     {
@@ -521,7 +613,7 @@
     },
     {
         "name": "Pakistan",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Palau",
@@ -545,7 +637,7 @@
     },
     {
         "name": "Philippines",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Poland",
@@ -556,6 +648,10 @@
         "discount": false
     },
     {
+        "name": "Puerto Rico",
+        "discount": true
+    },
+    {
         "name": "Qatar",
         "discount": false
     },
@@ -564,23 +660,11 @@
         "discount": false
     },
     {
-        "name": "Russia",
+        "name": "Russian Federation",
         "discount": false
     },
     {
         "name": "Rwanda",
-        "discount": true
-    },
-    {
-        "name": "Saint Kitts and Nevis",
-        "discount": true
-    },
-    {
-        "name": "Saint Lucia",
-        "discount": true
-    },
-    {
-        "name": "Saint Vincent and the Grenadines",
         "discount": true
     },
     {
@@ -605,11 +689,11 @@
     },
     {
         "name": "Serbia",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Seychelles",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Sierra Leone",
@@ -618,6 +702,10 @@
     {
         "name": "Singapore",
         "discount": false
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "discount": true
     },
     {
         "name": "Slovak Republic",
@@ -636,8 +724,8 @@
         "discount": true
     },
     {
-        "name": "South Africa",
-        "discount": false
+        "name": "South Sudan",
+        "discount": true
     },
     {
         "name": "Spain",
@@ -645,11 +733,27 @@
     },
     {
         "name": "Sri Lanka",
+        "discount": true
+    },
+    {
+        "name": "St. Kitts and Nevis",
+        "discount": true
+    },
+    {
+        "name": "St. Lucia",
+        "discount": false
+    },
+    {
+        "name": "St. Martin (French part)",
+        "discount": false
+    },
+    {
+        "name": "St. Vincent and the Grenadines",
         "discount": false
     },
     {
         "name": "Sudan",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Suriname",
@@ -664,8 +768,8 @@
         "discount": false
     },
     {
-        "name": "Taiwan",
-        "discount": false
+        "name": "Syrian Arab Republic",
+        "discount": true
     },
     {
         "name": "Tajikistan",
@@ -673,7 +777,7 @@
     },
     {
         "name": "Tanzania",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Thailand",
@@ -693,7 +797,7 @@
     },
     {
         "name": "Trinidad and Tobago",
-        "discount": true
+        "discount": false
     },
     {
         "name": "Tunisia",
@@ -705,7 +809,11 @@
     },
     {
         "name": "Turkmenistan",
-        "discount": false
+        "discount": true
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "discount": true
     },
     {
         "name": "Tuvalu",
@@ -717,7 +825,7 @@
     },
     {
         "name": "Ukraine",
-        "discount": false
+        "discount": true
     },
     {
         "name": "United Arab Emirates",
@@ -737,18 +845,30 @@
     },
     {
         "name": "Uzbekistan",
-        "discount": false
+        "discount": true
     },
     {
         "name": "Vanuatu",
         "discount": true
     },
     {
+        "name": "Venezuela, RB",
+        "discount": true
+    },
+    {
         "name": "Vietnam",
+        "discount": true
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
         "discount": false
     },
     {
         "name": "West Bank and Gaza",
+        "discount": true
+    },
+    {
+        "name": "Yemen, Rep.",
         "discount": true
     },
     {

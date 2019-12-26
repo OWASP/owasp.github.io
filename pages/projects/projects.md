@@ -8,11 +8,12 @@ tags: projects
 
 ---
 
+<!-- rebuild 4 -->
 ![Global Board Class of 2019](/assets/images/web/juice-shop.png)
 
 ## Projects for Good
 
-We are a community of developers, technologists and evangelists improving the security of software. The OWASP Foundation gives aspiring open source projects a plaform to secure the web with:
+We are a community of developers, technologists and evangelists improving the security of software. The OWASP Foundation gives aspiring open source projects a platform to improve the security of software with:
 - Visibility: Our website gets more than six million visitors a year
 - Credibility: OWASP is well known in the AppSec community
 - Resources: Funding and Project Summits are available for qualifying Programs

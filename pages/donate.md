@@ -217,9 +217,8 @@ permalink: /donate
 
       <p>The Open Web Application Security Project (OWASP) is a nonprofit
       foundation improving the security of software. Through community-led open
-      source software projects and over 260 local chapters worldwide, your
-      unrestricted gift* will support the Foundation and its many activities
-      around the world to secure the web.</p>
+      source software projects and hundreds of local chapters worldwide, your gift* will support the Foundation and its many activities
+      around the world to secure the web. Existing donors can <a href="/manage-membership">Modify Recurring Gifts</a>.</p>
 
 
       <form class="form-container" v-on:submit.prevent="handleSubmit">
@@ -308,20 +307,24 @@ permalink: /donate
             </div>
           </div>
         </div>
+        <div class="donation-options" v-if="showRestrictedOption">
+          <label class="checkbox-container">Please restrict this gift<span v-if="projectName"> for <span style="font-weight: 900; color: #233e81">{{ projectName }}</span></span>. In doing so, I understand this gift amount is net 15% administration costs and unspent restricted gift balances become unrestricted at the end of each calendar year.
+	    <input type="checkbox" v-model="restricted">
+	    <span class="checkmark"></span>
+	  </label>
+        </div>
         <div class="submit-container">
           <button type="submit" class="donate-button" v-bind:disabled="loading">Donate</button>
         </div>
       </form>
 
-      <p class="legal-text">* Your gift to the OWASP Foundation, net credit card processing fees,
+      <p class="legal-text">* Unless otherwise noted your gift to the OWASP Foundation, net credit card processing fees,
       is unrestricted and will be used at the sole discretion of the
       organization to fulfill its mission and objectives. You do have the option
       to be listed as a Supporter of a Project or Chapter; however, this option
       does not restrict your gift in anyway whatsoever. The OWASP Foundation is
       a 501(c)3 therefore in some cases your gift may be tax-deductible and you
-      should consult with a tax professional for more details. For more
-      information about restricted gifts greater than $1,000, please contact
-      donations@owasp.org.</p>
+      should consult with a tax professional for more details. Additionally you can elect to receive marketing mails from us by  selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
       <!-- end donation form -->
 
@@ -353,6 +356,7 @@ window.addEventListener('load', function () {
       recurring: false,
       mailing_list: false,
       attribution: false,
+      restricted: false,
       projectName: null,
       repoName: null,
       email: null,
@@ -372,6 +376,19 @@ window.addEventListener('load', function () {
         }
 
         return '&#163;';
+      },
+      showRestrictedOption: function () {
+        if (this.amount > 1000) {
+          return true;
+        }
+        return false;
+      }
+    },
+    watch: {
+      amount: function (newAmount) {
+        if (newAmount <= 1000) {
+          this.restricted = false;
+        }
       }
     },
     created: function () {
@@ -384,6 +401,12 @@ window.addEventListener('load', function () {
       }
       if (queryParams.has('currency') && ['usd', 'eur', 'gbp'].includes(queryParams.get('currency'))) {
         this.currency = queryParams.get('currency');
+      }
+      if (queryParams.has('restricted') && queryParams.get('restricted') ==
+      'yes') {
+        this.setCustomAmount();
+        this.amount = 1001;
+        this.restricted = true;
       }
     },
     methods: {
@@ -407,6 +430,7 @@ window.addEventListener('load', function () {
             project_title: vm.projectName,
             repo_name: vm.repoName,
             mailing_list: vm.mailing_list,
+            restricted: vm.restricted,
             email: vm.email,
             name: vm.name,
             source: vm.source
@@ -451,8 +475,13 @@ window.addEventListener('load', function () {
         if (!this.amount) {
           errors.amount = ['Please select a donation amount.'];
         } else {
-          if (this.amount < 1 || this.amount > 5000 || !Number.isInteger(this.amount)) {
+          if ((typeof this.amount === 'string' || this.amount instanceof String) && !this.amount.match(/^-{0,1}\d+$/)) {
             errors.amount = ['Donation amounts must be whole numbers between 1 and 5000 with no commas or decimals.'];
+          } else {
+            let intAmount = parseInt(this.amount)
+            if (intAmount < 1 || intAmount > 5000) {
+              errors.amount = ['Donation amounts must be whole numbers between 1 and 5000 with no commas or decimals.'];
+            }
           }
         }
 

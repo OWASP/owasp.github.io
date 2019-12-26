@@ -16,7 +16,6 @@ permalink: /membership-success
       <h1>Thank you for becoming a member</h1>
 
       <p>Thank you for becoming a member of OWASP!</p>
-
       </div>
       <aside class="sidebar" role="complementary">
         <!-- reserved for future use -->

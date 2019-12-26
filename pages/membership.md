@@ -186,11 +186,11 @@ permalink: /membership
       <ul>
       	<li>Ongoing Support of our work</li>
 	<li>Discounted Conference Fees</li>
-	<li>Corpoate owasp.org email address</li>
+	<li>Corporate owasp.org email address</li>
 	<li>Priority access to Travel Grants</li>
 	<li>And many others...</li>
       </ul>
-      <p>Looking to have your business become a <a href="/supporters">Corporate Member</a>?</p>
+      <p>You can <a href="/manage-membership">Manage your Membership</a> to renew an existing plan or modify billing details. Looking to have your business become a <a href="/supporters">Corporate Member</a>? </p>
 
       <h2>Join Now</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
@@ -226,11 +226,11 @@ permalink: /membership
           {{ errors.membership_type[0] }}
         </div>
         <div style="margin-bottom: 35px; margin-top: 35px;">
-	  <label class="checkbox-container">Set my Membership to Auto-renew
+	  <label class="checkbox-container" v-if="!student">Set my Membership to Auto-renew
 	    <input type="checkbox" v-model="auto_renew">
 	    <span class="checkmark"></span>
 	  </label>
-	  <label class="checkbox-container">Join the OWASP Mailing List
+	  <label class="checkbox-container">Join the OWASP Mailing List (See details below)
 	    <input type="checkbox" v-model="mailing_list">
 	    <span class="checkmark"></span>
 	  </label>
@@ -251,7 +251,13 @@ permalink: /membership
               {{ errors.email_confirm[0] }}
             </div>
           </div>
-          <div>
+          <div v-if="student">
+            <input type="text" v-model="university" aria-label="University" placeholder="University" />
+            <div class="error-text" v-if="errors.university">
+              {{ errors.university[0] }}
+            </div>
+          </div>
+          <div v-else>
             <input type="text" v-model="company_name" aria-label="Company Name" placeholder="Company Name" />
             <div class="error-text" v-if="errors.company_name">
               {{ errors.company_name[0] }}
@@ -268,6 +274,8 @@ permalink: /membership
           <button type="submit" class="membership-button" v-bind:disabled="loading">Join Now</button>
         </div>
       </form>
+
+      <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
       <!-- end memberhip form -->
 
@@ -303,11 +311,27 @@ window.addEventListener('load', function () {
       email_confirm: null,
       name_on_card: null,
       company_name: null,
+      university: null,
       auto_renew: false,
+      student: false,
       mailing_list: false
+    },
+    created: function () {
+      const queryParams = new URLSearchParams(window.location.search);
+      if (queryParams.has('student')) {
+        this.student = true
+        this.membership_type = 'One Year';
+        this.membership_discount = false;
+        this.$forceUpdate();
+      }
     },
     computed: {
       membershipOptions: function () {
+        if (this.student) {
+          return [
+            { name: 'One Year', amount: '$20', discount: false }
+          ];
+        }
         if (!this.country || !this.country.hasOwnProperty('discount') ||
         this.country.discount == false) {
           return [
@@ -324,6 +348,10 @@ window.addEventListener('load', function () {
     },
     watch: {
       country: function (newCountry, oldCountry) {
+        if (this.student) {
+          return;
+        }
+
         if (newCountry.discount) {
           this.membership_type = 'One Year';
           this.membership_discount = true;
@@ -356,7 +384,9 @@ window.addEventListener('load', function () {
             email: this.email,
             name: this.name_on_card,
             company: this.company_name,
+            university: this.university,
             mailing_list: this.mailing_list,
+            student: this.student,
             currency: 'usd'
           };
           axios.post('https://owaspadmin.azurewebsites.net/api/CreateCheckoutSession?code=ulMNYVfgzBytI1adat1lS6MQ3NabtwKE4IgCJ8yKuhvbFoQh6nOYaw==', postData)
@@ -398,6 +428,10 @@ window.addEventListener('load', function () {
 
         if (!this.name_on_card) {
           errors.name_on_card = ['Please enter your name as it appears on your credit card.'];
+        }
+
+        if (this.student && !this.university) {
+          errors.university = ['Please enter your university name'];
         }
 
         if (!this.country) {

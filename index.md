@@ -6,16 +6,16 @@ permalink: /
 
 ---
 
-<!-- Rebuild Site Tag 88 -->
+<!-- Rebuild Site Tag 91 -->
 <div class="homepage-promo">
-  <img src="/assets/images/content/group_small.jpg" alt="Volunteers at AppSec">
+  <img src="/assets/images/content/ams-preso-new.png" alt="Presentation at Global AppSec AMS">
 </div>
 
  <hr class="mobile">
 
 <section class="homepage-welcome">
   <h1>What is the OWASP Foundation?</h1>
-<p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. Join us for:</p>
+<p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. Join us for:</p>
 
 <ul>
 <li>Tools and Resources</li>

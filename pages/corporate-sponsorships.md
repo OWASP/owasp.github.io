@@ -69,3 +69,5 @@ If you're looking to simply exhibit an one of our conferences, you can also supp
 </ul>
 
 If you're ready to learn more, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"}.
+
+Please note certain restrictions may apply. Benefits are NOT transferable and expire following the end of the exhibiting conferences.
