@@ -82,16 +82,34 @@ permalink: /manage-membership
         <p>Thanks! We just sent you an email with instructions for how to update
         your membership or payment information. The internet is fast but sometimes our bots are slow. Please wait 5-10 minutes for your email. If you don't receive one, please check your SPAM folder as well. If all else fails, you likely used an email address we didn't find in our system.</p>
       </div>
-      <div style="display: flex;" v-else-if="state === 'redirecting'">
-        <div style="margin-right: 18px;">
-          <button v-on:click="redirectToStripe" class="submit-button" v-bind:disabled="loading">Update Payment Information</button>
+      <div style="display: flex;" v-else-if="state === 'hastoken'">
+        <div v-if="loadingUserData">
+          <h2>Loading Billing Information...</h2>
         </div>
-        <div>
-        <button v-on:click="doCancellation" class="submit-button danger-button" v-bind:disabled="loadingCancellation">{{ pendingCancellation ? 'Are you sure?' : 'Cancel Membership' }}</button>
+        <div v-else>
+          <div v-if="userData.membership" style="margin-bottom: 20px;">
+            <div>
+              <strong>Membership Type:</strong> {{ userData.membership.membership_name }}
+            </div>
+            <div v-if="userData.membership.membership_end">
+              <strong>Membership {{ userData.membership.membership_recurring ? 'Automatically Renews On' : 'Ends On' }}:</strong> {{ userData.membership.membership_end }}
+            </div>
+          </div>
+          <div v-if="memberships.length > 0">
+            <h3>Manage Membership</h3>
+            <div v-for="membership in memberships">
+              <div><strong>{{ membership.subscription_name }}</strong></div>
+              <div>{{ membership.card.brand }} ending in {{ membership.card.last_4 }}</div>
+              <div>Next Billing Date: {{ membership.next_billing_date }}</div>
+              <div style="margin-right: 18px; display: inline-block;">
+                <button class="submit-button" v-on:click="redirectToStripe(membership.checkout_session)">Update Payment Information</button>
+              </div>
+              <div style="display: inline-block;">
+                <button class="submit-button danger-button" v-on:click="doCancellation(membership.checkout_session)">{{ pendingCancellation === membership.checkout_session ? 'Are you sure?' : 'Cancel Recurring' }}</button>
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
-      <div v-else-if="state === 'cancelled'">
-      <p>We're sorry to see you go! Your OWASP information has been modified. You will remain a member until the end of your current billing period.</p>
       </div>
 
       </div>
@@ -107,6 +125,7 @@ permalink: /manage-membership
 <script src="https://js.stripe.com/v3"></script>
 <script src="https://unpkg.com/vue"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
 
 <script>
 var stripe = Stripe('pk_test_u4OyMFMbz6tp9sit2bjdHRnT00bac5mrL2');
@@ -117,15 +136,28 @@ window.addEventListener('load', function () {
       email: null,
       errors: {},
       loading: false,
-      pendingCancellation: false,
-      loadingCancellation: false,
-      state: 'unsubmitted'
+      token: null,
+      state: 'unsubmitted',
+      userData: {
+        subscriptions: []
+      },
+      loadingUserData: true,
+      pendingCancellation: null
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
       if (queryParams.has('token')) {
-        this.state = 'redirecting';
-        this.checkoutSessionId = queryParams.get('token');
+        this.token = queryParams.get('token');
+        this.state = 'hastoken';
+        this.getMemberInfo();
+      }
+    },
+    computed: {
+      memberships: function () {
+        return _.filter(_.get(this.userData, 'subscriptions', []), { type: 'membership' });
+      },
+      donations: function () {
+        return _.filter(_.get(this.userData, 'subscriptions', []), { type: 'donation' });
       }
     },
     methods: {
@@ -171,34 +203,41 @@ window.addEventListener('load', function () {
           this.validateForm();
         }
       },
+      getMemberInfo: function () {
+        let vm = this;
+        const postData = {
+          token: this.token,
+          action: 'info'
+        };
+        axios.post('https://owaspadmin.azurewebsites.net/api/billingmanagement?code=WDLIYfCkkBzaaanneE6Yzr3mld/GNnDIHVIoUo0XPvLae3AU2lfMAA==', postData)
+          .then(function (response) {
+            vm.userData = response.data.data;
+            vm.loadingUserData = false;
+          });
+      },
       redirectToStripe: function (sessionId) {
         stripe.redirectToCheckout({
-          sessionId: this.checkoutSessionId
+          sessionId: sessionId
         }).then(function (result) {
 
         }); 
       },
-      doCancellation: function () {
-        if (this.pendingCancellation) {
+      doCancellation: function (sessionId) {
+        if (this.pendingCancellation && this.pendingCancellation === sessionId) {
           let vm = this;
           const postData = {
-            token: this.checkoutSessionId
+            token: sessionId
           };
-          vm.loadingCancellation = true;
           axios.post('https://owaspadmin.azurewebsites.net/api/CancelSubscription?code=Wo2wqKKpOMZP0LycmMGWLl3z8wGqK0BoIPRL/3At9W31ZnHZSRn8xw==', postData)
             .then(function (response) {
-              vm.state = 'cancelled';
-            })
-            .catch(function (error) {
-
-            })
-            .finally(function () {
-              vm.loadingCancellation = false
+              this.getMemberInfo();
+            }).finally(function () {
+              this.pendingCancellation = null;
             })
         } else {
-          this.pendingCancellation = true;
+          this.pendingCancellation = sessionId;
         }
-      }
+      },
     }
   })
 }, false)
