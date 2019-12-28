@@ -244,6 +244,7 @@ window.addEventListener('load', function () {
           };
           axios.post('https://owaspadmin.azurewebsites.net/api/CancelSubscription?code=Wo2wqKKpOMZP0LycmMGWLl3z8wGqK0BoIPRL/3At9W31ZnHZSRn8xw==', postData)
             .then(function (response) {
+              vm.loadingUserData = true;
               vm.getMemberInfo();
             }).finally(function () {
               vm.pendingCancellation = null;
