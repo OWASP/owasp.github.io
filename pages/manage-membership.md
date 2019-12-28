@@ -95,7 +95,7 @@ permalink: /manage-membership
               <strong>Membership {{ userData.membership.membership_recurring ? 'Automatically Renews On' : 'Ends On' }}:</strong> {{ userData.membership.membership_end }}
             </div>
           </div>
-          <div v-if="memberships.length > 0">
+          <div v-if="memberships.length > 0" style="margin-bottom: 40px;">
             <h3>Manage Membership</h3>
             <div v-for="membership in memberships">
               <div><strong>{{ membership.subscription_name }}</strong></div>
@@ -106,6 +106,20 @@ permalink: /manage-membership
               </div>
               <div style="display: inline-block;">
                 <button class="submit-button danger-button" v-on:click="doCancellation(membership.checkout_session)">{{ pendingCancellation === membership.checkout_session ? 'Are you sure?' : 'Cancel Recurring' }}</button>
+              </div>
+            </div>
+          </div>
+          <div v-if="donations.length > 0">
+            <h3>Manage Recurring Donations</h3>
+            <div v-for="donation in donations">
+              <div><strong>{{ donation.subscription_name }}</strong></div>
+              <div>{{ donation.card.brand }} ending in {{ donation.card.last_4 }}</div>
+              <div>Next Billing Date: {{ donation.next_billing_date }}</div>
+              <div style="margin-right: 18px; display: inline-block;">
+                <button class="submit-button" v-on:click="redirectToStripe(donation.checkout_session)">Update Payment Information</button>
+              </div>
+              <div style="display: inline-block;">
+                <button class="submit-button danger-button" v-on:click="doCancellation(donation.checkout_session)">{{ pendingCancellation === donation.checkout_session ? 'Are you sure?' : 'Cancel Recurring' }}</button>
               </div>
             </div>
           </div>
@@ -230,9 +244,9 @@ window.addEventListener('load', function () {
           };
           axios.post('https://owaspadmin.azurewebsites.net/api/CancelSubscription?code=Wo2wqKKpOMZP0LycmMGWLl3z8wGqK0BoIPRL/3At9W31ZnHZSRn8xw==', postData)
             .then(function (response) {
-              this.getMemberInfo();
+              vm.getMemberInfo();
             }).finally(function () {
-              this.pendingCancellation = null;
+              vm.pendingCancellation = null;
             })
         } else {
           this.pendingCancellation = sessionId;
