@@ -27,7 +27,7 @@ Each year the staff works with the Global Board to establish an [Operating Plan]
             </div>
         </div>
         <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/><div class="member-location">{{member.location}}</div></div><br/>
-        <div class="member-info">{{ member.description }}. Current Term Ends {{ member.term-ends}}.</div>	
+        <div class="member-info">{{ member.description }}. </div>	
     </div>
     <div style="height:18px;"></div>
 {% endfor %}	
@@ -46,7 +46,7 @@ Each year the staff works with the Global Board to establish an [Operating Plan]
             </div>
         </div>
         <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/><div class="member-location">{{member.location}}</div></div><br/>
-        <div class="member-info">{{ member.description }}</div>	
+        <div class="member-info">{{ member.description }}. Current Term Ends {{ member.term-ends}}.</div>	
     </div>
     <div style="height:18px;"></div>
 {% endfor %}	
