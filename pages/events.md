@@ -42,7 +42,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-<li><a href='{{ event.url }}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
 </ul>
 {% endfor %}
 
