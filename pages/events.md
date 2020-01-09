@@ -51,8 +51,8 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 
 Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing) for more information.
 
-#### BlackHat Europe
-- December, 2-5, 2019
-- London, England
-- € 200.00 discount code available
-- [Registration Site](https://www.blackhat.com/eu-19/?_mc=sem_x_bheur_le_tsnr_bheu_x_goog_x-BHEU2019Beu&ppc=y&kw=x&gclid=EAIaIQobChMI7M7t_9im5QIVAj0MCh1kDAAlEAAYASAAEgK18vD_BwE)
+#### BlackHat Asia 2020
+- March 31 - April 3, 2020
+- Marina Bay Sands / Singapore
+- € 200.00 discount code available - members email marketing@owasp.org
+- [Registration Site](https://www.blackhat.com/asia-20/)
