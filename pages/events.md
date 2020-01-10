@@ -54,5 +54,5 @@ Throughout the year, the OWASP Foundation partners with major AppSec conferences
 #### BlackHat Asia 2020
 - March 31 - April 3, 2020
 - Marina Bay Sands / Singapore
-- € 200.00 discount code available - members email marketing@owasp.org
+- $ 200.00 discount code available - members email marketing@owasp.org
 - [Registration Site](https://www.blackhat.com/asia-20/)
