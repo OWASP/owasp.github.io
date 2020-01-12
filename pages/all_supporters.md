@@ -44,7 +44,7 @@ Organizations looking to support the mission of OWASP while also interested in e
 Visit [Corporate Sponsorship](/pages/corporate-sponsorships) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ---
-## Corporate Members & Sponsors
+## Corporate Members, Sponsors & Supporters
 
 _Disclaimer:_ The following information is not an endorsement for any particular entity and reflects the messaging of the supporter only.
 
