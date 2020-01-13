@@ -48,25 +48,25 @@ All OWASP tools, document, and code library projects are organized into the foll
         <h3>Flagship Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h3>
         <ul>
         {% for project in fs_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
         <h3>Lab Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h3>
         <ul>
         {% for project in l_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
         <h3>Incubator Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h3>
         <ul>
         {% for project in i_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
         <h3>Projects Needing Website Update</h3>
         <ul>
         {% for project in u_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
     </div>
@@ -78,25 +78,25 @@ All OWASP tools, document, and code library projects are organized into the foll
         <h2>Tool Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
         <ul>
         {% for project in tool_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
         <h2>Documentation Projects<i style="margin-left:12px;" class="fa fa-file-alt fa-lg"></i></h2>
         <ul> 
         {% for project in documentation_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
         <h2>Code Projects<i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i></h2>
         <ul>
         {% for project in code_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
         <h2>Other Projects</h2>
         <ul>
         {% for project in other_projects %}
-        <li><a href="{{ project.url }}">OWASP {{ project.name }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
     </div>
