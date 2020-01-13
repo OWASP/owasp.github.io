@@ -53,4 +53,6 @@ The OWASP Foundation audits their finacials every three years. The next audit ye
 - [2010](/assets/financial-audits/OWASP_Audit_Report_2010.pdf){:target='_blank'}
 - [2007](/assets/financial-audits/OWASP_Audit_Report_2007.pdf){:target='_blank'}
 
+## Chapter & Project Balances
 
+- [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/1rN_bzfCJxaHOiEMhK4_PAYPbvlDZL5dcHviWvLlf1bw/edit?usp=sharing)
