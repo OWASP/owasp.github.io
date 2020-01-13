@@ -55,4 +55,4 @@ The OWASP Foundation audits their finacials every three years. The next audit ye
 
 ## Chapter & Project Balances
 
-- [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/1rN_bzfCJxaHOiEMhK4_PAYPbvlDZL5dcHviWvLlf1bw/edit?usp=sharing)
+- [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/1rN_bzfCJxaHOiEMhK4_PAYPbvlDZL5dcHviWvLlf1bw/edit?usp=sharing){:target='_blank'}
