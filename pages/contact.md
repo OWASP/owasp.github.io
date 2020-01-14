@@ -14,7 +14,7 @@ Most answers you might have about the OWASP Foundation can be found by searching
 - Update [Recurring Donor Billing Information](/manage-membership)
 - [Corporate Sponsorships or Support](mailto:kelly.santalucia@owasp.com?subject=Corporate%20Sponsorships%20or%20Support)
 - [Project](/projects) leaders are listed on each Projects page under Leaders
-- Local Chapter [Leaders](/chapters) are listed on a Chapters' respective page
+- Local [Chapter](/chapters) Leaders are listed on a Chapters' respective page
 - [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing)
 
 <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
