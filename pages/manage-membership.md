@@ -2,7 +2,7 @@
 
 layout: full-width
 title: Manage Your Information
-permalink: /manage-membership
+permalink: /manage-membership/
 
 ---
 

@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Governance
-permalink: /governance
+permalink: /governance/
 
 ---
 

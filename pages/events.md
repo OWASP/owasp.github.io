@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: OWASP Global & Regional Events
-permalink: /events
+permalink: /events/
 
 ---
 ![Attendees at a Global AppSec Conference](/assets/images/web/events-header.png)

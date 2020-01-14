@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Search
-permalink: /search
+permalink: /search/
 
 ---
 

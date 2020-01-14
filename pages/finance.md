@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Finance
-permalink: /finance
+permalink: /finance/
 
 ---
 ![Women in AppSec Training at Global AppSec DC](/assets/images/web/wia_dc.png)

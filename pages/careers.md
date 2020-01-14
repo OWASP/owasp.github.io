@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Careers
-permalink: /careers
+permalink: /careers/
 
 ---
 

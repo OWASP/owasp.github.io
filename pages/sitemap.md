@@ -2,7 +2,7 @@
 
 layout: full-width
 title: OWASP Foundation Sitemap
-permalink: /sitemap
+permalink: /sitemap/
 
 ---
 

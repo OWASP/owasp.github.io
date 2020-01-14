@@ -2,7 +2,7 @@
 
 layout: full-width
 title: Website Migration
-permalink: /migration
+permalink: /migration/
 
 ---
 

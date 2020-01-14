@@ -2,7 +2,7 @@
 
 layout: full-width
 title: Membership Updated
-permalink: /membership-update-success
+permalink: /membership-update-success/
 
 ---
 

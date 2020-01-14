@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Global Board and Staff
-permalink: /corporate
+permalink: /corporate/
 
 ---
 

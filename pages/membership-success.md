@@ -2,7 +2,7 @@
 
 layout: full-width
 title: Membership
-permalink: /membership-success
+permalink: /membership-success/
 
 ---
 

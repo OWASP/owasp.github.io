@@ -2,7 +2,7 @@
 
 layout: full-width
 title: Donate
-permalink: /donation-error
+permalink: /donation-error/
 
 ---
 

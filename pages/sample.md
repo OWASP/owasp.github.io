@@ -2,7 +2,7 @@
 
 layout: full-width
 title: Content Tags & Components Sample
-permalink: /sample
+permalink: /sample/
 
 ---
 <div>

@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: About the OWASP Foundation
-permalink: /about
+permalink: /about/
 
 ---
 

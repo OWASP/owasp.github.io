@@ -2,7 +2,7 @@
 
 title: OWASP Website Documentation
 layout: col-sidebar
-permalink: /site-documentation
+permalink: /site-documentation/
 
 ---
 

@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Opinions & News
-permalink: /news
+permalink: /news/
 
 ---
 

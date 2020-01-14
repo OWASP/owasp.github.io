@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Donate
-permalink: /cancel
+permalink: /cancel/
 
 ---
 

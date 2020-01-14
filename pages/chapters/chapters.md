@@ -1,7 +1,7 @@
 ---
 title: OWASP Local Chapters
 layout: col-sidebar
-permalink: /chapters
+permalink: /chapters/
 side_side: true
 tags: chapters
 ---

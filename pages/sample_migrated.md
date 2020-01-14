@@ -4,6 +4,7 @@ title: Sample Migrated Page
 layout: col-generic
 region: 
 tags:
+permalink: /sample-migrated/
 
 ---
 
