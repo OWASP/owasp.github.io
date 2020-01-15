@@ -19,7 +19,7 @@ Our old website and infrastructure has served us well. But for a good variety of
 
 **Audience**. Our audience is developers - mostly web developers. They code, manage, build, and collaborate on tools like GitHub. When we were considering a new CMS the logic was “why not use the tool our audience already uses?”  We added Watch and Star buttons to projects so now when someone searches something like Cross Site Scripting and they find our Cheat Sheet visitors are one click away from connecting to our project - and future updates. We added “Edit on GitHub” links on basically every page so the community, in fact anyone can submit a pull request to change our website. Now that’s open!
 
-<p class="callout-mono right">"When you spend 15 years digging a deep hole, don’t expect to dig your way our in a week."</p>
+<p class="callout-mono right">"When you spend 15 years digging a hole, don’t expect to get out in one week."</p>
 
 **Credentials Management**. Historically we had a very flat content creator credentials model. While it did most often worked to be self-healing, it is not the way to run a website that gets millions of visitors a year.  We elected to silo user credentials by repository and put all ~650 repos in our organizational unit.  Some of our projects do have ongoing code work that needed to be separated from our public-facing web content but the folks working on code also needed access to our “CMS” so co-mingling made a good deal of sense. Each repo, which closely matches for us to each project or local chapter, has it’s own content owners which we authenticate through GitHub.
 
