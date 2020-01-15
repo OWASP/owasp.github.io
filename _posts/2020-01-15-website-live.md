@@ -10,9 +10,9 @@ excerpt_separator: <!--more-->
 
 ---
 
-<p class="callout-mono right">"Our primary goal is to expand community involvement in Global AppSec planning."</p>
-
 For the better part of the last nine months, a small dedicated team has been working to complete a project that has been started, restarted, abandoned, restarted, and then again abandoned: migrating our 7,000 or so page website curated by over 3,000 content editors from MediaWiki to GitHub Pages. As I like to now say, “when you spend 15 years digging a deep hole, don’t expect to dig your way our in a week.” And in all honesty this is not the finish line, but the starting line for the OWASP Foundation in this new decade.<!--more-->
+
+<p class="callout-mono right">"Our primary goal is to expand community involvement in Global AppSec planning."</p>
 
 Our old website and infrastructure has served us well. But for a good variety of reasons the OWASP Foundation wanted to migrate to a better publishing platform that:
 1. More closely aligns with our audience of developers
