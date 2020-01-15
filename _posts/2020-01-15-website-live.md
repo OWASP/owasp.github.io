@@ -5,7 +5,7 @@ categories: Website
 author: Mike McCamon
 author_image: /assets/images/people/staff_mike.jpg
 layout: blogpost
-title: Website Migration Milestone: “We’re live”
+title: Website Migration Milestone: "We’re live"
 excerpt_separator: <!--more-->
 
 ---
