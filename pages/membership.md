@@ -294,7 +294,7 @@ permalink: /membership/
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
 <script>
-var stripe = Stripe('pk_test_u4OyMFMbz6tp9sit2bjdHRnT00bac5mrL2');
+var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
 window.addEventListener('load', function () {
   new Vue({
     el: '#membership-app',

@@ -142,7 +142,7 @@ permalink: /manage-membership/
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
 
 <script>
-var stripe = Stripe('pk_test_u4OyMFMbz6tp9sit2bjdHRnT00bac5mrL2');
+var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
 window.addEventListener('load', function () {
   new Vue({
     el: '#manage-membership-app',
