@@ -8,7 +8,7 @@ permalink: /contact
 
 ![Attendees at a Global AppSec Conference](/assets/images/web/about_header.png)
 
-Most answers you might have about the OWASP Foundation can be found by searching this website. Another path to find information is to visit our [/sitemap). The most common questions can be answered through the links below.
+Most answers you might have about the OWASP Foundation can be found by searching this website. Another path to find information is to visit our [sitemap](/sitemap). The most common questions can be answered through the links below.
 
 ### Frequently Asked Questions
 
