@@ -27,6 +27,7 @@ As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foun
 - [IRS 501(c)3 Determination Letter](/assets/legal/OWASP_IRS501c3DeterminationLetter.pdf){:target='_blank'}
 - [New York State Exempt Certificate](/assets/legal/NY_Exempt_Organization_Certificate.pdf){:target='_blank'}
 - [2019 W-9](/assets/legal/2019_W9.pdf){:target='_blank'}
+- [2020 W-9](/assets/financial/2020-Form-W-9.pdf){:target='_blank'}
 
 ## Tax Returns (Form 990)
 The OWASP Foundadtion is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December and we post our 990 as early as July of each year and have our finanicals audited every three years.
