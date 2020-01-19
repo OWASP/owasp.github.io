@@ -15,7 +15,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 - Tens of thousands of members
 - Industry-leading educational and training conferences
 
-We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The OWASP Foundation launched on December 1st, 2001, becoming incorporated as a United States non-profit charity on April 21, 2004.
+We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The OWASP Foundation launched on December 1st, 2001, becoming incorporated as a United States non-profit charity on April 21, 2004.
 
 <p class="callout-mono right">Together we will improve the security of software.</p>
 
@@ -59,7 +59,7 @@ Belgium
 ```
 
 ## Ethical Behavior
-The activities, programs, and events of the Foundation conform to a number of policies set forth in our [Policies & Procedures](/www-policy/) and the [Code of Conduct](/www-policy/operational/code-of-conduct). Additionally we expect our Board Members, and Leaders, Staff, volunteers to model the upmost in integrity, honesty, and patience with supporting our extended communities.
+The activities, programs, and events of the Foundation conform to a number of policies set forth in our [Policies & Procedures](/www-policy/) and the [Code of Conduct](/www-policy/operational/code-of-conduct). Additionally we expect our Board Members, Leaders, Staff, and volunteers to model the upmost in integrity, honesty, and patience with supporting our extended communities.
 
 ## Licensing
 All OWASP materials are available under an approved FLOSS License.
