@@ -50,7 +50,7 @@ All Sponsorship Packages include:
 - Lead scanner at exhibiting events
 
 ## Event Sponsorship
-If you're looking to simply exhibit an one of our conferences, you can also support the Foundation with an Event Sponsorship.  Pricing and benefits vary by event. Please click on the links below to learn more about those particular offerings.
+If you're looking to simply exhibit at one of our conferences, you can also support the Foundation with an Event Sponsorship.  Pricing and benefits vary by event. Please click on the links below to learn more about those particular offerings.
 
 ### Global AppSec Events
 <ul>
