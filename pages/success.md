@@ -21,7 +21,7 @@ permalink: /success/
         seconds = seconds - 1;
         if (seconds < 0) {
             // Change your redirection link here
-            window.location = "https://www2.owasp.org";
+            window.location = "https://owasp.org";
         } else {
             // Update remaining seconds
             document.getElementById("countdown").innerHTML = seconds;
