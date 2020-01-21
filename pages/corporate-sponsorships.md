@@ -8,7 +8,7 @@ title: Corporate Sponsorship
 ![Exhibitor at Global AppSec Amsterdam during sessions](/assets/images/web/exhibition.png)
 
 Organizations looking to support the mission of OWASP while also interested in exhibiting at conferences like our Global AppSec events, should consider Corporate Sponsorship. These packages offer the best value and include:
-- Event Exhibtion space - up to five events per year
+- Event Exhibition space - up to five events per year
 - Discounted conference and training passes
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
 - Public acknowledgment on various other channels

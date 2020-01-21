@@ -21,7 +21,7 @@ We are sorry to see that you had difficulty with the donation process.  Please t
     function countdown() {
         seconds = seconds - 1;
         if (seconds < 0) {
-            // Chnage your redirection link here
+            // Change your redirection link here
             window.location = "https://www2.owasp.org";
         } else {
             // Update remaining seconds
