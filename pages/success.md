@@ -20,7 +20,7 @@ permalink: /success/
     function countdown() {
         seconds = seconds - 1;
         if (seconds < 0) {
-            // Chnage your redirection link here
+            // Change your redirection link here
             window.location = "https://www2.owasp.org";
         } else {
             // Update remaining seconds
