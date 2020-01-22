@@ -2,7 +2,7 @@
 title: OWASP Local Chapters
 layout: col-sidebar
 permalink: /chapters/
-side_side: true
+site_side: true
 tags: chapters
 ---
 
