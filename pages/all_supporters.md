@@ -17,7 +17,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 <p class="callout-mono right">Corporate support accelerates our impact. Become a member or sponsor today.</p>
 
-We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
+We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
 
 ## Supporting the Foundation
 There are many ways to participate and support the mission of OWASP.
@@ -36,7 +36,7 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 
 ## Corporate Sponsorship
 Organizations looking to support the mission of OWASP while also interested in exhibiting at conferences like our Global AppSec events, should consider Corporate Sponsorship. These packages offer the best value and include:
-- Event Exhibtion space - up to five events per year
+- Event Exhibition space - up to five events per year
 - Discounted conference and training passes
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
 - Public acknowledgment on various other channels

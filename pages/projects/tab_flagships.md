@@ -21,21 +21,21 @@ tags: projects
 ### Tool Projects
 
 {% for project in tool_projects %}
-### [OWASP {{ project.name }}]({{ project.url }})
+### [{{ project.title }}]({{ project.url }})
 {{ project.pitch }}
 {% endfor %}
 
 ### Documentation Projects 
 
 {% for project in documentation_projects %}
-### [OWASP {{ project.name }}]({{ project.url }})
+### [{{ project.title }}]({{ project.url }})
 {{ project.pitch }}
 {% endfor %}
 
 ### Code Projects
 
 {% for project in code_projects %}
-### [OWASP {{ project.name }}]({{ project.url }})
+### [{{ project.title }}]({{ project.url }})
 {{ project.pitch }}
 {% endfor %}
 
@@ -43,7 +43,7 @@ tags: projects
 ### Other Projects
 
 {% for project in other_projects %}
-### [OWASP {{ project.name }}]({{ project.url }})
+### [{{ project.title }}]({{ project.url }})
 {{ project.pitch }}
 {% endfor %}
 

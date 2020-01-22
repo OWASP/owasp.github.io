@@ -20,7 +20,7 @@ permalink: /membership-success/
   
 <h3>Individual Membership Benefits</h3>
 <ul>
-  <li>Ongoing Support of the OWASP Foudation</li>
+  <li>Ongoing Support of the OWASP Foundation</li>
   <li>Discounted Conference Fees</li>
   <li>Vote in OWASP Elections</li>
   <li><a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72">Request</a> an OWASP.org email address</li>

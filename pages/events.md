@@ -56,3 +56,4 @@ Throughout the year, the OWASP Foundation partners with major AppSec conferences
 - Marina Bay Sands / Singapore
 - $ 200.00 discount code available - members email marketing@owasp.org
 - [Registration Site](https://www.blackhat.com/asia-20/)
+- OWASP Members that would like to Volunteer to work the OWASP booth fill out and submit this [form](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/)

@@ -6,6 +6,12 @@
   description: Accenture Security helps businesses prepare, protect, detect, respond and recover along all points of the security lifecycle with over 5,000 exceptionally-skilled security professionals worldwide.  Cybersecurity challenges are different for every business in every industry. Leveraging our global resources and next-generation technologies, we create integrated, practical solutions that are tailored to each organization’s specific business goals and industry solutions that clients can put in place immediately. Whether defending against known threats, quickly detecting and responding to the unknown or running an entire security operations center, we help harden organizations and make it extremely difficult for even the most sophisticated cyber adversaries to succeed.	
 - member: true	
   sponsor: 	
+  name: Acunetix
+  image: /assets/images/corp-member-logo/acunetix.png	
+  url: https://www.acunetix.com/
+  description: Acunetix lets you manage security risks associated with your web presence. It detects an extensive range of web vulnerabilities and helps you eliminate them. Acunetix uses unique technologies to discover issues that evade other tools. It can be integrated within your SDLC to provide comprehensive protection at all stages. Acunetix is the most established product of its class on the market. It is the tool of choice of many industry leaders including Fortune 500 companies.
+- member: true	
+  sponsor: 	
   name: Adobe	
   image: /assets/images/corp-member-logo/adobe.png	
   url: https://www.adobe.com	
@@ -191,6 +197,12 @@
   url: https://www.panasonic.com/	
   description: 100 years ago, Panasonic started with a desire to create things with value. Since then, the challenge has continued into various fields including home appliances to realize "A Better Life, A Better World".  Considering product security as part of quality management, we have strived to improve the security of products. Specific activities include threat analysis during the design process, and vulnerability testing before shipment. After shipment, Panasonic PSIRT- Product Security Incident Response Team works to respond to incidents toward a quick resolution. To provide products that our customers can use with peace of mind, we will continue product security initiatives.	
 - member: true	
+  sponsor: 
+  name: PwC	
+  image: /assets/images/corp-member-logo/pwc.jpg	
+  url: http://www.pwc.co.uk/cybersecurity
+  description: Our purpose is to build trust in society and solve important problems. In today's digital world that requires a focus on cyber security in order to build a secure digital society. We help clients across society to understand their cyber security risk; build and assure their defences; identify and respond to attacks, and to navigate the complex legal and regulatory environment for cyber security.
+- member: true	
   sponsor: 4	
   name: Qualys	
   image: /assets/images/corp-member-logo/qualys.png	
@@ -271,6 +283,12 @@
   description: SIG gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
 - member: true	
   sponsor: 	
+  name: Sqreen	
+  image: /assets/images/corp-member-logo/sqreen.png	
+  url: http://www.sqreen.com/
+  description: Sqreen is the application security platform for the modern enterprise. More than 800 organizations trust Sqreen to protect, observe and test their applications, APIs and microservices. As opposed to static pattern-based approaches, Sqreen analyses application execution logic in real time to deliver more robust security without compromising performance. This empowers security owners to easily extend protection and visibility across their entire application portfolio without requiring on-going maintenance and tuning.
+- member: true	
+  sponsor: 	
   name: StackHawk	
   image: /assets/images/corp-member-logo/stackhawk.png	
   url: https://www.stackhawk.com/	
@@ -293,6 +311,12 @@
   image: /assets/images/corp-member-logo/synopsys.png	
   url: https://www.synopsys.com/	
   description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.	
+- member: true	
+  sponsor: 	
+  name: Tala Security	
+  image: /assets/images/corp-member-logo/talasecurity.jpg    
+  url: http://www.talasecurity.io/
+  description: Tala protects modern websites and web applications across the full spectrum of client-side vulnerability.  No other solution offers similar breadth of security coverage.  Tala’s analysis engine evaluates over 50 unique indicators of a web page’s behavior to continuously monitor and detect anomalous activity within the server, the website supply chain, or malicious code executing at the user’s browser. This dynamic AI-driven analytics engine works in conjunction an automation engine that activates standards-based capabilities, like CSP, SRI and HSTS to protect against a wide range of app layer attacks like magecart, cross-site scripting, clickjacking, iframe injection, session-redirects, client-side malware, etc. 
 - member: true	
   sponsor: 	
   name: The Media Trust	
@@ -323,6 +347,12 @@
   image: /assets/images/corp-member-logo/veracode.png	
   url: https://www.veracode.com/	
   description: Veracode gives companies a comprehensive view of security defects so they can create secure software, and ensure the software they are buying or downloading is free of vulnerabilities. As a result, companies using Veracode are free to boldly innovate, explore, discover, and change the world.	
+- member: true	
+  sponsor: 	
+  name: Verimatrix	
+  image: /assets/images/corp-member-logo/verimatrix.jpg
+  url: https://www.verimatrix.com/ 	
+  description: Verimatrix is a trusted business partner providing software security and business intelligence solutions that protect content, devices, applications and communications across multiple markets. Many of the world’s largest service providers and leading innovators trust Verimatrix to protect systems that people depend on every day. 
 - member: false	
   sponsor: 4	
   name: Wallarm	
