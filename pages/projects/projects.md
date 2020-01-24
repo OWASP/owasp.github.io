@@ -45,19 +45,19 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign l_projects = site.data.projects | where:'level', '3' %}
         {% assign i_projects = site.data.projects | where:'level', '2' %}
         {% assign u_projects = site.data.projects | where:'level', '-1' %}
-        <h3>Flagship Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h3>
+        <h3>Flagship Projects <img src='https://owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h3>
         <ul>
         {% for project in fs_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
-        <h3>Lab Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h3>
+        <h3>Lab Projects <img src='https://owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h3>
         <ul>
         {% for project in l_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
-        <h3>Incubator Projects <img src='https://www2.owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h3>
+        <h3>Incubator Projects <img src='https://owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h3>
         <ul>
         {% for project in i_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
