@@ -18,6 +18,7 @@ To encourage focus and participation, we recommend that volunteers contribute to
 
 <ul>
 {% for comm in site.data.committees %}
-    <li><a href='{{ comm.url }}'>{{ comm.title }}</a></li>
+    {% assign href = comm.url | replace: 'www2.','' %}
+    <li><a href='{{ href }}'>{{ comm.title }}</a></li>
 {% endfor %}
 </ul>
