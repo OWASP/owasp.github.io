@@ -35,8 +35,8 @@ Examples of all these files can be found in
 
 * [Project-Chapter Example](https://github.com/owasp/www-projectchapter-example)
 * [OWASP ZAP](https://github.com/owasp/www-project-zap)
-* [OWASP MSTG](https://www2.owasp.org/www-project-mobile-security-testing-guide)
-* [OWASP London](https://www2.owasp.org/www-chapter-london)
+* [OWASP MSTG](https://owasp.org/www-project-mobile-security-testing-guide)
+* [OWASP London](https://owasp.org/www-chapter-london)
 
 
 The following screenshot depicts the website and what areas each of these files affect:
@@ -79,7 +79,7 @@ The info.md file contains the information that will be displayed below the OWASP
 
 * [https://github.com/owasp/www-project-zap](https://github.com/owasp/www-project-zap)
 * [https://github.com/owasp/www-chapter-london](https://github.com/owasp/www-chapter-london)
-* [https://www2.owasp.org/www-project-mobile-security-testing-guide](https://www2.owasp.org/www-project-mobile-security-testing-guide)
+* [https://owasp.org/www-project-mobile-security-testing-guide](https://owasp.org/www-project-mobile-security-testing-guide)
 
 ## TAB_[TABNAME].MD
 

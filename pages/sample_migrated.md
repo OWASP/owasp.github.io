@@ -14,7 +14,7 @@ permalink: /sample-migrated/
    </div>
 </section>
 
-Please visit our [Page Migration Guide](https://www2.owasp.org/migration) for more information about updating pages for the new website as well as examples of github markdown.
+Please visit our [Page Migration Guide](https://owasp.org/migration) for more information about updating pages for the new website as well as examples of github markdown.
 
 <p hidden>This is an example of a Project or Chapter Page.</p>
 

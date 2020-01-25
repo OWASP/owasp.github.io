@@ -10,7 +10,7 @@ permalink: /cancel/
 We are sorry to see that you had difficulty with the donation process.  Please try again.
 
 <div>
-  Returning to <a href="https://wwww2.owasp.org/">the main site</a> after <span id="countdown">10</span> seconds
+  Returning to <a href="https://owasp.org/">the main site</a> after <span id="countdown">10</span> seconds
 </div>
 <!-- JavaScript part -->
 <script type="text/javascript">
