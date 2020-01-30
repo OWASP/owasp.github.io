@@ -2,7 +2,7 @@
 
 layout: col-generic
 title: Contact Us
-permalink: /contact
+permalink: /contact/
 
 ---
 
