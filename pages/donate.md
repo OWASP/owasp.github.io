@@ -378,7 +378,7 @@ window.addEventListener('load', function () {
         return '&#163;';
       },
       showRestrictedOption: function () {
-        if (this.amount > 1000) {
+        if (this.amount >= 1000) {
           return true;
         }
         return false;
@@ -386,7 +386,7 @@ window.addEventListener('load', function () {
     },
     watch: {
       amount: function (newAmount) {
-        if (newAmount <= 1000) {
+        if (newAmount < 1000) {
           this.restricted = false;
         }
       }
