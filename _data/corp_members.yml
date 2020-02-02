@@ -22,7 +22,7 @@
   image: /assets/images/corp-member-logo/allstate.png	
   url: https://www.allstate.com	
   description: Allstate Corporation is the largest publicly held personal lines property and casualty insurer in America, serving more than 16 million households nationwide. Founded in 1931, Allstate has been dedicated to protecting our customers from life’s uncertainties and preparing them for the future for more than 85 years. As the needs of our customers evolve, so does our technology and security practices to ensure our customers remain in good hands.	
-- member: true	
+- member: false	
   sponsor: 4	
   name: Altitude Networks	
   image: /assets/images/corp-member-logo/altitude-networks.png	
@@ -58,7 +58,7 @@
   image: /assets/images/corp-member-logo/bugcrowd.png	
   url: https://www.bugcrowd.com	
   description: Bugcrowd is the world’s number one crowdsourced security company. Our award-winning platform combines actionable, contextual intelligence with the skill and experience of the world’s most trusted, skilled hackers to help leading organizations solve security challenges, protect customers, and make the digitally-connected world a safer place.	
-- member: 	
+- member: false 	
   sponsor: 4	
   name: CA, Inc.	
   image: /assets/images/corp-member-logo/ca-technologies.png  	
@@ -106,6 +106,12 @@
   image: /assets/images/corp-member-logo/Detectify.jpg
   url:  http://detectify.com/ 	
   description:  Detectify is a domain monitoring and web application security startup. We automate hacker attacks to help businesses stay on top of emerging threats and secure applications. Today, we collaborate with over 150 handpicked white-hat hackers to continually improve our modern test bed of 1500+ security tests from the cutting edge of security. Go Hack Yourself!
+- member: false	
+  sponsor: 4	
+  name: ExtraHop	
+  image: //assets/images/corp-member-logo/
+  url: http://www.extrahop.com  	
+  description:
 - member: true	
   sponsor:	
   name: GitLab
@@ -154,7 +160,7 @@
   image: /assets/images/corp-member-logo/kiuwan.png	
   url: https://www.kiuwan.com/	
   description: Kiuwan provides an end-to-end Software Analytics platform that offers objective data to make informed decisions to secure, analyze and control the entire SDLC of any application portfolio. With Kiuwan Code Security, the scope in threat mitigation is unparalleled, with over 4000+ custom rules, ability to suppress defects and create tailored action plans while meeting the most stringent industry standard requirements. In constant evolution, it boasts broad language support and integration with Jira, Jenkins, and Github to name but a few of the possibilities brought about by the platform.	
-- member: 	
+- member: false	
   sponsor: 4	
   name: Lyft	
   image: /assets/images/corp-member-logo/	
@@ -178,7 +184,7 @@
   image: /assets/images/corp-member-logo/netspi_owler_20171208_205822_original.png	
   url: http://www.netspi.com/	
   description: NetSPI is a privately held information-security consulting company founded in 2001. By using its consulting team's deep security knowledge and its CorrelatedVM vulnerability management & reporting solution, the company is a trusted advisor to large enterprises. NetSPI provides a range of assessment and advisory services designed to analyze and mitigate risks and ensure compliance with relevant regulations and industry standards. Clients include large financial services firms, retailers, healthcare organizations and technology companies.	
-- member: true	
+- member: false	
   sponsor: 4	
   name: NowSecure	
   image: /assets/images/corp-member-logo/nowsecure.png	
@@ -208,7 +214,7 @@
   image: /assets/images/corp-member-logo/pwc.jpg	
   url: http://www.pwc.co.uk/cybersecurity
   description: Our purpose is to build trust in society and solve important problems. In today's digital world that requires a focus on cyber security in order to build a secure digital society. We help clients across society to understand their cyber security risk; build and assure their defences; identify and respond to attacks, and to navigate the complex legal and regulatory environment for cyber security.
-- member: true	
+- member: false	
   sponsor: 4	
   name: Qualys	
   image: /assets/images/corp-member-logo/qualys.png	
@@ -220,7 +226,7 @@
   image: /assets/images/corp-member-logo/real-ware.png	
   url: https://www.real-ware.com
   description: Realware is a digital transformation solution provider that offers complete e-business solutions. Realware starts with expert strategy, realizes it in impactful design and functional solutions, and sustains growth with ongoing support and development. Our Custom SaaS deployment model allows our clients to take advantage of our functional and non-functional (security, performance, compliance) expertise. Realware has helped global enterprises achieve their international business goals for over 20 years. Brands from industries as diverse as telecommunications, health care, consumer products and financial services come to us (and come back) because of the continued value we deliver.
-- member: true	
+- member: false	
   sponsor: 4	
   name: RIPS Technologies	
   image: /assets/images/corp-member-logo/rips-tech.png	
@@ -371,13 +377,13 @@
   image: /assets/images/corp-member-logo/waratek.png	
   url: http://www.waratek.com/	
   description: "The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code."
-- member: true	
+- member: true
   sponsor: 	
   name: WhiteHat Security	
   image: /assets/images/corp-member-logo/white-hat-security.png	
   url: https://www.whitehatsec.com/	
   description: WhiteHat Security is the leader in application security, enabling businesses to protect critical data, ensure compliance, and manage risk. Through a combination of technology, over a decade of intelligence metrics, and the judgment of people, WhiteHat Security provides complete web security at a scale and accuracy unmatched in the industry.	
-- member: true	
+- member: false	
   sponsor: 4	
   name: WhiteSource Software	
   image: /assets/images/corp-member-logo/WhiteSource.png
