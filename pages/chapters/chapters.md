@@ -39,7 +39,7 @@ Chapter pages on this site have general information and leader contact info. Loc
             <ul>
             {% for chapter in site.data.chapters %}
                 {% if chapter.region == region %} 
-                    <li><a href='{{ chapter.url }}'>{{ chapter.name }}</a></li>
+                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
                 {% endif %}
             {% endfor %}
             </ul>

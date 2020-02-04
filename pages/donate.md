@@ -216,7 +216,7 @@ permalink: /donate/
       <h1>Donate to the OWASP Foundation</h1>
 
       <p>The Open Web Application Security Project (OWASP) is a nonprofit
-      foundation improving the security of software. Through community-led open
+      foundation that works to improve the security of software. Through community-led open
       source software projects and hundreds of local chapters worldwide, your gift* will support the Foundation and its many activities
       around the world to secure the web. Existing donors can <a href="/manage-membership">Modify Recurring Gifts</a>.</p>
 
@@ -378,7 +378,7 @@ window.addEventListener('load', function () {
         return '&#163;';
       },
       showRestrictedOption: function () {
-        if (this.amount > 1000) {
+        if (this.amount >= 1000) {
           return true;
         }
         return false;
@@ -386,7 +386,7 @@ window.addEventListener('load', function () {
     },
     watch: {
       amount: function (newAmount) {
-        if (newAmount <= 1000) {
+        if (newAmount < 1000) {
           this.restricted = false;
         }
       }
