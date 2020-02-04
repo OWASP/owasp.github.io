@@ -324,6 +324,10 @@ window.addEventListener('load', function () {
         this.membership_discount = false;
         this.$forceUpdate();
       }
+      if(queryParams.has('email')){
+        this.email = queryParams.get('email')
+        
+      }
     },
     computed: {
       membershipOptions: function () {
