@@ -936,6 +936,12 @@
         "group-type": "project"
     },
     {
+        "name": "Jon Gadsden",
+        "email": "mailto:jon.gadsden@owasp.org",
+        "group": "OWASP Threat Dragon",
+        "group-type": "project"
+    },
+    {
         "name": "Daniel Miessler",
         "email": "mailto:",
         "group": "OWASP Game Security Framework",
@@ -4624,5 +4630,11 @@
         "email": "mailto:humberto.junior@owasp.org",
         "group": "OWASP Paraíba (BR)",
         "group-type": "chapter"
+    },
+    {
+        "name": "@JamesCullum",
+        "email": "https://mailhide.io/e/Wno7k",
+        "group": "OWASP Single Sign-On",
+        "group-type": "project"
     }
 ]
