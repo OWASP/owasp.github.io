@@ -28,7 +28,7 @@ permalink: /membership-success/
   <li>And many others...</li>
 </ul>
 
-<p>Please note, if you elected to NOT join the OWASP Mailing List, you will not recieve our monthly newsletter or notices about upcoming events. To change this setting, pleast <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72">Contact Us</a>.  Unless you unsubcribe from our emails, you will receive notices about upcoming elections and renewal information about your membership.  </p>
+<p>Please note, if you elected to NOT join the OWASP Mailing List, you will not receive our monthly newsletter or notices about upcoming events. To change this setting, please <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72">Contact Us</a>.  Unless you unsubscribe from our emails, you will receive notices about upcoming elections and renewal information about your membership.  </p>
 
 </div>
       <aside class="sidebar" role="complementary">

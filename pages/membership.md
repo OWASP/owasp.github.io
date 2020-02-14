@@ -190,7 +190,7 @@ permalink: /membership/
 	<li>Priority access to Travel Grants</li>
 	<li>And many others...</li>
 	
-	<li> OWASP emails have a standard format firstname.lastname@owasp.org; email addresses are only vailid during membership and will be suspended 30 days after last day of membership if not renewed.</li>
+	<li> OWASP emails have a standard format firstname.lastname@owasp.org; email addresses are only valid during membership and will be suspended 30 days after last day of membership if not renewed.</li>
       </ul>
       <p>You can <a href="/manage-membership">Manage your Membership</a> to renew an existing plan or modify billing details. Looking to have your business become a <a href="/supporters">Corporate Member</a>? </p>
 
@@ -279,7 +279,7 @@ permalink: /membership/
 
       <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
-      <!-- end memberhip form -->
+      <!-- end membership form -->
 
       </div>
       <aside class="sidebar" role="complementary">

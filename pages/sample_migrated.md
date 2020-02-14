@@ -10,11 +10,11 @@ permalink: /sample-migrated/
 
 <section class="news-events">
    <div style="padding: 10px; padding-left: 15px; background-color: #ffd21c;">  
-    <p>Thank you for visiting OWASP.org. We recently migrated our community to a new web platform and regretably the content for this group needed to be programmatically ported from its previous wiki page. There’s still some work to be done. The historical content can be <a href="/migrated_content">found here</a>.</p>
+    <p>Thank you for visiting OWASP.org. We recently migrated our community to a new web platform and regrettably the content for this group needed to be programmatically ported from its previous wiki page. There’s still some work to be done. The historical content can be <a href="/migrated_content">found here</a>.</p>
    </div>
 </section>
 
-Please visit our [Page Migration Guide](https://owasp.org/migration) for more information about updating pages for the new website as well as examples of github markdown.
+Please visit our [Page Migration Guide](https://owasp.org/migration) for more information about updating pages for the new website as well as examples of GitHub markdown.
 
 <p hidden>This is an example of a Project or Chapter Page.</p>
 
