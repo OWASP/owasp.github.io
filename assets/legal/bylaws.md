@@ -293,7 +293,7 @@ SECTION 3.03 Regular Meetings text was expanded to clarify measurement &amp; vot
 If you have comments on this document please email **owasp[at]owasp.org**.
 
 ## Historical Versions
-Starting in March 2017, the OWASP ByLaws have been moved to a [https://github.com/OWASP-Foundation/Bylaws git repository] to track all future changes.  Prior to that transition, new PDF versions were created upon every update.  Those historical version are listed below.
+Starting in March 2017, the OWASP Bylaws have been moved to a [https://github.com/OWASP-Foundation/Bylaws git repository] to track all future changes.  Prior to that transition, new PDF versions were created upon every update.  Those historical version are listed below.
 * [[:File:OWASP-ByLaws-Unofficial 2017-03-07.pdf|March 7, 2017]]
 * [https://www.owasp.org/images/e/e1/OWASPByLawsOfficial-25Sept2015CLEAN.pdf September 25, 2015]
 * [https://www.owasp.org/images/4/46/OWASPByLawsOfficial-5May2015CLEAN.pdf May 5, 2015]

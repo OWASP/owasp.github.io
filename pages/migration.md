@@ -12,7 +12,7 @@ permalink: /migration/
 1. Re-think your page design. The new template has a handy right column for general info (like links to Chapter Meetings or Code Repos) and you leadership team. We have also implemented a tabbed interface that might allow you to shorten you page length. The site is now responsive so think about that use case as well.
 2. We had considered writing a migration tool but our experience has been that copy/paste/edit is about as fast. Wiki and Git markdown are similar so we have been using the Edit feature of the Wiki to copy the content, and then paste into the index.md file knowing you'll have some light editing. (You would have had to do some light editing even with a migration tool).
 3. Commit your Changes and Debug. Our expectation is your migration will likely take around 30 mins to a few hours. It is work, and it is a pain, but wow, the new website will be SO much better at encouraging new visitors to join our community and your chapter/project!
-4. **Bonus** If you scroll to the botton of the content area of (any) page of the new website you will see a "Edit on Github" link. So check out how others are building their page. Cheat and steal their good ideas.
+4. **Bonus** If you scroll to the bottom of the content area of (any) page of the new website you will see a "Edit on GitHub" link. So check out how others are building their page. Cheat and steal their good ideas.
 
 ## Ready to Get Started
 
@@ -43,7 +43,7 @@ The following screenshot depicts the website and what areas each of these files 
 
 ![Image of Website](/assets/images/zap_project_areas.png)
 
-Each file is a Github Flavored Markdown file and can be edited using markdown syntax, HTML syntax, or some combination of the two (though combining HTML and markdown has some pitfalls).  It is recommended that you use Markdown when making edits.  For more information about Markdown, see [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+Each file is a GitHub Flavored Markdown file and can be edited using markdown syntax, HTML syntax, or some combination of the two (though combining HTML and markdown has some pitfalls).  It is recommended that you use Markdown when making edits.  For more information about Markdown, see [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
 ## INDEX.MD
 
