@@ -2,3 +2,8 @@ remote_theme: "owasp/www--site-theme"
 plugins:
  - jekyll-include-cache-0.2.0
  - jekyll-remote-theme
+webrick:
+  headers:
+    X-XSS-Options: 1; mode=block
+    X-Frame-Options: SAMEORIGIN
+    X-Content-Type-Options: nosniff
