@@ -59,4 +59,4 @@ The OWASP Foundation audits their financials every three years. The next audit y
 - [Submit Invoices](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/12){:target='_blank'} for Chapter and Project expenses
 - [Request Reimbursments](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
 - General [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for ticketing
-- [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/1rN_bzfCJxaHOiEMhK4_PAYPbvlDZL5dcHviWvLlf1bw/edit?usp=sharing){:target='_blank'}
+- [Chapter and Project Transactions](https://docs.google.com/spreadsheets/d/1MLAHf274rhm_nBRs4Uy6vKO1MGV5YBdGvz02oIEdllE/edit?usp=sharing){:target='_blank'}
