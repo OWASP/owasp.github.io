@@ -19,10 +19,11 @@ permalink: /sample/
   <p><em>This is an italicized text.</em></p>
   <p><strong>This is a bold text.</strong></p>
   <blockquote>This is a quote.</blockquote>
-  <p><a href="#">This is a link.</a></p>
-  <p> [Link with empty target window](/www-policy/operational/donations){:target="_blank" rel="noopener"}</p>
   <p><s>This is a strikethrough text.</s></p>
+  <p><a href="#">This is a link.</a></p>
 
+  [Link with empty target window](/www-policy/operational/donations){:target="_blank" rel="noopener"}
+  
   <ol>
     <li>Ordered list item 1</li>
     <li>Ordered list item 2</li>
