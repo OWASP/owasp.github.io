@@ -320,7 +320,7 @@ permalink: /donate/
 
       <p class="legal-text">* Unless otherwise noted your gift to the OWASP Foundation, net credit card processing fees,
       is unrestricted and will be used at the sole discretion of the
-      organization to fulfill its mission and objectives. You do have the option
+      organization to fulfill its mission and objectives. Read more about our [Donation Policy](/www-policy/operational/donations). You do have the option
       to be listed as a Supporter of a Project or Chapter; however, this option
       does not restrict your gift in anyway whatsoever. The OWASP Foundation is
       a 501(c)3 therefore in some cases your gift may be tax-deductible and you
