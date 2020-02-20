@@ -20,9 +20,8 @@ permalink: /sample/
   <p><strong>This is a bold text.</strong></p>
   <blockquote>This is a quote.</blockquote>
   <p><a href="#">This is a link.</a></p>
-  <s>This is a strikethrough text.</s>
-  
-  [Link with empty target window](/www-policy/operational/donations){:target="_blank" rel="noopener"}
+  <p> [Link with empty target window](/www-policy/operational/donations){:target="_blank" rel="noopener"}</p>
+  <p><s>This is a strikethrough text.</s></p>
 
   <ol>
     <li>Ordered list item 1</li>
