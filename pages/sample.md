@@ -21,6 +21,8 @@ permalink: /sample/
   <blockquote>This is a quote.</blockquote>
   <p><a href="#">This is a link.</a></p>
   <s>This is a strikethrough text.</s>
+  
+  [Link with empty target window](/www-policy/operational/donations){:target="_blank" rel="noopener"}
 
   <ol>
     <li>Ordered list item 1</li>
