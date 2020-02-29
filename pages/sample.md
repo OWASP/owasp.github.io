@@ -46,18 +46,22 @@ permalink: /sample/
 
 <p>(Everything in this section requires the use of CSS classes.)</p>
 
-
+<ul>
+  <li>
 <button class="cta-button">This is a CTA button</button>
 
 <button class="cta-button dark">This is a dark CTA button</button>
 
 <button class="cta-button green">This is a green CTA button</button>
-
+</li>
+<li>
 <button class="cta-button grey">This is a grey CTA button</button>
 
 <button class="cta-button white">This is a white CTA button</button>
 
 <button class="cta-button red">This is a red CTA button</button>
+</li>
+</ul>
 
 <a class="callout-link">This is a stand alone full-block link component</a>
 
