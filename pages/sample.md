@@ -55,6 +55,9 @@ permalink: /sample/
 
 <button class="cta-button grey">This is a grey CTA button</button>
 
+<button class="cta-button white">This is a grey CTA button</button>
+
+<button class="cta-button red">This is a grey CTA button</button>
 
 <a class="callout-link">This is a stand alone full-block link component</a>
 
