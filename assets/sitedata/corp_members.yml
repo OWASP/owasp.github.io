@@ -103,7 +103,7 @@
 - member: true	
   sponsor: 4	
   name: Detectify AB	
-  image: /assets/images/corp-member-logo/Detectify.jpg
+  image: /assets/images/corp-member-logo/detectify.png
   url:  http://detectify.com/ 	
   description:  Detectify is a domain monitoring and web application security startup. We automate hacker attacks to help businesses stay on top of emerging threats and secure applications. Today, we collaborate with over 150 handpicked white-hat hackers to continually improve our modern test bed of 1500+ security tests from the cutting edge of security. Go Hack Yourself!
 - member: false	
@@ -122,7 +122,7 @@
   sponsor:	
   name: GoSecure	
   image: /assets/images/corp-member-logo/go_secure.png	
-  url: https://www.gosecure.net	
+  url: https://www.gosecure.net
   description: Founded in 2012, GoSecure has worked towards one simple goal – preventing breaches. Tactics change, technology adapts, security teams ebb and flow in size and budget, yet breaches still occur. As organizations adopt a “when, not if” approach towards breaches, many are looking for true help, not just another new technology. GoSecure Managed Detection and Response is the only MDR solution that combines visibility across all major attack vectors with industry leading threat intelligence and operational experience. It’s this unique combination that allows GoSecure MDR to detect breaches sooner and respond before data loss begins. Detection with Response the GoSecure way!
 - member: true	
   sponsor: 	
@@ -163,7 +163,7 @@
 - member: false	
   sponsor: 4	
   name: Lyft	
-  image: /assets/images/corp-member-logo/	lyft.png
+  image: /assets/images/corp-member-logo/lyft.png
   url: http://www.lyft.com/
   description: At Lyft, community is what we are and it’s what we do. It’s what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring. 
 - member: true	
@@ -208,6 +208,12 @@
   image: /assets/images/corp-member-logo/panasonic.png	
   url: https://www.panasonic.com/	
   description: 100 years ago, Panasonic started with a desire to create things with value. Since then, the challenge has continued into various fields including home appliances to realize "A Better Life, A Better World".  Considering product security as part of quality management, we have strived to improve the security of products. Specific activities include threat analysis during the design process, and vulnerability testing before shipment. After shipment, Panasonic PSIRT- Product Security Incident Response Team works to respond to incidents toward a quick resolution. To provide products that our customers can use with peace of mind, we will continue product security initiatives.	
+- member: true	
+  sponsor: 
+  name: PingAn	
+  image: /assets/images/corp-member-logo/pingan-technology.png
+  url: https://www.pingan.cn/en/index.shtml
+  description: Ping An Insurance known also as Ping An of China, full name Ping An Insurance Company of China, Ltd. is a Chinese holding conglomerate whose subsidiaries mainly deal with insurance, banking, and financial services. The company was founded in 1988 and has its headquarters in Shenzhen.
 - member: true	
   sponsor: 
   name: PwC	
@@ -360,7 +366,7 @@
   url: https://www.veracode.com/	
   description: Veracode gives companies a comprehensive view of security defects so they can create secure software, and ensure the software they are buying or downloading is free of vulnerabilities. As a result, companies using Veracode are free to boldly innovate, explore, discover, and change the world.	
 - member: true	
-  sponsor: 	
+  sponsor: 4 	
   name: Verimatrix	
   image: /assets/images/corp-member-logo/verimatrix.jpg
   url: https://www.verimatrix.com/ 	
