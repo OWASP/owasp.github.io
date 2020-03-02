@@ -228,12 +228,6 @@
         "group-type": "project"
     },
     {
-        "name": "Dennis Johnson",
-        "email": "mailto:dennis.johnson@owasp.org",
-        "group": "OWASP Top 10 Card Game",
-        "group-type": "project"
-    },
-    {
         "name": "Fatih Ã‡elik",
         "email": "mailto:",
         "group": "OWASP Vulnerable Web Application",
@@ -936,12 +930,6 @@
         "group-type": "project"
     },
     {
-        "name": "Jon Gadsden",
-        "email": "mailto:jon.gadsden@owasp.org",
-        "group": "OWASP Threat Dragon",
-        "group-type": "project"
-    },
-    {
         "name": "Daniel Miessler",
         "email": "mailto:",
         "group": "OWASP Game Security Framework",
@@ -1063,7 +1051,7 @@
     },
     {
         "name": "Aaron Weaver",
-        "email": "mailto:",
+        "email": "mailto:aaron.weaver2@gmail.com",
         "group": "OWASP Appsec Pipeline",
         "group-type": "project"
     },
@@ -1076,13 +1064,13 @@
     {
         "name": "Ricardo Iramar",
         "email": "mailto:ricardo.iramar@owasp.org",
-        "group": "OWASP Secure Headers",
+        "group": "OWASP Secure Headers Project",
         "group-type": "project"
     },
     {
         "name": "Alexandre Menezes",
         "email": "mailto:alexandre.fmenezes@owasp.org",
-        "group": "OWASP Secure Headers",
+        "group": "OWASP Secure Headers Project",
         "group-type": "project"
     },
     {
@@ -1950,6 +1938,12 @@
         "group-type": "chapter"
     },
     {
+        "name": "Pablo Barrera",
+        "email": "mailto:pablo.barrera@owasp.org",
+        "group": "OWASP Guatemala",
+        "group-type": "chapter"
+    },
+    {
         "name": "Amilcar De Leon",
         "email": "mailto:amilcar.deleon@owasp.org",
         "group": "OWASP Guatemala",
@@ -1958,12 +1952,6 @@
     {
         "name": "Camilo Fernandez",
         "email": "mailto:camilio.fernandez@owasp.org",
-        "group": "OWASP Guatemala",
-        "group-type": "chapter"
-    },
-    {
-        "name": "Pablo Barrera",
-        "email": "mailto:pablo.barrera@owasp.org",
         "group": "OWASP Guatemala",
         "group-type": "chapter"
     },
@@ -2184,8 +2172,8 @@
         "group-type": "chapter"
     },
     {
-        "name": "Tanmoy Khanra",
-        "email": "mailto:tanmoy.khanra@owasp.org",
+        "name": "Tuhin Roychowdhury",
+        "email": "mailto:tuhin.roychowdhury@live.com",
         "group": "OWASP Kolkata",
         "group-type": "chapter"
     },
@@ -2922,6 +2910,18 @@
         "group-type": "chapter"
     },
     {
+        "name": "Aryan Guenthner",
+        "email": "aryan.guenthner@owasp.org",
+        "group": "OWASP Los Angeles",
+        "group-type": "chapter"
+    },
+    {
+        "name": "Aneel Dadani",
+        "email": "aneel.dadani@owasp.org",
+        "group": "OWASP Los Angeles",
+        "group-type": "chapter"
+    },
+    {
         "name": "Richard Connor",
         "email": "mailto:richard.connor@owasp.org",
         "group": "OWASP Louisville",
@@ -2934,8 +2934,8 @@
         "group-type": "chapter"
     },
     {
-        "name": "Korger",
-        "email": "mailto:",
+        "name": "Jeremy Korger",
+        "email": "mailto:lance.rudolph@owasp.org",
         "group": "OWASP Madison",
         "group-type": "chapter"
     },
@@ -3103,19 +3103,19 @@
     },
     {
         "name": "Ralph Durkee",
-        "email": "mailto:ralph.durkee@owasp.org",
+        "email": "mailto://ralph.durkee@owasp.org",
         "group": "OWASP Rochester",
         "group-type": "chapter"
     },
     {
         "name": "John King",
-        "email": "mailto:john.king@owasp.org",
+        "email": "mailto://john.king@owasp.org",
         "group": "OWASP Rochester",
         "group-type": "chapter"
     },
     {
         "name": "Jim Keeler",
-        "email": "mailto:jim.keeler@owasp.org",
+        "email": "mailto://jim.keeler@owasp.org",
         "group": "OWASP Rochester",
         "group-type": "chapter"
     },
@@ -3864,8 +3864,8 @@
         "group-type": "chapter"
     },
     {
-        "name": "Pontus Thulin",
-        "email": "mailto:pontus.thulin@owasp.org",
+        "name": "Sebastian Akerman",
+        "email": "mailto:sebastian.akerman@owasp.org",
         "group": "OWASP Stockholm",
         "group-type": "chapter"
     },
@@ -4356,6 +4356,12 @@
         "group-type": "project"
     },
     {
+        "name": "Felipe Zipitria",
+        "email": "mailto:felipe.zipitria@owasp.org",
+        "group": "OWASP Honeypot",
+        "group-type": "project"
+    },
+    {
         "name": "Igor Bakalo",
         "email": "mailto:",
         "group": "OWASP Seeker",
@@ -4648,5 +4654,47 @@
         "email": "mailto:kashif.hassan@owasp.org",
         "group": "OWASP Karachi",
         "group-type": "chapter"
+    },
+    {
+        "name": "Emil Kvarnhammar",
+        "email": "mailto:emil.kvarnhammar@owasp.org",
+        "group": "OWASP Malmo",
+        "group-type": "chapter"
+    },
+    {
+        "name": "Akshay Gupta",
+        "email": "mailto:akshay.gupta@owasp.org",
+        "group": "OWASP Canberra",
+        "group-type": "chapter"
+    },
+    {
+        "name": "Mantas S.",
+        "email": "mailto:mantas.sanauskas@owasp.org",
+        "group": "OWASP Bournemouth University",
+        "group-type": "chapter"
+    },
+    {
+        "name": "Dalmo Manoel Veras Neto",
+        "email": "mailto:dalmo.veras@owasp.org",
+        "group": "OWASP Florianopolis",
+        "group-type": "chapter"
+    },
+    {
+        "name": "Doyle Turner",
+        "email": "mailto:doyle.turner@owasp.org",
+        "group": "OWASP Somerset",
+        "group-type": "chapter"
+    },
+    {
+        "name": "Avi Douglen",
+        "email": "mailto:avi.douglen@owasp.org",
+        "group": "OWASP OWASP Threat Model",
+        "group-type": "project"
+    },
+    {
+        "name": "Steven Wierckx",
+        "email": "mailto:steven.wierckx@owasp.org",
+        "group": "OWASP OWASP Threat Model",
+        "group-type": "project"
     }
 ]
