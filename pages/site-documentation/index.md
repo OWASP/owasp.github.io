@@ -47,4 +47,9 @@ web pages.
 [www-event-2020-GlobalAppSecSF](https://github.com/owasp/www-event-2020-GlobalAppSecSF)
 
 
+## Layouts
 
+The following are the layouts available under the OWASP Foundation Site Theme
+
+* **col-sidebar**: This is the most common layout and it is the expected layout for all projects, chapters, committees, and other pages when another layout is not specifically called for.  The layout includes a right-hand sidebar which attempts to load the info.md and leaders.md files located in the repository.
+* **col-generic**: 

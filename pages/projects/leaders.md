@@ -14,14 +14,13 @@ layout: col-sidebar
 </section>
 
 <script type='text/javascript'>
-  // var leaders = {{ allleaders }};
+  var leaders = {{ allleaders }};
   
  $(function() {
     alert('loaded');
  });
  
  $("#leaders-filter").keyup(function(e) {
-    alert(e.keyCode);
      var code = e.keyCode ? e.keyCode : e.which;
      if (code == 13) {  // Enter keycode
         alert('filter it');
