@@ -1,13 +1,17 @@
 ---
 
 title: Chapter Leaders
-layout: col-sidebar
+layout: col-generic
 permalink: /chapters/leaders/
 
 ---
 
 {% assign allleaders = site.data.leaders | where: 'group-type','chapter' %}
-<label for='leaders-filter'>Filter List</label><input type='text' id='leaders-filter'>
+<p>
+<div>
+<label for='leaders-filter'>Filter List:</label>
+<input type='text' id='leaders-filter'>
+</div>
 <section id='leaders-list'>
 <ul>
   {% for leader in allleaders %}
