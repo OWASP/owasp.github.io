@@ -1,12 +1,12 @@
 ---
 
-title: Project Leaders
+title: Chapter Leaders
 layout: col-sidebar
-permalink: /projects/leaders/
+permalink: /chapters/leaders/
 
 ---
 
-{% assign allleaders = site.data.leaders | where: 'group-type','project' %}
+{% assign allleaders = site.data.leaders | where: 'group-type','chapter' %}
 <label for='leaders-filter'>Filter List</label><input type='text' id='leaders-filter'>
 <section id='leaders-list'>
 <ul>
