@@ -13,6 +13,7 @@ Most answers you might have about the OWASP Foundation can be found by searching
 ### Frequently Asked Questions
 
 - How do I [Renew](/membership)  my OWASP Membership or [Manage Recurring](/manage-membership) Memberships?
+- Where do I sign up for an OWASP email address? Click on Contact Us button below.
 - Where do I update my [Recurring Donor Billing](/manage-membership) information?
 - How can Corporations [Sponsorships or Support](mailto:kelly.santalucia@owasp.com?subject=Corporate%20Sponsorships%20or%20Support) the OWASP Foundation?
 - [Project](/projects) leader contact info is listed on each Projects page under Leaders
