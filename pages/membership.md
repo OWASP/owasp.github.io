@@ -274,7 +274,7 @@ permalink: /membership/
           </div>
         </div>
         <div class="submit-container">
-          <button type="submit" class="membership-button" v-bind:disabled="loading">Join Now</button>
+          <button type="submit" class="membership-button" v-bind:disabled="loading">Submit</button>
         </div>
       </form>
 
