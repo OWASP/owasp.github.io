@@ -195,7 +195,7 @@ permalink: /membership/
       <p>You can <a href="/manage-membership">Manage your Membership</a> to check your renewal date or update billing details or cancel a recurring donation.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
-      <h2>Join Now</h2>
+      <h2>Join or Renew Now</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
