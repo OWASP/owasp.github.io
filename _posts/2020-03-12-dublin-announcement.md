@@ -3,7 +3,7 @@
 date:   2020-03-12
 categories: Events
 author: Emily Berman
-author_image: /assets/images/people/staff_emily.jpg
+author_image: /assets/images/people/covid19.jpg
 layout: blogpost
 title:  Global AppSec Dublin postponed to 2021
 excerpt_separator: <!--more-->
