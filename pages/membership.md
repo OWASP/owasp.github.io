@@ -192,9 +192,10 @@ permalink: /membership/
 	
 	<li> OWASP emails have a standard format firstname.lastname@owasp.org; email addresses are only valid during membership and will be suspended 30 days after last day of membership if not renewed.</li>
       </ul>
-      <p>You can <a href="/manage-membership">Manage your Membership</a> to renew an existing plan or modify billing details. Looking to have your business become a <a href="/supporters">Corporate Member</a>? </p>
+      <p>You can <a href="/manage-membership">Manage your Membership</a> to check your renewal date or update billing details or cancel a recurring donation.</p>
+      <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
-      <h2>Join Now</h2>
+      <h2>Join or Renew Now</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
@@ -273,7 +274,7 @@ permalink: /membership/
           </div>
         </div>
         <div class="submit-container">
-          <button type="submit" class="membership-button" v-bind:disabled="loading">Join Now</button>
+          <button type="submit" class="membership-button" v-bind:disabled="loading">Submit</button>
         </div>
       </form>
 

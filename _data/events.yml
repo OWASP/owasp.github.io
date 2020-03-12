@@ -1,27 +1,9 @@
-- name: Global AppSec Dublin
-  type: global
-  start-date: 2020-06-15
-  dates: June 15-19, 2020
-  url: https://dublin.globalappsec.org
-  optional-text: Registration Opens February 1, 2020
 - name: Global AppSec San Francisco
   type: global
   start-date: 2020-10-19
   dates: October 19-23, 2020
   url: https://sf.globalappsec.org
   optional-text: Registration Opens March 1, 2020
-- name: OWASP Seasides
-  type: local
-  start-date: 2020-03-03
-  dates: March 3-5, 2020
-  url: https://www.owaspseasides.com/
-  optional-text: Panjim Goa, India
-- name: SnowFROC 2020
-  type: local
-  start-date: 2020-03-05
-  dates: March 5, 2020
-  url: https://www.snowfroc.com/
-  optional-text: Denver, Colorado
 - name: AppSec Morocco & Africa 2020
   type: local
   start-date: 2020-06-04
@@ -34,9 +16,15 @@
   dates: October 29-30, 2020
   url: https://lascon.org/
   optional-text: Austin, TX USA
-- name: BlackHat Asia 2020 "New Date"
-  type: Global
+- name: BlackHat Asia 2020 (New Date)
+  type: partner
   start-date: 2020-09-29
   dates: Sept.29 - Oct 2, 2020
   url: https://www.blackhat.com/asia-20/
   optional-text: Singapore
+- name: Global AppSec Dublin
+  type: global
+  start-date: 2021-02-15
+  dates: February 15-19, 2021
+  url: https://dublin.globalappsec.org
+  optional-text: Registration Opens May 1, 2020

@@ -51,5 +51,12 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 
 Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing) for more information.
 
-#### BlackHat Asia
-This event has been postponed due to the coronavirus outbreak. It will likely be rescheduled for Fall 2020.
+{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'partner'" | sort: 'start-date' | limit: 100 %}
+{% for event in eventlist %}
+<h4>{{ event.name }}</h4>
+<ul>
+<li>{{ event.dates }}</li>
+{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
+<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+</ul>
+{% endfor %}
