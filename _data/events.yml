@@ -1,9 +1,3 @@
-- name: Global AppSec Dublin
-  type: global
-  start-date: 2020-06-15
-  dates: June 15-19, 2020
-  url: https://dublin.globalappsec.org
-  optional-text: Registration Opens February 1, 2020
 - name: Global AppSec San Francisco
   type: global
   start-date: 2020-10-19
@@ -28,4 +22,9 @@
   dates: Sept.29 - Oct 2, 2020
   url: https://www.blackhat.com/asia-20/
   optional-text: Singapore
-
+- name: Global AppSec Dublin
+  type: global
+  start-date: 2021-02-15
+  dates: February 15-19, 2021
+  url: https://dublin.globalappsec.org
+  optional-text: Registration Opens May 1, 2020
