@@ -15,7 +15,7 @@ permalink: /projects/leaders/
 <section id='leaders-list'>
 <ul>
   {% for leader in allleaders %}
-  <li><a href='{{ leader.email | replace: "mailto://", "mailto:" }}' target="_blank">{{ leader.name }}</a> : {{ leader.group }}</li>
+  <li><a href='{{ leader.email | replace: "mailto://", "mailto:" }}' target="_blank">{{ leader.name }}</a> : <a href='{{ leader.group_url }}'>{{ leader.group }}</a></li>
   {% endfor %}
 </ul>
 </section>
