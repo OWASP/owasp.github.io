@@ -16,4 +16,4 @@ Following recent developments within Ireland, throughout Europe, and worldwide r
 
 We take pride in offering a premier experience for our attendees and sponsors and we can no longer guarantee that event quality. Nor can we ethically put our community’s health and safety at risk. Therefore we have secured dates at the Convention Center Dublin to hold the Global AppSec Dublin on **February 15-19, 2021**.
 
-We are working on ways to still deliver value to the OWASP community in 2020. While we continue to monitor the situation, we are confident that the Global AppSec San Francisco *will still take place* October 19-23, 2020. Call for papers will be open March 23 and more details can be found at [Global AppSec San Franciscio](https://sf.globalappsec.org).
+We are working on ways to still deliver value to the OWASP community in 2020. While we continue to monitor the situation, we are confident that the Global AppSec San Francisco *will still take place* October 19-23, 2020. Call for papers will be open March 23 and more details can be found at [Global AppSec San Francisco](https://sf.globalappsec.org).
