@@ -43,7 +43,7 @@ permalink: /projects/leaders/
           }
          var html = "<ul>";
          for(i = 0; i < fleaders.length; i++){
-            html += "<li><a href='" + fleaders[i].email + "' target=\"_blank\">" + fleaders[i].name + "</a>:" + fleaders[i].group + "</li>";
+            html += "<li><a href='" + fleaders[i].email + "' target=\"_blank\">" + fleaders[i].name + "</a>:<a href='" + fleaders[i].group_url + "</a>" + fleaders[i].group + "</li>";
          }
          html += "</ul>";
          $('#leaders-list').html(html);
