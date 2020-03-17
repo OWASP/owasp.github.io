@@ -6,9 +6,6 @@ permalink: /sample/
 
 ---
 
-https://owasp.org
-http://owasp.org
-
 <div>
   <p style="font-size: 40px; background-color: whitesmoke;">Content tags</p>
   
