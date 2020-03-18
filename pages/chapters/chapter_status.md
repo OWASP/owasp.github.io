@@ -19,7 +19,7 @@ permalink: /chapters/status/
     {% assign cmonth = chapter.created | date: "%b" %}
     {% assign cyear = cyear | plus: 0 %}
     {% assign cmonth = cmonth | plus: 0 %}
-    {% if cyear == year and cmonth == month %} 
+    {% if (cyear == year and month - cumonth < 2) or (cyear == year -1 and cmonth == 12) %} 
         <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
     {% endif %}
 {% endfor %}
@@ -29,13 +29,19 @@ permalink: /chapters/status/
 ### Recently Updated Chapters
 <ul>
 {% for chapter in site.data.chapters %}
+    {% assign cyear = chapter.created | date: "%Y" %}
+    {% assign cmonth = chapter.created | date: "%b" %}
+    {% assign cyear = cyear | plus: 0 %}
+    {% assign cmonth = cmonth | plus: 0 %}
     {% assign cuyear = chapter.updated | date: "%Y" %}
     {% assign cumonth = chapter.updated | date: "%b" %}
     {% assign cuyear = cuyear | plus: 0 %}
     {% assign cumonth = cumonth | plus: 0 %}
-    {% if cuyear == year and cumonth == month %}
-       {% unless chapter.region contains 'Website Update' %}
-        <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+    {% if (cuyear == year and month - cumonth < 2) or (cuyear == year -1 and cumonth == 12) %}
+       {% unless (cyear == year and cmonth == month) or (cyear == year -1 and cmonth == 12) %}
+           {% unless chapter.region contains 'Website Update' %}
+            <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+           {% endunless %}
        {% endunless %}
     {% endif %}
 {% endfor %}
