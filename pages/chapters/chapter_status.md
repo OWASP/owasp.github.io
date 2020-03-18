@@ -7,7 +7,7 @@ permalink: /chapters/status/
 ---
 
 ----
-### New Chapters
+### New Chapters (updated within last 60 days)
 {% assign year = "today" | date: "%Y" %}
 {% assign month = "today" | date: "%b" %}
 {% assign year = year | plus: 0 %}
@@ -26,7 +26,7 @@ permalink: /chapters/status/
 </ul>
 
 ----
-### Recently Updated Chapters
+### Recently Updated Chapters (updated page within last 60 days)
 <ul>
 {% for chapter in site.data.chapters %}
     {% assign cyear = chapter.created | date: "%Y" %}
@@ -48,7 +48,7 @@ permalink: /chapters/status/
 </ul>
 
 ----
-### Needs Website Update
+### Needs Website Update (has not been updated to remove default info)
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.region contains 'Website Update' %} 
