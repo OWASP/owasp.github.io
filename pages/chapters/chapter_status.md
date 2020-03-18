@@ -29,8 +29,8 @@ permalink: /chapters/status/
 ### Recently Updated Chapters
 <ul>
 {% for chapter in site.data.chapters %}
-    {% assign cyear = chapter.updated | date: "%Y" %}
-    {% assign cmonth = chapter.updated | date: "%b" %}
+    {% assign cuyear = chapter.updated | date: "%Y" %}
+    {% assign cumonth = chapter.updated | date: "%b" %}
     {% assign cuyear = cuyear | plus: 0 %}
     {% assign cumonth = cumonth | plus: 0 %}
     {% if cuyear == year and cumonth == month %} 
