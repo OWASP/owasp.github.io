@@ -33,7 +33,7 @@ permalink: /chapters/status/
     {% assign cumonth = chapter.updated | date: "%b" %}
     {% assign cuyear = cuyear | plus: 0 %}
     {% assign cumonth = cumonth | plus: 0 %}
-    {% if cuyear == year and cumonth == month %} 
+    {% if cuyear == year and cumonth == month and unless chapter.region contains 'Website Update' %} 
         <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
     {% endif %}
 {% endfor %}
