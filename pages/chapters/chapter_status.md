@@ -6,6 +6,7 @@ permalink: /chapters/status/
 
 ---
 
+----
 ### New Chapters
 {% assign year = "today" | date: "%Y" %}
 {% assign month = "today" | date: "%b" %}
@@ -24,9 +25,21 @@ permalink: /chapters/status/
 {% endfor %}
 </ul>
 
+----
 ### Recently Updated Chapters
+<ul>
+{% for chapter in site.data.chapters %}
+    {% assign cyear = chapter.updated | date: "%Y" %}
+    {% assign cmonth = chapter.updated | date: "%b" %}
+    {% assign cuyear = cuyear | plus: 0 %}
+    {% assign cumonth = cumonth | plus: 0 %}
+    {% if cuyear == year and cumonth == month %} 
+        <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
 
-
+----
 ### Needs Website Update
 <ul>
 {% for chapter in site.data.chapters %}
