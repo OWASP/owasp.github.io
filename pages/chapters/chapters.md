@@ -38,8 +38,10 @@ Chapter pages on this site have general information and leader contact info. Loc
             <h4><a name="{{ region | remove: " " }}"></a>{{ region }}</h4>
             <ul>
             {% for chapter in site.data.chapters %}
-                {% if chapter.region == region %} 
-                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                {% if chapter.region == region %}
+                    {% unless chapter.region conains 'Website Update' %}
+                       <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                    {% endunless %}
                 {% endif %}
             {% endfor %}
             </ul>
