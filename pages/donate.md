@@ -1,7 +1,7 @@
 ---
 
 layout: full-width
-title: Donate
+title: Donate to Open Source Security Projects
 permalink: /donate/
 
 ---
