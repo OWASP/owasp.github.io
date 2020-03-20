@@ -1,7 +1,7 @@
 ---
 
 layout: full-width
-title: OWASP Membership
+title: OWASP Membership Information & Benefits
 permalink: /membership/
 
 ---
