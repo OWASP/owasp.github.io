@@ -1,6 +1,6 @@
 ---
 
-title: Covid-19 Google Meet for Meetings
+title: COVID-19 Google Meet for Meetings
 layout: col-sidebar
 permalink: /remote-meetings/
 
