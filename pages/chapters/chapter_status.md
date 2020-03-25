@@ -7,7 +7,7 @@ permalink: /chapters/status/
 ---
 
 ----
-### New Chapters (updated within last 60 days)
+### New Chapters (created within last 60 days)
 {% assign year = "today" | date: "%Y" %}
 {% assign month = "today" | date: "%b" %}
 {% assign year = year | plus: 0 %}
