@@ -40,7 +40,9 @@ Chapter pages on this site have general information and leader contact info. Loc
             <ul>
             {% for chapter in site.data.chapters %}
                 {% if chapter.region == region %}
-                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                    {% assign leaders = site.data.leaders | where: 'group', chapter.title %}
+                    {% capture leader_emails %}{% for leader in leaders %} {% assign email = leader.email | replace: 'mailto:','' | replace: '//', ''%}{{ email }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a><a href='mailto:{{ leader_emails }}' style='padding-left:1em;' title='Mail the leaders'><i class="fa fa-envelope" style='color:lightblue;'></i></a></li>
                 {% endif %}
             {% endfor %}
             </ul>
