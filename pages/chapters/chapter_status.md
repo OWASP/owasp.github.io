@@ -19,7 +19,11 @@ permalink: /chapters/status/
     {% assign cmonth = chapter.created | date: "%b" %}
     {% assign cyear = cyear | plus: 0 %}
     {% assign cmonth = cmonth | plus: 0 %}
-    {% if (cyear == year and month - cumonth < 2) or (cyear == year -1 and cmonth == 12) %} 
+    {% assign testmonth = cmonth | minus: month %}
+    {% assign testyear = year | minus: 1 %}
+    {% if cyear == year and testmonth  < 2 %} 
+        <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+    {% elsif cyear == testyear and cmonth >= 11 %}
         <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
     {% endif %}
 {% endfor %}
@@ -37,12 +41,24 @@ permalink: /chapters/status/
     {% assign cumonth = chapter.updated | date: "%b" %}
     {% assign cuyear = cuyear | plus: 0 %}
     {% assign cumonth = cumonth | plus: 0 %}
-    {% if (cuyear == year and month - cumonth < 2) or (cuyear == year -1 and cumonth == 12) %}
-       {% unless (cyear == year and cmonth == month) or (cyear == year -1 and cmonth == 12) %}
-           {% unless chapter.region contains 'Website Update' %}
-            <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
-           {% endunless %}
+    {% assign testmonth = cumonth | minus: month %}
+    {% assign testyear = cuyear | minus: 1 %}
+    {% if cuyear == year and testmonth < 2 %}
+       {% unless cyear == year and cmonth == month %}
+            {% unless  cyear == testyear and cmonth >= 11 %}
+                {% unless chapter.region contains 'Website Update' %}
+                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                {% endunless %}
+            {% endunless %}
        {% endunless %}
+    {% elsif cuyear == testyear and cumonth >= 11  %}
+        {% unless cyear == year and cmonth == month %}
+            {% unless  cyear == testyear and cmonth >= 11 %}
+                {% unless chapter.region contains 'Website Update' %}
+                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                {% endunless %}
+            {% endunless %}
+        {% endunless %}
     {% endif %}
 {% endfor %}
 </ul>
