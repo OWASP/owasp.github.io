@@ -393,14 +393,14 @@
     },
     {
         "name": "Erez Yalon",
-        "email": "https://www.owasp.org/index.php/User:ErezYalon",
+        "email": "mailto:erez.yalon@owasp.org",
         "group": "OWASP API Security Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-api-security/"
     },
     {
         "name": "Inon Shkedy",
-        "email": "https://www.owasp.org/index.php/User:Inon",
+        "email": "mailto:inon.shkedy@owasp.org",
         "group": "OWASP API Security Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-api-security/"
@@ -4095,15 +4095,8 @@
         "group_url": "https://owasp.org/www-chapter-lviv/"
     },
     {
-        "name": "Ben Fountain",
-        "email": "mailto:",
-        "group": "OWASP Manchester",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-manchester/"
-    },
-    {
         "name": "Daniel Pollard",
-        "email": "mailto:",
+        "email": "mailto:daniel.pollard@owasp.org",
         "group": "OWASP Manchester",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-manchester/"
@@ -5297,5 +5290,54 @@
         "group": "OWASP Thick Client Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-thick-client-top-10/"
+    },
+    {
+        "name": "Karan Preet Singh Sasan",
+        "email": "mailto:preetkaran20@gmail.com",
+        "group": "OWASP VulnerableApp",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerableapp/"
+    },
+    {
+        "name": "Spyros Gasteratos",
+        "email": "mailto:spyros.gasteratos@owasp.org",
+        "group": "OWASP Outreach",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-outreach/"
+    },
+    {
+        "name": "Azzeddine Ramrami",
+        "email": "mailto:azzeddine.ramrami@owasp.org",
+        "group": "OWASP Outreach",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-outreach/"
+    },
+    {
+        "name": "Antonis Manara",
+        "email": "mailto:antonis.manaras@owasp.org",
+        "group": "OWASP Outreach",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-outreach/"
+    },
+    {
+        "name": "Haral Tsitsivas",
+        "email": "mailto:haral.tsitsivas@owasp.org",
+        "group": "OWASP Outreach",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-outreach/"
+    },
+    {
+        "name": "Sam Stepanyan",
+        "email": "mailto:sam.stepanyan@owasp.org",
+        "group": "OWASP Outreach",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-outreach/"
+    },
+    {
+        "name": "Zoe Braiterman",
+        "email": "mailto:zoe.braiterman@owasp.org",
+        "group": "OWASP Outreach",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-outreach/"
     }
 ]
