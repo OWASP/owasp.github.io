@@ -1,7 +1,7 @@
 ---
 
 title: Project Leaders
-layout: col-generic
+layout: col-sidebar
 permalink: /projects/leaders/
 
 ---

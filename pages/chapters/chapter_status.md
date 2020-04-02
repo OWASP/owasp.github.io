@@ -1,7 +1,7 @@
 ---
 
 title: Chapter Status
-layout: col-generic
+layout: col-sidebar
 permalink: /chapters/status/
 
 ---
