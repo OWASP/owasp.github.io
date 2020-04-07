@@ -25,7 +25,7 @@ The goal of the Program Team is to:
 
 In return for their efforts the Program Team volunteers OWASP will provide travel and accommodation to Global AppSec for which they volunteered. In this new design, the OWASP staff will manage the logistical duties such as venue selection, speaker communication, and all other conference related activities.
 
-The application to participate can be found here: [https://www.globalappsec.org/forms/team_application](https://www.globalappsec.org/forms/team_application)
+The application to participate can be found here: [https://www.globalappsec.org/forms/team_application](https://www.globalappsec.org/forms/team_application){:target='_blank' rel='noopener'}
 
 ```
 Applications for Dublin will be accepted until December 31, 2019

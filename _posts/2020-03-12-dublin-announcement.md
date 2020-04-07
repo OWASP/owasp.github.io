@@ -16,4 +16,4 @@ We take pride in offering a premier experience for our attendees and sponsors an
 
 <!--more-->
 
-We are working on ways to still deliver value to the OWASP community in 2020. While we continue to monitor the situation, we are confident that the Global AppSec San Francisco *will still take place* October 19-23, 2020. Call for papers will be open March 23 and more details can be found at [Global AppSec San Francisco](https://sf.globalappsec.org).
+We are working on ways to still deliver value to the OWASP community in 2020. While we continue to monitor the situation, we are confident that the Global AppSec San Francisco *will still take place* October 19-23, 2020. Call for papers will be open March 23 and more details can be found at [Global AppSec San Francisco](https://sf.globalappsec.org){:target='_blank' rel='noopener'}.

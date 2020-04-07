@@ -56,7 +56,7 @@ If you're looking to simply exhibit at one of our conferences, you can also supp
 <ul>
 {% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'global'" | sort: 'start-date' | limit: 100 %}
 {% for event in eventlist %}
-<li><a href='{{ event.url }}' target='_blank'>{{ event.name }}</a>, {{ event.dates }}. {% if event.optional-text %}{{ event.optional-text }}{% endif %}</li>
+<li><a href='{{ event.url }}' target='_blank' rel='noopener'>{{ event.name }}</a>, {{ event.dates }}. {% if event.optional-text %}{{ event.optional-text }}{% endif %}</li>
 {% endfor %}
 </ul>
 
@@ -64,7 +64,7 @@ If you're looking to simply exhibit at one of our conferences, you can also supp
 <ul>
 {% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'local'" | sort: 'start-date' | limit: 100 %}
 {% for event in eventlist %}
-<li><a href='{{ event.url }}' target='_blank'>{{ event.name }}</a>, {{ event.dates }}. {% if event.optional-text %}{{ event.optional-text }}{% endif %}</li>
+<li><a href='{{ event.url }}' target='_blank' rel='noopener'>{{ event.name }}</a>, {{ event.dates }}. {% if event.optional-text %}{{ event.optional-text }}{% endif %}</li>
 {% endfor %}
 </ul>
 

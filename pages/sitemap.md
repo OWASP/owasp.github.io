@@ -34,8 +34,8 @@ permalink: /sitemap/
   <li><a href="/events/">OWASP Global Events</a></li>
   <li><a href="/events/#regionalevents">Regional Events</a></li>
   <li><a href="/events/#globalpartnerevents">Global Partner Events</a></li>
-  <li><a href="https://dublin.globalappsec.org" target="_blank">Global AppSec Dublin</a></li>
-  <li><a href="https://sf.globalappsec.org" target="_blank">Global AppSec San Francisco</a></li>
+  <li><a href="https://dublin.globalappsec.org" target="_blank" rel="noopener">Global AppSec Dublin</a></li>
+  <li><a href="https://sf.globalappsec.org" target="_blank" rel="noopener">Global AppSec San Francisco</a></li>
 </ul> 
 
 <ul>

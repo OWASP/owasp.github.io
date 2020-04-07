@@ -27,7 +27,7 @@ Our premier events with up to three days of training followed by a two day confe
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-<li><a href='{{ event.url }}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+<li><a href='{{ event.url }}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank' rel='noopener'>{{ event.url }}</a></li>
 </ul>
 {% endfor %}
 
@@ -42,7 +42,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank' rel='noopener'>{{ event.url }}</a></li>
 </ul>
 {% endfor %}
 
@@ -57,6 +57,6 @@ Throughout the year, the OWASP Foundation partners with major AppSec conferences
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank' rel='noopener'>{{ event.url }}</a></li>
 </ul>
 {% endfor %}
