@@ -7,7 +7,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud
 
 ---
 
-<!-- Rebuild Site Tag 117 -->
+<!-- Rebuild Site Tag 118 -->
 
 <div class="homepage-promo">
   <img src="/assets/images/content/ams-preso-new.png" alt="Presentation at Global AppSec AMS">
