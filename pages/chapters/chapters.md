@@ -22,7 +22,9 @@ Chapter pages on this site have general information and leader contact info. Loc
 {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
 <ul>
     {% for region in regions %}
+    {% unless region contains 'Needs Website' %}
     <li><a href='#{{ region | remove: " " }}'>{{ region }}</a></li>
+    {% endunless %}
     {% endfor %}
 </ul>
 
