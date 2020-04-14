@@ -18,6 +18,12 @@ Principals only, applications are only considered when submitted to the links be
 
 ## Current Searches
 
+### Community Manager
+
+The Community Manager will actively manage and engage our on and offline communities to build global awareness for our mission and work. Each year millions of visitors find useful tools and technical guidance on our website and we aim to convert that interest into active members of our community.
+
+Reporting to the Exeuctive Director, successful candidates will be outgoing with a take-charge attitude and healthy level of "hustle", who will engage with, nurture, and leverage our community connections. This role will be the voice of the Foundation managing communications in various online communities and social networks, while connecting with our current and prospective supporters, leaders, and Members in the global AppSec market. Our community is composed of highly skilled software developers so strong technical skills relating to similar audiences is required. Salary commensurate with experience with published range of $40,000 - $60,000 per year. [Apply Now](https://owasp.wufoo.com/forms/employment-application/def/field18=Community%20Manager){:target='_blank'}
+
 ### Marketing Manager
 
 The Marketing Manager will lead and grow global awareness for our mission, work product, and organization. Each year millions of visitors find useful tools and technical guidance on our website and we aim to convert that interest into active members of our community.
