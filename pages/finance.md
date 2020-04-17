@@ -17,7 +17,7 @@ Copy about our transparency. Copy about % of funds directly to programs.
 
 ## Annual Budgets
 
-- [2020 Proposed - Online soon](){:target='_blank'}
+- [2020](/www-staff/budget/2020){:target='_blank'}
 - [2019](/assets/financial/2019_OWASP_Budget.pdf){:target='_blank'}
 - [2018](/assets/financial/2018_OWASP_Budget.pdf){:target='_blank'}
 
