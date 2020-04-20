@@ -22,7 +22,7 @@ permalink: /projects/leaders/
       {% endif %}
       {% assign group = leader.group %}
       {% assign leaders = site.data.leaders | where: 'group', leader.group %}
-      {% capture leader_emails %}{% for leader in leaders %} {% assign email = leader.email | replace: 'mailto:','' | replace: '//', '' | replace '\\', ''%}{{ email }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+      {% capture leader_emails %}{% for leader in leaders %} {% assign email = leader.email | replace: 'mailto:','' | replace: '//', '' | replace: '\\', ''%}{{ email }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
       <li><a href="{{leader.group_url}}">{{group}}</a><a href='mailto:{{leader_emails | strip}}' style='padding-left:1em;' title='Mail the leaders'><i class="fa fa-envelope" style='color:lightblue;'></i></a></li>
       <ul>
     {% endif %}
