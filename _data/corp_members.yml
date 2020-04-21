@@ -106,6 +106,12 @@
   image: /assets/images/corp-member-logo/detectify.png
   url:  https://detectify.com/ 	
   description:  Detectify is a domain monitoring and web application security startup. We automate hacker attacks to help businesses stay on top of emerging threats and secure applications. Today, we collaborate with over 150 handpicked white-hat hackers to continually improve our modern test bed of 1500+ security tests from the cutting edge of security. Go Hack Yourself!
+- member: false 	
+  sponsor: 	
+  name: DevSecOps Academy 	
+  image: /assets/images/corp-member-logo/devsecopsacad.png
+  url:  http://www.devsecops-academy.com/
+  description: The DevSecOps Academy is an online hands-on DevSecOps training platform powered by the security community worldwide. The courses show ‘good’ and ‘best’ practices, delivered by the DevSecOps Academy team as well as in collaboration with a fast-growing ecosystem of security experts and enthusiasts around the globe. Topics that are taught at the Academy include; container security, secrets management, SAST, DAST, cloud security and much more!
 - member: false	
   sponsor: 4	
   name: ExtraHop	
