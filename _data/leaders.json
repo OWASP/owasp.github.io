@@ -532,15 +532,22 @@
         "group_url": "https://owasp.org/www-project-application-security-verification-standard/"
     },
     {
-        "name": "Neil Smithline",
-        "email": "mailto:neil.smithline@owasp.org",
+        "name": "Andrew van der Stock",
+        "email": "mailto:vanderaj@owasp.org",
         "group": "OWASP Top Ten",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-ten/"
     },
     {
-        "name": "Andrew van der Stock",
-        "email": "mailto:vanderaj@owasp.org",
+        "name": "Brian Glas",
+        "email": "mailto:",
+        "group": "OWASP Top Ten",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-ten/"
+    },
+    {
+        "name": "Neil Smithline",
+        "email": "mailto:neil.smithline@owasp.org",
         "group": "OWASP Top Ten",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-ten/"
@@ -2065,6 +2072,20 @@
         "group_url": "https://owasp.org/www-chapter-trinidad-and-tobago/"
     },
     {
+        "name": "Aldo Salas",
+        "email": "mailto:aldo.salas@owasp.org",
+        "group": "OWASP Aguascalientes Mexico",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-aguascalientes-mexico/"
+    },
+    {
+        "name": "Juan Gama",
+        "email": "mailto:juan.gama@owasp.org",
+        "group": "OWASP Aguascalientes Mexico",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-aguascalientes-mexico/"
+    },
+    {
         "name": "Alejandro Federico Iacobelli",
         "email": "mailto:alejandro.iacobelli@owasp.org",
         "group": "OWASP Argentina",
@@ -2473,13 +2494,6 @@
     {
         "name": "Sonomi Takahashi",
         "email": "mailto:sonomin@owasp.org",
-        "group": "OWASP Sendai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sendai/"
-    },
-    {
-        "name": "Nozomi Yamada",
-        "email": "mailto:nozomi.yamada@owasp.org",
         "group": "OWASP Sendai",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sendai/"
