@@ -3773,20 +3773,6 @@
         "group_url": "https://owasp.org/www-chapter-pune/"
     },
     {
-        "name": "Vijay S",
-        "email": "mailto:vijay.s@owasp.org",
-        "group": "OWASP Vellore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-vellore/"
-    },
-    {
-        "name": "KR. Shankara Narayanan",
-        "email": "mailto:kr.narayanan@owasp.org",
-        "group": "OWASP Vellore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-vellore/"
-    },
-    {
         "name": "Tushar Kulkarni",
         "email": "mailto:tushar.kulkarni@owasp.org",
         "group": "OWASP Nagpur",
@@ -5153,7 +5139,7 @@
     },
     {
         "name": "Minhaz A V",
-        "email": "mailto://minhaz@owasp.org",
+        "email": "https://minhazav.dev",
         "group": "OWASP CSRFProtector Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-csrfprotector/"
