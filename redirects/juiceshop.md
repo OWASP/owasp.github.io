@@ -1,7 +1,8 @@
 ---
 
 title: Juice Shop Redirect
-permalink:
+permalink: /juice-shop
+redirect_from:
   - /juice-shop
   - /juiceshop
   - /juice-box
