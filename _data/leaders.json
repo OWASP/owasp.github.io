@@ -120,7 +120,7 @@
     },
     {
         "name": "Ahmed Fouda",
-        "email": "mailto:",
+        "email": "mailto:ahmed.fouda@owasp.org",
         "group": "OWASP Information Security Metrics Bank",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-information-security-metrics-bank/"
@@ -1883,7 +1883,7 @@
         "group_url": "https://owasp.org/www-chapter-cape-town/"
     },
     {
-        "name": "Fahad Alqallaf",
+        "name": "Fahad AlQallaf",
         "email": "mailto:fahad.alqallaf@owasp.org",
         "group": "OWASP Kuwait City",
         "group-type": "chapter",
@@ -2289,20 +2289,6 @@
         "group_url": "https://owasp.org/www-chapter-panama-city/"
     },
     {
-        "name": "Mauricio Urizar",
-        "email": "mailto:mauricio.urizar@gmail.com",
-        "group": "OWASP Peru",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-peru/"
-    },
-    {
-        "name": "John Vargas",
-        "email": "mailto:john.vargas@owasp.org",
-        "group": "OWASP Peru",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-peru/"
-    },
-    {
         "name": "Carlo Marcelo Revoredo da Silva",
         "email": "mailto:marcelo.revoredo@owasp.org",
         "group": "OWASP Recife",
@@ -2462,6 +2448,20 @@
         "group": "OWASP Hong Kong",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-hong-kong/"
+    },
+    {
+        "name": "Riotaro OKADA",
+        "email": "mailto:riotaro@owasp.org",
+        "group": "OWASP Japan",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-japan/"
+    },
+    {
+        "name": "Sen UENO",
+        "email": "mailto:sen.ueno@owasp.org",
+        "group": "OWASP Japan",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-japan/"
     },
     {
         "name": "Jitendra Adhikari",
@@ -3446,6 +3446,20 @@
     {
         "name": "Michael Born",
         "email": "mailto:michael.born@owasp.org",
+        "group": "OWASP Omaha",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-omaha/"
+    },
+    {
+        "name": "John Rogers",
+        "email": "mailto:john.rogers@owasp.org",
+        "group": "OWASP Omaha",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-omaha/"
+    },
+    {
+        "name": "Dave Pinos",
+        "email": "mailto:dave.pinos@owasp.org",
         "group": "OWASP Omaha",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-omaha/"
@@ -5416,5 +5430,12 @@
         "group": "OWASP Outreach Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-outreach/"
+    },
+    {
+        "name": "Jacobi Avariento",
+        "email": "mailto:jacobo.avariento@owasp.org",
+        "group": "OWASP Barcelona",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-barcelona/"
     }
 ]
