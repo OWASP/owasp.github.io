@@ -1799,6 +1799,27 @@
         "group_url": "https://owasp.org/www-chapter-ghana/"
     },
     {
+        "name": "Azzeddine RAMRAMI",
+        "email": "mailto://azzeddine.ramrami@owasp.org",
+        "group": "OWASP Morocco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-morocco/"
+    },
+    {
+        "name": "Tarik ELAOUADI",
+        "email": "mailto://tarik.elaouadi@owasp.org",
+        "group": "OWASP Morocco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-morocco/"
+    },
+    {
+        "name": "Alaeddine MESBAHI",
+        "email": "mailto://alaeddine.mesbahi@owasp.org",
+        "group": "OWASP Morocco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-morocco/"
+    },
+    {
         "name": "TK Matima",
         "email": "mailto:tk.matima@owasp.org",
         "group": "OWASP Johannesburg",
@@ -3801,6 +3822,13 @@
         "group_url": "https://owasp.org/www-chapter-pune/"
     },
     {
+        "name": "Adithyan Ak",
+        "email": "mailto:adithyan.ak@owasp.org",
+        "group": "OWASP Coimbatore",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-coimbatore/"
+    },
+    {
         "name": "Tushar Kulkarni",
         "email": "mailto:tushar.kulkarni@owasp.org",
         "group": "OWASP Nagpur",
@@ -5313,20 +5341,6 @@
         "group_url": "https://owasp.org/www-chapter-bournemouth-university/"
     },
     {
-        "name": "Secretary Nick Priebe",
-        "email": "* [Secretary Nick Priebe",
-        "group": "OWASP Bournemouth University",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bournemouth-university/"
-    },
-    {
-        "name": "Treasurer Thomas James Beards",
-        "email": "* [Treasurer Thomas James Beards",
-        "group": "OWASP Bournemouth University",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bournemouth-university/"
-    },
-    {
         "name": "Dalmo Manoel Veras Neto",
         "email": "mailto:dalmo.veras@owasp.org",
         "group": "OWASP Florianopolis",
@@ -5437,5 +5451,61 @@
         "group": "OWASP Barcelona",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-barcelona/"
+    },
+    {
+        "name": "Samuel Aldis",
+        "email": "mailto:samuel.aldis@owasp.org",
+        "group": "OWASP Redteam Toolkit",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-redteam-toolkit/"
+    },
+    {
+        "name": "Alexander Meisel",
+        "email": "mailto:owasp.org@meisel.cc",
+        "group": "OWASP Automotive EMB 60",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-automotive-emb-60/"
+    },
+    {
+        "name": "Milton Smith",
+        "email": "mailto:milton.smith@owasp.org",
+        "group": "OWASP jvmxray",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-jvmxray/"
+    },
+    {
+        "name": "Andrea Scaduto",
+        "email": "mailto:andrea@secureflag.com",
+        "group": "OWASP SecureFlag Community Edition",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-secureflag-community-edition/"
+    },
+    {
+        "name": "Ade Yoseman Putra",
+        "email": "mailto:ade.putra@owasp.org",
+        "group": "OWASP Pygoat",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-pygoat/"
+    },
+    {
+        "name": "Waseem Ajrab",
+        "email": "mailto:ajrab.waseem@gmail.com",
+        "group": "OWASP Core Business Application Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-core-business-application-security/"
+    },
+    {
+        "name": "Rumeysa Bozdemir",
+        "email": "mailto:rumeysa.bozdemir@owasp.org",
+        "group": "OWASP Istanbul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-istanbul/"
+    },
+    {
+        "name": "Mohammad Hossein Golhassani",
+        "email": "mailto:mohammad.hossein.golhassani@owasp.org",
+        "group": "OWASP Tehran",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-tehran/"
     }
 ]
