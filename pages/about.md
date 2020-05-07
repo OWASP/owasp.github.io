@@ -53,8 +53,9 @@ The European legal address is:
 
 ```
 OWASP Europe VZW
-Leinstraat 104A
-B-9660 Opbrakel
+c/o Sr Fiduciarire Cv
+Steenvoordestraat 184
+9070 Destelbergen
 Belgium
 ```
 
