@@ -3,7 +3,7 @@
 layout: home
 title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
-tags: Application Security, Cyber Security, Information Security, Web, Cloud
+tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vulnerability Assessment
 
 ---
 
@@ -17,7 +17,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud
 
 <section class="homepage-welcome">
   <h1>Who is the OWASP Foundation?</h1>
-<p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
+<p>The Open Web Application Security Project (OWASP) is an international non-profit foundation that works to improve the security of softwares. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
 
 <ul>
 <li>Tools and Resources</li>
@@ -25,7 +25,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud
 <li>Education & Training</li>
 </ul>
 
-<p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="/donate/">Donate</a>, <a href="/membership/">Join</a>, or become a <a href="/supporters">Corporate Member</a> today.</p>
+<p>For nearly two decades corporations, foundations, developers, technologists, and volunteers have supported the OWASP Foundation and its work. <a href="/donate/">Donate</a>, <a href="/membership/">Join</a>, or become a <a href="/supporters/">Corporate Member</a> today.</p>
 </section>
 
 <hr>
