@@ -192,7 +192,8 @@ permalink: /membership/
 	
 	<li> OWASP emails have a standard format firstname.lastname@owasp.org; email addresses are only valid during membership and will be suspended 30 days after last day of membership if not renewed.</li>
       </ul>
-      <p>You can <a href="/manage-membership">Manage your Membership</a> to check your renewal date or update billing details or cancel a recurring donation.</p>
+      <p>You can <a href="/manage-membership">View your Membership Details</a> to check your renewal date.</p>
+      <p><b>Note:</b> At this point in time we do not support renewal of membership so if you are a yearly member you will need to purcahse a new membership using the form below ensure you use the same email address and we will manually add the years to your membership</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
       <h2>Join or Renew Now</h2>
