@@ -980,6 +980,13 @@
         "group_url": "https://owasp.org/www-project-vulnerable-web-applications-directory/"
     },
     {
+        "name": "Rick Mitchell (kingthorin)",
+        "email": "mailto:kingthorin+vwad@gmail.com",
+        "group": "OWASP Vulnerable Web Applications Directory",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerable-web-applications-directory/"
+    },
+    {
         "name": "Dave Wichers",
         "email": "mailto://dave.wichers@owasp.org",
         "group": "OWASP Benchmark",
@@ -1652,13 +1659,6 @@
         "group_url": "https://owasp.org/www-chapter-tegucigalpa/"
     },
     {
-        "name": "Erik Wilhelmsson",
-        "email": "mailto:erik.wilhelmsson@owasp.org",
-        "group": "OWASP South Sweden",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-south-sweden/"
-    },
-    {
         "name": "Oscar Hjelm",
         "email": "mailto:oscar.hjelm@owasp.org",
         "group": "OWASP South Sweden",
@@ -2177,6 +2177,13 @@
         "group_url": "https://owasp.org/www-chapter-belo-horizonte/"
     },
     {
+        "name": "Renan Quevedo",
+        "email": "mailto:renan.quevedo@owasp.org",
+        "group": "OWASP Bogota",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bogota/"
+    },
+    {
         "name": "Elvin Mollinedo",
         "email": "mailto:elvin.mollinedo@owasp.org",
         "group": "OWASP Bolivia",
@@ -2689,7 +2696,14 @@
     },
     {
         "name": "Rohini Sulatycki",
-        "email": "mailto:",
+        "email": "mailto:rohini.sulatycki@gmail.com",
+        "group": "OWASP South Florida",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-south-florida/"
+    },
+    {
+        "name": "Adesina Adebiyi",
+        "email": "mailto:aadebiyi@shee.com ",
         "group": "OWASP South Florida",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-south-florida/"
@@ -3824,6 +3838,13 @@
     {
         "name": "Adithyan Ak",
         "email": "mailto:adithyan.ak@owasp.org",
+        "group": "OWASP Coimbatore",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-coimbatore/"
+    },
+    {
+        "name": "Naveen Kumar",
+        "email": "mailto:naveen.kumar@owasp.org",
         "group": "OWASP Coimbatore",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-coimbatore/"
@@ -5507,5 +5528,54 @@
         "group": "OWASP Tehran",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tehran/"
+    },
+    {
+        "name": "Milan Gabor",
+        "email": "mailto:milan.gabor@owasp.org",
+        "group": "OWASP Maribor",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-maribor/"
+    },
+    {
+        "name": "Alberto Rafael Rodríguez Iglesias",
+        "email": "mailto:alberto.iglesias@owasp.org",
+        "group": "OWASP Guadalajara",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-guadalajara/"
+    },
+    {
+        "name": "Bilal S. Taha",
+        "email": "mailto:bilal.taha@owasp.org",
+        "group": "OWASP Baghdad",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-baghdad/"
+    },
+    {
+        "name": "Tafadzwe Demba",
+        "email": "mailto:tafadzwe.demba@owasp.org",
+        "group": "OWASP Harare",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-harare/"
+    },
+    {
+        "name": "Salim Mwachu",
+        "email": "mailto:salim.mwachu@owasp.org",
+        "group": "OWASP Mombasa",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-mombasa/"
+    },
+    {
+        "name": "Ryan Boyle",
+        "email": "mailto:randomrhythm@rhythmengineering.com",
+        "group": "OWASP Access Log Parser",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-access-log-parser/"
+    },
+    {
+        "name": "Eric Bragger",
+        "email": "mailto:infosec@bragger.net",
+        "group": "OWASP Cyber Controls Matrix",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cyber-controls-matrix/"
     }
 ]
