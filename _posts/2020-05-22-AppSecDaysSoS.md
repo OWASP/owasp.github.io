@@ -13,7 +13,7 @@ Virtual AppSec Days April 2020 was a hit! Over 1800 participated in the week-lon
 
 The OWASP Foundation set out to bring the community together and provide alternative education in these uncertain times. We were able to do this economically for participants thanks to our generous sponsors, without whom, this event would not have been possible.
 
-Thank you to Accunetix, DevSecOps Academy, Netsprker, and ZeroNorth! These sponsors not only helped keep the conference affordable but also gave away over $800 in prizes to participants.<!--more-->
+Thank you to Acunetix, DevSecOps Academy, Netsparker, and ZeroNorth! These sponsors not only helped keep the conference affordable but also gave away over $800 in prizes to participants.<!--more-->
 
 The Foundation would also like to give a shout out to the CtF winners:
 
@@ -21,7 +21,7 @@ The Foundation would also like to give a shout out to the CtF winners:
 * Top DigiExchange scorer: Felix 
 * Highest scorer who played in both ranges: Doomguy
 
-Congratulations and thank you to Security Innovations for running the competition and providing prizes to the winners.  
+Congratulations and thank you to Security Innovation for running the competition and providing prizes to the winners.  
 
 On the heels of this incredibly successful event, we are excited to announce the Virtual AppSec Days Summer of Security. OWASP Foundation will hold virtual training events in June, July, and August. The event is intended to bring contact free training to our community as an alternative to the in-person training they could have received at one of our Global or Regional AppSec events. 
 
