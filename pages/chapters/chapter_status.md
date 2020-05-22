@@ -7,6 +7,8 @@ permalink: /chapters/status/
 ---
 
 ----
+<section id='new'></section>
+
 ### New Chapters (created within last 60 days)
 {% assign year = "today" | date: "%Y" %}
 {% assign month = "today" | date: "%b" %}
@@ -30,6 +32,8 @@ permalink: /chapters/status/
 </ul>
 
 ----
+<section id='updated'></section>
+
 ### Recently Updated Chapters (updated page within last 60 days)
 <ul>
 {% for chapter in site.data.chapters %}
@@ -64,6 +68,8 @@ permalink: /chapters/status/
 </ul>
 
 ----
+<section id='needs_update'></section>
+
 ### Needs Website Update (has not been updated to remove default info)
 <ul>
 {% for chapter in site.data.chapters %}
@@ -74,6 +80,8 @@ permalink: /chapters/status/
 </ul>
 
 ----
+<section id='inactive'></section>
+
 ### Inactive Chapters 
 <ul>
 {% for chapter in site.data.inactive_chapters %}
