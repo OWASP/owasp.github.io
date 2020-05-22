@@ -72,3 +72,11 @@ permalink: /chapters/status/
     {% endif %}
 {% endfor %}
 </ul>
+
+----
+### Inactive Chapters 
+<ul>
+{% for chapter in site.data.inactive_chapters %}
+    <li>{{ chapter.title }}</li>
+{% endfor %}
+</ul>
