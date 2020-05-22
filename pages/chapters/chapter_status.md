@@ -6,6 +6,12 @@ permalink: /chapters/status/
 
 ---
 
+Jump to 
+* [New Chapters](#new)
+* [Recently Updated](#updated)
+* [Needs Update](#needs_update)
+* [Inactive](#inactive)
+
 ----
 <section id='new'></section>
 
@@ -88,3 +94,10 @@ permalink: /chapters/status/
     <li>{{ chapter.title }}</li>
 {% endfor %}
 </ul>
+
+---
+Jump to 
+* [New Chapters](#new)
+* [Recently Updated](#updated)
+* [Needs Update](#needs_update)
+* [Inactive](#inactive)
