@@ -49,6 +49,7 @@ Jump to
     {% assign cmonth = cmonth | plus: 0 %}
     {% assign cuyear = chapter.updated | date: "%Y" %}
     {% assign cumonth = chapter.updated | date: "%b" %}
+    {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
     {% assign cuyear = cuyear | plus: 0 %}
     {% assign cumonth = cumonth | plus: 0 %}
     {% assign testmonth = cumonth | minus: month %}
@@ -57,7 +58,7 @@ Jump to
        {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless chapter.region contains 'Website Update' %}
-                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                    <li><a href='{{ chapter.url }}'>{{ custr }} {{ chapter.title }}</a></li>
                 {% endunless %}
             {% endunless %}
        {% endunless %}
