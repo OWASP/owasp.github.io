@@ -99,7 +99,7 @@ Jump to
 
 ### Chapter Most Recent Updates
 <ul>
-{% assign chapters = site.data.chapters | sort: 'update' | reverse %}
+{% assign chapters = site.data.chapters | sort: 'updated' | reverse %}
 {% for chapter in chapters %}
     {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
       <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}</a></li>
