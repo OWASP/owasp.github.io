@@ -66,7 +66,7 @@ Jump to
         {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless chapter.region contains 'Website Update' %}
-                    <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
+                    <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}</a></li>
                 {% endunless %}
             {% endunless %}
         {% endunless %}
