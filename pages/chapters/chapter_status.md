@@ -10,6 +10,7 @@ Jump to
 * [New Chapters](#new)
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
+* [Last Update](#last-update)
 * [Inactive](#inactive)
 
 ----
@@ -97,6 +98,9 @@ Jump to
 {% endfor %}
 </ul>
 
+---
+<section id='last-update'></section>
+
 ### Chapter Most Recent Updates
 <ul>
 {% assign chapters = site.data.chapters | sort: 'updated' | reverse %}
@@ -111,4 +115,5 @@ Jump to
 * [New Chapters](#new)
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
+* [Last Update](#last-update)
 * [Inactive](#inactive)
