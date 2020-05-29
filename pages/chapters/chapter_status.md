@@ -97,6 +97,15 @@ Jump to
 {% endfor %}
 </ul>
 
+### Chapter Most Recent Updates
+<ul>
+{% assign chapters = site.data.chapters | sort: 'update' | reverse %}
+{% for chapter in chapters %}
+    {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
+      <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}</a></li>
+{% endfor %}
+</ul>
+
 ---
 Jump to 
 * [New Chapters](#new)
