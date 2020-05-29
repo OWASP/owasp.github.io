@@ -42,7 +42,7 @@ Jump to
 
 ### Recently Updated Chapters (updated page within last 60 days)
 <ul>
-{% for chapter in site.data.chapters %}
+{% for chapter in site.data.chapters | order: 'updated' %}
     {% assign cyear = chapter.created | date: "%Y" %}
     {% assign cmonth = chapter.created | date: "%b" %}
     {% assign cyear = cyear | plus: 0 %}
@@ -58,7 +58,7 @@ Jump to
        {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless chapter.region contains 'Website Update' %}
-                    <li><a href='{{ chapter.url }}'>{{ custr }} {{ chapter.title }}</a></li>
+                    <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}</a></li>
                 {% endunless %}
             {% endunless %}
        {% endunless %}
