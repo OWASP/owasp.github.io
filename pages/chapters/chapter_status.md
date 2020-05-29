@@ -42,7 +42,7 @@ Jump to
 
 ### Recently Updated Chapters (updated page within last 60 days)
 <ul>
-{% assign chapters = site.data.chapters | sort: 'update' | reverse %}
+{% assign chapters = site.data.chapters | sort: 'updated' | reverse %}
 {% for chapter in chapters %}
     {% assign cyear = chapter.created | date: "%Y" %}
     {% assign cmonth = chapter.created | date: "%b" %}
