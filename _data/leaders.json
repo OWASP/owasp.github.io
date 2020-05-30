@@ -3864,6 +3864,13 @@
         "group_url": "https://owasp.org/www-chapter-coimbatore/"
     },
     {
+        "name": "Arjun Chaudhary",
+        "email": "mailto:arjun.chaudhary@owasp.org",
+        "group": "OWASP Chandigarh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chandigarh/"
+    },
+    {
         "name": "Tushar Kulkarni",
         "email": "mailto:tushar.kulkarni@owasp.org",
         "group": "OWASP Nagpur",
@@ -5668,5 +5675,33 @@
         "group": "OWASP Borox Toledo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-borox-toledo/"
+    },
+    {
+        "name": "Charles Givre",
+        "email": "mailto:charles.givre@gtkcyber.com",
+        "group": "OWASP Drill",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-drill/"
+    },
+    {
+        "name": "Mauricio Urizar",
+        "email": "mailto:mauricio.urizar@deepsecurity.pe",
+        "group": "OWASP Android Security Inspector Toolkit",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-android-security-inspector-toolkit/"
+    },
+    {
+        "name": "Madhu Akula",
+        "email": "mailto:madhu.akula@hotmail.com",
+        "group": "OWASP Kubernetes Security Testing Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-kubernetes-security-testing-guide/"
+    },
+    {
+        "name": "Robert Willis",
+        "email": "mailto:robert.willis@owasp.org",
+        "group": "OWASP Georgetown",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-georgetown/"
     }
 ]
