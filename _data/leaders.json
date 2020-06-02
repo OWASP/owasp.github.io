@@ -5252,14 +5252,14 @@
     {
         "name": "Pete Dayok",
         "email": "mailto:pete.dayok@owasp.org",
-        "group": "OWASP Harrisburg",
+        "group": "OWASP Harrisburg PA",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-harrisburg/"
     },
     {
         "name": "James Lloyd",
         "email": "mailto:james.lloyd@owasp.org",
-        "group": "OWASP Harrisburg",
+        "group": "OWASP Harrisburg PA",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-harrisburg/"
     },
@@ -5572,8 +5572,8 @@
         "group_url": "https://owasp.org/www-chapter-baghdad/"
     },
     {
-        "name": "Tafadzwe Demba",
-        "email": "mailto:tafadzwe.demba@owasp.org",
+        "name": "Tafadzwa Demba",
+        "email": "mailto:tafadzwa.demba@owasp.org",
         "group": "OWASP Harare",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-harare/"
@@ -5649,15 +5649,15 @@
         "group_url": "https://owasp.org/www-chapter-peshawar/"
     },
     {
-        "name": "Shahbaz Qadar Khattak",
-        "email": "mailto:shahbazqadar.khattak@owasp.org",
+        "name": "Mujahid Shah",
+        "email": "mailto:mujahid.shah@owasp.org",
         "group": "OWASP Peshawar",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-peshawar/"
     },
     {
-        "name": "Mujahid Shah",
-        "email": "mailto:mujahid.shah@owasp.org",
+        "name": "Shahbaz Qadar Khattak",
+        "email": "mailto:shahbazqadar.khattak@owasp.org",
         "group": "OWASP Peshawar",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-peshawar/"
@@ -5692,7 +5692,14 @@
     },
     {
         "name": "Madhu Akula",
-        "email": "mailto:madhu.akula@hotmail.com",
+        "email": "https://twitter.com/madhuakula",
+        "group": "OWASP Kubernetes Security Testing Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-kubernetes-security-testing-guide/"
+    },
+    {
+        "name": "Abhisek Datta",
+        "email": "https://twitter.com/abh1sek",
         "group": "OWASP Kubernetes Security Testing Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-kubernetes-security-testing-guide/"
