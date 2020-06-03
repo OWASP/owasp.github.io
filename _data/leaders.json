@@ -21,6 +21,27 @@
         "group_url": "https://owasp.org/www-project-zap/"
     },
     {
+        "name": "Leader Name",
+        "email": "mailto:leader.email@owasp.org",
+        "group": "OWASP [GROUPNAME]",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-projectchapter-example/"
+    },
+    {
+        "name": "Leader Name",
+        "email": "mailto:leader.email@owasp.org",
+        "group": "OWASP [GROUPNAME]",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-projectchapter-example/"
+    },
+    {
+        "name": "Leader Name",
+        "email": "mailto:leader.email@owasp.org",
+        "group": "OWASP [GROUPNAME]",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-projectchapter-example/"
+    },
+    {
         "name": "Michael Bergman",
         "email": "mailto:",
         "group": "OWASP Security Integration System",
@@ -5710,5 +5731,12 @@
         "group": "OWASP Georgetown",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-georgetown/"
+    },
+    {
+        "name": "Raymond Punithan Luccas",
+        "email": "mailto:raymond.luccas@owasp.org",
+        "group": "OWASP Kuala Lumper",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kuala-lumper/"
     }
 ]
