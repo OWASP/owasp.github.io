@@ -1,42 +1,47 @@
+- name: OWASP Chapters All Day
+  type: global
+  start-date: 2020-06-07
+  dates: June 7-8, 2020
+  url: /www-community/social/chapters_all_day/
+- name: Virtual AppSec Days - Summer of Security
+  type: global
+  start-date: 2020-06-23
+  dates: June 23-24, July 28-29, Aug 25-26 
+  url: https://appsecdays.org
+  optional-text: Registration Open
+- name: BlackHat USA 2020 
+  type: partner
+  start-date: 2020-08-01
+  dates: August 1-8, 2020
+  url: https://www.blackhat.com/us-20/ 
+  optional-text:
+- name: DefCon Safe Mode 
+  type: partner
+  start-date: 2020-08-06
+  dates: Aug. 7 - 9, 2020
+  url: https://www.defcon.org/
+  optional-text:
 - name: Global AppSec San Francisco
   type: global
   start-date: 2020-10-19
   dates: October 19-23, 2020
   url: https://sf.globalappsec.org
-  optional-text: Registration Opens March 1, 2020
-- name: AppSec Morocco & Africa 2020
-  type: local
-  start-date: 2020-11-05
-  dates: November 5-6, 2020
-  url: https://2020.appsecmorocco.org/
-  optional-text: Rabat, Morocco
+  optional-text: Registration Opens June 15, 2020
 - name: LASCON 2020
   type: local
   start-date: 2020-10-29
   dates: October 29-30, 2020
   url: https://lascon.org/
   optional-text: Austin, TX USA
-- name: BlackHat USA 2020 
-  type: partner
-  start-date: 2020-08-01
-  dates: August 1-8, 2020
-  url: https://www.blackhat.com/us-20/ 
-  optional-text: VIRTUAL event (announced May 8, 2020)
-- name: DefCon Safe Mode 
-  type: partner
-  start-date: 2020-08-06
-  dates: Aug. 7 - 9, 2020
-  url: https://www.defcon.org/
-  optional-text: VIRTUAL event (announced May 8, 2020)
-- name: BlackHat Asia 2020 (New Date)
-  type: partner
-  start-date: 2020-09-29
-  dates: Sept.29 - Oct 2, 2020
-  url: https://www.blackhat.com/asia-20/
-  optional-text: Singapore
+- name: AppSec Morocco & Africa 2020
+  type: local
+  start-date: 2020-11-05
+  dates: November 5-6, 2020
+  url: https://2020.appsecmorocco.org/
+  optional-text: Rabat, Morocco
 - name: Global AppSec Dublin
   type: global
   start-date: 2021-02-15
   dates: February 15-19, 2021
   url: https://dublin.globalappsec.org
-  optional-text: Registration Opens May 1, 2020
+  optional-text: Registration Opens August 1, 2020
