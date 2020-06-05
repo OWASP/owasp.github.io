@@ -1,15 +1,15 @@
 ---
 
-date: 2020-05-22
+date: 2020-06-08
 author: Emily Berman
 author_image: /assets/images/people/staff_emily.jpg
 layout: blogpost
-title: Virtual AppSec Days Summer of Security 2020
+title: Virtual Summer of Security 2020
 excerpt_separator: <!--more-->
 
 ---
 
-Virtual AppSec Days April 2020 was a hit! Over 1800 participated in the week-long event. Highlights included a free lightning conference, 11 training courses, and a 48 hour Capture the Flag competition.
+Virtual AppSec Days April 2020 was a hit! Over 1,800 participated in the week-long event. Highlights included a free lightning conference, 11 training courses, and a 48 hour Capture the Flag competition.
 
 The OWASP Foundation set out to bring the community together and provide alternative education in these uncertain times. We were able to do this economically for participants thanks to our generous sponsors, without whom, this event would not have been possible.
 
