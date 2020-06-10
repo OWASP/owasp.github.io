@@ -1862,13 +1862,6 @@
         "group_url": "https://owasp.org/www-chapter-nigeria/"
     },
     {
-        "name": "Abdolbast Greede",
-        "email": "mailto:",
-        "group": "OWASP Tripoli",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-tripoli/"
-    },
-    {
         "name": "APOLLIN G. MOYO",
         "email": "mailto:apollin.moyo@owasp.org",
         "group": "OWASP Cotonou",
@@ -2497,13 +2490,6 @@
         "group": "OWASP Japan",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-japan/"
-    },
-    {
-        "name": "Mohd Fazli Azran Abd Malek",
-        "email": "mailto:fazli@owasp.org",
-        "group": "OWASP Malaysia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-malaysia/"
     },
     {
         "name": "Nabin KC",
@@ -5264,7 +5250,7 @@
         "group_url": "https://owasp.org/www-chapter-harrisburg/"
     },
     {
-        "name": "James Lloyd",
+        "name": "Jimmy Lloyd",
         "email": "mailto:james.lloyd@owasp.org",
         "group": "OWASP Harrisburg PA",
         "group-type": "chapter",
@@ -5539,6 +5525,13 @@
     {
         "name": "Waseem Ajrab",
         "email": "mailto:ajrab.waseem@gmail.com",
+        "group": "OWASP Core Business Application Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-core-business-application-security/"
+    },
+    {
+        "name": "Marco Hammel",
+        "email": "mailto:maroc.hammel@no-monkey.com",
         "group": "OWASP Core Business Application Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-core-business-application-security/"
