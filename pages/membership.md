@@ -186,11 +186,12 @@ permalink: /membership/
       <ul> 
       	<li>Ongoing Support of our work</li>
 	<li>Discounted Conference Fees</li>
-	<li>Corporate owasp.org email address</li>
+	<li>Corporate owasp.org email address - standard format ONLY</li>
 	<li>Priority access to Travel Grants</li>
 	<li>And many others...</li>
 	
-	<li> OWASP emails have a standard format firstname.lastname@owasp.org; email addresses are only valid during membership and will be suspended 30 days after last day of membership if not renewed.</li>
+	<li> OWASP email standard format is firstname.lastname@owasp.org
+	<li The OWASP email addresse is only valid for use during active membership.</li>
       </ul>
       <p>You can <a href="/manage-membership">Manage your Membership</a> to check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
@@ -278,7 +279,7 @@ permalink: /membership/
         </div>
       </form>
 
-      <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership and agree to adhere to the OWASP Foundation <a href="/www-policy/operational/code-of-conduct">Code of Conduct</a>. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
+      <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership and agree to adhere to the OWASP Foundation <a href="/www-policy/operational/code-of-conduct">Code of Conduct</a>. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting ["Join the OWASP Marketing Mail List."](https://owasp.us17.list-manage.com/subscribe?u=a8012c9e2e384bf8ea8d7deb7&id=2b8a341014) Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
       <!-- end membership form -->
 
