@@ -413,6 +413,12 @@
   image: /assets/images/corp-member-logo/virsec.png
   url: http://www.virsec.com/
   description: Virsec delivers a radically new approach to security, protecting enterprise applications from today’s most dangerous cyber threats. Virsec definitively stops fileless and in-memory exploits that bypass conventional security, delivering unprecedented accuracy, while eliminating false positives. The solution protects the entire application stack in runtime, including web apps, memory, files, processes, and binary code. By preemptively stopping attacks, Virsec delivers effective virtual patching and compensating controls for any application, whether new, legacy, or un-patchable.
+- member: true
+  sponsor:
+  name: Voatz
+  image: /assets/images/corp-member-logo/voatz.png
+  url: https://voatz.com/
+  description: Voatz is an award-winning mobile elections platform that leverages cutting-edge technology (including biometrics, remote identity verification and a blockchain-based infrastructure) to increase accessibility and security in elections. Since 2016 Voatz has run more than 65 successful elections with state and local governments, universities, nonprofits, and both major state political parties for convention voting. In 2018, Voatz partnered with West Virginia to empower deployed military and overseas citizens to vote, marking the first mobile votes in U.S. election history. So far, 29 counties in 5 US states have successfully piloted the Voatz mobile voting technology.
 - member: false	
   sponsor: 4	
   name: Wallarm	
