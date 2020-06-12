@@ -63,8 +63,8 @@
         "group_url": "https://owasp.org/www-project-pytm/"
     },
     {
-        "name": "Daniel Garcia",
-        "email": "mailto:daniel.garcia@owasp.org",
+        "name": "Daniel Garcia (cr0hn)",
+        "email": "mailto:cr0hn@cr0hn.com",
         "group": "OWASP Patton",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-patton/"
@@ -5698,7 +5698,7 @@
         "group_url": "https://owasp.org/www-chapter-kuala-lumper/"
     },
     {
-        "name": "Temitope",
+        "name": "Temitope Odemo",
         "email": "mailto:temitope.odemo@owasp.org",
         "group": "OWASP Lagos",
         "group-type": "chapter",
@@ -5724,5 +5724,12 @@
         "group": "OWASP Hyderbad",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-hyderbad/"
+    },
+    {
+        "name": "Greg Anderson",
+        "email": "mailto:greg.anderson@owasp.org",
+        "group": "OWASP Security Resource Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-security-resource-framework/"
     }
 ]
