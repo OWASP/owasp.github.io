@@ -262,12 +262,6 @@
   image: /assets/images/corp-member-logo/real-ware.png	
   url: https://www.real-ware.com
   description: Realware is a digital transformation solution provider that offers complete e-business solutions. Realware starts with expert strategy, realizes it in impactful design and functional solutions, and sustains growth with ongoing support and development. Our Custom SaaS deployment model allows our clients to take advantage of our functional and non-functional (security, performance, compliance) expertise. Realware has helped global enterprises achieve their international business goals for over 20 years. Brands from industries as diverse as telecommunications, health care, consumer products and financial services come to us (and come back) because of the continued value we deliver.
-- member: false	
-  sponsor: 4	
-  name: RIPS Technologies	
-  image: /assets/images/corp-member-logo/rips-tech.png	
-  url: https://www.ripstech.com/	
-  description: RIPS Technologies delivers automated security analysis for web applications as platform independent software or highly scalable cloud service. With our unique approach, even complex security vulnerabilities are detected that no other solution can detect. Detailed patch instructions allow remediating security risks time and cost efficiently, before these are exposed to attackers.	
 - member: true	
   sponsor: 	
   name: Salesforce
@@ -335,6 +329,12 @@
   image: /assets/images/corp-member-logo/sig.png
   url: https://www.softwareimprovementgroup.com/	
   description: SIG gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
+- member: false	
+  sponsor: 4	
+  name: Sonasource	
+  image: /assets/images/corp-member-logo/sonasource.png	
+  url: https://www.sonarsource.com/	
+  description: SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. With over 6,000 customers, and a Community Edition trusted by more than 200,000 organizations globally, SonarSource products are a de-facto standard for teams and organizations to deliver better, safer software.
 - member: true	
   sponsor: 4 	
   name: Sqreen	
