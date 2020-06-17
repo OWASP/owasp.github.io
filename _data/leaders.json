@@ -315,6 +315,13 @@
         "group_url": "https://owasp.org/www-project-risk-assessment-framework/"
     },
     {
+        "name": "Azzedine Ramrami",
+        "email": "mailto:azzedine.ramrami@owasp.org",
+        "group": "OWASP Risk Assessment Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-risk-assessment-framework/"
+    },
+    {
         "name": "Abraham Kang",
         "email": "mailto:abraham.kang@owasp.org",
         "group": "OWASP Machine Learning Security Top 10",
@@ -1972,27 +1979,6 @@
         "group": "OWASP Las Vegas",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-las-vegas/"
-    },
-    {
-        "name": "Hanut Kumar Arora",
-        "email": "mailto:hanut.arora@owasp.org",
-        "group": "OWASP Meerut",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-meerut/"
-    },
-    {
-        "name": "Vivek Kumar",
-        "email": "mailto:vivek.kumar@owasp.org",
-        "group": "OWASP Meerut",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-meerut/"
-    },
-    {
-        "name": "Teena Garg",
-        "email": "mailto:teena.garg@owasp.org",
-        "group": "OWASP Meerut",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-meerut/"
     },
     {
         "name": "Michel Bourque",
@@ -4734,14 +4720,14 @@
     {
         "name": "Gustavo Nieves Arreaza",
         "email": "mailto:gustavo.nievesarreaza@owasp.org",
-        "group": "OWASP vina del mar",
+        "group": "OWASP Vina Del Mar",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vina-del-mar/"
     },
     {
         "name": "Guillermo Farias Diaz",
         "email": "mailto:guillermo.farias@owasp.org",
-        "group": "OWASP vina del mar",
+        "group": "OWASP Vina Del Mar",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vina-del-mar/"
     },
@@ -5731,5 +5717,12 @@
         "group": "OWASP Security Resource Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-resource-framework/"
+    },
+    {
+        "name": "Milad Aslaner",
+        "email": "mailto:milad.aslaner@owasp.org",
+        "group": "OWASP Dubai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dubai/"
     }
 ]
