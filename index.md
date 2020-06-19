@@ -16,7 +16,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
  <hr class="mobile">
 
 <section class="homepage-welcome">
-  <h1>Who is the OWASP&reg; Foundation?</h1>
+  <h1>Who is the OWASP<sup>&reg;</sup> Foundation?</h1>
 <p>The Open Web Application Security Project&reg; (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
 
 <ul>
