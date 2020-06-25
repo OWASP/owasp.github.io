@@ -3906,13 +3906,6 @@
         "group_url": "https://owasp.org/www-chapter-cluj/"
     },
     {
-        "name": "Sergiu Mesesan",
-        "email": "mailto:sergiu.mesesan@owasp.org",
-        "group": "OWASP Canary Islands",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-canary-islands/"
-    },
-    {
         "name": "Rodrigo Marcos",
         "email": "mailto:",
         "group": "OWASP Malta",
@@ -5752,5 +5745,12 @@
         "group": "OWASP Jeddah",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-jeddah/"
+    },
+    {
+        "name": "Naveen Pal",
+        "email": "mailto:naveen.pal@owasp.org",
+        "group": "OWASP Kanpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanpur/"
     }
 ]
