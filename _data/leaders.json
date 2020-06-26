@@ -3906,6 +3906,13 @@
         "group_url": "https://owasp.org/www-chapter-cluj/"
     },
     {
+        "name": "Jennifer Torres Fernández",
+        "email": "mailto:jennifer.fernandez@owasp.org",
+        "group": "OWASP Canary Islands",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-canary-islands/"
+    },
+    {
         "name": "Rodrigo Marcos",
         "email": "mailto:",
         "group": "OWASP Malta",
@@ -5726,13 +5733,6 @@
         "group_url": "https://owasp.org/www-chapter-dubai/"
     },
     {
-        "name": "Jennifer Torres Fernandez",
-        "email": "mailto:jennifer.fernandez@owasp.org",
-        "group": "OWASP Canary Island",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-canary-island/"
-    },
-    {
         "name": "Zakariya Mohammad Syed",
         "email": "mailto:zakariya.syed@owasp.org",
         "group": "OWASP Jeddah",
@@ -5752,5 +5752,12 @@
         "group": "OWASP Kanpur",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kanpur/"
+    },
+    {
+        "name": "Laicana Coulibaly",
+        "email": "mailto:laicana.coulibaly@owasp.org",
+        "group": "OWASP Abidjan",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-abidjan/"
     }
 ]
