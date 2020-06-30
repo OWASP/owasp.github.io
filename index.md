@@ -7,7 +7,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 
 ---
 
-<!-- Rebuild Site Tag 124 -->
+<!-- Rebuild Site Tag 135 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
   <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
@@ -16,8 +16,8 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
  <hr class="mobile">
 
 <section class="homepage-welcome">
-  <h1>Who is the OWASP Foundation?</h1>
-<p>The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
+  <h1>Who is the OWASP<sup>&reg;</sup> Foundation?</h1>
+  <p>The Open Web Application Security Project<sup>&reg;</sup> (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
 
 <ul>
 <li>Tools and Resources</li>

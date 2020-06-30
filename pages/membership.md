@@ -186,11 +186,12 @@ permalink: /membership/
       <ul> 
       	<li>Ongoing Support of our work</li>
 	<li>Discounted Conference Fees</li>
-	<li>Corporate owasp.org email address</li>
+	<li>Corporate owasp.org email address - standard format ONLY</li>
 	<li>Priority access to Travel Grants</li>
 	<li>And many others...</li>
 	
-	<li> OWASP emails have a standard format firstname.lastname@owasp.org; email addresses are only valid during membership and will be suspended 30 days after last day of membership if not renewed.</li>
+	<li> OWASP email standard format is firstname.lastname@owasp.org
+	<li The OWASP email addresse is only valid for use during active membership.</li>
       </ul>
       <p>You can <a href="/manage-membership">Manage your Membership</a> to check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>

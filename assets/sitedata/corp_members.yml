@@ -1,3 +1,9 @@
+- member:
+  sponsor: 	
+  name: 7A Security
+  image: /assets/images/corp-member-logo/7Asecurity.png
+  url: https://www.7asecurity.com/
+  description: 7ASecurity strives to provide the highest quality security consulting services within budget constraints. In a time when low quality, uncustomized and mostly automated 'audits' are commonplace, 7ASecurity prides itself on tailoring assessments to the threat models and needs of its customers. This puts 7ASecurity in a unique position within the information security industry, delivering maximum value for money, finding vulnerabilities where other companies come empty, and underlining our motto Quality Pentests & Code Audits. Following the same philosophy, 7ASecurity delivers top quality security training where students get lifetime updates at no extra charge.
 - member: true	
   sponsor: 	
   name: Accenture	
@@ -40,12 +46,18 @@
   image: /assets/images/corp-member-logo/avi-network.png	
   url: https://www.avinetworks.com	
   description: Avi Networks completes enterprises’ digital transformation with its software load balancer, intelligent Web Application Firewall, and modern application services. The Avi Vantage Platform is deployed across data centers and clouds, delivering better elasticity, intelligence, and cost savings by providing granular per-tenant and per-app services. Customers enjoy 5X faster application rollouts, actionable analytics, and 70% lower costs.	
-- member: 	
+- member: false 	
   sponsor: 	
   name: BlackHat 	
   image: /assets/images/corp-member-logo/blackhat.png	
   url: https://www.blackhat.com/
   description: Black Hat is the most technical and relevant information security event series in the world. For more than 20 years, Black Hat Briefings have provided attendees with the very latest in information security research, development, and trends in a strictly vendor-neutral environment. These high-profile global events and Trainings are driven by the needs of the security community, striving to bring together the best minds in the industry. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors.
+- member: false 	
+  sponsor: 	
+  name: Bridgecrew	
+  image: /assets/images/corp-member-logo/bridgecrew.png	
+  url: https://bridgecrew.io/  	
+  description: Bridgecrew codifies and streamlines cloud security throughout the developer lifecycle. By leveraging automation, Bridgecrew’s developer-first platform identifies and fixes cloud misconfigurations, enabling teams to stay compliant and secure their infrastructure—from commit to cloud.
 - member: true	
   sponsor: 	
   name: Brinqa	
@@ -211,9 +223,9 @@
 - member: true	
   sponsor: 	 
   name: OWA Digital Ltd.
-  image: /assets/images/corp-member-logo/owa.jpg	
+  image: /assets/images/corp-member-logo/owa.png	
   url: https://www.owadigital.co.uk/	
-  description:  At OWA, we help organisations to unlock their digital potential.  We develop class-leading mobile apps, web applications and websites – and we support and host them too.  We also integrate, manage and protect your current systems to get the best out of them, making digital transformation a smooth process.  Working together with businesses, start-ups, local government and not-for-profit, we create compelling digital products, honed to your audience.  And as a UK-based technology company established in 1995, we know the value of building strong relationships with our customers – many of whom have been with us for a number of years.  	
+  description: OWA are your security conscious digital experts. We create and support secure web applications, mobile apps and websites – and we host and protect them too. As a trusted partner to businesses, charities and local government for over 25 years, we understand the importance of building good relationships. We focus on delivering outstanding results and competitive, end-to-end solutions in design, development, support and hosting on every project. Happily our customers think so too – we are pleased to say we have high levels of client satisfaction and retention. Why not get in touch to talk through your project or idea? 	
 - member: true	
   sponsor: 	
   name: Panasonic Corporation	
@@ -250,12 +262,6 @@
   image: /assets/images/corp-member-logo/real-ware.png	
   url: https://www.real-ware.com
   description: Realware is a digital transformation solution provider that offers complete e-business solutions. Realware starts with expert strategy, realizes it in impactful design and functional solutions, and sustains growth with ongoing support and development. Our Custom SaaS deployment model allows our clients to take advantage of our functional and non-functional (security, performance, compliance) expertise. Realware has helped global enterprises achieve their international business goals for over 20 years. Brands from industries as diverse as telecommunications, health care, consumer products and financial services come to us (and come back) because of the continued value we deliver.
-- member: false	
-  sponsor: 4	
-  name: RIPS Technologies	
-  image: /assets/images/corp-member-logo/rips-tech.png	
-  url: https://www.ripstech.com/	
-  description: RIPS Technologies delivers automated security analysis for web applications as platform independent software or highly scalable cloud service. With our unique approach, even complex security vulnerabilities are detected that no other solution can detect. Detailed patch instructions allow remediating security risks time and cost efficiently, before these are exposed to attackers.	
 - member: true	
   sponsor: 	
   name: Salesforce
@@ -323,6 +329,12 @@
   image: /assets/images/corp-member-logo/sig.png
   url: https://www.softwareimprovementgroup.com/	
   description: SIG gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
+- member: false	
+  sponsor: 4	
+  name: Sonarsource	
+  image: /assets/images/corp-member-logo/sonarsource.png	
+  url: https://www.sonarsource.com/	
+  description: SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. With over 6,000 customers, and a Community Edition trusted by more than 200,000 organizations globally, SonarSource products are a de-facto standard for teams and organizations to deliver better, safer software.
 - member: true	
   sponsor: 4 	
   name: Sqreen	
@@ -395,6 +407,18 @@
   image: /assets/images/corp-member-logo/verimatrix.jpg
   url: https://www.verimatrix.com/ 	
   description: Verimatrix is a trusted business partner providing software security and business intelligence solutions that protect content, devices, applications and communications across multiple markets. Many of the world’s largest service providers and leading innovators trust Verimatrix to protect systems that people depend on every day. 
+- member: false
+  sponsor:
+  name: Virsec 
+  image: /assets/images/corp-member-logo/virsec.png
+  url: http://www.virsec.com/
+  description: Virsec delivers a radically new approach to security, protecting enterprise applications from today’s most dangerous cyber threats. Virsec definitively stops fileless and in-memory exploits that bypass conventional security, delivering unprecedented accuracy, while eliminating false positives. The solution protects the entire application stack in runtime, including web apps, memory, files, processes, and binary code. By preemptively stopping attacks, Virsec delivers effective virtual patching and compensating controls for any application, whether new, legacy, or un-patchable.
+- member: true
+  sponsor:
+  name: Voatz
+  image: /assets/images/corp-member-logo/voatz.png
+  url: https://voatz.com/
+  description: Voatz is an award winning mobile elections platform that leverages cutting-edge technology including biometrics, remote identity verification and a blockchain-based infrastructure to increase accessibility and security in elections. Since 2016 Voatz has run more than 65 successful elections with state and local governments, universities, nonprofits, and both major state political parties for convention voting. In 2018, Voatz partnered with West Virginia to empower deployed military and overseas citizens to vote, marking the first mobile votes in U.S. election history. So far, 29 counties in 5 US states have successfully piloted the Voatz mobile voting technology.
 - member: false	
   sponsor: 4	
   name: Wallarm	
