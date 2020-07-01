@@ -2548,13 +2548,6 @@
         "group_url": "https://owasp.org/www-chapter-madurai/"
     },
     {
-        "name": "Anant Shrivastava",
-        "email": "mailto://anant.shrivastava@owasp.org",
-        "group": "OWASP Bhopal",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bhopal/"
-    },
-    {
         "name": "Saurabh Chaudhry",
         "email": "mailto://saurabh.chaudhary@owasp.org",
         "group": "OWASP Bhopal",
@@ -4809,6 +4802,13 @@
         "group_url": "https://owasp.org/www-committee-wia/"
     },
     {
+        "name": "Andra Lezza",
+        "email": "mailto://andra.lezza@owasp.org",
+        "group": "OWASP Women in AppSec (WIA) Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-wia/"
+    },
+    {
         "name": "Vandana Verma",
         "email": "mailto://vandana.verma@owasp.org",
         "group": "OWASP Women in AppSec (WIA) Committee",
@@ -4818,13 +4818,6 @@
     {
         "name": "Jessica Robinson",
         "email": "mailto://jessica.robinson@owasp.org",
-        "group": "OWASP Women in AppSec (WIA) Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-wia/"
-    },
-    {
-        "name": "Andra Lezza",
-        "email": "mailto://andra.lezza@owasp.org",
         "group": "OWASP Women in AppSec (WIA) Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-wia/"
@@ -5600,6 +5593,13 @@
         "group_url": "https://owasp.org/www-chapter-lagos/"
     },
     {
+        "name": "Akinlawon Fayokun",
+        "email": "mailto:akinlawon.fayokun@owasp.org",
+        "group": "OWASP Lagos",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-lagos/"
+    },
+    {
         "name": "Greg Anderson",
         "email": "mailto:greg.anderson@owasp.org",
         "group": "OWASP Security Resource Framework",
@@ -5614,14 +5614,14 @@
         "group_url": "https://owasp.org/www-chapter-dubai/"
     },
     {
-        "name": "Zakariya Mohammad Syed",
+        "name": "Zakariya Syed",
         "email": "mailto:zakariya.syed@owasp.org",
         "group": "OWASP Jeddah",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-jeddah/"
     },
     {
-        "name": "Syed Mohommaed Abar Shah",
+        "name": "Syed M. Abrar",
         "email": "mailto:syed.abrar@owasp.org",
         "group": "OWASP Jeddah",
         "group-type": "chapter",
