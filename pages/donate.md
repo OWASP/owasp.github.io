@@ -283,6 +283,19 @@ permalink: /donate/
 	    <input type="checkbox" v-model="attribution">
 	    <span class="checkmark"></span>
 	  </label>
+	  <label class="checkbox-container" v-if="!projectName">Donate to a specific project (select below)</span>
+	    <input type="checkbox" v-model="attribution">
+	    <span class="checkmark"></span>
+	  </label>
+
+	  <div class="donation-options" v-if="!projectName">
+	    <select onchange="this.projectName = this.value">
+	      {% for project in site.data.projects %}
+	          <option value="{{ project.title }}">{{ project.title }}</option>
+	      {% endfor %}
+	    </select>
+	  </div>
+
         </div>
         <div class="donor-fields">
           <h3>Your Information</h3>
