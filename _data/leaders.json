@@ -5661,5 +5661,26 @@
         "group": "OWASP Abidjan",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-abidjan/"
+    },
+    {
+        "name": "Hadi Mahmoudi",
+        "email": "mailto:hm6816@gmail.com",
+        "group": "OWASP MITM Guard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mitm-guard/"
+    },
+    {
+        "name": "Carlos Guillermo Ganoza Plasencia",
+        "email": "mailto:carlos.ganoza@owasp.org",
+        "group": "OWASP Watiqay",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-watiqay/"
+    },
+    {
+        "name": "Erez Yalon",
+        "email": "mailto:erez.yalon@owasp.org",
+        "group": "OWASP Cloud-Native Security Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cloud-native-security-project/"
     }
 ]
