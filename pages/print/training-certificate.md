@@ -36,6 +36,9 @@
 
 <!--  parse query string  -->
 <script type = "text/javascript">
+// example url: https://owasp.org/pages/print/training-certificate?name=Mike%20McCamon&event=Virtual%20AppSect&class=Defending%20Kubernetes&hours=8&date=10/10/2020
+
+
   function getUrlParameter(name) {
       name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
       var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
