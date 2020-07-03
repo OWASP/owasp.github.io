@@ -21,7 +21,7 @@
   
   getUrlParameter('name'); // "Billy Bob Smith"
   getUrlParameter('event'); // "AppSec Days"
-  getUrlParameter('class'); // "Training: Defensive coding in JavaScript"
+  getUrlParameter('class'); // "Defensive coding in JavaScript"
   getUrlParameter('hours'); // "8"
   getUrlParameter('date'); // "June 24, 2020"
   getUrlParameter('price'); // "$495"
