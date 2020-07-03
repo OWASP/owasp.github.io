@@ -36,21 +36,17 @@
 
 <div class="content">
 
-  <img src="/assets/images/logo.png" height="200">
-  
-  <h2>OWASP<sup>&reg;</sup> Foundation</h2>
-  
-  <h3>Training Certificate</h3>
-  
-  <h4>{{ name }}</h4>
-  {{ class }}
-  
-  Completed on {{ date }} for a total of {{ hours }} of Continuing Education Credits
+  <img src="/assets/images/logo.png" height="200"> 
+  <p style="font-size:72px">OWASP<sup>&reg;</sup> Foundation</style></p>
+  <p style="font-size:28px">Training Certificate</style></p> 
+  <p style="font-size:42px">{{ name }}</style></p>
+  <p style="font-size:36px">{{ class }}</style></p>
+  <p style="font-size:12px">Completed on {{ date }} for a total of {{ hours }} of Continuing Education Credits</style></p>
 
 </div>
 
 <div class="certificate-footer">
     <p class="disclaimer">
-    Printed {{ "now" | date: "%Y" }}. Open Web Application Security Project and OWASP are registered trademarks and Global AppSec, AppSec Days, AppSec California, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc.  
+    Printed {{ "now" | date: "%B %d, %Y" }}. Open Web Application Security Project and OWASP are registered trademarks and Global AppSec, AppSec Days, AppSec California, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc.  
     </p>
 </div>
