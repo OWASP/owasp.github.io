@@ -39,9 +39,9 @@
   <img src="/assets/images/logo.png" height="72"> 
   <p style="font-size:60px">OWASP<sup>&reg;</sup> Foundation</p>
   <p style="font-size:28px">Training Certificate</p> 
-  <p style="font-size:42px">{{ name }}</p>
+  <p style="font-size:42px" "font-weight:bold">{{ name }}</p>
   <p style="font-size:36px">{{ class }}</p>
-  <p style="font-size:18px">Completed on {{ date }} for a total of {{ hours }} of Continuing Education Credits</p>
+  <p style="font-size:18px">Completed on {{ date }} for a total of {{ hours }} Continuing Education Credits</p>
 
 </div>
 
