@@ -36,7 +36,7 @@
 
 <div class="content">
 
-  <img src="/assets/images/logo.png">
+  <img src="/assets/images/logo.png" height="200">
   
   <h2>OWASP<sup>&reg;</sup> Foundation</h2>
   
