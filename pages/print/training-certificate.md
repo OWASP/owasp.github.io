@@ -36,12 +36,12 @@
 
 <div class="content">
 
-  <img src="/assets/images/logo.png" height="200"> 
-  <p style="font-size:72px">OWASP<sup>&reg;</sup> Foundation</style></p>
-  <p style="font-size:28px">Training Certificate</style></p> 
-  <p style="font-size:42px">{{ name }}</style></p>
-  <p style="font-size:36px">{{ class }}</style></p>
-  <p style="font-size:12px">Completed on {{ date }} for a total of {{ hours }} of Continuing Education Credits</style></p>
+  <img src="/assets/images/logo.png" height="72"> 
+  <p style="font-size:60px">OWASP<sup>&reg;</sup> Foundation</p>
+  <p style="font-size:28px">Training Certificate</p> 
+  <p style="font-size:42px">{{ name }}</p>
+  <p style="font-size:36px">{{ class }}</p>
+  <p style="font-size:18px">Completed on {{ date }} for a total of {{ hours }} of Continuing Education Credits</p>
 
 </div>
 
