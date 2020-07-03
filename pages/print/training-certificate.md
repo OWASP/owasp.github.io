@@ -37,8 +37,7 @@
 <div class="content">
 
   <img src="/assets/images/logo.png" height="72"> 
-  <p style="font-size:36px">OWASP<sup>&reg;</sup> Foundation</p>
-  <p style="font-size:28px">Training Certificate</p> 
+  <p style="font-size:36px">OWASP<sup>&reg;</sup> Foundation Training Certificate</p> 
   <p style="font-size:42px"><strong>{{ name }}Billy Bob Smith</strong></p>
   <p style="font-size:36px">{{ class }}Training: Defensive coding in JavaScript</p>
   <p style="font-size:18px">Completed on {{ date }}June 24, 2020 for a total of {{ hours }}8 Continuing Education Credits</p>
