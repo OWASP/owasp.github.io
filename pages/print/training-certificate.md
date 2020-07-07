@@ -69,11 +69,13 @@
   jhours = getUrlParameter('hours'); // "8"
   jdate = getUrlParameter('date'); // "June 24, 2020"
   jprice = getUrlParameter('price'); // "$495"
-  jsku = getUrlParameter('sku'); // sku38498348
+  jsku = getUrlParameter('sku'); // sku_HOts6ZxZnmJERL
   // hstr = "<p style='font-size:36px;'>OWASP<sup>&reg;</sup> Foundation Training Certificate</p>";
-  hstr = "<p style='font-size:24px;margin-left: 8px;'><span style='font-weight:bold;margin-right:8px;'>Course Tile:</span><span style='font-style:italic;'>" + jtraining + "</span><span style='font-weight:bold;margin-right:8px;margin-left:20%;'>Course ID:</span><span>" + jsku + "</span></p>";
+  hstr = "<p style='font-size:24px;margin-left: 8px;'><span style='font-weight:bold;margin-right:8px;'>Course Title:</span><span style='font-style:italic;'>" + jevent + ", " + jtraining + "</span></p>";
   hstr += "<p style='font-size:24px;margin-left: 8px;margin-right:8px;'><label style='margin-right:8px;font-weight:bold;'>Presented to:</label><span style='text-decoration:underline;'>" + jname + "</span></p>";
   hstr += "<p style='font-size:18px'>Completed on " + jdate + " for a total of " + jhours + " hours of Continuing Education Credits</p>";
+  hstr += "<p style='font-size:18px'>Course ID:</span><span>" + jsku + "</p>";
+  
   tsec = document.getElementById("training");
   tsec.innerHTML = hstr;
 </script>
