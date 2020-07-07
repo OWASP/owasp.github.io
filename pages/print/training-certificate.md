@@ -71,7 +71,7 @@
   jprice = getUrlParameter('price'); // "$495"
   jsku = getUrlParameter('sku'); // sku_HOts6ZxZnmJERL
   // hstr = "<p style='font-size:36px;'>OWASP<sup>&reg;</sup> Foundation Training Certificate</p>";
-  hstr = "<p style='font-size:24px;margin-left: 8px;'><span style='font-weight:bold;margin-right:8px;'>Course Title:</span><span style='font-style:italic;'>" + jevent + ", " + jtraining + "</span></p>";
+  hstr = "<p style='font-size:24px;margin-left: 8px;'><span style='font-weight:bold;margin-right:8px;'>Course Title:</span><span style='font-style:italic;'>" + jevent + ": " + jtraining + "</span></p>";
   hstr += "<p style='font-size:24px;margin-left: 8px;margin-right:8px;'><label style='margin-right:8px;font-weight:bold;'>Presented to:</label><span style='text-decoration:underline;'>" + jname + "</span></p>";
   hstr += "<p style='font-size:18px'>Completed on " + jdate + " for a total of " + jhours + " hours of Continuing Education Credits<br>Course ID:" + jsku + "</p>";
   hstr += "<p style='font-size:18px'>Course ID:</span><span>" + jsku + "</p>";
