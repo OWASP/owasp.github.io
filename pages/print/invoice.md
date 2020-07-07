@@ -61,7 +61,7 @@
   hstr += "<p style='font-size:18px;'>Payment Date " + jdate + "</p>";
   hstr += "<hr>";
   hstr += "<p style='font-size:18px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "<br>" + jcity + ", "+ jcountry + "</p>";
-  hstr += "<p style='font-size:18px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
+  hstr += "<p style='font-size:18px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " :: " + jprice + "</p>";
   tsec = document.getElementById("invoice");
   tsec.innerHTML = hstr;
 </script>
