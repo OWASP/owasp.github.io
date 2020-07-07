@@ -53,7 +53,7 @@
 
 <!--  parse query string  -->
 <script type = "text/javascript">
-// example url: https://owasp.org/pages/print/training-certificate?name=Mike%20McCamon&event=Virtual%20AppSect&class=Defending%20Kubernetes&hours=8&date=June%2020,%202020
+// example url: https://owasp.org/pages/print/training-certificate?name=Mike%20McCamon&event=Virtual%20AppSect&class=Defending%20Kubernetes&sku=sku_HOts6ZxZnmJERL&hours=8&date=June%2020,%202020
 
 
   function getUrlParameter(name) {
