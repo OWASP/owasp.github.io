@@ -46,10 +46,10 @@
   };
   
   jname = getUrlParameter('name'); // "Billy Bob Smith"
-  jcompany = getUrlParameter('company') // Apple
+  jcompany = getUrlParameter('company'); // Apple
   jevent = getUrlParameter('event'); // "AppSec Days"
   jtraining = getUrlParameter('class'); // "Defensive coding in JavaScript"
-  jpayment = getUrlParameter('payment') // "pm_1Gx6eCAqEqYTAl67mjPkeFLQ"
+  jpayment = getUrlParameter('payment'); // "pm_1Gx6eCAqEqYTAl67mjPkeFLQ"
   jhours = getUrlParameter('hours'); // "8"
   jdate = getUrlParameter('date'); // "June 24, 2020"
   jprice = getUrlParameter('price'); // "$495"
