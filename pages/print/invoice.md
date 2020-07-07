@@ -58,7 +58,7 @@
   hstr += "<p style='font-size:18px;'>401 Edgewater Place, Suite 600<br>Wakefield, MA 01880</p>";
   hstr += "<hr>";
   hstr += "<p style='font-size:18px;'>Invoice/Payment ID: " + jpayment + "</p>";
-  hstr += "<p style='font-size:18px;'>Payment Date " + jdate + "</p>";
+  hstr += "<p style='font-size:18px;'>Payment Date: " + jdate + "</p>";
   hstr += "<hr>";
   hstr += "<p style='font-size:18px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "<br>" + jcity + ", "+ jcountry + "</p>";
   hstr += "<p style='font-size:18px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " :: " + jprice + "</p>";
