@@ -54,14 +54,14 @@
   jdate = getUrlParameter('date'); // "June 24, 2020"
   jprice = getUrlParameter('price'); // "$495"
   
-  hstr = "<p style='font-size:16px;'>OWASP<sup>&reg;</sup> Foundation Training Invoice</p>";
-  hstr += "<p style='font-size:16px;'>401 Edgewater Place, Suite 600<br>Wakefield, MA 01880</p>";
+  hstr = "<p style='font-size:24px;'>OWASP<sup>&reg;</sup> Foundation Training Invoice</p>";
+  hstr += "<p style='font-size:18px;'>401 Edgewater Place, Suite 600<br>Wakefield, MA 01880</p>";
   hstr += "<hr>";
-  hstr += "<p style='font-size:16px;'>Invoice/Payment ID: " + jpayment + "</p>";
-  hstr += "<p style='font-size:16px;'>Payment date " + jdate + "</p>";
+  hstr += "<p style='font-size:18px;'>Invoice/Payment ID: " + jpayment + "</p>";
+  hstr += "<p style='font-size:18px;'>Payment date " + jdate + "</p>";
   hstr += "<hr>";
-  hstr += "<p style='font-size:16px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "</p>";
-  hstr += "<p style='font-size:16px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
+  hstr += "<p style='font-size:18px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "</p>";
+  hstr += "<p style='font-size:18px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
   tsec = document.getElementById("invoice");
   tsec.innerHTML = hstr;
 </script>
