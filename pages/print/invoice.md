@@ -34,7 +34,7 @@
 
 <!--  parse query string  -->
 <script type = "text/javascript">
-// example url: https://owasp.org/pages/print/invoice?name=Mike%20McCamon&company=Apple&payment=pm_1Gx6eCAqEqYTAl67mjPkeFLQ&event=Virtual%20AppSect&class=Defending%20Kubernetes&hours=8&date=June%2020,%202020&price=$495%20USD
+// example url: https://owasp.org/pages/print/invoice?name=Mike%20McCamon&company=Apple&country=United%20States&city=Cupertino&payment=pm_1Gx6eCAqEqYTAl67mjPkeFLQ&event=Virtual%20AppSect&class=Defending%20Kubernetes&hours=8&date=June%2020,%202020&price=$495%20USD
 
   function getUrlParameter(name) {
       name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
@@ -45,6 +45,8 @@
   
   jname = getUrlParameter('name'); // "Billy Bob Smith"
   jcompany = getUrlParameter('company'); // "Apple"
+  jcity = getUrlParameter('city'); // "Cupertino"
+  jcountry= getUrlParameter('country'); // "United States"
   jevent = getUrlParameter('event'); // "AppSec Days"
   jtraining = getUrlParameter('class'); // "Defensive coding in JavaScript"
   jpayment = getUrlParameter('payment'); // "pm_1Gx6eCAqEqYTAl67mjPkeFLQ"
@@ -58,7 +60,7 @@
   hstr += "<p style='font-size:18px;'>Invoice/Payment ID: " + jpayment + "</p>";
   hstr += "<p style='font-size:18px;'>Payment Date " + jdate + "</p>";
   hstr += "<hr>";
-  hstr += "<p style='font-size:18px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "</p>";
+  hstr += "<p style='font-size:18px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "<br>" + jcity + ", "+ jcountry + "</p>";
   hstr += "<p style='font-size:18px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
   tsec = document.getElementById("invoice");
   tsec.innerHTML = hstr;
