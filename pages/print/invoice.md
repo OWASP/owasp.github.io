@@ -20,7 +20,7 @@
 
 <div class="content">
 
-  <img src="/assets/images/logo.png" height="36">
+  <img src="/assets/images/logo.png" height="72">
   <section id="invoice"> 
   
   </section>
