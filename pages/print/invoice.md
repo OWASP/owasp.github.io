@@ -46,7 +46,7 @@
   };
   
   jname = getUrlParameter('name'); // "Billy Bob Smith"
-  jcompany = getUrlParameter('company'); // Apple
+  jcompany = getUrlParameter('company'); // "Apple"
   jevent = getUrlParameter('event'); // "AppSec Days"
   jtraining = getUrlParameter('class'); // "Defensive coding in JavaScript"
   jpayment = getUrlParameter('payment'); // "pm_1Gx6eCAqEqYTAl67mjPkeFLQ"
@@ -58,7 +58,7 @@
   hstr += "<p style='font-size:16px;'>401 Edgewater Place, Suite 600<br>Wakefield, MA 01880</p>";
   hstr += "<hr>";
   hstr += "<p style='font-size:16px;'>Invoice/Payment:" + jpayment + "</p>";
-  hstr += "<p style='font-size:16px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany"</p>";
+  hstr += "<p style='font-size:16px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "</p>";
   hstr += "<p style='font-size:16px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
   tsec = document.getElementById("invoice");
   tsec.innerHTML = hstr;
