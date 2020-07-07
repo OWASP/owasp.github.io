@@ -53,7 +53,7 @@
 
 <!--  parse query string  -->
 <script type = "text/javascript">
-// example url: https://owasp.org/pages/print/training-certificate?name=Mike%20McCamon&event=Virtual%20AppSect&class=Defending%20Kubernetes&sku=sku_HOts6ZxZnmJERL&hours=8&date=June%2020,%202020
+// example url: https://owasp.org/pages/print/training-certificate?name=Mike%20McCamon&event=Virtual%20AppSec%20Days&class=Defending%20Kubernetes&sku=sku_HOts6ZxZnmJERL&hours=8&date=June%2020,%202020
 
 
   function getUrlParameter(name) {
@@ -73,7 +73,7 @@
   // hstr = "<p style='font-size:36px;'>OWASP<sup>&reg;</sup> Foundation Training Certificate</p>";
   hstr = "<p style='font-size:24px;margin-left: 8px;'><span style='font-weight:bold;margin-right:8px;'>Course Title:</span><span style='font-style:italic;'>" + jevent + ", " + jtraining + "</span></p>";
   hstr += "<p style='font-size:24px;margin-left: 8px;margin-right:8px;'><label style='margin-right:8px;font-weight:bold;'>Presented to:</label><span style='text-decoration:underline;'>" + jname + "</span></p>";
-  hstr += "<p style='font-size:18px'>Completed on " + jdate + " for a total of " + jhours + " hours of Continuing Education Credits</p>";
+  hstr += "<p style='font-size:18px'>Completed on " + jdate + " for a total of " + jhours + " hours of Continuing Education Credits<br>Course ID:" + jsku + "</p>";
   hstr += "<p style='font-size:18px'>Course ID:</span><span>" + jsku + "</p>";
   
   tsec = document.getElementById("training");
