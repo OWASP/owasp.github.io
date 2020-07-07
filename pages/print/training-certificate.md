@@ -12,27 +12,35 @@
     position: fixed;
     bottom: 0;
   }
+
+  .repeating-linear {
+  margin:auto;
+  max-width: 60%;
+  color: grey;
+  border: 60px solid grey;
+  border-image: url(/assets/images/fancy1-black.jpg) 30% round;
+  }
+
+  .content {
+    color: black;
+  }
+
 </style>
 
-
-<div class="certificate-header">
+<div class='repeating-linear'>
+  <div class="content">
+    <div style='line-height:72px;text-align:center;margin-bottom:40px;'>
+      <img src="/assets/images/logo.png" height="72px"><div style='display:block; height:72px; margin-left: 12px; font-weight:bold; font-size: 2em; vertical-align:middle; line-height:normal;'>Training Certificate of Completion</div>
+    </div>
+    <section id="training"> 
+    </section>
+  </div>
+  <div class="certificate-footer">
+      <p class="disclaimer">
+      Printed {{ "now" | date: "%B %-d, %Y" }}. Open Web Application Security Project and OWASP are registered trademarks and Global AppSec, AppSec Days, AppSec California, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc.  
+      </p>
+  </div>
 </div>
-
-<div class="content">
-
-  <img src="/assets/images/logo.png" height="72">
-  <section id="training"> 
-  
-  </section>
-
-</div>
-
-<div class="certificate-footer">
-    <p class="disclaimer">
-    Printed {{ "now" | date: "%B %-d, %Y" }}. Open Web Application Security Project and OWASP are registered trademarks and Global AppSec, AppSec Days, AppSec California, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc.  
-    </p>
-</div>
-
 
 <!--  parse query string  -->
 <script type = "text/javascript">
@@ -52,10 +60,11 @@
   jhours = getUrlParameter('hours'); // "8"
   jdate = getUrlParameter('date'); // "June 24, 2020"
   jprice = getUrlParameter('price'); // "$495"
-  hstr = "<p style='font-size:36px;'>OWASP<sup>&reg;</sup> Foundation Training Certificate</p>";
-  hstr += "<p style='font-size:42px'><strong>" + jname + "</strong></p>";
-  hstr += "<p style='font-size:36px'>" + jtraining + "</p>";
-  hstr += "<p style='font-size:18px'>Completed on " + jdate + " for a total of " + jhours + " Continuing Education Credits</p>";
+  jsku = getUrlParameter('sku'); // sku38498348
+  // hstr = "<p style='font-size:36px;'>OWASP<sup>&reg;</sup> Foundation Training Certificate</p>";
+  hstr = "<p style='font-size:24px;margin-left: 8px;'><span style='font-weight:bold;margin-right:8px;'>Course Tile:</span><span style='font-style:italic;'>" + jtraining + "</span><span style='font-weight:bold;margin-right:8px;margin-left:20%;'>Course ID:</span><span>" + jsku + "</span></p>";
+  hstr += "<p style='font-size:24px;margin-left: 8px;margin-right:8px;'><label style='margin-right:8px;font-weight:bold;'>Presented to:</label><span style='text-decoration:underline;'>" + jname + "</span></p>";
+  hstr += "<p style='font-size:18px'>Completed on " + jdate + " for a total of " + jhours + " hours of Continuing Education Credits</p>";
   tsec = document.getElementById("training");
   tsec.innerHTML = hstr;
 </script>
