@@ -21,7 +21,7 @@
 <div class="content">
 
   <img src="/assets/images/logo.png" height="36">
-  <section id="training"> 
+  <section id="invoice"> 
   
   </section>
 
@@ -60,7 +60,7 @@
   hstr += "<p style='font-size:16px;'>Invoice/Payment:" + jpayment + "</p>";
   hstr += "<p style='font-size:16px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany"</p>";
   hstr += "<p style='font-size:16px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
-  tsec = document.getElementById("training");
+  tsec = document.getElementById("invoice");
   tsec.innerHTML = hstr;
 </script>
 <!--  page to print  -->
