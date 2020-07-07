@@ -28,8 +28,12 @@
   @media print { 
 			.noprint { 
 				visibility: hidden; 
-			} 
+			}
 
+      .repeating-linear {
+        max-width: 100%;
+      } 
+  }
 </style>
 
 <div class='repeating-linear'>
