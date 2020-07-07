@@ -222,6 +222,7 @@ permalink: /donate/
 
 
       <form class="form-container" v-on:submit.prevent="handleSubmit">
+        <vue-recaptcha sitekey="6LfsuK4ZAAAAAOEQWvk5zkD9K00uURbviflRH_8M" v-on:verify="onVerifyCaptcha" ref="invisibleRecaptcha" size="invisible" v-on:expired="onExpiredCaptcha" v-on:error="onCaptchaError"></vue-recaptcha>
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
         </div>
@@ -340,15 +341,20 @@ permalink: /donate/
 
 {% endraw %}
 
+<script src="https://www.google.com/recaptcha/api.js?onload=vueRecaptchaApiLoaded&render=explicit"></script>
 <script src="https://js.stripe.com/v3"></script>
 <script src="https://unpkg.com/vue"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://unpkg.com/vue-recaptcha@latest/dist/vue-recaptcha.min.js"></script>
 
 <script>
 var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
 window.addEventListener('load', function () {
   new Vue({
     el: '#donate-app',
+    components: {
+      VueRecaptcha: window.VueRecaptcha
+    },
     data: {
       amount: 50,
       isCustomAmount: false,
@@ -421,36 +427,7 @@ window.addEventListener('load', function () {
             document.getElementById('error-message').scrollIntoView();
           })
         } else {
-          const postData = {
-            checkout_type: 'donation',
-            amount: vm.amount,
-            currency: vm.currency,
-            recurring: vm.recurring,
-            attribution: vm.attribution,
-            project_title: vm.projectName,
-            repo_name: vm.repoName,
-            mailing_list: vm.mailing_list,
-            restricted: vm.restricted,
-            email: vm.email,
-            name: vm.name,
-            source: vm.source
-          };
-
-          axios.post('https://owaspadmin.azurewebsites.net/api/CreateCheckoutSession?code=ulMNYVfgzBytI1adat1lS6MQ3NabtwKE4IgCJ8yKuhvbFoQh6nOYaw==', postData)
-            .then(function (response) {
-	      stripe.redirectToCheckout({
-		sessionId: response.data.data.session_id
-	      }).then(function (result) {
-                console.log(result.error.message)
-	      }); 
-            })
-            .catch(function (error) {
-              vm.errors = error.response.data.errors
-              vm.loading = false
-              vm.$nextTick(function () {
-                document.getElementById('error-message').scrollIntoView();
-              })
-            });
+          this.$refs.invisibleRecaptcha.execute()
         }
       },
       changeCurrency: function (currency) {
@@ -498,6 +475,43 @@ window.addEventListener('load', function () {
         }
 
         this.errors = errors;
+      },
+      onVerifyCaptcha: function () {
+        let vm = this;
+        const postData = {
+          checkout_type: 'donation',
+          amount: vm.amount,
+          currency: vm.currency,
+          recurring: vm.recurring,
+          attribution: vm.attribution,
+          project_title: vm.projectName,
+          repo_name: vm.repoName,
+          mailing_list: vm.mailing_list,
+          restricted: vm.restricted,
+          email: vm.email,
+          name: vm.name,
+          source: vm.source
+        };
+
+        axios.post('https://owaspadmin.azurewebsites.net/api/CreateCheckoutSession?code=ulMNYVfgzBytI1adat1lS6MQ3NabtwKE4IgCJ8yKuhvbFoQh6nOYaw==', postData).then(function (response) {
+          stripe.redirectToCheckout({
+            sessionId: response.data.data.session_id
+          }).then(function (result) {
+            console.log(result.error.message)
+          }); 
+        }).catch(function (error) {
+          vm.errors = error.response.data.errors
+          vm.loading = false
+          vm.$nextTick(function () {
+            document.getElementById('error-message').scrollIntoView();
+          })
+        });
+      },
+      onExpiredCaptcha: function () {
+        this.loading = false
+      },
+      onCaptchaError: function () {
+        this.loading = false
       }
     }
   })
