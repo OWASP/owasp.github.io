@@ -36,7 +36,7 @@
 
 <!--  parse query string  -->
 <script type = "text/javascript">
-// example url: https://owasp.org/pages/print/invoice?name=Mike%20McCamon&company=Apple&payment=pm_1Gx6eCAqEqYTAl67mjPkeFLQ&event=Virtual%20AppSect&class=Defending%20Kubernetes&hours=8&date=June%2020,%202020
+// example url: https://owasp.org/pages/print/invoice?name=Mike%20McCamon&company=Apple&payment=pm_1Gx6eCAqEqYTAl67mjPkeFLQ&event=Virtual%20AppSect&class=Defending%20Kubernetes&hours=8&date=June%2020,%202020&price=$495%20USD
 
   function getUrlParameter(name) {
       name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
@@ -57,7 +57,9 @@
   hstr = "<p style='font-size:16px;'>OWASP<sup>&reg;</sup> Foundation Training Invoice</p>";
   hstr += "<p style='font-size:16px;'>401 Edgewater Place, Suite 600<br>Wakefield, MA 01880</p>";
   hstr += "<hr>";
-  hstr += "<p style='font-size:16px;'>Invoice/Payment:" + jpayment + "</p>";
+  hstr += "<p style='font-size:16px;'>Invoice/Payment ID: " + jpayment + "</p>";
+  hstr += "<p style='font-size:16px;'>Payment date " + jdate + "</p>";
+  hstr += "<hr>";
   hstr += "<p style='font-size:16px;'><strong>Bill to:</strong><br>" + jname + "<br>" + jcompany + "</p>";
   hstr += "<p style='font-size:16px;'><strong>Description and Amount</strong><br>" + jevent + ", " + jtraining + " - " + jprice + "</p>";
   tsec = document.getElementById("invoice");
