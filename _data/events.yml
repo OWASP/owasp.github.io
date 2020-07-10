@@ -1,7 +1,7 @@
 - name: Virtual AppSec Days - Summer of Security
   type: global
   start-date: 2020-06-23
-  dates: June 23-24, July 28-29, Aug 25-26 
+  dates: July 28-29, Aug 25-26 
   url: https://appsecdays.org
   optional-text: Registration Open
 - name: BlackHat USA 2020 
@@ -22,12 +22,6 @@
   dates: October 19-23, 2020
   url: https://sf.globalappsec.org
   optional-text: Registration Opens June 15, 2020
-- name: LASCON 2020
-  type: local
-  start-date: 2020-10-29
-  dates: October 29-30, 2020
-  url: https://lascon.org/
-  optional-text: Austin, TX USA
 - name: AppSec Morocco & Africa 2020
   type: local
   start-date: 2020-11-05
