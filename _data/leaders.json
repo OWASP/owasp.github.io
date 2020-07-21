@@ -5411,13 +5411,6 @@
         "group_url": "https://owasp.org/www-chapter-tehran/"
     },
     {
-        "name": "Milan Gabor",
-        "email": "mailto:milan.gabor@owasp.org",
-        "group": "OWASP Maribor",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-maribor/"
-    },
-    {
         "name": "Alberto Rafael Rodríguez Iglesias",
         "email": "mailto:alberto.iglesias@owasp.org",
         "group": "OWASP Guadalajara",
@@ -5660,7 +5653,7 @@
         "email": "mailto:rodrigowpa@gmail.com",
         "group": "OWASP Big Data Security Verification Standard",
         "group-type": "project",
-        "group_url": "https://owasp.org/www-project-big-data-security-verification-standard/"
+        "group_url": "https://owasp.org/www-project-big-data/"
     },
     {
         "name": "Aditya Pujara",
@@ -5668,5 +5661,12 @@
         "group": "OWASP Adelaide",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-adelaide/"
+    },
+    {
+        "name": "Ferda Özdemir Sönmez",
+        "email": "mailto:ferdaozdemir@gmail.com",
+        "group": "OWASP Security Qualitative Metrics",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-security-qualitative-metrics/"
     }
 ]
