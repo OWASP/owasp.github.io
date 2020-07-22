@@ -36,7 +36,7 @@ Most questions you might have about the OWASP Foundation can be found by searchi
 - [Corporate Sponsorships or Support](mailto:kelly.santalucia@owasp.com?subject=Corporate%20Sponsorships%20or%20Support)
 - [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing)
 
-<a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
+<a href="https://contact.owasp.org/" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
 
 Our global address for general correspondence and faxes can be sent to our physical office address, at: 
 
