@@ -109,7 +109,7 @@ Throughout the migration there have been many questions that have been answered 
 ### How to link to a tab
 To link to a tab like the ones used in projects and chapters, you simply need to use a standard markdown link like the following:
 
-[Link to My Project Tab](#div-[tab lowercase title])
+[Link to My Project Tab](#div-tab lowercase title)
 
 So, for instance, if your Tab were titled 'Supporters', you would link to the tab with [Link to My Project Supporters](#div-supporters)
 Note that this does NOT work for linking to tabs on the same page.
