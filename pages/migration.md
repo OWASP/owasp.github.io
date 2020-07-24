@@ -117,8 +117,9 @@ So, for instance, if your Tab were titled 'Supporters', you would link to the ta
 
 ```
 [Link to My Project Supporters](https://owasp.org/www-project-my-project#div-supporters)
-Note that this does NOT work for linking to tabs on the same page.
 ```
+
+**Note** that this does NOT work for linking to tabs on the same page.
 
 ### How to link from one tab into another tab on the same page
 When linking from one tab into another tab onto the same page, you would need to use an anchor tag with Javascript like the following:
