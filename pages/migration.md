@@ -109,12 +109,20 @@ Throughout the migration there have been many questions that have been answered 
 ### How to link to a tab
 To link to a tab like the ones used in projects and chapters, you simply need to use a standard markdown link like the following:
 
-[Link to My Project Tab](#div-tab lowercase title)
+```
+[Link to My Project Tab](https://owasp.org/www-project-my-project#div-tab lowercase title)
+```
 
-So, for instance, if your Tab were titled 'Supporters', you would link to the tab with [Link to My Project Supporters](#div-supporters)
+So, for instance, if your Tab were titled 'Supporters', you would link to the tab with 
+
+```
+[Link to My Project Supporters](https://owasp.org/www-project-my-project#div-supporters)
 Note that this does NOT work for linking to tabs on the same page.
+```
 
 ### How to link from one tab into another tab on the same page
 When linking from one tab into another tab onto the same page, you would need to use an anchor tag with Javascript like the following:
-<a href="/www-project-myproject#div-supporters" onclick="location.hash='div-supporters'; location.reload();">"My Supporters"</a>
 
+```
+<a href="/www-project-myproject#div-supporters" onclick="location.hash='div-supporters'; location.reload();">"My Supporters"</a>
+```
