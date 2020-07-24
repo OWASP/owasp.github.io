@@ -101,3 +101,20 @@ The second item, displaytext is optional.  If displaytext is missing then the ti
 Of special note is the layout front matter.  This must be null for tab files and putting anything else there can result in some very strange behavior.  
 
 The tab front matter must be set to true and the order indicates what position the tab should take in the tabs displayed on the screen.  Finally, and importantly, the tags front matter must contain the tag that was used in the index.md file mentioned previously or the tab will not display.  Please see the aforementioned repository links for examples.
+
+
+## Tips and Tricks
+Throughout the migration there have been many questions that have been answered in GitHub issues or Slack or email. This section provides a repository of the collected information. Feel free to open a PR to add to this collection.
+
+### How to link to a tab
+To link to a tab like the ones used in projects and chapters, you simply need to use a standard markdown link like the following:
+
+[Link to My Project Tab](#div-[tab lowercase title])
+
+So, for instance, if your Tab were titled 'Supporters', you would link to the tab with [Link to My Project Supporters](#div-supporters)
+Note that this does NOT work for linking to tabs on the same page.
+
+### How to link from one tab into another tab on the same page
+When linking from one tab into another tab onto the same page, you would need to use an anchor tag with Javascript like the following:
+<a href="/www-project-myproject#div-supporters" onclick="location.hash='div-supporters'; location.reload();">"My Supporters"</a>
+

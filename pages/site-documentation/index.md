@@ -52,4 +52,15 @@ web pages.
 The following are the layouts available under the OWASP Foundation Site Theme
 
 * **col-sidebar**: This is the most common layout and it is the expected layout for all projects, chapters, committees, and other pages when another layout is not specifically called for.  The layout includes a right-hand sidebar which attempts to load the info.md and leaders.md files located in the repository.
-* **col-generic**: 
+* **col-generic**: This provides the same layout as col-sidebar, above, except that the info.md and leaders.md files are not included.  This should be used by any page that is not a chapter, project, or committee page and which does not fall under one of the other layouts.
+* **blogpost**: An internally used layout for providing layout for the blogs under the News section.
+* **col-blogsidebar**: Not currently in use.
+* **col-document**: A simple but effective and mobile-friendly document layout that provides navigation between pages. Documents that are stored under a single folder are best served by this layout.
+* **col-document-adv**: A more advanced document layout for complex documents.  This is currently under development (July 24, 2020).
+* **event**: Event template layout for current OWASP Foundation events.
+* **event_noheader**: Event pages not requiring the header.
+* **full-width**: A full-width template that removes the sidebars. This template is used on pages that are not meant to be consumed regularly by the public.
+* **home**: The layout used on the OWASP Foundation website homepage.
+
+Examples of these layouts can be found throughout the website.
+
