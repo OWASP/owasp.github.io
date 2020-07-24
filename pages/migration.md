@@ -106,6 +106,7 @@ The tab front matter must be set to true and the order indicates what position t
 ## Tips and Tricks
 Throughout the migration there have been many questions that have been answered in GitHub issues or Slack or email. This section provides a repository of the collected information. Feel free to open a PR to add to this collection.
 
+---
 ### How to link to a tab
 To link to a tab like the ones used in projects and chapters, you simply need to use a standard markdown link like the following:
 
@@ -121,6 +122,7 @@ So, for instance, if your Tab were titled 'Supporters', you would link to the ta
 
 **Note** that this does NOT work for linking to tabs on the same page.
 
+---
 ### How to link from one tab into another tab on the same page
 When linking from one tab into another tab onto the same page, you would need to use an anchor tag with Javascript like the following:
 
