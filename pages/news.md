@@ -6,7 +6,7 @@ permalink: /news/
 
 ---
 
-Check back here for weekly news and opinions from OWASP leadership, staff, and community members.
+Check back here for weekly news and opinions from OWASP leadership, staff, and community members. Have a news idea for here or the Connector?  Submit to [News](mailto:news@owasp.com?subject=News%20Idea)
   
 <section class="homepage-blog">
 {% assign posts = site.posts | limit: 100 %}
