@@ -7,6 +7,7 @@ permalink: /chapters/events/
 ---
 
 {% for chapter in site.data.chapter_events %}
+---
 ### Chapter: {{ chapter.chapter }}
 {% assign chevents = chapter.events | sort: 'date' %} 
 {% for event in chevents %}
