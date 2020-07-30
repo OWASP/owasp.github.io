@@ -777,13 +777,6 @@
         "group_url": "https://owasp.org/www-project-web-testing-environment/"
     },
     {
-        "name": "Matt Tesauro",
-        "email": "mailto:matt.tesauro@owasp.org",
-        "group": "OWASP Web Testing Environment",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-web-testing-environment/"
-    },
-    {
         "name": "John Melton",
         "email": "mailto:",
         "group": "OWASP Appsensor",
@@ -2884,6 +2877,20 @@
         "group_url": "https://owasp.org/www-chapter-sydney/"
     },
     {
+        "name": "Jack Gifford",
+        "email": "mailto:jack.gifford@owasp.org",
+        "group": "OWASP Sydney",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sydney/"
+    },
+    {
+        "name": "Sherry Liu",
+        "email": "mailto:sherry.liu@owasp.org",
+        "group": "OWASP Sydney",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sydney/"
+    },
+    {
         "name": "Sumit Singh",
         "email": "mailto:",
         "group": "OWASP Varanasi",
@@ -4431,13 +4438,6 @@
         "group_url": "https://owasp.org/www-chapter-belfast/"
     },
     {
-        "name": "Michelle Simpson",
-        "email": "mailto:michelle.simpson@owasp.org",
-        "group": "OWASP Belfast",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-belfast/"
-    },
-    {
         "name": "Siobhan Gallagher",
         "email": "mailto:siobhan.gallagher@owasp.org",
         "group": "OWASP Belfast",
@@ -5647,5 +5647,12 @@
         "group": "OWASP Security Qualitative Metrics",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-qualitative-metrics/"
+    },
+    {
+        "name": "Darrell Nichols",
+        "email": "mailto:darrell.nichols@owasp.org",
+        "group": "OWASP Chania",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chania/"
     }
 ]
