@@ -1,6 +1,6 @@
 ---
 
-title: Upcoming OWASP Chapter Events (next 2 weeks)
+title: Upcoming OWASP Chapter Events (next 6 days)
 layout: col-sidebar
 permalink: /chapters/events/
 
