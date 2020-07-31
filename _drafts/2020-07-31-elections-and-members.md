@@ -9,27 +9,28 @@ excerpt_separator: <!--more-->
 
 ---
 
-The future of OWASP is driven by passionate individuals who sit on the Global Board of Directors. They represent you and are elected by you, our members. 
+The future of OWASP is driven by passionate individuals who sit on the Global Board of Directors. They represent you and are elected by you, our members. We have just published the [Global Board of Directors elections timeline and procedures](https://owasp.org/www-board/elections/2020_elections). 
 
-We have just published the [Global Board of Directors elections timeline and procedures](https://owasp.org/www-board/elections/2020_elections). We ask all members to check that their membership is valid, and necessary communications settings are right.
+We ask all members to check that their membership is valid, and necessary communications settings are correct. I encourage anyone to stand for the Board if they are passionate about OWASP, and I encourage every single member to vote. 
 
-Lastly, I address the current eligibility issues and how this year's elections will not be affected by any upcoming changes to the bylaws. These are essential clarifications that will make sure that the eligibility issues don't happen again. 
+Lastly, I address the current eligibility issues, what's changing, and how this year's elections will not be affected by upcoming changes to our bylaws. 
 
-If you want to be a Board member or vote in the election, please read on.
-
-<!--more-->
 tl;dr:
 
-* **Board eligibility**. You **must** be an Individual, Lifetime, or Honorary member in good standing for at least the last 12 months. You **must** submit your candidacy by August 31.
+* **Board eligibility**. Be an Individual, Lifetime, or Honorary member in good standing for at least the last 12 months. Submit your candidacy between August 15 and August 31.
 
-* **Voter eligibility**. Be an existing, or renew your lapsed membership, or join as an Individual, Lifetime, or Honorary member by September 30. Only OWASP Members will get a ballot and vote. 
+* **Voter eligibility**. Be an Individual, Lifetime, or Honorary member by September 30. Only OWASP Members will get a ballot and vote. Check your membership status to make sure. 
 
-* **Check your mail** Members **must** opt-in to email communications to receive the Call for Candidates and a voting ballot.
+* **Check mail settings** Check your membership settings, and enable email communications to receive the Call for Candidates, reminders, and your unique voting ballot. Your ballot might go to your original email, be caught in the spam folder, or be in the "Updates", "Promotions", or "Social tabs", or if you've opted out of email, not sent at all.
 
-* **Vote** between October 15 - 30. 
+* **Vote** All OWASP members can vote between October 15 - 30. 
 
 For more information, the official OWASP Board of Directors 2020 Election timeline and process is here:
 * [Official Elections Page](https://owasp.org/www-board/elections/2020_elections)
+
+If you want to be a Board member or want to know more about voting in the election, please read on.
+
+<!--more-->
 
 ## Standing for the Board 
 
@@ -60,19 +61,19 @@ Voting is straightforward:
 
 ## Didn't get a membership renewal notice or a ballot? 
 
-**Check that you're a member**  Check your membership status [here](https://owasp.org/manage-membership/) and make sure you are an Individual, Lifetime, or Honorary member. You have until September 30 to sort that out. 
+**Check that you're a member**  Check your [membership here](https://owasp.org/manage-membership/) and make sure you are an Individual, Lifetime, or Honorary member. You have until September 30 to sort that out. 
 
-**Check that you've opted into emails** Using the membership status [here](https://owasp.org/manage-membership/) and ensuring you have opted into OWASP email communications. 
+**Check that you've opted into emails** Check your [membership here](https://owasp.org/manage-membership/) and ensuring you have opted into OWASP email communications. 
 
-**Check other tabs** Gmail sorts communications automatically, and we can't fix that. Please check the "Promotions" or "Updates" tabs, and lastly, in Spam or "in:all" to find it. Star and mark election posts as "important," "This is not spam" if you found it in the spam folder.  
+**Check other tabs** Gmail sorts communications automatically, and we can't fix that. Please check the "Promotions" or "Updates" tabs, and lastly, in Spam or "in:all" to find it. Star and mark election posts as "Important", and "This is not spam" if you found it in the spam folder. 
 
-**Check your original signup email** When you joined OWASP, you probably didn't have an owasp.org email address. Check your original mailbox you signed up with for the Call for Candidates or your ballot. Please consider [updating your membership details](https://owasp.org/manage-membership/) with your preferred email address to prevent this happening in the future. If you can't access that mail address any more, log a ticket with our Contact Us form and we'll be able to help you out once we can prove your identity. 
+**Check your original signup email** When you first joined OWASP, you didn't have an owasp.org email address. Check your original signup mailbox for election correspondance. Please consider [updating your membership details](https://owasp.org/manage-membership/) with your preferred email address to prevent this happening in the future. If you can't access that mail address any more, log a ticket with our Contact Us form and we'll be able to help you out once we can prove your identity. 
 
 ## Controversy around this year's elections
 
-The bylaws, policies, and procedures for this year's elections will be the same as in previous years. The bylaws will be changing soon to reflect recommendations by the Compliance Committee and votes conducted by the Board. These changes clarify the intent and the letter of the bylaws. They will provide a grace period to maintain good standing. 
+The bylaws, policies, and procedures for this year's elections will be the same as in previous years. The bylaws will be changing soon to reflect recommendations by the Compliance Committee and votes conducted by the Board. These changes clarify the intent and the letter of vacancy, appointments, Director eligibility, and Director qualification bylaws. If passed, one of the measures provides a grace period to maintain good standing. 
 
-There has been a great deal of misinformation and fear-mongering about Board eligibility and the election process. To dispel misinformation and quell disquiet around what happened, anyone can verify the facts around the eligibility issue by watching the relevant Board meetings, voting history, and minutes. 
+There has been a great deal of misinformation and fear-mongering about Board eligibility and the election process. To dispel misinformation and quell disquiet around what happened, anyone can verify the facts around the eligibility issue by [watching the relevant Board meetings, voting history, and reviewing the minutes](https://owasp.org/www-board/#div-historical).
 
 To recap: A ruling was requested from the Compliance Committee to make recommendations on two matters. The two questions were:
 
