@@ -4,14 +4,14 @@ date: 2020-07-31
 author: Andrew van der Stock
 author_image: /assets/images/people/staff_andrew.jpg
 layout: blogpost
-title: "Announcement of 2021 Board Elections"
+title: "Announcement of 2020 Board Elections"
 excerpt_separator: <!--more-->
 
 ---
 
 The future of OWASP is driven by passionate individuals who sit on the Global Board of Directors. They represent you and are elected by you, our members. 
 
-We have just published the [2021 Global Board of Directors elections timeline and procedures](). We ask all members to check that their membership is valid, and necessary communications settings are right.
+We have just published the [Global Board of Directors elections timeline and procedures](https://owasp.org/www-board/elections/2020_elections). We ask all members to check that their membership is valid, and necessary communications settings are right.
 
 Lastly, I address the current eligibility issues and how this year's elections will not be affected by any upcoming changes to the bylaws. These are essential clarifications that will make sure that the eligibility issues don't happen again. 
 
@@ -20,7 +20,7 @@ If you want to be a Board member or vote in the election, please read on.
 <!--more-->
 tl;dr:
 
-* **Board eligibility**. You **must** be an Individual, Lifetime, or Honorary member in good standing for at least the last 12 months. You **must** submit your candidacy by August 30.
+* **Board eligibility**. You **must** be an Individual, Lifetime, or Honorary member in good standing for at least the last 12 months. You **must** submit your candidacy by August 31.
 
 * **Voter eligibility**. Be an existing, or renew your lapsed membership, or join as an Individual, Lifetime, or Honorary member by September 30. Only OWASP Members will get a ballot and vote. 
 
@@ -28,8 +28,8 @@ tl;dr:
 
 * **Vote** between October 15 - 30. 
 
-For more information, the official OWASP Board of Directors 2021 Election timeline and process is here:
-* [Official 2021 Elections Page]()
+For more information, the official OWASP Board of Directors 2020 Election timeline and process is here:
+* [Official Elections Page](https://owasp.org/www-board/elections/2020_elections)
 
 ## Standing for the Board 
 
