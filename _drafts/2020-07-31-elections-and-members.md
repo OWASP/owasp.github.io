@@ -66,6 +66,8 @@ Voting is straightforward:
 
 **Check other tabs** Gmail sorts communications automatically, and we can't fix that. Please check the "Promotions" or "Updates" tabs, and lastly, in Spam or "in:all" to find it. Star and mark election posts as "important," "This is not spam" if you found it in the spam folder.  
 
+**Check your original signup email** When you joined OWASP, you probably didn't have an owasp.org email address. Check your original mailbox you signed up with for the Call for Candidates or your ballot. Please consider [updating your membership details](https://owasp.org/manage-membership/) with your preferred email address to prevent this happening in the future. If you can't access that mail address any more, log a ticket with our Contact Us form and we'll be able to help you out once we can prove your identity. 
+
 ## Controversy around this year's elections
 
 The bylaws, policies, and procedures for this year's elections will be the same as in previous years. The bylaws will be changing soon to reflect recommendations by the Compliance Committee and votes conducted by the Board. These changes clarify the intent and the letter of the bylaws. They will provide a grace period to maintain good standing. 
