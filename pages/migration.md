@@ -55,11 +55,18 @@ layout: col-sidebar
 title: <Page Title>
 tags: <tags>
 level: <level>
+region: <region>
+meetup-group: <group name>
+postal-code: <postal code>
 
 ---
 ```
 
 This is called ‘front matter’ and should be the very first thing in your index.md file.  The layout should not be changed and should always be col-sidebar.  The title should be the name of your OWASP chapter or project.  Or instance, the ZAP project would have OWASP Zap as the title.  For tags, these are currently used to associate your tabs with the index.md file that exist on (more on this later).  If you intend to use tabs, you should use a simple word here (e.g. OWASP Zap has tags:zap).  Finally, the level tag can be removed for non-projects.  For projects, the level should be one of: 4 (Flagship), 3 (Lab), or 2 (Incubator).
+
+The region, meetup-group, and postal-code items are specific to chapters.  Region should be one of: Africa, Asia, Oceania, Europe, North America, or South America
+The meeup-group parameter should be the exact part of the Meetup URL AFTER https://meetup.com.  For instance, if your Meetup URL is https://meetup.com/OWASP-My-Chapter then the meetup-group should be OWASP-My-Chapter.
+The front mater setting, postal-code, is the most prevalent postal code of the city wherein the chapter resides
 
 
 ## LEADERS.MD
