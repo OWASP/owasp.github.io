@@ -11,9 +11,10 @@ permalink: /chapters/events/
 ### Chapter: [{{ chapter.chapter }}](/{{ chapter.repo }}/)
 {% assign chevents = chapter.events | sort: 'date' %} 
 {% for event in chevents %}
+{% assign evdate = event.date | date: "%B %d, %Y" %}
 ---
 #### Event: {{ event.name }}
-#### Date: {{ event.date }}
+#### Date: {{ evdate }}
 #### Time: {{ event.time }} ({{ event.timezone }})
 #### Link: [{{ event.link }}]({{ event.link }})
 <div>
