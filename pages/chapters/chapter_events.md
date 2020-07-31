@@ -11,8 +11,6 @@ permalink: /chapters/events/
 {% for event in events %}
 ---
 ### Chapter: [{{ event.chapter }}](/{{ event.repo }}/)
-{% assign chevents = chapter.events | sort: 'date' %} 
-{% for event in chevents %}
 {% assign evdate = event.date | date: "%B %d, %Y" %}
 ---
 #### Event: {{ event.name }}
@@ -23,5 +21,4 @@ permalink: /chapters/events/
 <strong>Description</strong>: {{ event.description }}
 </div>
 <br>
-{% endfor %}
 {% endfor %}
