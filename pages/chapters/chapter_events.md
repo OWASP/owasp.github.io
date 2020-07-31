@@ -6,6 +6,8 @@ permalink: /chapters/events/
 
 ---
 
+<br>
+
 {% for chapter in site.data.chapter_events %}
 ---
 ### Chapter: [{{ chapter.chapter }}](/{{ chapter.repo }}/)
@@ -20,5 +22,6 @@ permalink: /chapters/events/
 <div>
 <strong>Description</strong>: {{ event.description }}
 </div>
+<br>
 {% endfor %}
 {% endfor %}
