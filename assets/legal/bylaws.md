@@ -152,6 +152,10 @@ Membership may be granted to any individual or organization that supports the mi
 
 The Board of Directors, by affirmative vote of two thirds of all members of the Board, may suspend or expel a member, and may, by a majority vote of those present at any regularly constituted meeting, terminate, suspend or expel the membership of any member who becomes ineligible for membership.
 
+### SECTION 4.03a Resumption of Terminated Membership and Activities
+
+The Board of Directors, by the affirmative vote of two-thirds of all members of the Board, may reinstate a Terminated Member to permit full participation in all OWASP activities, chapters, projects, events, committees, and duties, including OWASP Leadership and paid membership.
+
 ### SECTION 4.04 Resignation
 
 Any member may resign by filing a written resignation with the Secretary; however, such resignation shall not relieve the member so resigning of the obligation to pay any dues or other charges theretofore accrued and unpaid.
