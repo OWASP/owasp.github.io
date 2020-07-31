@@ -15,6 +15,7 @@ We ask all members to check that their membership is valid, and necessary commun
 
 Lastly, I address the current eligibility issues, what's changing, and how this year's elections will not be affected by upcoming changes to our bylaws. 
 
+<!--more-->
 tl;dr:
 
 * **Board eligibility**. Be an Individual, Lifetime, or Honorary member in good standing for at least the last 12 months. Submit your candidacy between August 15 and August 31.
@@ -30,7 +31,6 @@ For more information, the official OWASP Board of Directors 2020 Election timeli
 
 If you want to be a Board member or want to know more about voting in the election, please read on.
 
-<!--more-->
 
 ## Standing for the Board 
 
