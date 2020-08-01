@@ -15,13 +15,6 @@ with its own virtual booth on 5th/6th August. Meet & talk to OWASP staff
 and volunteers, and take the chance to meet some of our dedicated
 project leaders.<!--more-->
 
-| Project       | Type          | Level     | Leader  | Booth Availability |
-|:--------------|:--------------|:----------|:--------|:-------------------|
-| [Project 1]() | Tool          | Flagship  | XXXXXXX | XXXXXXXX           |
-| [Project 2]() | Documentation | Flagship  | XXXXXXX | XXXXXXXX           |
-| [Project 3]() | Tool          | Lab       | XXXXXXX | XXXXXXXX           |
-| [Project 4]() | Tool          | Incubator | XXXXXXX | XXXXXXXX           |
-
 Below you can find out more about each of these projects and their
 leaders. OWASP is looking forward to meet you at Black Hat USA 2020!
 
