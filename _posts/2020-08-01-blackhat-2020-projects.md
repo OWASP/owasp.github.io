@@ -11,12 +11,27 @@ excerpt_separator: <!--more-->
 ---
 
 OWASP is an Associate Partner of Black Hat USA 2020 and will be present
-with its own virtual booth on 5th/6th August. Meet & talk to OWASP staff
-and volunteers, and take the chance to meet some of our dedicated
-project leaders.<!--more-->
+with
+[its own virtual booth](https://blackhat.app.swapcard.com/event/black-hat-usa-virtual/exhibitor/RXhoaWJpdG9yXzE1ODAzNQ%3D%3D)
+on 5th/6th August. Meet & talk to OWASP staff and volunteers, and take
+the chance to meet some of our dedicated project leaders.<!--more-->
 
-Below you can find out more about each of these projects and their
-leaders. OWASP is looking forward to meet you at Black Hat USA 2020!
+> [_Black Hat_](https://www.blackhat.com/) _is the most technical and
+> relevant information security event series in the world. For more than
+> 20 years, Black Hat Briefings have provided attendees with the very
+> latest in information security research, development, and trends in a
+> strictly vendor-neutral environment. These high-profile global events
+> and Trainings are driven by the needs of the security community,
+> striving to bring together the best minds in the industry. Black Hat
+> inspires professionals at all career levels, encouraging growth and
+> collaboration among academia, world-class researchers, and leaders in
+> the public and private sectors._
+
+Below you can find out more about each of the OWASP projects and their
+leaders who will be staffing
+[the OWASP virtual booth at Black Hat USA
+2020](https://blackhat.app.swapcard.com/event/black-hat-usa-virtual/exhibitor/RXhoaWJpdG9yXzE1ODAzNQ%3D%3D)!
+OWASP is looking forward to meet you at Black Hat USA 2020!
 
 <p class="callout-mono left">OWASP Top 10</p>
 
@@ -32,11 +47,11 @@ Using the OWASP Top 10 is perhaps the most effective first step towards
 changing the software development culture within your organization into
 one that produces more secure code.
 
-<span style="color:red;">Short bio of Andrew. Short bio of Andrew. Short bio of
+<span style="color:red;">Short bio of Andrew. Short bio of Andrew. Short
+bio of Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of
 Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of Andrew.
 Short bio of Andrew. Short bio of Andrew. Short bio of Andrew. Short bio
 of Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of
-Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of
 Andrew.</span><br><br><br><br><br><br><br>
 
 <p class="callout-mono right">OWASP Juice Shop</p>
@@ -73,8 +88,8 @@ open sources and search engines and collect data quickly and thoroughly.
 If you have skill in Metasploit or Recon-ng, you can easily use it
 without prerequisites and if not, it’s easy to use.
 
-<span style="color:red;">Short bio of Saeed. Short bio of Saeed. Short bio of
-Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short
+<span style="color:red;">Short bio of Saeed. Short bio of Saeed. Short
 bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of
 Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short
-bio of Saeed.</span>
+bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of
+Saeed. Short bio of Saeed.</span>
