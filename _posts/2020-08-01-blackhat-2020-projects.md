@@ -47,14 +47,14 @@ Using the OWASP Top 10 is perhaps the most effective first step towards
 changing the software development culture within your organization into
 one that produces more secure code.
 
-<span style="color:red;">Short bio of Andrew. Short bio of Andrew. Short
-bio of Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of
-Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of Andrew.
-Short bio of Andrew. Short bio of Andrew. Short bio of Andrew. Short bio
-of Andrew. Short bio of Andrew. Short bio of Andrew. Short bio of
-Andrew.</span><br><br><br><br><br><br><br>
+Andrew van der Stock is one of the project leaders of the OWASP Top 10
+and
+[Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
+projects. He is also the Executive Director of the OWASP Foundation and
+previously served on the OWASP Foundation Board as director and
+treasurer.<br><br><br><br><br>
 
-<p class="callout-mono right">OWASP Juice Shop</p>
+<p class="callout-mono left">OWASP Juice Shop</p>
 
 ![Bjoern Kimminich](/assets/images/people/leader_bjoern.jpg)
 
@@ -88,8 +88,4 @@ open sources and search engines and collect data quickly and thoroughly.
 If you have skill in Metasploit or Recon-ng, you can easily use it
 without prerequisites and if not, it’s easy to use.
 
-<span style="color:red;">Short bio of Saeed. Short bio of Saeed. Short
-bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of
-Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short
-bio of Saeed. Short bio of Saeed. Short bio of Saeed. Short bio of
-Saeed. Short bio of Saeed.</span>
+Saeed Dehghan is the project leader of OWASP Maryam.
