@@ -90,7 +90,7 @@ The business and affairs of the Foundation shall be managed by its Board of Dire
 
 ### SECTION 3.02 Number, Tenure, and Qualifications
 
-The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure.
+The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) terms in a ten (10) year period.
 
 ### SECTION 3.03 Regular Meetings
 
