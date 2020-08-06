@@ -1,1 +1,58 @@
-[{"name": "Outreach", "url": "https://owasp.org/www-committee-outreach/", "created": "2020-03-25", "updated": "2020-07-21", "title": "OWASP Outreach Committee", "level": "layout: col-sidebar", "type": "", "region": "Unknown", "pitch": "A very brief, one-line description of your committee"}, {"name": "Compliance", "url": "https://owasp.org/www-committee-compliance/", "created": "2019-10-28", "updated": "2020-06-15", "title": "OWASP Compliance Committee", "level": "4", "type": "", "region": "Unknown", "pitch": "More info soon..."}, {"name": "Wia", "url": "https://owasp.org/www-committee-wia/", "created": "2019-10-28", "updated": "2020-07-15", "title": "OWASP Women in AppSec (WIA) Committee", "level": "4", "type": "", "region": "Unknown", "pitch": "More info soon...", "meetup-group": "womeninappsec"}]
+[
+    {
+        "name": "Outreach",
+        "url": "https://owasp.org/www-committee-outreach/",
+        "created": "2020-03-25",
+        "updated": "2020-07-21",
+        "title": "OWASP Outreach Committee",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Unknown",
+        "pitch": "A very brief, one-line description of your committee"
+    },
+    {
+        "name": "Compliance",
+        "url": "https://owasp.org/www-committee-compliance/",
+        "created": "2019-10-28",
+        "updated": "2020-06-15",
+        "title": "OWASP Compliance Committee",
+        "level": "4",
+        "type": "",
+        "region": "Unknown",
+        "pitch": "More info soon..."
+    },
+    {
+        "name": "Wia",
+        "url": "https://owasp.org/www-committee-wia/",
+        "created": "2019-10-28",
+        "updated": "2020-07-15",
+        "title": "OWASP Women in AppSec (WIA) Committee",
+        "level": "4",
+        "type": "",
+        "region": "Unknown",
+        "pitch": "More info soon...",
+        "meetup-group": "womeninappsec"
+    },
+    {
+        "name": "Global Chapters",
+        "url": "https://owasp.org/www-committee-chapters/",
+        "created": "2020-06-23",
+        "updated": "2020-08-06",
+        "title": "OWASP Global Chapters Committee",
+        "level": "4",
+        "type": "",
+        "region": "Unknown",
+        "pitch": "To provide the support and guidance required by the local chapters to thrive and contribute to the overall mission and goals of OWASP."
+    },
+    {
+        "name": "Education & Training",
+        "url": "https://owasp.org/www-committee-education/",
+        "created": "2020-07-28",
+        "updated": "2020-08-06",
+        "title": "OWASP Education & Training Committee",
+        "level": "4",
+        "type": "",
+        "region": "Unknown",
+        "pitch": "To provide a support mechanism for OWASP education activities to foster collaborations and supporting relationships with the Application Security, Developer and Training communities both academic and industry based."
+    }
+]
