@@ -4517,14 +4517,14 @@
     {
         "name": "Rafael Enrique Monterroza Barrios",
         "email": "mailto:rafael.monterroza@owasp.org",
-        "group": "OWASP Cartagena Chapter",
+        "group": "OWASP Cartagena",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cartagena/"
     },
     {
         "name": "Aisner José Marrugo Juliao",
         "email": "mailto:aisner.marrugo@owasp.org",
-        "group": "OWASP Cartagena Chapter",
+        "group": "OWASP Cartagena",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cartagena/"
     },
@@ -5686,7 +5686,21 @@
     {
         "name": "Sam Stepanyan",
         "email": "mailto:sam.stepanyan@owasp.org",
-        "group": "OWASP Chapter",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
+        "name": "Avi Douglen",
+        "email": "mailto:avi.douglen@owasp.org",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
+        "name": "Haral Tsitsivas",
+        "email": "mailto:haral.tsitsivas@owasp.org",
+        "group": "OWASP Chapter Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-chapter/"
     }
