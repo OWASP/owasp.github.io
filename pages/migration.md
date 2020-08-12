@@ -74,8 +74,8 @@ The front mater setting, postal-code, is the most prevalent postal code of the c
 The leaders.md file should contain the Leaders header and the names and email addresses of the leaders of the chapter or project.  For example:
 ```
 ### Leaders
-* [Jenny Leader](mailto://jenny.leader@owasp.org)
-* [Calliope Leader](mailto://calliope.leader@owasp.org)
+* [Jenny Leader](mailto:jenny.leader@owasp.org)
+* [Calliope Leader](mailto:calliope.leader@owasp.org)
 ```
 
 When you add or change leaders this file should be kept updated.
@@ -118,7 +118,7 @@ Throughout the migration there have been many questions that have been answered 
 To link to a tab like the ones used in projects and chapters, you simply need to use a standard markdown link like the following:
 
 ```
-[Link to My Project Tab](https://owasp.org/www-project-my-project#div-tab lowercase title)
+[Link to My Project Tab](https://owasp.org/www-project-my-project#div-tab-lowercase-title)
 ```
 
 So, for instance, if your Tab were titled 'Supporters', you would link to the tab with 
@@ -136,3 +136,23 @@ When linking from one tab into another tab onto the same page, you would need to
 ```
 <a href="/www-project-myproject#div-supporters" onclick="location.hash='div-supporters'; location.reload();">"My Supporters"</a>
 ```
+
+---
+### Setup a local testing environment
+
+To set up a local development environment for the new OWASP [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) site:
+
+1. Install Jekyll and its required dependencies for your operating system. See [Installation](https://jekyllrb.com/docs/installation/).
+2. Clone the relevant repository, for example (`www-project-web-security-testing-guide`): 
+
+    `git clone https://github.com/OWASP/www-project-web-security-testing-guide.git`
+
+3. Change into the repository directory and install dependencies with:
+
+    `cd www-project-web-security-testing-guide && bundle install`
+
+4. Serve the site to view it locally by running:
+
+    `bundle exec jekyll serve`
+
+> Note: The instructinos above are Linux centric, they've been tested on Kali and Ubuntu Virtual Machines.
