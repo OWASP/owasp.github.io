@@ -224,6 +224,13 @@
         "group_url": "https://owasp.org/www-project-application-security-curriculum/"
     },
     {
+        "name": "Grant Ongers",
+        "email": "mailto:grant.ongers@owasp.org",
+        "group": "OWASP Application Security Curriculum",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-security-curriculum/"
+    },
+    {
         "name": "Erez Yalon",
         "email": "mailto:erez.yalon@owasp.org",
         "group": "OWASP Software Composition Security",
@@ -2555,8 +2562,8 @@
         "group_url": "https://owasp.org/www-chapter-madurai/"
     },
     {
-        "name": "Saurabh Chaudhry",
-        "email": "mailto://saurabh.chaudhary@owasp.org",
+        "name": "Saurabh Chaudhary",
+        "email": "mailto:saurabh.chaudhary@owasp/org",
         "group": "OWASP Bhopal",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-bhopal/"
@@ -2623,6 +2630,13 @@
         "group": "OWASP Copenhagen",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-copenhagen/"
+    },
+    {
+        "name": "Walter Martín Villalba",
+        "email": "mailto:martin.villalba@owasp.org",
+        "group": "OWASP Santa Barbara",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-santa-barbara/"
     },
     {
         "name": "Ian Gorrie",
@@ -5703,5 +5717,19 @@
         "group": "OWASP Chapter Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
+        "name": "Raj Sureja",
+        "email": "mailto:raj.sureja@owasp.org",
+        "group": "OWASP NIT - Tiruchirapalli",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nit-tiruchirapalli/"
+    },
+    {
+        "name": "Pranav Satish",
+        "email": "mailto:pranav.satish@owasp.org",
+        "group": "OWASP NIT - Tiruchirapalli",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nit-tiruchirapalli/"
     }
 ]
