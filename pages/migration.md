@@ -155,4 +155,6 @@ To set up a local development environment for the new OWASP [Jekyll](https://jek
 
     `bundle exec jekyll serve`
 
-> Note: The instructinos above are Linux centric, they've been tested on Kali and Ubuntu Virtual Machines.
+5. Once the local server is up and ready for connections/testing a destination URL will be displayed in the console output. Likely `http://127.0.0.1:4000`. (Keep in mind this is only the one project or chapter and so some out-of-scope links may not function correclty.)
+
+> Note: The instructions above are Linux centric, they've been tested on Kali and Ubuntu Virtual Machines.
