@@ -68,7 +68,7 @@ permalink: /manage-membership/
         </div>
         <div style="margin-bottom: 18px;">
         <input type="text" v-model="email" v-on:input="updateErrors" aria-label="Email Address"
-        placeholder="Email Address" />
+        placeholder="Email Address (case sensitive)" />
         <div class="error-text" v-if="errors.email">
         {{ errors.email[0] }}
         </div>
