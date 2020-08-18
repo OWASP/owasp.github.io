@@ -925,7 +925,7 @@
     },
     {
         "name": "Björn Kimminich",
-        "email": "mailto://bjoern.kimminich@owasp.org",
+        "email": "mailto:bjoern.kimminich@owasp.org",
         "group": "OWASP Juice Shop",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-juice-shop/"
@@ -5313,6 +5313,13 @@
         "group_url": "https://owasp.org/www-project-thick-client-top-10/"
     },
     {
+        "name": "Ankit Gurjargour",
+        "email": "mailto:ankit.gurjargour@gmail.com",
+        "group": "OWASP Thick Client Top 10 Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-thick-client-top-10/"
+    },
+    {
         "name": "Karan Preet Singh Sasan",
         "email": "mailto:preetkaran20@gmail.com",
         "group": "OWASP VulnerableApp",
@@ -5752,5 +5759,19 @@
         "group": "OWASP Taiwan",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-taiwan/"
+    },
+    {
+        "name": "Eugen Busoiu",
+        "email": "mailto:eugen.busoiu@owasp.org",
+        "group": "OWASP Iasi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-iasi/"
+    },
+    {
+        "name": "Alexandru Coman",
+        "email": "mailto:alexandru.coman@owasp.org",
+        "group": "OWASP Iasi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-iasi/"
     }
 ]
