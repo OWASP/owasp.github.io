@@ -258,4 +258,4 @@ window.addEventListener('load', function () {
 }, false)
 </script>
 
-Having problems? <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72" target="_blank" rel="noopener">Submit a Ticket</a>.
+Having membership problems? <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72" target="_blank" rel="noopener">Submit a Ticket</a>.
