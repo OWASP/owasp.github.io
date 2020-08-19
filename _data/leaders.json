@@ -1890,13 +1890,6 @@
         "group_url": "https://owasp.org/www-chapter-cape-town/"
     },
     {
-        "name": "Keagan Jarvis",
-        "email": "mailto:keaganjarvis@gmail.com",
-        "group": "OWASP Cape Town",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cape-town/"
-    },
-    {
         "name": "Fahad AlQallaf",
         "email": "mailto:fahad.alqallaf@owasp.org",
         "group": "OWASP Kuwait City",
@@ -4089,7 +4082,14 @@
     },
     {
         "name": "Konstantinos Papapanagiotou",
-        "email": "mailto:konstantinos@owasp.org",
+        "email": "mailto:conpap@owasp.gr",
+        "group": "OWASP Greece",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-greece/"
+    },
+    {
+        "name": "Vasileios Vlachos",
+        "email": "mailto:vsvlachos@owasp.gr",
         "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
@@ -5773,5 +5773,19 @@
         "group": "OWASP Iasi",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-iasi/"
+    },
+    {
+        "name": "Praveen Thiyagarayam",
+        "email": "mailto:praveen.thiyagarayam@owasp.org",
+        "group": "OWASP Tiruvallur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-tiruvallur/"
+    },
+    {
+        "name": "Abisheik Magesh",
+        "email": "mailto:abisheik.magesh@owasp.org",
+        "group": "OWASP Tiruvallur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-tiruvallur/"
     }
 ]
