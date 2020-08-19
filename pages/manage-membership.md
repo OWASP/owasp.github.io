@@ -257,3 +257,5 @@ window.addEventListener('load', function () {
   })
 }, false)
 </script>
+
+<a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72" target="_blank" rel="noopener"><button class="cta-button dark">Submit a Ticket</button></a>
