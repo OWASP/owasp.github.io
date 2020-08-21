@@ -8,7 +8,7 @@ permalink: /secureflag-howto/
 
 ### Secure Flag Membership Benefit 
 
-OWASP Foundation has partnered with SecureFlag to provide our members with an open source training platform created for developers to learn and practice modern secure coding techniques through hands-on exercises.  Our instance can be located at [OWASP SecureFlag](https://secureflag.owasp.org/).  This is provided as a trial only for now and is being operated only in the EMEA and US regions; logging in from other regions may result in a degraded experience at this time.  We will investigate adding further regions in the future as the need arises.
+OWASP Foundation has partnered with SecureFlag to provide our members with an application security training platform created for developers to learn and practice modern secure coding techniques through hands-on exercises.  Our instance can be located at [OWASP SecureFlag](https://secureflag.owasp.org/).  This is provided as a trial only for now and is being operated only in the EMEA and US regions; logging in from other regions may result in a degraded experience at this time.  We will investigate adding further regions in the future as the need arises.
 
 ### Creating an account
 
