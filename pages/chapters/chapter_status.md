@@ -101,7 +101,7 @@ Jump to
 ---
 <section id='last-update'></section>
 
-### Chapter Most Recent Updates
+### All Chapters and Most Recent Update
 <ul>
 {% assign chapters = site.data.chapters | sort: 'updated' | reverse %}
 {% for chapter in chapters %}
