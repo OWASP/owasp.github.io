@@ -11,29 +11,28 @@ Jump to
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
-* [Inactive](#inactive)
 
 ----
 <section id='new'></section>
 
 ### New Projects (created within last 60 days)
 {% assign year = "today" | date: "%Y" %}
-{% assign month = "today" | date: "%b" %}
+{% assign month = "today" | date: "%m" %}
 {% assign year = year | plus: 0 %}
 {% assign month = month | plus: 0 %}
 
 <ul>
 {% for project in site.data.projects %}
     {% assign cyear = project.created | date: "%Y" %}
-    {% assign cmonth = project.created | date: "%b" %}
+    {% assign cmonth = project.created | date: "%m" %}
     {% assign cyear = cyear | plus: 0 %}
     {% assign cmonth = cmonth | plus: 0 %}
-    {% assign testmonth = cmonth | minus: month %}
+    {% assign testmonth = month | minus: cmonth %}
     {% assign testyear = year | minus: 1 %}
     {% if cyear == year and testmonth  < 2 %} 
-        <li><a href='{{ project.url }}'>{{ project.title }}</a></li>
-    {% elsif cyear == testyear and cmonth >= 11 %}
-        <li><a href='{{ project.url }}'>{{ project.title }}</a></li>
+        <li><a href='{{ project.url }}'>{{ project.created }}, {{ project.title }}</a></li>
+    {% elsif month <= 2 and cyear == testyear and cmonth >= 11 %}
+        <li><a href='{{ project.url }}'>{{ project.created }}, {{ project.title }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
@@ -46,15 +45,15 @@ Jump to
 {% assign projects = site.data.projects | sort: 'updated' | reverse %}
 {% for project in projects %}
     {% assign cyear = project.created | date: "%Y" %}
-    {% assign cmonth = project.created | date: "%b" %}
+    {% assign cmonth = project.created | date: "%m" %}
     {% assign cyear = cyear | plus: 0 %}
     {% assign cmonth = cmonth | plus: 0 %}
     {% assign cuyear = project.updated | date: "%Y" %}
-    {% assign cumonth = project.updated | date: "%b" %}
+    {% assign cumonth = project.updated | date: "%m" %}
     {% assign custr = project.updated | date: "%Y-%m-%d" %}
     {% assign cuyear = cuyear | plus: 0 %}
     {% assign cumonth = cumonth | plus: 0 %}
-    {% assign testmonth = cumonth | minus: month %}
+    {% assign testmonth = month | minus: cumonth %}
     {% assign testyear = cuyear | minus: 1 %}
     {% if cuyear == year and testmonth < 2 %}
        {% unless cyear == year and cmonth == month %}
@@ -64,7 +63,7 @@ Jump to
                 {% endunless %}
             {% endunless %}
        {% endunless %}
-    {% elsif cuyear == testyear and cumonth >= 11  %}
+    {% elsif cumonth <= 2 and cuyear == testyear and cumonth >= 11  %}
         {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless project.region contains 'Website Update' %}
@@ -88,16 +87,6 @@ Jump to
 {% endfor %}
 </ul>
 
-----
-<section id='inactive'></section>
-
-### Inactive Projects 
-<ul>
-{% for project in site.data.inactive_projects %}
-    <li>{{ project.title }}</li>
-{% endfor %}
-</ul>
-
 ---
 <section id='last-update'></section>
 
@@ -116,4 +105,3 @@ Jump to
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
-* [Inactive](#inactive)
