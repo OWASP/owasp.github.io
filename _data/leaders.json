@@ -2955,7 +2955,7 @@
     },
     {
         "name": "Kyle Smith",
-        "email": "mailto://kyle.smith@owasp.org",
+        "email": "mailto:kyle.smith@owasp.org",
         "group": "OWASP Austin",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-austin/"
@@ -4648,13 +4648,6 @@
         "group_url": "https://owasp.org/www-chapter-vina-del-mar/"
     },
     {
-        "name": "Guillermo Farias Diaz",
-        "email": "mailto:guillermo.farias@owasp.org",
-        "group": "OWASP Vina Del Mar",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-vina-del-mar/"
-    },
-    {
         "name": "Bil Corry",
         "email": "mailto:bil.corry@owasp.org",
         "group": "OWASP Nashua",
@@ -5321,7 +5314,7 @@
     },
     {
         "name": "Karan Preet Singh Sasan",
-        "email": "mailto:preetkaran20@gmail.com",
+        "email": "mailto:karan.sasan@owasp.org",
         "group": "OWASP VulnerableApp",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-vulnerableapp/"
@@ -5593,13 +5586,6 @@
         "group_url": "https://owasp.org/www-chapter-jeddah/"
     },
     {
-        "name": "Naveen Pal",
-        "email": "mailto:naveen.pal@owasp.org",
-        "group": "OWASP Kanpur",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kanpur/"
-    },
-    {
         "name": "Laicana Coulibaly",
         "email": "mailto:laicana.coulibaly@owasp.org",
         "group": "OWASP Abidjan",
@@ -5759,5 +5745,26 @@
         "group": "OWASP Tiruvallur",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tiruvallur/"
+    },
+    {
+        "name": "Adrian Winckles",
+        "email": "mailto:adrian.winckles@owasp.org",
+        "group": "OWASP Education and Training Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-education-and-training/"
+    },
+    {
+        "name": "John DiLeo",
+        "email": "mailto:john.dileo@owasp.org",
+        "group": "OWASP Education and Training Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-education-and-training/"
+    },
+    {
+        "name": "Andrew Gordon-Brooks",
+        "email": "mailto:andrew.gordonbrooks@owasp.org",
+        "group": "OWASP Education and Training Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-education-and-training/"
     }
 ]
