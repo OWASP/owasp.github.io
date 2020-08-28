@@ -2156,13 +2156,6 @@
         "group_url": "https://owasp.org/www-chapter-belo-horizonte/"
     },
     {
-        "name": "Renan Quevedo",
-        "email": "mailto:renan.quevedo@owasp.org",
-        "group": "OWASP Bogota",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bogota/"
-    },
-    {
         "name": "Elvin Mollinedo",
         "email": "mailto:elvin.mollinedo@owasp.org",
         "group": "OWASP Bolivia",
@@ -4068,21 +4061,21 @@
     },
     {
         "name": "Jonas Magazinius",
-        "email": "mailto://jonas.magazinius@owasp.org",
+        "email": "mailto:jonas.magazinius@owasp.org",
         "group": "OWASP Gothenburg",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-gothenburg/"
     },
     {
         "name": "Viktor Lindström",
-        "email": "mailto://viktor.lindstrom@owasp.org",
+        "email": "mailto:viktor.lindstrom@owasp.org",
         "group": "OWASP Gothenburg",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-gothenburg/"
     },
     {
         "name": "Daniel Fallstrand",
-        "email": "mailto://daniel.fallstrand@owasp.org",
+        "email": "mailto:daniel.fallstrand@owasp.org",
         "group": "OWASP Gothenburg",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-gothenburg/"
@@ -5243,13 +5236,6 @@
         "group_url": "https://owasp.org/www-chapter-malmo/"
     },
     {
-        "name": "Akshay Gupta",
-        "email": "mailto:akshay.gupta@owasp.org",
-        "group": "OWASP Canberra",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-canberra/"
-    },
-    {
         "name": "Mantas S.",
         "email": "mailto:mantas.sanauskas@owasp.org",
         "group": "OWASP Bournemouth University",
@@ -5404,18 +5390,18 @@
         "group_url": "https://owasp.org/www-project-core-business-application-security/"
     },
     {
+        "name": "Rumeysa Bozdemir",
+        "email": "mailto:rumeysa.bozdemir@owasp.org",
+        "group": "OWASP Istanbul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-istanbul/"
+    },
+    {
         "name": "Mohammad Hossein Golhassani",
         "email": "mailto:mohammad.hossein.golhassani@owasp.org",
         "group": "OWASP Tehran",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tehran/"
-    },
-    {
-        "name": "Bilal S. Taha",
-        "email": "mailto:bilal.taha@owasp.org",
-        "group": "OWASP Baghdad",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-baghdad/"
     },
     {
         "name": "Salim Mwachuo",
@@ -5637,7 +5623,7 @@
     {
         "name": "Ferda Özdemir Sönmez",
         "email": "mailto:ferdaozdemir@gmail.com",
-        "group": "OWASP Security Qualitative Metrics",
+        "group": "www-project-security-qualitative-metrics",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-qualitative-metrics/"
     },
@@ -5773,5 +5759,47 @@
         "group": "OWASP Education and Training Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-education-and-training/"
+    },
+    {
+        "name": "Jamieson O'Reilly",
+        "email": "mailto:jamieson@dvuln.com",
+        "group": "OWASP Cloud Security Testing Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cloud-security-testing-guide/"
+    },
+    {
+        "name": "Arthur Kay",
+        "email": "mailto:arthurakay@gmail.com",
+        "group": "OWASP Cyber Scavenger Hunt",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cyber-scavenger-hunt/"
+    },
+    {
+        "name": "Ilya Chernyakov",
+        "email": "mailto:eliuha@gmail.com",
+        "group": "OWASP AWScanner",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-awscanner/"
+    },
+    {
+        "name": "Uday Korlimarla",
+        "email": "mailto:uday@inspektre.io",
+        "group": "OWASP ASVS-Graph",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-asvs-graph/"
+    },
+    {
+        "name": "Gregor Spagnolo",
+        "email": "mailto:gregor@ssrd.io",
+        "group": "OWASP SecureBank",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-securebank/"
+    },
+    {
+        "name": "Ashish Rao",
+        "email": "mailto:rao.ashish20@gmail.com",
+        "group": "OWASP Sectudo",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-sectudo/"
     }
 ]
