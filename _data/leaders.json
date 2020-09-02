@@ -2198,13 +2198,6 @@
         "group_url": "https://owasp.org/www-chapter-chile/"
     },
     {
-        "name": "Michael Hidalgo",
-        "email": "mailto:michael.hidalgo@owasp.org",
-        "group": "OWASP Costa Rica",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-costa-rica/"
-    },
-    {
         "name": "Kembolle Amilkar",
         "email": "mailto:kembolle@owasp.org",
         "group": "OWASP Cuiaba",
@@ -3591,20 +3584,6 @@
         "group_url": "https://owasp.org/www-chapter-dhaka/"
     },
     {
-        "name": "Santhosh Kumar",
-        "email": "mailto:santhosh@owasp.org",
-        "group": "OWASP Chennai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-chennai/"
-    },
-    {
-        "name": "Chintu Phillips Koshy",
-        "email": "mailto:chintu.koshy@owasp.org",
-        "group": "OWASP Chennai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-chennai/"
-    },
-    {
         "name": "Vaibhav Gupta",
         "email": "mailto:vaibhav.gupta@owasp.org",
         "group": "OWASP Delhi",
@@ -4464,27 +4443,6 @@
         "group": "OWASP Cartagena",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cartagena/"
-    },
-    {
-        "name": "Veronica Cryan",
-        "email": "mailto:veronica.cryan@owasp.org",
-        "group": "OWASP Letterkenny",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-letterkenny/"
-    },
-    {
-        "name": "Anthony Caldwell",
-        "email": "mailto:anthony.caldwell@owasp.org",
-        "group": "OWASP Letterkenny",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-letterkenny/"
-    },
-    {
-        "name": "Gyan Panigrahy",
-        "email": "mailto:gyan.panigraphy@owasp.org",
-        "group": "OWASP Letterkenny",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-letterkenny/"
     },
     {
         "name": "Lucas Ferreira",
@@ -5724,5 +5682,26 @@
         "group": "OWASP Damn Vulnerable Thick Client Application",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-damn-vulnerable-thick-client-application/"
+    },
+    {
+        "name": "Tonimir Kišasondi",
+        "email": "mailto:tonimir.kisasondi@owasp.org",
+        "group": "OWASP Croatia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-croatia/"
+    },
+    {
+        "name": "Igor Vuk",
+        "email": "mailto:igor.vuk@owasp.org",
+        "group": "OWASP Croatia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-croatia/"
+    },
+    {
+        "name": "Vlatko Košturjak",
+        "email": "mailto:vlatko.kosturjak@owasp.org",
+        "group": "OWASP Croatia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-croatia/"
     }
 ]
