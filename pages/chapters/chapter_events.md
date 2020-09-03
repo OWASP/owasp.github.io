@@ -30,7 +30,7 @@ permalink: /chapters/events/
 ---
 {% assign prevdate = evdate %}
 {% endif %}
-### Event: [{{ event.name }}](#{{ i }}_item)
+### Event: [{{ event.name }}]() 
 #### Chapter: [{{ event.chapter }}](/{{ event.repo }}/)
 #### Time: {{ event.time }} ({{ event.timezone }})
 #### Link: [{{ event.link }}]({{ event.link }})
