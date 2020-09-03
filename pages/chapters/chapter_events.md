@@ -17,23 +17,20 @@ permalink: /chapters/events/
 {% for event in events %}
   {% assign evdate = event.date | date: "%b %d" %}
   * ["{{ event.name }}"](#{{ i }}_item) by {{ event.chapter }} Chapter on {{ evdate }}
-  {% assign i | plus: 1 %)
+  {% assign i = i | plus: 1 %)
 {% endfor %}
 
 <!-- Full list -->
+{% assign i = 0 %)
 {% for event in events %}
-  {% increment i %}
 {% assign evdate = event.date | date: "%B %d, %Y" %}
-
-#{{ i }}_item
-
 {% if evdate <> prevdate %}
 ---
 ## {{ evdate }}
 ---
 {% assign prevdate = evdate %}
 {% endif %}
-### Event: {{ event.name }}
+### Event: [{{ event.name }}](#{{ i }}_item)
 #### Chapter: [{{ event.chapter }}](/{{ event.repo }}/)
 #### Time: {{ event.time }} ({{ event.timezone }})
 #### Link: [{{ event.link }}]({{ event.link }})
@@ -41,4 +38,5 @@ permalink: /chapters/events/
 <strong>Description</strong>: {{ event.description }}
 </div>
 <br>
+  {% assign i = i | plus: 1 %)
 {% endfor %}
