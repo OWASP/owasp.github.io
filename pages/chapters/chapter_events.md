@@ -15,7 +15,7 @@ permalink: /chapters/events/
 ## Quick List (Details below)
 {% for event in events %}
   {% assign evdate = event.date | date: "%b %d" %}
-  * **{{ event.name }}** by {{ event.chapter }} on {{ evdate }}
+  * "{{ event.name }}" by {{ event.chapter }} Chapter on {{ evdate }}
 {% endfor %}
 
 <!-- Full list -->
