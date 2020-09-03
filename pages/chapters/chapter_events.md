@@ -13,7 +13,7 @@ permalink: /chapters/events/
 <!-- Index list -->
 
 ## Quick List (Details below)
-{% assign i = 0 %)
+{% assign i = 0 %}
 {% for event in events %}
   {% assign evdate = event.date | date: "%b %d" %}
   * [{{ event.name }}](#{{ i }}_item) by {{ event.chapter }} Chapter on {{ evdate }}
@@ -21,7 +21,7 @@ permalink: /chapters/events/
 {% endfor %}
 
 <!-- Full list -->
-{% assign i = 0 %)
+{% assign i = 0 %}
 {% for event in events %}
 {% assign evdate = event.date | date: "%B %d, %Y" %}
 {% if evdate <> prevdate %}
