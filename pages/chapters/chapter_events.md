@@ -16,7 +16,7 @@ permalink: /chapters/events/
 {% assign i = 0 %}
 {% for event in events %}
   {% assign evdate = event.date | date: "%b %d" %}
-  * [{{ event.name }}](#{{ i }}_item) by {{ event.chapter }} Chapter on {{ evdate }}
+  * [{{ event.name }}](#{{ i }}_item) - {{ event.chapter }}, {{ evdate }}
   {% assign i = i | plus: 1 %}
 {% endfor %}
 
