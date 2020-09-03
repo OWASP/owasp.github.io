@@ -9,6 +9,16 @@ permalink: /chapters/events/
 <br>
 {% assign events = site.data.chapter_events | sort: 'date' %}
 {% assign prevdate = nil %}
+
+<!-- Index list -->
+
+## Quick List (Details below)
+{% for event in events %}
+  {% assign evdate = event.date | date: "%B %d, %Y" %}
+  * {{ evdate }}, {{ event.time }} ({{ event.timezone }}. {{ event.name }} by {{ event.chapter }}
+{% endfor %}
+
+<!-- Full list -->
 {% for event in events %}
 {% assign evdate = event.date | date: "%B %d, %Y" %}
 {% if evdate <> prevdate %}
