@@ -2744,6 +2744,20 @@
         "group_url": "https://owasp.org/www-chapter-colorado-springs/"
     },
     {
+        "name": "Glyn Geoghegan",
+        "email": "mailto:glyng@owasp.org",
+        "group": "OWASP Brisbane",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brisbane/"
+    },
+    {
+        "name": "Dale Hewitson",
+        "email": "mailto:dale.hewitson@owasp.org",
+        "group": "OWASP Brisbane",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brisbane/"
+    },
+    {
         "name": "Julian Berton",
         "email": "mailto:julian.berton@owasp.org",
         "group": "OWASP Melbourne",
@@ -3556,6 +3570,20 @@
         "group_url": "https://owasp.org/www-chapter-dhaka/"
     },
     {
+        "name": "Venkatraman Kumar",
+        "email": "mailto:venkatraman.kumar@owasp.org",
+        "group": "OWASP Chennai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chennai/"
+    },
+    {
+        "name": "Muktheeswaran Mariappan",
+        "email": "mailto:maktheeswaran.marippan@owasp.org",
+        "group": "OWASP Chennai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chennai/"
+    },
+    {
         "name": "Vaibhav Gupta",
         "email": "mailto:vaibhav.gupta@owasp.org",
         "group": "OWASP Delhi",
@@ -4165,13 +4193,6 @@
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
     },
     {
-        "name": "Robin Fewster",
-        "email": "mailto://robin.fewster@owasp.org",
-        "group": "OWASP Newcastle (UK)",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
-    },
-    {
         "name": "Erlend Oftedal",
         "email": "mailto:erlend.oftedal@owasp.org",
         "group": "OWASP Norway",
@@ -4198,20 +4219,6 @@
         "group": "OWASP Scotland",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-scotland/"
-    },
-    {
-        "name": "Kateryna Ovechenko",
-        "email": "mailto:katerina.ovechenko@owasp.org",
-        "group": "OWASP Ukraine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-ukraine/"
-    },
-    {
-        "name": "Yevgeniya maskayeva",
-        "email": "mailto:yevgeniya.maskayeva@owasp.org",
-        "group": "OWASP Ukraine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-ukraine/"
     },
     {
         "name": "Sven Vetsch",
@@ -5075,13 +5082,6 @@
         "group_url": "https://owasp.org/www-project-sso/"
     },
     {
-        "name": "Kashif Hassan",
-        "email": "mailto:kashif.hassan@owasp.org",
-        "group": "OWASP Karachi",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-karachi/"
-    },
-    {
         "name": "Emil Kvarnhammar",
         "email": "mailto:emil.kvarnhammar@owasp.org",
         "group": "OWASP Malmo",
@@ -5696,5 +5696,12 @@
         "group": "OWASP Croatia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-croatia/"
+    },
+    {
+        "name": "Daniel Garcia",
+        "email": "mailto:cr0hn@cr0hn.com",
+        "group": "OWASP APICheck",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-apicheck/"
     }
 ]
