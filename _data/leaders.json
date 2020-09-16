@@ -3318,6 +3318,13 @@
         "group_url": "https://owasp.org/www-chapter-new-jersey-north/"
     },
     {
+        "name": "Tom Brennan",
+        "email": "mailto:tomb@proactiverisk.com",
+        "group": "OWASP New Jersey North",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-new-jersey-north/"
+    },
+    {
         "name": "Guy Osa",
         "email": "mailto:guy.osa@owasp.org",
         "group": "OWASP New York City",
@@ -4012,7 +4019,7 @@
     },
     {
         "name": "Konstantinos Papapanagiotou",
-        "email": "mailto:conpap@owasp.gr",
+        "email": "mailto:konstantinos@owasp.org",
         "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
@@ -4375,8 +4382,8 @@
         "group_url": "https://owasp.org/www-chapter-belfast/"
     },
     {
-        "name": "Siobhan Gallagher",
-        "email": "mailto:siobhan.gallagher@owasp.org",
+        "name": "Denis Podgurskii",
+        "email": "mailto:denis.podgurskii@owasp.org",
         "group": "OWASP Belfast",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-belfast/"
@@ -4578,6 +4585,13 @@
         "group_url": "https://owasp.org/www-chapter-san-fernando-valley/"
     },
     {
+        "name": "Akash Sharma",
+        "email": "mailto:akash.sharma@owasp.org",
+        "group": "OWASP West Delhi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-west-delhi/"
+    },
+    {
         "name": "Johanna Curiel",
         "email": "mailto:johanna.curiel@owasp.org",
         "group": "OWASP Project and Chapter Example",
@@ -4753,22 +4767,15 @@
         "group_url": "https://owasp.org/www-chapter-portland-me/"
     },
     {
-        "name": "Ruben Fernandez Jasso",
-        "email": "mailto:ruben.jasso@owasp.org",
+        "name": "Leonel De Leon",
+        "email": "mailto:leoneldavid.deleonjuarez@owasp.org",
         "group": "OWASP Monterrey",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-monterrey/"
     },
     {
-        "name": "Leonel DeLeon",
-        "email": "mailto:leonel.deleon@owasp.org",
-        "group": "OWASP Monterrey",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-monterrey/"
-    },
-    {
-        "name": "Jose de Jesus Moreno Tortolero",
-        "email": "mailto:",
+        "name": "Ruben Fernandez",
+        "email": "mailto:ruben.fernandez@owasp.org",
         "group": "OWASP Monterrey",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-monterrey/"
@@ -4807,13 +4814,6 @@
         "group": "OWASP Colombo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-colombo/"
-    },
-    {
-        "name": "Hodor Hodor",
-        "email": "mailto:hodor.hodor@owasp.org",
-        "group": "OWASP Hodor",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hodor/"
     },
     {
         "name": "Elie Saad",
@@ -5707,21 +5707,21 @@
     {
         "name": "Mehak Khuranan",
         "email": "mailto:mehak.khuranan@owasp.org",
-        "group": "OWASP The NorthCap Universtiy",
+        "group": "www-chapter-the-northcap-universtiy",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-the-northcap-universtiy/"
     },
     {
         "name": "Abhishek Singh",
         "email": "mailto:abhishek.singh@owasp.org",
-        "group": "OWASP The NorthCap Universtiy",
+        "group": "www-chapter-the-northcap-universtiy",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-the-northcap-universtiy/"
     },
     {
         "name": "Aman Sharma",
         "email": "mailto:aman.sharma@owasp.org",
-        "group": "OWASP The NorthCap Universtiy",
+        "group": "www-chapter-the-northcap-universtiy",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-the-northcap-universtiy/"
     }
