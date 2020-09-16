@@ -26,6 +26,7 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 
 ## Governing Documents
 - [OWASP Foundation By-Laws](/www-policy/legal/bylaws)
+- [OWASP Certificate and Articles of Incorporation](/assets/legal/OWASP-DE-Certificate-of-Incorporation-2004.pdf){:target='_blank'}
 - [General Disclaimer](/www-policy/operational/general-disclaimer)
 - [Privacy Policy](/www-policy/operational/privacy)
 - [Conflict Resolution](/www-policy/operational/conflict-resolution)
