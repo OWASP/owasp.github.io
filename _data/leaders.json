@@ -3290,6 +3290,20 @@
         "group_url": "https://owasp.org/www-chapter-minneapolis-st-paul/"
     },
     {
+        "name": "Nathan Larson",
+        "email": "mailto:nathan.larson@owasp.org",
+        "group": "OWASP Minneapolis/St. Paul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-minneapolis-st-paul/"
+    },
+    {
+        "name": "Mark Geeslin",
+        "email": "mailto:mark.geeslin@owasp.org",
+        "group": "OWASP Nashville",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nashville/"
+    },
+    {
         "name": "Joel Tomassini",
         "email": "mailto:joel.tomassini@owasp.org",
         "group": "OWASP Nashville",
@@ -3297,8 +3311,8 @@
         "group_url": "https://owasp.org/www-chapter-nashville/"
     },
     {
-        "name": "Mark Geeslin",
-        "email": "mailto:mark.geeslin@owasp.org",
+        "name": "Brandon Evans",
+        "email": "mailto:brandon.evans@owasp.org",
         "group": "OWASP Nashville",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-nashville/"
@@ -5257,6 +5271,20 @@
         "group_url": "https://owasp.org/www-chapter-tehran/"
     },
     {
+        "name": "John Chakauya",
+        "email": "mailto:",
+        "group": "OWASP Harare",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-harare/"
+    },
+    {
+        "name": "Donald Munengiwa",
+        "email": "mailto:",
+        "group": "OWASP Harare",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-harare/"
+    },
+    {
         "name": "Salim Mwachuo",
         "email": "mailto:salim.mwachu@owasp.org",
         "group": "OWASP Mombasa",
@@ -5698,7 +5726,7 @@
         "group_url": "https://owasp.org/www-chapter-croatia/"
     },
     {
-        "name": "Daniel Garcia",
+        "name": "Daniel Garcia (cr0hn)",
         "email": "mailto:cr0hn@cr0hn.com",
         "group": "OWASP APICheck",
         "group-type": "project",
