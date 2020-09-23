@@ -129,9 +129,10 @@ input[type='radio'] {
               </div>
             </div>
           </div>
+          <!--
           <div v-if="provision_email_message == true">
                Your chosen email was created.  Please check your email address on file for a link to set your password.
-            </div>
+          </div>
           <div id='email-section' v-if="userData.emaillist.length > 0">
             <hr>
             <h3>Provision Your OWASP Email</h3>
@@ -153,6 +154,7 @@ input[type='radio'] {
               <button class="submit-button" v-on:click="redirectToAzure()">Provision</button>
             </div>
           </div>
+          -->
         </div>
       </div>
 
