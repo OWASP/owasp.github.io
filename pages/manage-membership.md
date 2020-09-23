@@ -129,7 +129,6 @@ input[type='radio'] {
               </div>
             </div>
           </div>
-          <!--
           <div v-if="provision_email_message == true">
                Your chosen email was created.  Please check your email address on file for a link to set your password.
           </div>
@@ -146,7 +145,7 @@ input[type='radio'] {
             </div>
             <div v-for="email in userData.emaillist">
               <div style="display: inline-block;">
-                <input type='radio' :id='chosen_email' v-model='chosen_email' :value='email'>&nbsp;&nbsp;{{email}}
+                <input type='radio' id='chosen_email' v-model='chosen_email' value='email'>&nbsp;&nbsp;{{email}}
               </div>
               
             </div>
@@ -154,7 +153,6 @@ input[type='radio'] {
               <button class="submit-button" v-on:click="redirectToAzure()">Provision</button>
             </div>
           </div>
-          -->
         </div>
       </div>
 
