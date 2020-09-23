@@ -44,6 +44,12 @@ permalink: /manage-membership/
   background-color: #dc3545;
 }
 
+input[type='radio'] {
+  margin-right: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
 @media (min-width: 768px) {
   .form-container {
     max-width: 70%;
@@ -123,6 +129,30 @@ permalink: /manage-membership/
               </div>
             </div>
           </div>
+          <div v-if="provision_email_message == true">
+               Your chosen email was created.  Please check your email address on file for a link to set your password.
+            </div>
+          <div id='email-section' v-if="userData.emaillist.length > 0">
+            <hr>
+            <h3>Provision Your OWASP Email</h3>
+            <div v-if="userData.emaillist.length > 1">
+              Choose one from the list below:<br>
+              (If you already have an OWASP email, please do not provision another)
+              <hr>
+            </div>
+            <div v-for="error in errors">
+              <label class='error-text' id='provision-error'>{{error[0]}}</label>
+            </div>
+            <div v-for="email in userData.emaillist">
+              <div style="display: inline-block;">
+                <input type='radio' :id='chosen_email' v-model='chosen_email' :value='email'>&nbsp;&nbsp;{{email}}
+              </div>
+              
+            </div>
+            <div style='margin-top: 20px;'>
+              <button class="submit-button" v-on:click="redirectToAzure()">Provision</button>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -153,10 +183,13 @@ window.addEventListener('load', function () {
       token: null,
       state: 'unsubmitted',
       userData: {
-        subscriptions: []
+        subscriptions: [],
+        emaillist: []
       },
       loadingUserData: true,
-      pendingCancellation: null
+      pendingCancellation: null,
+      chosen_email: '',
+      provision_email_message: false
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
@@ -210,6 +243,7 @@ window.addEventListener('load', function () {
         if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
           errors.email = ['Please enter a valid email address'];
         }
+
         this.errors = errors;
       },
       updateErrors: function () {
@@ -228,6 +262,32 @@ window.addEventListener('load', function () {
             vm.userData = response.data.data;
             vm.loadingUserData = false;
           });
+      },
+      redirectToAzure: function () {
+        let vm = this;
+        if(vm.chosen_email == '')
+        {
+          let errors = {};
+          errors.chosen_email = ['Please choose an email address.'];
+          this.errors = errors;
+          vm.$nextTick(function () {
+                document.getElementById('provision-error').scrollIntoView();
+              })
+          return;
+        }
+        const postData = {
+          token: this.token,
+          email: vm.chosen_email
+        };
+        
+        
+        axios.post('https://owaspadmin.azurewebsites.net/api/provisionemail?code=KpGlIqooyYW3GYEHuYTYzRmwSiVbeGQ4xRRarY7UWhBLwoRASFVn3g==', postData)
+          .then(function (response) {
+                vm.userData.emaillist = []
+                vm.provision_email_message = true
+          }).catch(function (error) {
+              vm.errors = error
+            });
       },
       redirectToStripe: function (sessionId) {
         stripe.redirectToCheckout({
