@@ -138,6 +138,15 @@ When linking from one tab into another tab onto the same page, you would need to
 ```
 
 ---
+### How to add Meetup Events to Your Chapter Page
+Events on your chapter Meetup page can be added to your OWASP Chapter page by including a meetup-group front matter and the following code:
+
+```
+{% include chapter_events.html group=page.meetup-group %}
+```
+For a more concrete example, see https://owasp.org/www-projectchapter-example/ 
+
+---
 ### Setup a local testing environment
 
 To set up a local development environment for the new OWASP [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) site:
