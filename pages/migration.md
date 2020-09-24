@@ -144,7 +144,7 @@ Events on your chapter Meetup page can be added to your OWASP Chapter page by in
 ```
 {% raw %}
 {% include chapter_events.html group=page.meetup-group %}
-{% end_raw %}
+{% endraw %}
 ```
 For a more concrete example, see https://owasp.org/www-projectchapter-example/ 
 
