@@ -142,9 +142,9 @@ When linking from one tab into another tab onto the same page, you would need to
 Events on your chapter Meetup page can be added to your OWASP Chapter page by including a meetup-group front matter and the following code:
 
 ```
-{% begin_comment %}
+{% raw %}
 {% include chapter_events.html group=page.meetup-group %}
-{% end_comment %}
+{% end_raw %}
 ```
 For a more concrete example, see https://owasp.org/www-projectchapter-example/ 
 
