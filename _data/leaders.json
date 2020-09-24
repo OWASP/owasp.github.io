@@ -2149,6 +2149,20 @@
         "group_url": "https://owasp.org/www-chapter-belo-horizonte/"
     },
     {
+        "name": "Luis Hernandez",
+        "email": "mailto:",
+        "group": "OWASP Bogota",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bogota/"
+    },
+    {
+        "name": "Giovanni Cruz Forero",
+        "email": "mailto:",
+        "group": "OWASP Bogota",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bogota/"
+    },
+    {
         "name": "Elvin Mollinedo",
         "email": "mailto:elvin.mollinedo@owasp.org",
         "group": "OWASP Bolivia",
@@ -3991,21 +4005,21 @@
     },
     {
         "name": "Antonio Fontes",
-        "email": "mailto://antonio.fontes@owasp.org",
+        "email": "mailto:antonio.fontes@owasp.org",
         "group": "OWASP Geneva",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-geneva/"
     },
     {
         "name": "Jeremy Matos",
-        "email": "mailto://jeremy.matos@owasp.org",
+        "email": "mailto:jeremy.matos@owasp.org",
         "group": "OWASP Geneva",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-geneva/"
     },
     {
         "name": "Thomas Hofer",
-        "email": "mailto://thomas.hofer@owasp.org",
+        "email": "mailto:thomas.hofer@owasp.org",
         "group": "OWASP Geneva",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-geneva/"
@@ -4201,14 +4215,14 @@
     },
     {
         "name": "Andi Pannell",
-        "email": "mailto://andrew.pannell@owasp.org",
+        "email": "mailto:andrew.pannell@owasp.org",
         "group": "OWASP Newcastle (UK)",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
     },
     {
         "name": "Connor Carr",
-        "email": "mailto://connor.carr@owasp.org",
+        "email": "mailto:connor.carr@owasp.org",
         "group": "OWASP Newcastle (UK)",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
@@ -5787,5 +5801,40 @@
         "group": "OWASP University of Washington",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-university-of-washington/"
+    },
+    {
+        "name": "Kevin Johnson",
+        "email": "mailto:kevin.johnson@owasp.org",
+        "group": "OWASP Project",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Bjoern Kimminich",
+        "email": "mailto:bjoern.kimminich@owasp.org",
+        "group": "OWASP Project",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Jim Manico ",
+        "email": "mailto:jim.manico@owasp.org",
+        "group": "OWASP Project",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Steve Springett",
+        "email": "mailto:steve.springett@owasp.org",
+        "group": "OWASP Project",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Spyros Gasteratos",
+        "email": "mailto:spyros.gasteratos@owasp.org",
+        "group": "OWASP Project",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
     }
 ]
