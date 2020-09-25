@@ -132,7 +132,7 @@ input[type='radio'] {
           <div v-if="provision_email_message == true">
                Your chosen email was created.  Please check your email address on file for a link to set your password.
           </div>
-          <div id='email-section' v-if="userData.emaillist.length > 0">
+          <div id="email-section" v-if="userData.emaillist.length > 0">
             <hr>
             <h3>Provision Your OWASP Email</h3>
             <div v-if="userData.emaillist.length > 1">
@@ -141,15 +141,15 @@ input[type='radio'] {
               <hr>
             </div>
             <div v-for="error in errors">
-              <label class='error-text' id='provision-error'>{{error[0]}}</label>
+              <label class="error-text" id="provision-error">{{error[0]}}</label>
             </div>
             <div v-for="em in userData.emaillist">
               <div style="display: inline-block;">
-                <input type="radio" name="email_provision" v-model="chosen_email" value="{{em}}"> &nbsp;&nbsp;{{em}}
+                <input type="radio" name="email_provision" v-model="chosen_email" v-bind:value="em"> &nbsp;&nbsp;{{em}}
               </div>
             </div>
-            <div style='margin-top: 20px;'>
-              <button class="submit-button" v-on:click="redirectToAzure()" disabled='{{provision_disabled}}'>{{provision_message}}</button>
+            <div style="margin-top: 20px;">
+              <button class="submit-button" v-on:click="redirectToAzure()" v-bind:disabled="provision_disabled">{{provision_message}}</button>
             </div>
           </div>
         </div>
