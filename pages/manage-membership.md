@@ -145,7 +145,7 @@ input[type='radio'] {
             </div>
             <div v-for="email in userData.emaillist">
               <div style="display: inline-block;">
-                <input type='radio' id='chosen_email' v-model='chosen_email' value='email'>&nbsp;&nbsp;{{email}}
+                <input type='radio' name='chosen_email' id='chosen_email' v-model='chosen_email' value='email'>&nbsp;&nbsp;{{email}}
               </div>
               
             </div>
