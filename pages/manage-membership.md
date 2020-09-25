@@ -143,14 +143,13 @@ input[type='radio'] {
             <div v-for="error in errors">
               <label class='error-text' id='provision-error'>{{error[0]}}</label>
             </div>
-            <div v-for="email in userData.emaillist">
+            <div v-for="em in userData.emaillist">
               <div style="display: inline-block;">
-                <input type='radio' id='chosen_email' v-model='chosen_email' value='email'>&nbsp;&nbsp;{{email}}
+                <input type="radio" name="email_provision" v-model="chosen_email" value="em" > &nbsp;&nbsp;{{em}}
               </div>
-              
             </div>
             <div style='margin-top: 20px;'>
-              <button class="submit-button" v-on:click="redirectToAzure()">Provision</button>
+              <button class="submit-button" v-on:click="redirectToAzure()">{{provision_message}}</button>
             </div>
           </div>
         </div>
@@ -189,7 +188,9 @@ window.addEventListener('load', function () {
       loadingUserData: true,
       pendingCancellation: null,
       chosen_email: '',
-      provision_email_message: false
+      provision_email_message: false,
+      provision_message: 'Provision',
+      provision_disabled: ''
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
@@ -265,7 +266,7 @@ window.addEventListener('load', function () {
       },
       redirectToAzure: function () {
         let vm = this;
-        if(vm.chosen_email == '')
+        if(!vm.chosen_email || vm.chosen_email == '')
         {
           let errors = {};
           errors.chosen_email = ['Please choose an email address.'];
@@ -275,12 +276,15 @@ window.addEventListener('load', function () {
               })
           return;
         }
+        vm.provision_message = 'Please wait...(this may take some time)';
+        vm.provision_disabled = 'disabled';
+
         const postData = {
           token: this.token,
           email: vm.chosen_email
         };
-        
-        
+        alert(vm.chosen_email);
+        return;
         axios.post('https://owaspadmin.azurewebsites.net/api/provisionemail?code=KpGlIqooyYW3GYEHuYTYzRmwSiVbeGQ4xRRarY7UWhBLwoRASFVn3g==', postData)
           .then(function (response) {
                 vm.userData.emaillist = []
