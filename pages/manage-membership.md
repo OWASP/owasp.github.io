@@ -145,11 +145,11 @@ input[type='radio'] {
             </div>
             <div v-for="em in userData.emaillist">
               <div style="display: inline-block;">
-                <input type="radio" name="email_provision" v-model="chosen_email" value="em" :value='em' > &nbsp;&nbsp;{{em}}
+                <input type="radio" name="email_provision" v-model="chosen_email" value="em"> &nbsp;&nbsp;{{em}}
               </div>
             </div>
             <div style='margin-top: 20px;'>
-              <button class="submit-button" v-on:click="redirectToAzure()" :disabled='provision_disabled'>{{provision_message}}</button>
+              <button class="submit-button" v-on:click="redirectToAzure()" disabled='provision_disabled'>{{provision_message}}</button>
             </div>
           </div>
         </div>
