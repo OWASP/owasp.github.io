@@ -5864,5 +5864,19 @@
         "group": "OWASP Project",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Sebastien Deleersnyder",
+        "email": "mailto:seba@owasp.org",
+        "group": "OWASP Threat Modeling Playbook",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modeling-playbook/"
+    },
+    {
+        "name": "Satish Patnayak",
+        "email": "mailto:satishkumarpatnayak@live.com",
+        "group": "OWASP AndroGoat",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-androgoat/"
     }
 ]
