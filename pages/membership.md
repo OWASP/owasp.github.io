@@ -192,7 +192,7 @@ permalink: /membership/
 	<li>And others...</li>
         </ul>
 
-      <p>You can <a href="/manage-membership">Manage your Membership</a> to check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
+      <p>You can <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
       <h2>Join or Renew Now</h2>
