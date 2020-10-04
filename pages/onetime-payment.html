@@ -1,17 +1,28 @@
-<h3>Custom Billing Page</h3>
+<link href="https://fonts.googleapis.com/css2?family=Piazzolla:wght@200&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
+<style>
+.piazzolla{
+  font-family: 'Piazzolla', serif; /*Attaching Fallback Value*/
+}
+.secular{
+  font-family: 'Secular One',serif;
+  font-size: 25px;
+}
+</style>
+<center><h3 class="secular"><b>Custom Billing Page</b></h3></center>
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+<center><button
+  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:50px;font-size:1em"
   id="checkout-button-sku_GOSfEPqQZlA80i"
   role="link"
 >
-  Corporate Membership $5,000
-</button>
+  Corporate Membership $5,000 *
+</button></center>
 
-<p>Please note, membership dues paid via credit card are subject to a 2.9% surcharge that is included at checkout.</p>
+<p class = "piazzolla">* Please note, membership dues paid via credit card are subject to a 2.9% surcharge that is included at checkout.</p>
 
 <div id="error-message"></div>
 
