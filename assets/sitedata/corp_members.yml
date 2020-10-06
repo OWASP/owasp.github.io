@@ -5,12 +5,6 @@
   url: https://www.7asecurity.com/
   description: 7ASecurity strives to provide the highest quality security consulting services within budget constraints. In a time when low quality, uncustomized and mostly automated 'audits' are commonplace, 7ASecurity prides itself on tailoring assessments to the threat models and needs of its customers. This puts 7ASecurity in a unique position within the information security industry, delivering maximum value for money, finding vulnerabilities where other companies come empty, and underlining our motto Quality Pentests & Code Audits. Following the same philosophy, 7ASecurity delivers top quality security training where students get lifetime updates at no extra charge.
 - member: true	
-  sponsor: 	
-  name: Accenture	
-  image: /assets/images/corp-member-logo/accenture.png	
-  url: https://www.accenture.com	
-  description: Accenture Security helps businesses prepare, protect, detect, respond and recover along all points of the security lifecycle with over 5,000 exceptionally-skilled security professionals worldwide.  Cybersecurity challenges are different for every business in every industry. Leveraging our global resources and next-generation technologies, we create integrated, practical solutions that are tailored to each organization’s specific business goals and industry solutions that clients can put in place immediately. Whether defending against known threats, quickly detecting and responding to the unknown or running an entire security operations center, we help harden organizations and make it extremely difficult for even the most sophisticated cyber adversaries to succeed.	
-- member: true	
   sponsor: 	4
   name: Acunetix
   image: /assets/images/corp-member-logo/acunetix.png	
@@ -46,30 +40,12 @@
   image: /assets/images/corp-member-logo/atlassian.png	
   url: http://www.atlassian.com/trust
   description: Atlassian unleashes the potential in every team. Our products help teams organize, discuss and complete shared work. Today Atlassian is the leading provider of collaboration software for teams at more than 110,000 companies globally, including top brands like Citigroup, eBay, Coca-Cola, Visa, BMW and NASA. We help teams at organizations of all sizes, from start-ups to large companies, and more than 75 percent of Fortune 100 companies are Atlassian customers.
-- member: true  
-  sponsor: 4	
-  name: Avatao	
-  image: /assets/images/corp-member-logo/avatao.png	
-  url: https://www.avatao.com	
-  description: Avatao is an online training platform for building secure software. It offers a rich library of hands-on IT security exercises for software engineers to teach secure programming from design to deployment in a fun and intuitive way. Educating for secure software can significantly improve software quality, increase trust in a company’s brand, reduce development costs and reduce the risks of suffering significant losses from cyber-attacks. In today’s world, secure software development practices are a basic requirement and we believe the solution should be integrated into the ground roots of software development teams. The platform can be used to provide security awareness to software engineers, to enrich existing IT security training, meetups or allow self-directed learning for continuous professional development. Avatao hackathons are also an excellent method to discover talented developers and engage and build brand awareness in the community.	
-- member: true	
-  sponsor:	
-  name: Avi Networks	
-  image: /assets/images/corp-member-logo/avi-network.png	
-  url: https://www.avinetworks.com	
-  description: Avi Networks completes enterprises’ digital transformation with its software load balancer, intelligent Web Application Firewall, and modern application services. The Avi Vantage Platform is deployed across data centers and clouds, delivering better elasticity, intelligence, and cost savings by providing granular per-tenant and per-app services. Customers enjoy 5X faster application rollouts, actionable analytics, and 70% lower costs.	
 - member: false 	
   sponsor: 	
   name: BlackHat 	
   image: /assets/images/corp-member-logo/blackhat.png	
   url: https://www.blackhat.com/
   description: Black Hat is the most technical and relevant information security event series in the world. For more than 20 years, Black Hat Briefings have provided attendees with the very latest in information security research, development, and trends in a strictly vendor-neutral environment. These high-profile global events and Trainings are driven by the needs of the security community, striving to bring together the best minds in the industry. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors.
-- member: true	
-  sponsor: 	
-  name: Brinqa	
-  image: /assets/images/corp-member-logo/brinqa.png	
-  url: https://www.brinqa.com	
-  description: Brinqa is a leading provider of unified risk management – enabling stakeholders, governance organizations, and infrastructure and security teams to effectively manage technology risk at the speed of business. Brinqa software and cloud services leverage an organization’s existing investment in systems, security, and governance programs to identify, measure, manage and monitor risk. With Brinqa, organizations are reducing response time to emerging threats, impact to the business, and technology risk and compliance costs by over 50% through real-time risk analytics, automated risk assessments, prioritized remediation, actionable insights, and improved communication.
 - member: true	
   sponsor: 4
   name: Bugcrowd	
@@ -82,7 +58,7 @@
   image: /assets/images/corp-member-logo/ca-technologies.png  	
   url: https://www.broadcom.com/
   description: CA Technologies helps customers succeed in a future where every business—from apparel to energy—is being rewritten by software. From planning to development to management to security, at CA we create software that fuels transformation for companies in the application economy.	
-- member: false	
+- member: true	
   sponsor: 1	
   name: Cequence Security	
   image: /assets/images/corp-member-logo/cequence.png	
@@ -100,12 +76,6 @@
   image: /assets/images/corp-member-logo/code-dx.png	
   url: https://www.codedx.com	
   description: Code Dx is committed to reducing barriers to effective application security. Our automated application vulnerability correlation and management tools help find and fix insecure code faster, with less effort and a smaller team. Focus your precious resources on developing valuable new features, and ship secure code faster and more often.	
-- member: true	
-  sponsor: 	
-  name: Contrast Security	
-  image: /assets/images/corp-member-logo/contrast-security.png	
-  url: https://www.contrastsecurity.com	
-  description: Contrast Security is the world’s leading provider of security technology that enables software applications to protect themselves against cyberattacks, heralding the new era of self-protecting software. Contrast's patented deep security instrumentation is the breakthrough technology that enables highly accurate assessment and always-on protection of an entire application portfolio, without disruptive scanning or expensive security experts. Only Contrast has sensors that work actively inside applications to uncover vulnerabilities, prevent data breaches, and secure the entire enterprise from development, to operations, to production. More information can be found at www.contrastsecurity.comor by following Contrast on Twitter at @ContrastSec.	
 - member: true	
   sponsor: 	
   name: Dell
@@ -131,11 +101,11 @@
   url: https://www.extrahop.com  	
   description: ExtraHop gives you the perspective you need to understand your hybrid attack surface from the inside out. Our industry-leading network detection and response platform is purpose-built to help you rise above the noise of alerts, silos, and runaway technology so you can secure your future in the cloud.
 - member: true	
-  sponsor:	
+  sponsor:
   name: Faraday 
   image: /assets/images/corp-member-logo/faraday.png
   url: https://www.faradaysec.com/?utm_source=OWASP&utm_medium=owasplogo&utm_campaign=owasp1
-  description: "The Faraday© platform lets you level up your Vulnerability Management program. Providing powerful Automation Technology, Agents with Process Scheduler, integrating more than 75 tools, vulnerability deduplication and custom reports, Faraday is helping cybersecurity engineers do meaningful work with all your risk sources in one place. Your time is limited and valuable, don't waste it doing boring and repetitive tasks." 
+  description: "The Faraday© platform lets you level up your Vulnerability Management program. Providing powerful Automation Technology, Agents with Process Scheduler, integrating more than 75 tools, vulnerability deduplication and custom reports, Faraday is helping cybersecurity engineers do meaningful work with all your risk sources in one place. Your time is limited and valuable, don't waste it doing boring and repetitive tasks."
 - member: true	
   sponsor:	
   name: Fluid Attacks
@@ -149,29 +119,11 @@
   url: https://about.gitlab.com/
   description: GitLab is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. From idea to production, GitLab helps teams improve cycle time from weeks to minutes, reduce development process costs and decrease time to market while increasing developer productivity. 
 - member: true	
-  sponsor:	
-  name: GoSecure	
-  image: /assets/images/corp-member-logo/go_secure.png	
-  url: https://www.gosecure.net
-  description: Founded in 2012, GoSecure has worked towards one simple goal – preventing breaches. Tactics change, technology adapts, security teams ebb and flow in size and budget, yet breaches still occur. As organizations adopt a “when, not if” approach towards breaches, many are looking for true help, not just another new technology. GoSecure Managed Detection and Response is the only MDR solution that combines visibility across all major attack vectors with industry leading threat intelligence and operational experience. It’s this unique combination that allows GoSecure MDR to detect breaches sooner and respond before data loss begins. Detection with Response the GoSecure way!
-- member: true	
   sponsor: 	
   name: HackerOne	
   image: /assets/images/corp-member-logo/hackerone.png	
   url: https://www.hackerone.com/	
   description: HackerOne is the number 1 hacker-powered security platform, helping organizations receive and resolve critical vulnerabilities before they can be exploited. More than 1,000 organizations, including the U.S. Department of Defense, U.S. General Service Administration, General Motors, Twitter, GitHub, Nintendo, Panasonic Avionics, Qualcomm, Square, Starbucks, Dropbox and the CERT Coordination Center trust HackerOne to find critical software vulnerabilities. HackerOne customers have resolved over 57,000 vulnerabilities and awarded over $22M in bug bounties. HackerOne is headquartered in San Francisco with offices in London and the Netherlands.	
-- member: false	
-  sponsor: 3	
-  name: HCL America	
-  image: /assets/images/corp-member-logo/hcl.png	
-  url: https://www.hcltechsw.com/wps/portal/products/appscan	
-  description: HCL AppScan provides a family of application security testing tools that help software publishers detect and remediate vulnerabilities, and comply with regulations and security best practices. It's powerful static, dynamic, and open source scanning engines can deploy in every phase of the development lifecycle and test web applications, APIs, mobile apps, and more.	
-- member: true	
-  sponsor: 	
-  name: High-Tech Bridge SA 	
-  image: /assets/images/corp-member-logo/immuniweb.png	
-  url: https://www.immuniweb.com/	
-  description: High-Tech Bridge is a global provider of web and mobile Application Security Testing (AST) services. Our award-winning AST platform ImmuniWeb® combines the genius of Human Intelligence with the power of Artificial Intelligence and Machine Learning. ImmuniWeb® leverages Artificial Intelligence (AI) and Machine Learning (ML) for intelligent automation of application vulnerability scanning and acceleration of application penetration testing. High-Tech Bridge's security experts from our CREST-accredited SOC look for the most complicated application vulnerabilities and attack vectors in instant synchronization and correlation with automated vulnerability scanning. Invented by High-Tech Bridge, this type of hybrid security testing, enhanced with AI/ML, delivers the most comprehensive vulnerability detection rate, continuously reduces human intervention without impacting the quality of testing, and contractually guarantees zero false-positives to every customer.	
 - member: true	
   sponsor: 	
   name: HiSolutions	
@@ -190,24 +142,12 @@
   image: /assets/images/corp-member-logo/intertrust.png
   url: https://www.intertrust.com/	
   description: Intertrust provides trusted computing products and services to leading global corporations. Products include the world’s leading digital rights management (DRM), software tamper resistance, and technologies to enable private data exchanges for energy, entertainment, retail/marketing, automotive, fintech, and IoT.  Founded in 1990, headquartered in Silicon Valley with offices globally. Intertrust has a legacy of invention, and its fundamental contributions in the areas of computer security and digital trust are globally recognized. Intertrust holds hundreds of patents underpinning Internet security, trust, and privacy management components of operating systems, trusted mobile code and networked operating environments, web services, and cloud computing. 
-- member: true	
-  sponsor: 	
-  name: Kiuwan	
-  image: /assets/images/corp-member-logo/kiuwan.png	
-  url: https://www.kiuwan.com/	
-  description: Kiuwan provides an end-to-end Software Analytics platform that offers objective data to make informed decisions to secure, analyze and control the entire SDLC of any application portfolio. With Kiuwan Code Security, the scope in threat mitigation is unparalleled, with over 4000+ custom rules, ability to suppress defects and create tailored action plans while meeting the most stringent industry standard requirements. In constant evolution, it boasts broad language support and integration with Jira, Jenkins, and Github to name but a few of the possibilities brought about by the platform.	
 - member: false	
   sponsor: 4	
   name: Lyft	
   image: /assets/images/corp-member-logo/lyft.png
   url: https://www.lyft.com/
   description: At Lyft, community is what we are and it’s what we do. It’s what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring. 
-- member: true	
-  sponsor: 	
-  name: Mercari, Inc.	
-  image: /assets/images/corp-member-logo/mercari.png	
-  url: https://about.mercari.com/en/	
-  description: Mercari is a C2C marketplace app that makes it easy for people to safely sell and ship their things. Launched in 2013, it's now among the largest peer-to-peer selling platforms globally. From fashion to toys, shoes to electronics and beyond, Mercari's mission is to "create value in a global marketplace where anyone can buy and sell."	
 - member: true	
   sponsor: 	
   name: Netsparker	
@@ -227,12 +167,6 @@
   url: https://www.nowsecure.com/	
   description: Only the NowSecure Platform delivers automated 360-degree coverage of mobile app security testing with the speed and depth modern enterprises require. The world’s most demanding organizations and advanced security teams trust NowSecure to identify the broadest array of security, privacy, and compliance gaps in custom, third-party, and business-critical mobile apps.	
 - member: true	
-  sponsor: 	
-  name: Oneconsult	
-  image: /assets/images/corp-member-logo/oneconsult.png	
-  url: https://www.oneconsult.com/en/	
-  description: Oneconsult group is your renowned Swiss cyber security services partner since 2003 with offices in Switzerland and Germany and 1500+ completed security projects worldwide. Get expert advice from an owner-managed and vendor-independent consultancy with 35+ highly qualified cyber security experts, including certified penetration testers (OPST, OPSA, OSCP, OSCE, GXPN), digital forensics specialists (GCFA, GCFE, GREM), ISO security auditors (ISO 27001 Lead Auditor, ISO 27005 Risk Manager) and dedicated IT security researchers to solve even your most demanding information security challenges. Together we address your external and internal threats such as malware infections, hacker attacks and APT as well as digital fraud and data leakage with core services like penetration testing, ethical hacking, real-life APT tests and ISO 27001 security audits. In case of emergency, One consults incident response & IT forensics team supports you with around-the-clock expert assistance 24 h x 365 days. 	
-- member: true	
   sponsor: 	 
   name: Oracle
   image: /assets/images/corp-member-logo/oracle.png	
@@ -245,23 +179,11 @@
   url: https://www.owadigital.co.uk/	
   description: OWA are your security conscious digital experts. We create and support secure web applications, mobile apps and websites – and we host and protect them too. As a trusted partner to businesses, charities and local government for over 25 years, we understand the importance of building good relationships. We focus on delivering outstanding results and competitive, end-to-end solutions in design, development, support and hosting on every project. Happily our customers think so too – we are pleased to say we have high levels of client satisfaction and retention. Why not get in touch to talk through your project or idea? 	
 - member: true	
-  sponsor: 	
-  name: Panasonic Corporation	
-  image: /assets/images/corp-member-logo/panasonic.png	
-  url: https://www.panasonic.com/	
-  description: 100 years ago, Panasonic started with a desire to create things with value. Since then, the challenge has continued into various fields including home appliances to realize "A Better Life, A Better World".  Considering product security as part of quality management, we have strived to improve the security of products. Specific activities include threat analysis during the design process, and vulnerability testing before shipment. After shipment, Panasonic PSIRT- Product Security Incident Response Team works to respond to incidents toward a quick resolution. To provide products that our customers can use with peace of mind, we will continue product security initiatives.	
-- member: true	
   sponsor: 
   name: PingAn	
   image: /assets/images/corp-member-logo/pingan-technology.png
   url: https://www.pingan.cn
   description: Ping An Insurance known also as Ping An of China, full name Ping An Insurance Company of China, Ltd. is a Chinese holding conglomerate whose subsidiaries mainly deal with insurance, banking, and financial services. The company was founded in 1988 and has its headquarters in Shenzhen.
-- member: true	
-  sponsor: 
-  name: PwC	
-  image: /assets/images/corp-member-logo/pwc.png	
-  url: https://www.pwc.co.uk/cybersecurity
-  description: Our purpose is to build trust in society and solve important problems. In today's digital world that requires a focus on cyber security in order to build a secure digital society. We help clients across society to understand their cyber security risk; build and assure their defences; identify and respond to attacks, and to navigate the complex legal and regulatory environment for cyber security.
 - member: false	
   sponsor: 4	
   name: Qualys	
@@ -335,7 +257,7 @@
   image: /assets/images/corp-member-logo/security-journey.png
   url: https://www.securityjourney.com/	
   description: Security Journey is the leader in application security education using security belt programs. We guide our clients many in tech, healthcare, and finance to building long-term, sustainable application security culture. We incorporate everything you need to deploy and manage an education program.  Our cloud-based platform delivers application security lessons from an ever-growing library of content, provides hands-on, immersive experiments, measures student and organizational growth, rewards student achievements, and transforms an enterprise’s security culture. We promote security awareness organization-wide with learning that is engaging, motivating, and fun. In short, we provide security education developers, testers, and managers love.	
-- member: true	
+- member: 	
   sponsor: 4	
   name: Shiftleft	
   image: /assets/images/corp-member-logo/shiftleft.png	
@@ -378,18 +300,12 @@
   url: https://www.symantec.com/	
   description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."
 - member: true	
-  sponsor: 	
-  name: Synack	
-  image: /assets/images/corp-member-logo/Synack.png	
-  url: https://www.synack.com/	
-  description: Synack, the most trusted crowdsourced security testing platform, delivers smarter penetration testing for dynamic attack surfaces on a continuous cadence. The company’s hacker-powered, AI-enabled pen test provides access to the best worldwide talent, scalable and smart technology, and insights that secure our nation's critical infrastructure and leading brands and businesses.	
-- member: true	
   sponsor: 4	
   name: Synopsys	
   image: /assets/images/corp-member-logo/synopsys.png	
   url: https://www.synopsys.com/	
   description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.	
-- member: true	
+- member: 
   sponsor: 4 	
   name: Tala Security	
   image: /assets/images/corp-member-logo/tala.png   
@@ -397,22 +313,10 @@
   description: Tala protects modern websites and web applications across the full spectrum of client-side vulnerability.  No other solution offers similar breadth of security coverage.  Tala’s analysis engine evaluates over 50 unique indicators of a web page’s behavior to continuously monitor and detect anomalous activity within the server, the website supply chain, or malicious code executing at the user’s browser. This dynamic AI-driven analytics engine works in conjunction an automation engine that activates standards-based capabilities, like CSP, SRI and HSTS to protect against a wide range of app layer attacks like magecart, cross-site scripting, clickjacking, iframe injection, session-redirects, client-side malware, etc. 
 - member: true	
   sponsor: 	
-  name: The Media Trust	
-  image: /assets/images/corp-member-logo/the-media-trust.png	
-  url: https://mediatrust.com/	
-  description: The Media Trust is on a mission fixing the internet. To make the internet a healthier, more valuable place for businesses, governments and consumers, The Media Trust’s centralized platform provides real-time visibility and insight into non-compliant activity and threats operating in enterprise website and mobile app environments. With an emphasis on third-party code beyond libraries, the platform identifies all executing code (including code from first, third and nth parties), analyzes its behavior, assesses compliance with company policies, and resolves violating behavior. The ability to manage third-party digital risk helps defend against website breaches which can lead to regulatory fines, revenue loss, and reputational harm 	
-- member: true	
-  sponsor: 	
   name: ThoughtWorks	
   image: /assets/images/corp-member-logo/thoughtworks.png	
   url: https://www.thoughtworks.com/	
   description: We are a software company and community of passionate, purpose-led individuals. We think disruptively to deliver technology that addresses our clients’ toughest challenges, all while seeking to revolutionize the IT industry and create positive social change. ThoughtWorks' 3,000 professionals serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Italy, Singapore, South Africa, Turkey, Uganda, the United Kingdom, and the United States. ThoughtWorks releases a regular technology radar, a study that looks at the key trends that impact software development and business strategies. The Radar helps companies stay on top of topics that are constantly evolving, such as security, and offers insight and practical tools to build secure systems at every stage of the development process.	
-- member: true	
-  sponsor: 	
-  name: Twistlock	
-  image: /assets/images/corp-member-logo/twistlock.png	
-  url: https://www.twistlock.com/	
-  description: Twistlock is the most complete, automated and scalable cloud native cybersecurity platform. Trusted by hundreds of customers worldwide, Twistlock uses the strengths of cloud native to provide better security for teams using Docker, Kubernetes, Lambda, Fargate, and other modern technologies.	
 - member: true	
   sponsor: 	
   name: UBsecure	
