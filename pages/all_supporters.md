@@ -34,7 +34,7 @@ Choosing to be a Corporate Member of the OWASP Foundation demonstrates your orga
 - Vote in the Global Board of Directors election
 - Discounted sponsorship rates at participating events
 
-To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72 today!
 
 ## Corporate Membership for Start-Up's
 Discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
