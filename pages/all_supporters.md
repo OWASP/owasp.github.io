@@ -29,12 +29,26 @@ There are many ways to participate and support the mission of OWASP.
 ## Corporate Membership
 Choosing to be a Corporate Member of the OWASP Foundation demonstrates your organization’s commitment to information security. Annual Corporate Membership pricing begins at $5,000 and is dependent on yearly revenue.  Organizations up to $50 million the fee is $5,000. For those between $50 million and $100 million the annual fee is $15,000. And for companies with yearly revenue more than $100 million the Corporate Membership Fee is $25,000.  All memberships include:
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
-- Up to $2,500 of your Fee can be applied to Corporate Sponsorship
+- Up to $2,500 of your Fee can be applied towards a Global AppSec sponsorship 
 - Public acknowledgment on various other channels
+- Vote in the Global Board of Directors election
+- Discounted sponsorship rates at participating events
 
 To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
-## Corporate Sponsorship
+## Corporate Membership for Start-Up's
+Discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
+$800 annualy for developing regions 
+$2,000 annualy for all other countries 
+Benefits include:
+- Listing in rotation as Corporate Supporter site-wide on owasp.org
+- Public acknowledgment on various other channels
+- Vote in the Global Board of Directors election
+- Discounted sponsorship rates at participating events
+
+To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+
+## Corporate Sponsorship (CURRENTLY NOT AVAILABLE FOR PURCHASE)
 Organizations looking to support the mission of OWASP while also interested in exhibiting at conferences like our Global AppSec events, should consider Corporate Sponsorship. These packages offer the best value and include:
 - Event Exhibition space - up to five events per year
 - Discounted conference and training passes
