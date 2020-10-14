@@ -9,7 +9,7 @@ permalink: /membership/discounts/
 
 ## The following regions currently qualify for discounted membership:
 
-{% assign discounted = site.data.countries | where: 'discount', True %}
+{% assign discounted = site.data.countries | where: 'discount' %}
 {% for country in discounted %}
 * {{ country.name }}
 {% endfor %}
