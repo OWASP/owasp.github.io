@@ -3,6 +3,7 @@
 title: Discounted Regions for Membership
 layout: col-sidebar
 tags: membership, membership discounts
+permalink: /membership/discounts/
 
 ---
 
