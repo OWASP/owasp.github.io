@@ -37,7 +37,7 @@ Choosing to be a Corporate Member of the OWASP Foundation demonstrates your orga
 To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ## Corporate Membership for Start-Up's
-Discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
+Annual discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
 $800 annualy for developing regions 
 $2,000 annualy for all other countries 
 Benefits include:
