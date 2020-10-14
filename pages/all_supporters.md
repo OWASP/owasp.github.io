@@ -38,7 +38,7 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 
 ## Corporate Membership for Start-Up's
 Annual discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
-$800 annualy for developing regions 
+$800 annualy for [developing regions] (https://owasp.org/membership/discounts/)
 $2,000 annualy for all other countries 
 Benefits include:
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
@@ -49,7 +49,7 @@ Benefits include:
 To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ## Corporate Membership for Developing Regions 
-Annual Regional Corporate Membership pricing is avaialble for companies in developing regions.  Pricing begins at $2,000. It is dependent on the location of company headquarters, and their yearly revenue.  Organizations up to $50 million the fee is $2,000. For those between $50 million and $100 million the annual fee is $6,000. And for companies with yearly revenue more than $100 million the Corporate Membership Fee is $10,000.  Benefits include:
+Annual Regional Corporate Membership pricing is avaialble for companies in [developing regions] (https://owasp.org/membership/discounts/).  Pricing begins at $2,000. It is dependent on the location of company headquarters, and their yearly revenue.  Organizations up to $50 million the fee is $2,000. For those between $50 million and $100 million the annual fee is $6,000. And for companies with yearly revenue more than $100 million the Corporate Membership Fee is $10,000.  Benefits include:
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
 - Public acknowledgment on various other channels
 - Vote in the Global Board of Directors election
