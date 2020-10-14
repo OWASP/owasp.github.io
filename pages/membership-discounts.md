@@ -1,7 +1,7 @@
 ---
 
 title: Discounted Regions for Membership
-layout: col-sidebar
+layout: col-generic
 tags: membership, membership discounts
 permalink: /membership/discounts/
 
