@@ -21,6 +21,13 @@
         "group_url": "https://owasp.org/www-project-zap/"
     },
     {
+        "name": "Harold Blankenship",
+        "email": "harold.blankenship@owasp.com",
+        "group": "OWASP [GROUPNAME]",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-projectchapter-example/"
+    },
+    {
         "name": "Steve Springett",
         "email": "steve.springett@owasp.org",
         "group": "OWASP Software Component Verification Standard",
@@ -40,6 +47,13 @@
         "group": "OWASP SEDATED®",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-sedated/"
+    },
+    {
+        "name": "Ade Yoseman Putra",
+        "email": "ade.putra@owasp.org",
+        "group": "OWASP Risk Assessment Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-risk-assessment-framework/"
     },
     {
         "name": "Kevin Johnson",
@@ -1197,6 +1211,13 @@
         "group_url": "https://owasp.org/www-project-android-security-inspector-toolkit/"
     },
     {
+        "name": "Robert Willis - Chapter President",
+        "email": "robert.willis@owasp.org",
+        "group": "OWASP Georgetown",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-georgetown/"
+    },
+    {
         "name": "Raymond Punithan Luccas",
         "email": "raymond.luccas@owasp.org",
         "group": "OWASP Kuala Lumper",
@@ -1519,7 +1540,7 @@
         "group_url": "https://owasp.org/www-chapter-gudalur/"
     },
     {
-        "name": "Amish Jayakumar",
+        "name": "Anish Jayakumar",
         "email": "amish.jayakumar@owasp.org",
         "group": "OWASP Gudalur",
         "group-type": "chapter",
