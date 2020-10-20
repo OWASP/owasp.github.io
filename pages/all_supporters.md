@@ -39,7 +39,7 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 ## Corporate Membership for Start-Up's
 Annual discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
 $800 annualy for [developing regions](https://owasp.org/membership/discounts/) 
-$2,000 annualy for all other countries 
+$2,000 annually for all other countries 
 Benefits include:
 - Listing in rotation as Corporate Supporter site-wide on owasp.org
 - Public acknowledgment on various other channels
