@@ -12,6 +12,8 @@ Jump to
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
 
+### Total OWASP Projects: {{ site.data.projects.size }}
+
 ----
 <section id='new'></section>
 

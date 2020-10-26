@@ -13,6 +13,9 @@ Jump to
 * [Last Update](#last-update)
 * [Inactive](#inactive)
 
+
+### Total OWASP Chapters: {{ site.data.chapters.size }}
+
 ----
 <section id='new'></section>
 

@@ -18,20 +18,8 @@ Principals only, applications are only considered when submitted to the links be
 
 ## Current Searches
 
-### Community Manager
+We currently do not have any open positions. We look forward to being able to hire again shortly. 
 
-The Community Manager will actively manage and engage our on and offline communities to build global awareness for our mission and work. Each year millions of visitors find useful tools and technical guidance on our website and we aim to convert that interest into active members of our community.
+Please follow the [OWASP Foundation Careers at Linked In](https://www.linkedin.com/company/owasp/jobs/){:rel="noopener" target="_blank"} to be notified about future careers. 
 
-Reporting to the Exeuctive Director, successful candidates will be outgoing with a take-charge attitude and healthy level of "hustle", who will engage with, nurture, and leverage our community connections. This role will be the voice of the Foundation managing communications in various online communities and social networks, while connecting with our current and prospective supporters, leaders, and Members in the global AppSec market. Our community is composed of highly skilled software developers so strong technical skills relating to similar audiences is required. Salary commensurate with experience with published range of $40,000 - $60,000 per year. [Apply Now](https://owasp.wufoo.com/forms/employment-application/def/field18=Community%20Manager){:target='_blank'}
 
-### Marketing Manager
-
-The Marketing Manager will lead and grow global awareness for our mission, work product, and organization. Each year millions of visitors find useful tools and technical guidance on our website and we aim to convert that interest into active members of our community.
-
-Reporting to the Executive Director, this role is directly responsible for the growth and affinity of the OWASP brand as measured by Awareness, well attended conferences, along with web traffic and conversions. Successful candidates will have defined and managed marketing plans and tactics for international trade groups in the technology sector. Salary commensurate with experience with published range of $40,000 - $60,000 per year. [Apply Now](https://owasp.wufoo.com/forms/employment-application/def/field18=Marketing%20Manager){:target='_blank'}
-
-### Technical Manager
-
-The Technical Manager will manage and perform intermediate-level sysadmin, IT, security, and integration coding projects for the Foundation. Several of our projects will offer unique opportunities for advanced integration techniques and visibility into our global InfoSec and developer community.
-
-Reporting to the Director of Products & Technology, this role is responsible for ensuring the Foundation’s managed and hosted infrastructure has high reliability while also building integrations to connect our disparate systems. Experience with GitHub, Salesforce, G-Suite APIs, and web commerce is required for success in this new role. Salary commensurate with experience with published range of $50,000 - $75,000 per year. [Apply Now](https://owasp.wufoo.com/forms/employment-application/def/field18=Technology%20Manager){:target='_blank'}

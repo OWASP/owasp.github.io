@@ -65,7 +65,7 @@ permalink: /sitemap/
   <li><a href="/www-project-security-knowledge-framework/">Security Knowledge Framework</a></li>
   <li><a href="/www-project-web-security-testing-guide/">Web Security Testing Guide</a></li>
   <li><a href="/www-project-zap/">Zed Attack Proxy</a></li>
-  <li><a href="/projects/">Browse All Projects"</a></li>
+  <li><a href="/projects/">Browse All Projects</a></li>
 </ul>
 
 <ul>
