@@ -138,6 +138,8 @@ permalink: /membership/
   background-color: #233e81;
   text-transform: uppercase;
   font-size: 110%;
+  min-width: 185px;
+  min-height:65px;
 }
 
 @media (min-width: 768px) {
@@ -168,6 +170,70 @@ permalink: /membership/
     flex-basis: 75%;
   }
 }
+
+@keyframes spinner {
+    0% {
+        transform: translate3d(-50%, -50%, 0) rotate(0deg);
+    }
+    100% {
+         transform: translate3d(-50%, -50%, 0) rotate(360deg);
+    }
+}
+
+@keyframes inner-spinner {
+    0% {
+        transform: translate3d(-50%, -50%, 0) rotate(0deg);
+    }
+    100% {
+         transform: translate3d(-50%, -50%, 0) rotate(-360deg);
+    }
+}
+
+.spinner {
+    opacity: 1;
+    position: relative;
+    transition: opacity linear 0.1s; 
+}
+
+.spinner::before {
+        animation: 2s linear infinite spinner;
+        border: solid 4px #eee;
+        border-bottom-color: #AAAADE;
+        border-radius: 50%;
+        content: "";
+        height: 42px;
+        left: 50%;
+        opacity: inherit;
+        position: absolute;
+        top: 50%;
+        transform: translate3d(-50%, -50%, 0);
+        transform-origin: center;
+        width: 42px;
+        will-change: transform;
+    }
+
+  .inner-spinner {
+    opacity: 1;
+    position: relative;
+    transition: opacity linear 0.1s; 
+}
+
+.inner-spinner::before {
+        animation: 2s linear infinite inner-spinner;
+        border: solid 4px #eee;
+        border-bottom-color: #AAAADE;
+        border-radius: 50%;
+        content: "";
+        height: 32px;
+        left: 50%;
+        opacity: inherit;
+        position: absolute;
+        top: 50%;
+        transform: translate3d(-50%, -50%, 0);
+        transform-origin: center;
+        width: 32px;
+        will-change: transform;
+    }
 </style>
 
 {% raw %}
@@ -222,7 +288,7 @@ permalink: /membership/
             </div>
           </div>
         </div>
-        <div class="form-row" style="margin-bottom: 8px;">
+        <div class="form-row" style="margin-bottom: 8px;" v-if="!free_leader">
           <div class="membership-option" v-for="membership in membershipOptions" v-on:click="updateMembership(membership.name, membership.discount)" v-bind:class="membership_type === membership.name ? 'selected' : ''">
             {{ membership.name }} {{ membership.amount }}
           </div>
@@ -239,6 +305,21 @@ permalink: /membership/
 	    <input type="checkbox" v-model="mailing_list">
 	    <span class="checkmark"></span>
 	  </label>
+    <label class="checkbox-container">I am requesting Complimentary Membership for OWASP Leaders
+	    <input type="checkbox" v-model="free_leader">
+	    <span class="checkmark"></span>
+	  </label>
+    <div class='error-text' v-if="errors.free_leader">
+       {{ errors.free_leader[0] }}
+       <br>Please <a href='https://contact.owasp.org/'>Contact Us</a> if you feel this was in error.
+    </div>
+    <label class="checkbox-container" v-if="free_leader">I agree to be bound by the <a href="https://owasp.org/www-policy/legal/leaders-commitment-agreement">Leader Agreement</a>
+	    <input type="checkbox" v-model="free_leader_agreement">
+	    <span class="checkmark"></span>
+	  </label>
+    <div class='error-text' v-if="errors.free_leader_agreement">
+       {{ errors.free_leader_agreement[0] }}
+    </div>
         </div>
         <div class="membership-fields">
           <h3>Your Information</h3>
@@ -276,8 +357,10 @@ permalink: /membership/
           </div>
         </div>
         <div class="submit-container">
-          <button type="submit" class="membership-button" v-bind:disabled="loading">Submit</button>
+          <button type="submit" class="membership-button" v-bind:disabled="loading"><div v-if="!loading">Submit</div><div class='spinner' v-if="loading"><div class='inner-spinner' v-if="loading"></div>
+        </div></button>
         </div>
+        
       </form>
 
       <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership and agree to adhere to the OWASP Foundation <a href="/www-policy/operational/code-of-conduct">Code of Conduct</a>. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
@@ -319,7 +402,9 @@ window.addEventListener('load', function () {
       university: null,
       auto_renew: false,
       student: false,
-      mailing_list: false
+      mailing_list: false,
+      free_leader: false,
+      free_leader_agreement: false,
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
@@ -350,7 +435,9 @@ window.addEventListener('load', function () {
           ];
         } else {
           return [
-            { name: 'One Year', amount: '$20', discount: true }
+            { name: 'One Year', amount: '$20', discount: true },
+            { name: 'Two Year', amount: '$38', discount: true },
+            { name: 'Lifetime', amount: '$200', discount: true }
           ]
         }
       }
@@ -362,7 +449,7 @@ window.addEventListener('load', function () {
         }
 
         if (newCountry.discount) {
-          this.membership_type = 'One Year';
+          //this.membership_type = 'One Year';
           this.membership_discount = true;
           this.$forceUpdate();
         } else if (oldCountry && oldCountry.discount) {
@@ -374,11 +461,17 @@ window.addEventListener('load', function () {
     },
     methods: {
       handleSubmit: function () {
+        
+        if (this.free_leader){
+          return this.handleLeaderSubmit();
+        }
+
         this.loading = true;
         this.validateForm();
-
+        
         if (Object.keys(this.errors).length > 0) {
           this.loading = false;
+          //this works...why not in the axios post?
           this.$nextTick(function () {
             document.getElementById('error-message').scrollIntoView();
           })
@@ -395,6 +488,7 @@ window.addEventListener('load', function () {
             company: this.company_name,
             university: this.university,
             mailing_list: this.mailing_list,
+            free_leader: this.free_leader,
             student: this.student,
             currency: 'usd'
           };
@@ -409,9 +503,79 @@ window.addEventListener('load', function () {
             .catch(function (error) {
               vm.errors = error.response.data.errors
               vm.loading = false
-              vm.$nextTick(function () {
+              vm.$nextTick(function(){
                 document.getElementById('error-message').scrollIntoView();
               })
+            });
+        }
+      },
+      handleLeaderSubmit: function() {
+        this.loading = true;
+        this.validateForm();
+          // check the function call for free leader, if not leader, give error
+        if (Object.keys(this.errors).length > 0) {
+          this.loading = false;
+          //this works...why not in the axios post?
+          this.$nextTick(function () {
+            document.getElementById('error-message').scrollIntoView();
+          })
+        } else {
+          const postData = {
+            checkout_type: 'membership',
+            membership_type: 'One Year',
+            discount: this.membership_discount,
+            recurring: this.auto_renew,
+            country: this.country,
+            postal_code: this.postal_code,
+            email: this.email,
+            name: this.name_on_card,
+            company: this.company_name,
+            university: this.university,
+            mailing_list: this.mailing_list,
+            free_leader: this.free_leader,
+            student: this.student,
+            leader_agreement: this.free_leader_agreement,
+            currency: 'usd'
+          };
+          let errors = {}
+          // so instead of this...just create the membership?
+          axios.post('https://owaspadmin.azurewebsites.net/api/IsLeaderByEmail?code=yGSVCT1EaQHhLsVhbF6zEiOUninaB/jT4CIO9OyNdqg7lVmr8J4jLA==', postData)
+            .then(response => {
+              
+              if(response.data.error){
+                errors = [error.response.data.errors]
+                this.errors = errors
+              }
+              else if (response.data.leader == false)
+              {
+                errors.free_leader = ['We did not find your email address in our list of OWASP Leaders']
+                this.errors = errors
+              }
+              else if(response.data.leader == true){
+                //success case?
+                this.$nextTick(function () {
+                    document.location.href = "/membership-success"
+                  })
+              }
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                //this works...why not in the axios post?
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
+            })
+            .catch(error => {
+              errors.free_leader = [error]
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                //this works...why not in the axios post?
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
             });
         }
       },
@@ -421,10 +585,14 @@ window.addEventListener('load', function () {
         this.$forceUpdate();
       },
       validateForm: function () {
-        let errors = {};
+        let errors = {};        
 
-        if (!this.membership_type) {
+        if (!this.membership_type && !this.free_leader) {
           errors.membership_type = ['Please select a membership type.'];
+        }
+
+        if(this.free_leader && !this.free_leader_agreement){
+          errors.free_leader_agreement = ['You must accept the leader agreement.']
         }
 
         if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
@@ -436,7 +604,7 @@ window.addEventListener('load', function () {
         }
 
         if (!this.name_on_card) {
-          errors.name_on_card = ['Please enter your name as it appears on your credit card.'];
+          errors.name_on_card = ['Please enter your first and last name.'];
         }
 
         if (this.student && !this.university) {
