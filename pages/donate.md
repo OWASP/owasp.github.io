@@ -453,11 +453,11 @@ window.addEventListener('load', function () {
           errors.amount = ['Please select a donation amount.'];
         } else {
           if ((typeof this.amount === 'string' || this.amount instanceof String) && !this.amount.match(/^-{0,1}\d+$/)) {
-            errors.amount = ['Donation amounts must be whole numbers between 1 and 5000 with no commas or decimals.'];
+            errors.amount = ['Donation amounts must be whole numbers between 10 and 5000 with no commas or decimals.'];
           } else {
             let intAmount = parseInt(this.amount)
-            if (intAmount < 1 || intAmount > 5000) {
-              errors.amount = ['Donation amounts must be whole numbers between 1 and 5000 with no commas or decimals.'];
+            if (intAmount < 10 || intAmount > 5000) {
+              errors.amount = ['Donation amounts must be whole numbers between 10 and 5000 with no commas or decimals.'];
             }
           }
         }
