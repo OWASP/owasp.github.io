@@ -702,14 +702,14 @@
     {
         "name": "Glenn ten Cate",
         "email": "glenn.ten.cate@owasp.org",
-        "group": "OWASP security Knowledge Framework",
+        "group": "OWASP Security Knowledge Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-knowledge-framework/"
     },
     {
         "name": "Riccardo ten Cate",
         "email": "riccardo.ten.cate@owasp.org",
-        "group": "OWASP security Knowledge Framework",
+        "group": "OWASP Security Knowledge Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-knowledge-framework/"
     },
@@ -1617,20 +1617,6 @@
         "group_url": "https://owasp.org/www-chapter-nainital/"
     },
     {
-        "name": "James Burford",
-        "email": "james.burford@owasp.org",
-        "group": "OWASP Hereford",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hereford/"
-    },
-    {
-        "name": "Richard Henson",
-        "email": "richard.henson@owasp.org",
-        "group": "OWASP Hereford",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hereford/"
-    },
-    {
         "name": "Daniel Pitis",
         "email": "pitis.daniel@owasp.org",
         "group": "OWASP Sibiu",
@@ -1967,13 +1953,6 @@
         "group_url": "https://owasp.org/www-chapter-trinidad-and-tobago/"
     },
     {
-        "name": "Patrick Hosein",
-        "email": "",
-        "group": "OWASP Trinidad And Tobago",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-trinidad-and-tobago/"
-    },
-    {
         "name": "Aldo Salas",
         "email": "aldo.salas@owasp.org",
         "group": "OWASP Aguascalientes",
@@ -2247,8 +2226,8 @@
         "group_url": "https://owasp.org/www-chapter-medellin/"
     },
     {
-        "name": "Yuichi Higashi",
-        "email": "yuichi.higashi@owasp.org",
+        "name": "Yuichi Hattori",
+        "email": "yuichi.hattori@owasp.org",
         "group": "OWASP Kyushu",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kyushu/"
@@ -2609,20 +2588,6 @@
         "group": "OWASP Knoxville",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-knoxville/"
-    },
-    {
-        "name": "Tyler Laws",
-        "email": "",
-        "group": "OWASP Uw Bothell",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-uw-bothell/"
-    },
-    {
-        "name": "Cody Burkard",
-        "email": "cody.burkard@owasp.org",
-        "group": "OWASP Uw Bothell",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-uw-bothell/"
     },
     {
         "name": "Blain Purtle",
@@ -5656,31 +5621,10 @@
         "group_url": "https://owasp.org/www-project-joomscan/"
     },
     {
-        "name": "Ross Young",
-        "email": "rossayoung@gmail.com",
-        "group": "www-project-threat-and-safeguard-matrix",
+        "name": "Abhi M Balakrishnan",
+        "email": "abhimbalakrishnan@gmail.com",
+        "group": "OWASP Snow",
         "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-and-safeguard-matrix/"
-    },
-    {
-        "name": "Prabhu Mayandi",
-        "email": "prabhu.mayandi@owasp.org",
-        "group": "OWASP Sastra University",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sastra-university/"
-    },
-    {
-        "name": "Abhisek Rajkumar",
-        "email": "abhisek.rajkumar@owasp.org",
-        "group": "OWASP Sastra University",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sastra-university/"
-    },
-    {
-        "name": " Sai Aditya Viswanadham",
-        "email": "saiaditya.viswanadham@owasp.org",
-        "group": "OWASP Sastra University",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sastra-university/"
+        "group_url": "https://owasp.org/www-project-snow/"
     }
 ]
