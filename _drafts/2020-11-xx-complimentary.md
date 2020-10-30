@@ -43,13 +43,13 @@ OWASP has around 290 chapters, 160 projects, and approximately 1,000 active proj
 
 ## How do I take up Complimentary leadership?
 
-Simply [Renew or Join](https://owasp.org/membership/), and if you're eligible, a Complimentary option will be available to you. Note, other recently membership reforms also make it possible for regional discounts for individual (\$20), two year (\$35) and Lifetime membership (\$200), or our standard pricing of \$50, \$95 for two years, and \$500 for Lifetime membership will also be offered.
+Simply [Renew or Join](https://owasp.org/membership/), and if you're eligible, a Complimentary option will be available to you. Note, other recently adopted membership reforms make it possible for regional discounts for individual (\$20), two year (\$35) and Lifetime membership (\$200), or our standard pricing of \$50, \$95 for two years, and \$500 for Lifetime membership will also be offered. In the future, monthly memberships will also be offered, but they are not available just yet.
 
 Complimentary Membership does not auto-renew. Please keep an eye on the calendar to keep continuous membership benefits, or even better, join as a paid member when you can do so.
 
 ## Do I need to take up Complimentary Leadership? I want to continue supporting the Foundation
 
-No. We encourage all OWASP Leaders to continue supporting our not-for-profit mission by donating their skills, passion, time, and monetarily by becoming a financial member. We hope that Leaders will regularly motivate others to join, sponsor, or donate to OWASP to help our mission.
+No. We encourage all OWASP Leaders to continue supporting our not-for-profit mission by donating their skills, passion, time, and support our mission monetarily by becoming a financial member. We hope that Leaders will regularly motivate others to join, sponsor, or donate to OWASP to help our mission.
 
 ## I am a Lifetime member and a leader... WAT
 
