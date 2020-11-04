@@ -49,7 +49,7 @@ Ranging from single day to week long events, local OWASP volunteers organize and
 <a name="globalpartnerevents">
 ## Global Partner Events
 
-Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](mailto:lisa.jones@owasp.com?subject=Partnership%20Marketing) for more information.
+Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](mailto:https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
 
 {% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'partner'" | sort: 'start-date' | limit: 100 %}
 {% for event in eventlist %}
