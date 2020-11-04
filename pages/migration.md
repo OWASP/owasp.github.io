@@ -170,4 +170,6 @@ To set up a local development environment for the new OWASP [Jekyll](https://jek
 
 6. Don't forget to do a `bundle update` from time to time to ensure your dependencies are up-to-date.
 
+> Note: `Gemfile.lock` should not be included in your repo, and can be specifically added to `.gitignore` in order to ensure that git never tries to track it. (More information about [.gitignore](https://git-scm.com/docs/gitignore))
+
 > Note: The instructions above are Linux centric, they've been tested on Kali and Ubuntu Virtual Machines.
