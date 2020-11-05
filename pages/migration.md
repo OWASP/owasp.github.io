@@ -149,7 +149,7 @@ Events on your chapter Meetup page can be added to your OWASP Chapter page by in
 For a more concrete example, see [https://owasp.org/www-projectchapter-example/] 
 
 ---
-### Setup a local testing environment
+### Setup a Local Testing Environment
 
 To set up a local development environment for the new OWASP [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) site:
 
@@ -167,5 +167,9 @@ To set up a local development environment for the new OWASP [Jekyll](https://jek
     `bundle exec jekyll serve`
 
 5. Once the local server is up and ready for connections/testing a destination URL will be displayed in the console output. Likely `http://127.0.0.1:4000`. (Keep in mind this is only the one project or chapter and so some out-of-scope links may not function correclty.)
+
+6. Don't forget to do a `bundle update` from time to time to ensure your dependencies are up-to-date.
+
+> Note: `Gemfile.lock` should not be included in your repo, and can be specifically added to `.gitignore` in order to ensure that git never tries to track it. (More information about [.gitignore](https://git-scm.com/docs/gitignore))
 
 > Note: The instructions above are Linux centric, they've been tested on Kali and Ubuntu Virtual Machines.
