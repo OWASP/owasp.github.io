@@ -24,7 +24,7 @@ Only 17% of OWASP leaders are members of any sort. The Board felt that many non-
 
 The Honorary membership system, set down in our bylaws for many years, wasn't functional for a long time and prevented worthy members from receiving well-deserved Honorary Membership. Honorary Membership was all but Complimentary Membership for those who asked a lot, which diminishes the recognition and efforts of those who are genuinely deserving of Honorary Membership. The existing honorary system is unfair, unsustainable, and doesn't help our mission.
 
-Honorary Membership will become an actual award - awarded by the Board only a few times a year. Honorary Membership will grant Lifetime membership for extraordinary service to OWASP and our mission over a long time.
+Honorary Membership will become an actual award - awarded by the Board only a few times a year. Honorary Membership will grant Lifetime membership for extraordinary service to OWASP and our mission over a long time. Prior Honorary Membership applications will not be processed. If you have applied for Honorary Membership but not received it, please see if you qualify for complimentary membership.
 
 ## Complimentary Membership reform
 
