@@ -16,7 +16,7 @@ For hardworking OWASP community leaders who have done amazing things for many ye
 
 ## What is the problem we're trying to solve?
 
-Typically, for non-profits and charities, the expectation is that community leaders are members. OWASP is almost unique in that we don't require MembershipMembership to participate or make it mandatory for leaders.
+Typically, for non-profits and charities, the expectation is that community leaders are members. OWASP is almost unique in that we don't require Membership to participate or make it mandatory for leaders.
 
 Only 17% of OWASP leaders are members of any sort. The Board felt that many non-member leaders could not vote or become Board members, so they were effectively donating their time but could not influence the Foundation or our mission. At the September face-to-face meeting, the Board discussed various membership models and decided to offer active leaders Complimentary membership and reform Honorary Membership.
 
@@ -24,13 +24,13 @@ Only 17% of OWASP leaders are members of any sort. The Board felt that many non-
 
 The Honorary membership system, set down in our bylaws for many years, wasn't functional for a long time and prevented worthy members from receiving well-deserved Honorary Membership. Honorary Membership was all but Complimentary Membership for those who asked a lot, which diminishes the recognition and efforts of those who are genuinely deserving of Honorary Membership. The existing honorary system is unfair, unsustainable, and doesn't help our mission.
 
-Honorary MembershipMembership will become an actual award - awarded by the Board only a few times a year. Honorary MembershipMembership will grant Lifetime membership for extraordinary service to OWASP and our mission over a long time.
+Honorary Membership will become an actual award - awarded by the Board only a few times a year. Honorary Membership will grant Lifetime membership for extraordinary service to OWASP and our mission over a long time.
 
 ## Complimentary Membership reform
 
-For Leaders who are finding it difficult in this pandemic to justify paid MembershipMembership, or feel that they contribute a lot to OWASP already, Complimentary Membership is now available.
+For Leaders who are finding it difficult in this pandemic to justify paid Membership, or feel that they contribute a lot to OWASP already, Complimentary Membership is now available.
 
-Complimentary MembershipMembership is now live, and to qualify, you must:
+Complimentary Membership is now live, and to qualify, you must:
 
 - **You must be discoverable**. We can only discover you in the same way that any new member or member of the public can - via our website. It would be best if you had an up to date project or chapter page. Your details must be in the "leaders.md" file, and your page linked to your Github project or Meetup page.
 - **You must be one of the top 5 leaders in your project or chapter**. The current Honorary membership requirement of a minimum of six months' service as a leader is still a prerequisite.
@@ -48,7 +48,7 @@ Other recently adopted membership reforms mean paid Membership is within the gra
 
 In the future, the OWASP Foundation will offer monthly memberships, but they are not available just yet.
 
-Complimentary MembershipMembership does not auto-renew. Please keep an eye on the calendar to keep your membership benefits. For members wishing to stand for the Board, you will need to maintain continuous Membership for 12 months before submitting your candidacy and maintain Membership to the end of the election. You must switch over to paid MembershipMembership if you are elected. The easiest way to keep continuous MembershipMembership is a Lifetime membership, which I highly recommend.
+Complimentary Membership does not auto-renew. Please keep an eye on the calendar to keep your membership benefits. For members wishing to stand for the Board, you will need to maintain continuous Membership for 12 months before submitting your candidacy and maintain Membership to the end of the election. You must switch over to paid Membership if you are elected. The easiest way to keep continuous Membership is a Lifetime membership, which I highly recommend.
 
 ## Do I need to take up Complimentary Leadership? I want to continue supporting the Foundation.
 
