@@ -1,6 +1,6 @@
 ---
 
-date: YYYY-MM-DD
+date: 2020-11-DD
 author: Andrew van der Stock
 author_image: /assets/images/people/staff_andrew.jpg
 layout: blogpost
