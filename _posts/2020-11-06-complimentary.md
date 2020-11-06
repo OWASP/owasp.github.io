@@ -4,7 +4,7 @@ date: 2020-11-06
 author: Andrew van der Stock
 author_image: /assets/images/people/staff_andrew.jpg
 layout: blogpost
-title: "TBA"
+title: "Annoucing Honorary Lifetime Membership Reform and Complimentary Membership for active leaders"
 excerpt_separator: <!--more-->
 
 ---
@@ -65,6 +65,8 @@ We are working to improve the benefits offered to Lifetime members. We are creat
 As all active Leaders are now eligible for a \$50 per year benefit, we will be replacing the "free" conference benefit with a far fairer and more transparent Awards and Scholarships policy. Awards and scholarships will open up our mission to deserving and under-served groups and better target benefits, and ensure that we know how much a particular Award or Scholarship will cost the event, trainer, or Foundation.
 
 Most other leadership benefits will not change, but we will continuously be looking to improve them.
+
+Thank you to [Harold Blankenship](https://twitter.com/OWASPDirPrjTech) for getting the automation that drives this new reform done in record time, so that the Board's desired go live date could be achieved. I think it's often underappreciated that our staff work behind the scenes very hard for all OWASP members and leaders, and this is yet one more example of where Harold pulled out all the stops to add yet another new benefit for active leaders. Thank you, Harold!
 
 [Andrew van der Stock](mailto:andrew.vanderstock@owasp.com)
 
