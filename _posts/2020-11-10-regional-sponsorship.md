@@ -18,7 +18,7 @@ For a fraction of what a thirty-day Google Ad would cost you, our corporate memb
 
 The OWASP Foundation is a global organization. Our community consists of individuals and companies worldwide, ranging from Students to C-level executives and everyone in between.
 
-Contact me now to learn how you can join and begin receiving all of the benefits corporate membership offers!<br>
+Contact me now to learn how you can join and begin receiving all of the benefits corporate membership offers!
 
 
 [Kelly Santalucia](mailto:kelly.santalucia@owasp.com)<br>
