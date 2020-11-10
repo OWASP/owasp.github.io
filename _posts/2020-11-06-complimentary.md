@@ -4,7 +4,7 @@ date: 2020-11-06
 author: Andrew van der Stock
 author_image: /assets/images/people/staff_andrew.jpg
 layout: blogpost
-title: "Annoucing Honorary Lifetime Membership Reform and Complimentary Membership for active leaders"
+title: "Announcing Honorary Lifetime Membership Reform and Complimentary Membership for Active Leaders"
 excerpt_separator: <!--more-->
 
 ---
