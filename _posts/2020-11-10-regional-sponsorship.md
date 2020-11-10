@@ -2,7 +2,7 @@
 
 date: 2020-11-10
 author: Kelly Santalucia
-author_image: /assets/images/people/staff_kelly.jpg
+author_image: /assets/images/people/kelly2.jpg
 layout: blogpost
 title: Keep your company in the eye of the user! 
 excerpt_separator: <!--more-->
