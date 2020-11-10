@@ -8,8 +8,8 @@ title: Keep your company in the eye of the user!
 excerpt_separator: <!--more-->
 
 ---
-The OWASP Foundation is a not-for-profit organization providing open-source projects, tools, documentation, etc., to help security professionals succeed by improving to keep their company's data secure! Our open-source materials are supported by the financial contributions of our Corporate Members, and they are fundamentally important to help us continue to fulfill our mission by providing these resources. As a corporate member, supporting the OWASP Foundation demonstrates the companies commitment to the community, the Foundation, and the entire AppSec sector.<br> 
 
+The OWASP Foundation is a not-for-profit organization providing open-source projects, tools, documentation, etc., to help security professionals succeed by improving to keep their company's data secure! Our open-source materials are supported by the financial contributions of our Corporate Members, and they are fundamentally important to help us continue to fulfill our mission by providing these resources. As a corporate member, supporting the OWASP Foundation demonstrates the companies commitment to the community, the Foundation, and the entire AppSec sector.<br> 
 OWASP strives to provide opportunities to companies with all budget types so everyone can participate.  That being said, we are happy to announce that we now offer **discounted corporate membership** for companies in developing regions and discounted rates for start-up companies!  Qualify, and be one of the first ten companies to [join the Foundation as a corporate member](https://owasp.org/supporters/) to receive a special incentive.<br>
 
 <!--more-->
