@@ -20,6 +20,8 @@ Typically, for non-profits and charities, the expectation is that community lead
 
 Only 17% of OWASP leaders are members of any sort. The Board felt that many non-member leaders could not vote or become Board members, so they were effectively donating their time but could not influence the Foundation or our mission. At the September face-to-face meeting, the Board discussed various membership models and decided to offer active leaders Complimentary membership and reform Honorary Membership.
 
+<!-- more -->
+
 ## Honorary Membership reform
 
 The Honorary membership system, set down in our bylaws for many years, wasn't functional for a long time and prevented worthy members from receiving well-deserved Honorary Membership. Honorary Membership was all but Complimentary Membership for those who asked a lot, which diminishes the recognition and efforts of those who are genuinely deserving of Honorary Membership. The existing honorary system is unfair, unsustainable, and doesn't help our mission.
