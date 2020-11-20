@@ -323,14 +323,14 @@ permalink: /membership/
           <h3>Your Information</h3>
           <div>
             <input type="text" v-model="email" aria-label="Email Address"
-            placeholder="Email Address" />
+            placeholder="Member Email Address" />
             <div class="error-text" v-if="errors.email">
               {{ errors.email[0] }}
             </div>
           </div>
           <div>
             <input type="text" v-model="email_confirm" aria-label="Confirm Email
-            Address" placeholder="Confirm Email Address" />
+            Address" placeholder="Confirm Member Email Address" />
             <div class="error-text" v-if="errors.email_confirm">
               {{ errors.email_confirm[0] }}
             </div>
@@ -348,7 +348,7 @@ permalink: /membership/
             </div>
           </div>
           <div>
-            <input type="text" v-model="name_on_card" aria-label="Name" placeholder="Name" />
+            <input type="text" v-model="name_on_card" aria-label="Name" placeholder="Member Name" />
             <div class="error-text" v-if="errors.name_on_card">
               {{ errors.name_on_card[0] }}
             </div>
