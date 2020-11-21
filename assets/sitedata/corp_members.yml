@@ -28,18 +28,24 @@
   image: /assets/images/corp-member-logo/altitude-networks.png	
   url: https://www.altitudenetworks.com	
   description: Altitude Networks tackles data security in the cloud to protect enterprises against unauthorized data access, accidental or malicious sharing to unintended individuals, and data theft.	
-- member: true
+- member: true  
   sponsor: 	
   name: AppSealing 	
   image: /assets/images/corp-member-logo/appsealing.jpeg	
   url: https://www.appsealing.com/ 	
-  description: AppSealing is a trusted player in the world of mobile application security. In today’s application-focused world, security can’t slow down your speed of development. We utilize runtime application self-protection features to build scalable security solutions for your mobile apps business in quick time without "ANY CODING". Our powerful security suite ensures real-time in-depth application security like source code protection, anti-reverse engineering, cheat tool & emulator detection/blocking, and enforces app integrity. It protects 800+ mobile apps and 800 million+ devices, successfully blocking 70 million+ threats across the globe. Our esteemed clientele spans across Gaming, Fintech, Movie apps, E-comm, Healthcare, and O2o.
+  description: AppSealing is a trusted player in the world of mobile application security. In today’s application-focused world, security can’t slow down your speed of development. We utilize runtime application self-protection features to build scalable security solutions for your mobile apps business in quick time without 'ANY CODING'. Our powerful security suite ensures real-time in-depth application security like source code protection, anti-reverse engineering, cheat tool & emulator detection/blocking, and enforces app integrity. It protects 800+ mobile apps and 800 million+ devices, successfully blocking 70 million+ threats across the globe. Our esteemed clientele spans across Gaming, Fintech, Movie apps, E-comm, Healthcare, and O2o.
 - member: true  
   sponsor: 
   name: Atlassian
   image: /assets/images/corp-member-logo/atlassian.png	
   url: http://www.atlassian.com/trust
   description: Atlassian unleashes the potential in every team. Our products help teams organize, discuss and complete shared work. Today Atlassian is the leading provider of collaboration software for teams at more than 110,000 companies globally, including top brands like Citigroup, eBay, Coca-Cola, Visa, BMW and NASA. We help teams at organizations of all sizes, from start-ups to large companies, and more than 75 percent of Fortune 100 companies are Atlassian customers.
+- member: true  
+  sponsor: 	
+  name: BSG
+  image: /assets/images/corp-member-logo/BSDLogo300x90.png
+  url: https://bsg.tech
+  description: BSG is a privately-held consulting firm specializing in application security, penetration testing, and professional training. Since our founding in 2014, we have delivered hundreds of successful projects to more than 80 clients in all major verticals. We help our customers build a risk-aware mindset and integrate security principles into all aspects of their business.
 - member: false 	
   sponsor: 	
   name: BlackHat 	
@@ -310,7 +316,7 @@
   name: ThoughtWorks	
   image: /assets/images/corp-member-logo/thoughtworks.png	
   url: https://www.thoughtworks.com/	
-  description: We are a software company and community of passionate, purpose-led individuals. We think disruptively to deliver technology that addresses our clients’ toughest challenges, all while seeking to revolutionize the IT industry and create positive social change. ThoughtWorks' 3,000 professionals serve clients from offices in Australia, Brazil, Canada, China, Ecuador, Germany, India, Italy, Singapore, South Africa, Turkey, Uganda, the United Kingdom, and the United States. ThoughtWorks releases a regular technology radar, a study that looks at the key trends that impact software development and business strategies. The Radar helps companies stay on top of topics that are constantly evolving, such as security, and offers insight and practical tools to build secure systems at every stage of the development process.	
+  description: We are a software consultancy and community of passionate purpose-led individuals, 7,000+ people strong across 43 offices in 14 countries. Over our 25+ year history, we have helped our clients solve complex business problems where technology is the differentiator. When the only constant is change, we prepare you for the unpredictable.
 - member: true	
   sponsor: 	
   name: UBsecure	
@@ -328,7 +334,7 @@
   name: Verimatrix	
   image: /assets/images/corp-member-logo/verimatrix.jpg
   url: https://www.verimatrix.com/ 	
-  description: Verimatrix is a trusted business partner providing software security and business intelligence solutions that protect content, devices, applications and communications across multiple markets. Many of the world’s largest service providers and leading innovators trust Verimatrix to protect systems that people depend on every day. 
+  description: Verimatrix helps power the modern connected world with security made for people. We protect digital content, applications, and devices with intuitive, people-centered and frictionless security. Leading brands turn to Verimatrix to secure everything from premium movies and live streaming sports, to sensitive financial and healthcare data, to mission-critical mobile applications. We enable the trusted connections our customers depend on to deliver compelling content and experiences to millions of consumers around the world. Verimatrix helps partners get to market faster, scale easily, protect valuable revenue streams and win new business.
 - member: true
   sponsor:
   name: Virsec 
