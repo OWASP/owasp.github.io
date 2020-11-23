@@ -6,7 +6,7 @@ permalink: /news/
 
 ---
 
-Check back here for weekly news and opinions from OWASP leadership, staff, and community members. Have a news idea for here or the Connector?  Submit to [News](mailto:news@owasp.com?subject=News%20Idea)
+Weekly news and opinions from OWASP leadership, staff, and community members. Have an idea you'd like to see here?  [Submit to News](mailto:news@owasp.com?subject=News%20Idea) today!
   
 <section class="homepage-blog">
 {% assign posts = site.posts | limit: 100 %}
@@ -16,5 +16,5 @@ Check back here for weekly news and opinions from OWASP leadership, staff, and c
 <a><img src="{{ post.author_image }}" alt="image"></a>
 <p class="author"><a>{{ post.author }}</a></p>
 <p>{{ post.date | date: "%A, %B %e, %Y" }} {{ post.excerpt }}<a href="{{ post.url }}">... more</a></p>
-{% endfor %}	
+{% endfor %}
 </section>
