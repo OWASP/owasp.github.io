@@ -2107,13 +2107,6 @@
         "group_url": "https://owasp.org/www-chapter-natal/"
     },
     {
-        "name": "Diego Gonzalez Arango",
-        "email": "diego.gonzalez.arango@owasp.org",
-        "group": "OWASP Panama City",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-panama-city/"
-    },
-    {
         "name": "Onam Diaz",
         "email": "onam.diaz@owasp.org",
         "group": "OWASP Panama City",
@@ -2121,8 +2114,15 @@
         "group_url": "https://owasp.org/www-chapter-panama-city/"
     },
     {
-        "name": "Ivan Ho",
-        "email": "ivan.ho@owasp.org",
+        "name": "Jose Moreno",
+        "email": "jose.moreno@owasp.org",
+        "group": "OWASP Panama City",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-panama-city/"
+    },
+    {
+        "name": "Diego Gonzalez Arango",
+        "email": "diego.gonzalez.arango@owasp.org",
         "group": "OWASP Panama City",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-panama-city/"
@@ -2275,7 +2275,7 @@
         "group_url": "https://owasp.org/www-chapter-hokushinetsu/"
     },
     {
-        "name": "RIP （万振华）",
+        "name": "RIP",
         "email": "rip@owasp.org",
         "group": "OWASP China-Mainland",
         "group-type": "chapter",
@@ -3397,20 +3397,6 @@
     {
         "name": "Rejah Rehim",
         "email": "rejah.rehim@owasp.org",
-        "group": "OWASP Kerala",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kerala/"
-    },
-    {
-        "name": "Rajesh Nair",
-        "email": "rajesh.nair@owasp.org",
-        "group": "OWASP Kerala",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kerala/"
-    },
-    {
-        "name": "Sreenath Sasikumar",
-        "email": "sreenath.sasikumar@owasp.org",
         "group": "OWASP Kerala",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kerala/"
@@ -5598,5 +5584,12 @@
         "group": "OWASP Thoothukudi",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-thoothukudi/"
+    },
+    {
+        "name": "Veronica Schmitt",
+        "email": "veronica.schmitt@noroff.no",
+        "group": "OWASP Secure Logging Benchmark",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-secure-logging-benchmark/"
     }
 ]
