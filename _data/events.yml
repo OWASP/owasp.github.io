@@ -1,19 +1,8 @@
 - category: Global
-  description: Our premier events with up to three days of training followed by a two day conference with keynotes and multiple tracks. A global team plans the agenda, selects the speakers, and hosts the event.
+  description: Our premier events bringing together our multifaceted communities to engage in a variety of events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-- category: Regional
-  description: Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
-  events:
-    - name: Virtual AppSec Indonesia 2020
-      description:
-      start-date: 2020-11-21
-      dates: November 21-22, 2020
-      url: https://appsec2020.owasp.or.id/
-    - name: OWASP BeNeLux-Days
-      description: Days OWASP and BeNeLux
-      start-date: 2020-11-23
-      dates: November 23-27, 2020
-      url: http://www.owaspbenelux.eu
-- category: Partner
-  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
-  events:
+      name: Lightning Conference 
+      description: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and Sponsor Discovery Demos all in a fast paced 90 minutes.
+      start-date: 2021-1-20
+      dates: January 20, 2021
+      url: 
