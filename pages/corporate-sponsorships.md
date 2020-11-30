@@ -52,22 +52,30 @@ All Sponsorship Packages include:
 ## Event Sponsorship
 If you're looking to simply exhibit at one of our conferences, you can also support the Foundation with an Event Sponsorship.  Pricing and benefits vary by event. Please click on the links below to learn more about those particular offerings.
 
-### Global AppSec Events
-<ul>
-{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'global'" | sort: 'start-date' | limit: 100 %}
-{% for event in eventlist %}
-<li><a href='{{ event.url }}' target='_blank'>{{ event.name }}</a>, {{ event.dates }}. {% if event.optional-text %}{{ event.optional-text }}{% endif %}</li>
-{% endfor %}
-</ul>
 
-### Regional Events
-<ul>
-{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'local'" | sort: 'start-date' | limit: 100 %}
-{% for event in eventlist %}
-<li><a href='{{ event.url }}' target='_blank'>{{ event.name }}</a>, {{ event.dates }}. {% if event.optional-text %}{{ event.optional-text }}{% endif %}</li>
-{% endfor %}
-</ul>
 
+{% for category in site.data.events %}
+<a name='{{category.category}}'>
+
+<div style='height:45px;background:#f4f6fc;line-height:45px;padding-left:16px;'>
+<h3>{{ category.category }} Events</h3>
+</div>
+
+{{ category.description }}
+{% if category.events == nil or category.events.size < 1 %}
+***No events upcoming.  Check back later.***
+{% endif %}
+{% for event in category.events %}
+#### {{ event.name }}
+<ul>
+<li>{{ event.dates }}</li>
+{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
+<li><a href='{{ event.url }}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+</ul>
+{% endfor %}
+{% endfor %}
+
+<div style='height:45px;background:#f4f6fc;'></div>
 If you're ready to learn more, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"}.
 
 Please note certain restrictions may apply. Benefits are NOT transferable and expire following the end of the exhibiting conferences.

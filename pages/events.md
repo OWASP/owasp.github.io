@@ -15,14 +15,17 @@ Ever wanted to network and learn along with other AppSec professionals? We host 
 
 While some of our events have corporate sponsors, the content is vendor neutral, and speakers are carefully selected ensuring a good return on your investment of time and money. Often times are larger events also host Expositions, Capture the Flags, and Career Fairs. Often members get a discount on conference passes.
 
-Skip to <a href="#regionalevents">Regional Events</a> or <a href="#globalpartnerevents">Global Partner Events</a>
+Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><strong>{{category.category}} Events</strong></a> {%unless forloop.last %},{%endunless%} {% endfor %}
 
-## Global Events
+{% for category in site.data.events %}
+<a name='{{category.category}}'>
+## {{ category.category }} Events
 
-Our premier events with up to three days of training followed by a two day conference with keynotes and multiple tracks. A global team plans the agenda, selects the speakers, and hosts the event.
-
-{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'global'" | sort: 'start-date' | limit: 100 %}
-{% for event in eventlist %}
+{{ category.description }}
+{% if category.events == nil or category.events.size < 1 %}
+***No events upcoming.  Check back later.***
+{% endif %}
+{% for event in category.events %}
 <h4>{{ event.name }}</h4>
 <ul>
 <li>{{ event.dates }}</li>
@@ -30,33 +33,4 @@ Our premier events with up to three days of training followed by a two day confe
 <li><a href='{{ event.url }}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
 </ul>
 {% endfor %}
-
-<a name="regionalevents">
-## Regional Events
-
-Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
-
-{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'local'" | sort: 'start-date' | limit: 100 %}
-{% for event in eventlist %}
-<h4>{{ event.name }}</h4>
-<ul>
-<li>{{ event.dates }}</li>
-{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
-</ul>
-{% endfor %}
-
-<a name="globalpartnerevents">
-## Global Partner Events
-
-Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
-
-{% assign eventlist = site.data.events | where_exp: "event", "event.type contains 'partner'" | sort: 'start-date' | limit: 100 %}
-{% for event in eventlist %}
-<h4>{{ event.name }}</h4>
-<ul>
-<li>{{ event.dates }}</li>
-{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
-<li><a href='{{ event.url }}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
-</ul>
 {% endfor %}
