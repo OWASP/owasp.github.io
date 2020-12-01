@@ -30,7 +30,9 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 <ul>
 <li>{{ event.dates }}</li>
 {% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
+{% if event.url %}
 <li><a href='{{ event.url }}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{ event.url }}</a></li>
+{% endif %}
 </ul>
 {% endfor %}
 {% endfor %}
