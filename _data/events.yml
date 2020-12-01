@@ -1,8 +1,8 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-      name: Lightning Conference 
-      description: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and Sponsor Discovery Demos all in a fast paced 90 minutes.
-      start-date: 2021-1-20
-      dates: January 20, 2021
-      url: 
+      - name: Lightning Conference 
+        description: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and Sponsor Discovery Demos all in a fast paced 90 minutes.
+        start-date: 2021-1-20
+        dates: January 20, 2021
+        url: 
