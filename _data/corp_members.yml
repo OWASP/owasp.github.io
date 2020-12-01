@@ -125,6 +125,12 @@
   url: https://about.gitlab.com/
   description: GitLab is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. From idea to production, GitLab helps teams improve cycle time from weeks to minutes, reduce development process costs and decrease time to market while increasing developer productivity. 
 - member: true	
+  sponsor:	
+  name: HackerOne
+  image: assets/images/corp-member-logo/hackerone.png
+  url: https://www.hackerone.com/?utm_source=owasp&amp;utm_medium=partner&amp;utm_campaign=owasp
+  description: HackerOne empowers the world to build a safer internet. As the world’s most trusted hacker-powered security platform, HackerOne gives organizations access to the largest community of hackers on the planet. Armed with the most robust database of vulnerability trends and industry benchmarks, the hacker community mitigates cyber risk by searching, finding, and safely reporting real-world security weaknesses for organizations across all industries and attack surfaces. HackerOne was ranked fifth on the Fast Company World’s Most Innovative Companies list for 2020. Headquartered in San Francisco with a presence in London, New York, the Netherlands, France, Singapore, and 70+ other global locations.
+- member: true	
   sponsor: 	
   name: HiSolutions	
   image: /assets/images/corp-member-logo/hi-solutions.png	
