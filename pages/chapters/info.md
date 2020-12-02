@@ -7,5 +7,5 @@
 * [Chapter Status](/chapters/status/)
 * [OWASP Meetup](https://owasp.meetup.com)
 
-<a class="twitter-timeline" data-width="100%" data-height="400" data-theme="light" href="https://twitter.com/owasp?ref_src=twsrc%5Etfw">Tweets by owasp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
