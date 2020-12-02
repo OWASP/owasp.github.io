@@ -9,7 +9,7 @@ permalink: /events/
 
 Ever wanted to network and learn along with other AppSec professionals? We host nearly a dozen events each year varying in format to week long trainings and conferences, to single day programs. OWASP events are a great way to:
 
-- Improve you career skills
+- Improve your career skills
 - Build your professional network
 - Learn about new trends in the industry
 
