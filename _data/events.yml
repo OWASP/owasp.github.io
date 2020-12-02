@@ -1,8 +1,34 @@
 - category: Global
-  description: Our premier events bringing together our multifaceted communities to engage in a variety of events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
+  description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
       - name: Lightning Conference 
         optional-text: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and Sponsor Discovery Demos all in a fast paced 90 minutes.
         start-date: 2021-1-20
         dates: January 20, 2021
         url: 
+      - name: Summer of Security Top 5 Re-Run 
+        optional-text: We're bring back our hotest virtual training courses from 2020 to kick-off your New Year! If you missed these this summer, now is your chance to upskill.
+        start-date: 2021-1-26
+        dates: January 26, 2021
+        url: 
+      - name: Entertainment Event
+        optional-text: Turn off the learning, find some balance, and show up for the fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
+        start-date: 2021-2-18
+        dates: February 18, 2021
+        url: 
+      - name: Call for Fun Event
+        optional-text: Calling all gamers, challenge champs, and fun-nerds this event is just for you. Submit your idea to host a virtual game challenge and we'll invite the community for the ultimate global game-a-thon. 
+        start-date: 2021-2-26
+        dates: February 26, 2021
+        url: 
+      - name: OWASP Virtual Training Courses
+        optional-text: Offering new topics and skills, our OWASP Training Course line-up kicks off with these offerings this March. Don't miss out on these multi-day virtual trainings to retool and level-up.
+        start-date: 2021-3-9
+        dates: March 9, 2021
+        url:
+      - name: Lightning Conference 
+        optional-text: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and Sponsor Discovery Demos all in a fast paced 90 minutes.
+        start-date: 2021-3-15
+        dates: March 15, 2021
+        url: 
+
