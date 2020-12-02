@@ -125,6 +125,12 @@
   url: https://about.gitlab.com/
   description: GitLab is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. From idea to production, GitLab helps teams improve cycle time from weeks to minutes, reduce development process costs and decrease time to market while increasing developer productivity. 
 - member: true	
+  sponsor:	
+  name: HackerOne
+  image: /assets/images/corp-member-logo/hackerone.png
+  url: https://www.hackerone.com/?utm_source=owasp&amp;utm_medium=partner&amp;utm_campaign=owasp
+  description: HackerOne empowers the world to build a safer internet. As the world’s most trusted hacker-powered security platform, HackerOne gives organizations access to the largest community of hackers on the planet. Armed with the most robust database of vulnerability trends and industry benchmarks, the hacker community mitigates cyber risk by searching, finding, and safely reporting real-world security weaknesses for organizations across all industries and attack surfaces. HackerOne was ranked fifth on the Fast Company World’s Most Innovative Companies list for 2020. Headquartered in San Francisco with a presence in London, New York, the Netherlands, France, Singapore, and 70+ other global locations.
+- member: true	
   sponsor: 	
   name: HiSolutions	
   image: /assets/images/corp-member-logo/hi-solutions.png	
@@ -190,6 +196,12 @@
   image: /assets/images/corp-member-logo/qualys.png	
   url: https://www.qualys.com/	
   description: Qualys is a pioneer and leading provider of cloud-based security and compliance solutions. The Qualys Cloud Platform and its integrated apps - including Web Application Scanning (WAS) - help businesses simplify security operations and lower the cost of compliance by delivering critical security intelligence and automating the full spectrum of auditing, compliance, and protection for IT systems and web applications. Founded in 1999, Qualys has established strategic partnerships with leading managed service providers and consulting organizations including Accenture, BT, Cognizant Technology Solutions, Deutsche Telekom, Fujitsu, HP Enterprise, IBM, Infosys, NTT, Optiv, SecureWorks, Tata Communications, Verizon, and Wipro. The company is also a founding member of the Cloud Security Alliance. 	
+- member: true	
+  sponsor: 
+  name: Rakuten 
+  image: /assets/images/corp-member-logo/Rakutenlogo.png
+  url: https://global.rakuten.com/corp/
+  description: Rakuten Security Team, aka the Cyber Security Department, is a team of multi-national professionals aim to protect Rakuten's users and maintain the peaceful order of the Internet society. With its cross continent branches, the Rakuten Security Team is not only responsible for the Cyber Security of Rakuten Inc, but also its group companies across Asia, Americas and Europe, which together serves 70+ services to almost 1.4 Billion users. Inside of the team includes Rakuten-CERT (https://www.nca.gr.jp/member/rakuten-cert.html), our emergency response team established from 2007, which has been a long time Cyber Security Guardian for Rakuten.
 - member: false	
   sponsor: Barter
   name: RankSense 	
@@ -225,8 +237,8 @@
   name: Secure Code Warrior	
   image: /assets/images/corp-member-logo/secure-code-warrior.png
   vertical: true	
-  url: https://securecodewarrior.com/
-  description: Secure Code Warrior is a global security company that makes software development better and more secure. Our vision is to empower developers to be the first line of defense in their organization by making security highly visible and providing them with the skills and tools to write secure code from the beginning. We have built a powerful platform that moves the focus from reaction to prevention, training and equipping developers to think and act with a security mindset as they build and verify their skills, gain real-time advice and monitor skill development. Our customers include financial institutions, telecommunications providers and global technology companies in Europe, North America and the Asia Pacific. 	
+  url: http://www.securecodewarrior.com
+  description: Secure Code Warrior makes software security intrinsic to developer workflows. Our vision is to inspire a global community of security conscious developers who ship quality code faster so they can focus on creating amazing, safe software for our world. Secure Code Warrior pioneered an innovative developer-centric approach to improving secure coding skills, and built an expanding suite of tools and flexible delivery methods that appeal to all development teams. The Secure Code Warrior Learning Platform offers content covering more than 50 language:framework-specific categories, and over 5,500 challenges covering nearly 150 different vulnerabilities.Learn more at securecodewarrior.com.
 - member: true	
   sponsor: 	
   name: SecureBrain	
