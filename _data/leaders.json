@@ -2471,20 +2471,6 @@
         "group_url": "https://owasp.org/www-chapter-seattle/"
     },
     {
-        "name": "Paul Kern",
-        "email": "paul.kern@owasp.org",
-        "group": "OWASP Sioux Falls",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sioux-falls/"
-    },
-    {
-        "name": "Joey Henkel",
-        "email": "joey.henkel@owasp.org",
-        "group": "OWASP Sioux Falls",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sioux-falls/"
-    },
-    {
         "name": "Rohini Sulatycki",
         "email": "rohini.sulatycki@owasp.org",
         "group": "OWASP South Florida",
@@ -3878,7 +3864,7 @@
         "group_url": "https://owasp.org/www-chapter-lviv/"
     },
     {
-        "name": "Bohdan Srednytski",
+        "name": "Bohdan Serednytski",
         "email": "bohdan.serednytskyi@owasp.org",
         "group": "OWASP Lviv",
         "group-type": "chapter",
@@ -4328,7 +4314,7 @@
     {
         "name": "Matt Landers",
         "email": "matt.landers@owasp.org",
-        "group": "www-chapter-marquette",
+        "group": "OWASP Marquette",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-marquette/"
     },
@@ -5097,7 +5083,7 @@
     },
     {
         "name": "Raymond Punithan Luccas",
-        "email": "raymond.luccas@owasp.org",
+        "email": "raymond.luke@owasp.org",
         "group": "OWASP Kuala Lumper",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kuala-lumper/"
@@ -5605,5 +5591,19 @@
         "group": "OWASP Secure Logging Benchmark",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-secure-logging-benchmark/"
+    },
+    {
+        "name": "Breno Gontijo Tavares",
+        "email": "breno.tavares@owasp.org",
+        "group": "OWASP Santa Rita do Sapucai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-santa-rita-do-sapucai/"
+    },
+    {
+        "name": "Francisco de Assis Silva do Carmo",
+        "email": "francisco.carmo@owasp.org",
+        "group": "OWASP Santa Rita do Sapucai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-santa-rita-do-sapucai/"
     }
 ]
