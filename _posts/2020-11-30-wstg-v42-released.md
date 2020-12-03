@@ -14,6 +14,7 @@ The OWASP Web Security Testing Guide team is proud to announce version 4.2 of th
 In recent years, the Web Security Testing Guide has sought to remain your foremost open source resource for web application testing. Our previous release marked a move from a cumbersome wiki platform to the highly collaborative world of [GitHub](https://github.com/OWASP/wstg/). Since then, over 61 new contributors pushing over 600 commits have helped to make the WSTG better than ever.
 
 Version 4.2 of the Web Security Testing Guide introduces new testing scenarios, updates existing chapters, and offers an improved reading experience with a clearer writing style and chapter layout. Readers will enjoy easier navigation and consistent testing instructions.
+<!--more-->
 
 With new improvements to our development workflow, new contributors will find it easier than ever to help build future versions of the WSTG. A clear and concise [contributor’s guide](https://github.com/OWASP/wstg/blob/master/CONTRIBUTING.md) and [style guide](https://github.com/OWASP/wstg/blob/master/style_guide.md) can help you write new tests or ensure existing scenarios stay current. Core maintainers [Rick Mitchell](https://github.com/kingthorin), [Elie Saad](https://github.com/ThunderSon), [Rejah Rehim](https://github.com/rejahrehim), and [Victoria Drake](https://github.com/victoriadrake) have implemented modern processes like continuous integration with GitHub Actions. New workflows help to build PDFs and make reviewing new additions and updates easier.
 
