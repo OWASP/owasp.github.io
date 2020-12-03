@@ -1,6 +1,6 @@
 ---
 
-layout: col-generic
+layout: col-sidebar
 title: Opinions & News
 permalink: /news/
 
