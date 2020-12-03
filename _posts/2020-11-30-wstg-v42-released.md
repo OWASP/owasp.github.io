@@ -1,6 +1,6 @@
 ---
 
-date: 2020-11-30
+date: 2020-12-03
 author: Victoria Drake
 author_image: /assets/images/people/victoria_drake.jpg
 layout: blogpost
@@ -22,4 +22,4 @@ We couldn’t be happier to share this new version with you, and we don’t plan
 
 You can [read the Web Security Testing Guide v4.2 online or download a PDF](https://owasp.org/www-project-web-security-testing-guide/) on our project page. We greatly appreciate all the authors, editors, reviewers, and readers who make this open source security endeavor worthwhile.
 
-Thank you for being a part of the WSTG!
+Thank you for being a part of the WSTG team!
