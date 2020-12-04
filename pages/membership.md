@@ -419,24 +419,32 @@ window.addEventListener('load', function () {
     },
     computed: {
       membershipOptions: function () {
-        if (this.student) {
+        
+        if (!this.country || !this.country.hasOwnProperty('discount') ||
+        this.country.discount == false) {
+	  if (this.student) {
           return [
             { name: 'One Year', amount: '$20', discount: false }
           ];
-        }
-        if (!this.country || !this.country.hasOwnProperty('discount') ||
-        this.country.discount == false) {
+        } else {
           return [
             { name: 'One Year', amount: '$50', discount: false },
             { name: 'Two Year', amount: '$95', discount: false },
             { name: 'Lifetime', amount: '$500', discount: false }
           ];
+	  }
         } else {
+	  if (this.student) {
+          return [
+            { name: 'One Year', amount: '$20', discount: false }
+          ];
+          }else{
           return [
             { name: 'One Year', amount: '$20', discount: true },
             { name: 'Two Year', amount: '$38', discount: true },
             { name: 'Lifetime', amount: '$200', discount: true }
           ]
+	  }
         }
       }
     },
