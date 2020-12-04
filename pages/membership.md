@@ -436,7 +436,7 @@ window.addEventListener('load', function () {
         } else {
 	  if (this.student) {
           return [
-            { name: 'One Year', amount: '$8', discount: false }
+            { name: 'One Year', amount: '$8', discount: true }
           ];
           }else{
           return [
