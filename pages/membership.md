@@ -420,9 +420,16 @@ window.addEventListener('load', function () {
     computed: {
       membershipOptions: function () {
         if (this.student) {
-          return [
-            { name: 'One Year', amount: '$20', discount: false }
-          ];
+          if (!this.country || !this.country.hasOwnProperty('discount') ||
+        this.country.discount == false) {  
+            return [
+              { name: 'One Year', amount: '$20', discount: false }
+            ];
+          } else {
+            return [
+              { name: 'One Year', amount: '$8', discount: false }
+            ];
+          }
         }
         if (!this.country || !this.country.hasOwnProperty('discount') ||
         this.country.discount == false) {
