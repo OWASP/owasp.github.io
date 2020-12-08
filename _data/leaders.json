@@ -1505,6 +1505,13 @@
         "group_url": "https://owasp.org/www-chapter-worcestershire/"
     },
     {
+        "name": "James Burford",
+        "email": "james.burford@owasp.org",
+        "group": "OWASP Worcestershire",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-worcestershire/"
+    },
+    {
         "name": "Rodrigo Valero",
         "email": "rodrigo.valero@owasp.org",
         "group": "OWASP Barranquilla",
@@ -3472,6 +3479,13 @@
         "group_url": "https://owasp.org/www-chapter-pune/"
     },
     {
+        "name": "Aatif Khan",
+        "email": "aatif.khan@owasp.org",
+        "group": "OWASP Riyadh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-riyadh/"
+    },
+    {
         "name": "Vijay S",
         "email": "vijay.s@owasp.org",
         "group": "OWASP Vellore",
@@ -4214,13 +4228,6 @@
         "group_url": "https://owasp.org/www-chapter-vienna/"
     },
     {
-        "name": "Sebastian Bicchi",
-        "email": "sebastian.bicchi@owasp.org",
-        "group": "OWASP Vienna",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-vienna/"
-    },
-    {
         "name": "Andreas Happe",
         "email": "andreas.happe@owasp.org",
         "group": "OWASP Vienna",
@@ -4923,9 +4930,9 @@
     {
         "name": "Andrea Scaduto",
         "email": "andrea@secureflag.com",
-        "group": "OWASP SecureFlag Community Edition",
+        "group": "OWASP SecureFlag Open Platform",
         "group-type": "project",
-        "group_url": "https://owasp.org/www-project-secureflag-community-edition/"
+        "group_url": "https://owasp.org/www-project-secureflag-open-platform/"
     },
     {
         "name": "Ade Yoseman Putra",
@@ -5577,6 +5584,34 @@
         "group": "OWASP Joomscan",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-joomscan/"
+    },
+    {
+        "name": "Abhisek Rajkumar",
+        "email": "abhisek.rajkumar@owasp.org",
+        "group": "OWASP Sastra University - Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sastra-university/"
+    },
+    {
+        "name": "Sai Aditya Viswanadham",
+        "email": "saiaditya.viswanadham@owasp.org",
+        "group": "OWASP Sastra University - Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sastra-university/"
+    },
+    {
+        "name": "Prabhu Mayandi",
+        "email": "prabhu.mayandi@owasp.org",
+        "group": "OWASP Sastra University - Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sastra-university/"
+    },
+    {
+        "name": "Roopak Suresh",
+        "email": "roopack.suresh@owasp.org",
+        "group": "OWASP Sastra University - Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sastra-university/"
     },
     {
         "name": "Abhi M Balakrishnan",
