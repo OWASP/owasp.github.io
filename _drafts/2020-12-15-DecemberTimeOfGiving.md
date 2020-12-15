@@ -1,9 +1,14 @@
+---
+
 date: 2020-12-15
 author: Kelly Santalucia
 author_image: /assets/images/people/staff_kelly2.jpg
 layout: blogpost
 title: "December Time of Giving"
 excerpt_separator: <!--more-->
+
+---
+
 
 It’s hard to believe it’s already December! Along with the holiday spirit, December brings increased outreach from charities. For many nonprofits, this is when these organizations receive the bulk of their funding. Individuals are at their most generous and look for ways to help others while also ensuring they get all of their tax deductions*.
 
