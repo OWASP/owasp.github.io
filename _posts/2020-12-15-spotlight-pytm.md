@@ -2,7 +2,7 @@
 
 date: 2020-12-15
 author: Vandana Verma Sehgal
-author_image: /assets/images/people/board_vandana.jpg
+author_image: /assets/images/people/board-vandana.jpg
 layout: blogpost
 title: "OWASP pytm - a Pythonic framework for Threat Modelling"
 excerpt_separator: <!--more-->
