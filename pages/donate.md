@@ -222,7 +222,6 @@ permalink: /donate/
 
 
       <form class="form-container" v-on:submit.prevent="handleSubmit">
-        <vue-recaptcha sitekey="6LfsuK4ZAAAAAOEQWvk5zkD9K00uURbviflRH_8M" v-on:verify="onVerifyCaptcha" ref="invisibleRecaptcha" size="invisible" v-on:expired="onExpiredCaptcha" v-on:error="onCaptchaError"></vue-recaptcha>
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
         </div>
@@ -314,6 +313,12 @@ permalink: /donate/
 	    <span class="checkmark"></span>
 	  </label>
         </div>
+        <div style="margin-bottom: 30px;">
+          <vue-recaptcha sitekey="6LfsuK4ZAAAAAOEQWvk5zkD9K00uURbviflRH_8M" v-on:verify="onVerifyCaptcha" ref="recaptcha" v-on:expired="onExpiredCaptcha" v-on:error="onCaptchaError" v-bind:load-recaptcha-script="true"></vue-recaptcha>
+          <div class="error-text" v-if="errors.recaptcha">
+            {{ errors.recaptcha[0] }}
+          </div>
+        </div>
         <div class="submit-container">
           <button type="submit" class="donate-button" v-bind:disabled="loading">Donate</button>
         </div>
@@ -370,6 +375,7 @@ window.addEventListener('load', function () {
       name: null,
       source: null,
       loading: false,
+      recaptchaVerified: false,
       errors: {}
     },
     computed: {
@@ -427,7 +433,7 @@ window.addEventListener('load', function () {
             document.getElementById('error-message').scrollIntoView();
           })
         } else {
-          this.$refs.invisibleRecaptcha.execute()
+          this.onSubmit();
         }
       },
       changeCurrency: function (currency) {
@@ -474,9 +480,13 @@ window.addEventListener('load', function () {
           errors.name = ['Please enter your name as it appears on your credit card.'];
         }
 
+        if (!this.recaptchaVerified) {
+          errors.recaptcha = ['Please complete the captcha challenge.'];
+        }
+
         this.errors = errors;
       },
-      onVerifyCaptcha: function () {
+      onSubmit: function () {
         let vm = this;
         const postData = {
           checkout_type: 'donation',
@@ -507,11 +517,17 @@ window.addEventListener('load', function () {
           })
         });
       },
+      onVerifyCaptcha: function () {
+        this.recaptchaVerified = true;
+        this.$delete(this.errors, 'recaptcha');
+      },
       onExpiredCaptcha: function () {
-        this.loading = false
+        this.recaptchaVerified = false;
+        this.$refs.recaptcha.reset()
       },
       onCaptchaError: function () {
-        this.loading = false
+        this.recaptchaVerified = false;
+        this.$refs.recaptcha.reset()
       }
     }
   })
