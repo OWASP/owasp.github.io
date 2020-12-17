@@ -22,9 +22,9 @@ That doesn't mean we are vendor hostile, no vendors allowed, no vendor germs, or
 
 <!--more-->
 
-Our community has historically had a rough relationship with vendors because they had the wrong expectations. At times, it's been difficult for vendors to work with OWASP. As a community, we are absolutely every app sec vendor's desired and qualified target market. Our community dislikes certain marketing and promotional behaviors, and things have often gone quite south from there.
+Our community has historically had a rough relationship with vendors because both the vendors' and the communities' expectations were different and weren't being met. As a community, we are absolutely every app sec vendor's desired and qualified target market. Our community dislikes certain marketing and promotional behaviors, and things have often gone quite south from there.
 
-Our community should expect that we will always be vendor-neutral, but this doesn't mean no vendors and no advertising. Many of us work or have worked for vendors, and OWASP needs vendors to thrive. Our community needs a healthy relationship with vendors to financially support OWASP's mission, projects, and chapters. That means setting expectations for our community and vendors alike and staying true to that vision and expectations.
+Our community should expect that we will always be vendor-neutral, but this doesn't mean no vendors and no advertising.  Much of the Foundation's financial support is from our corporate supporters, sponsors and members, and for that, we are forever grateful. Without their support, the Foundation would not be able to continue to thrive. Together, both vendors and the OWASP Community need a healthy working relationship if we want to see our mission, our projects, and our chapters excel. That means setting expectations for our community and vendors alike and staying true to that vision and expectations.
 
 ## Learning Platform
 
@@ -42,11 +42,11 @@ In the coming months, we will be working with the community to clarify rules aro
 
 ### Corporate supporters and sponsors
 
-Suppose you are a corporate member, supporter, or sponsor of an event. In that case, OWASP should be friendly, welcoming, and easy to deal with. I know this hasn't always been true. Still, our community and vendors need to get along by having the same expectations regarding vendor neutrality and how our community engages with vendors. I will encourage you to reach out to me or Kelly Santalucia if you're having issues in the past or think the OWASP Foundation is not being vendor-neutral. I've already had meetings with a few vendors, and I'm happy to take more.
+Suppose you are a corporate member, supporter, or sponsor of an event. In that case, the OWASP community should be friendly, welcoming, and easy to deal with. I know this hasn't always been true. Still, our community and vendors need to get along by having the same expectations regarding vendor neutrality and how our community engages with vendors. I will encourage you to reach out to me or Kelly Santalucia if you're having issues in the past or think the OWASP Foundation is not being vendor-neutral. I've already had meetings with a few vendors, and I'm happy to take more.
 
-One of the easiest ways to get involved with us is to become a corporate supporter. We have Corporate Supporter startup pricing, regional pricing, regular pricing, and monthly and quarterly payment options. It has never been easier to be a part of our community.
+One of the easiest ways to get involved with us is to become a corporate member. We have Corporate Member startup pricing, regional pricing, regular pricing, with monthly, quarterly, and annual payment options. It has never been easier to be a part of our community.
 
-I will be starting a Corporate Advisory Committee shortly. I encourage our existing corporate supporters to form that committee to help OWASP improve our commercial relationships and value.
+I will be starting a Corporate Advisory Committee shortly. I encourage our existing corporate members to form that committee to help OWASP improve our commercial relationships and value.
 
 Please join here:
 
