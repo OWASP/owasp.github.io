@@ -26,6 +26,7 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 ***No events upcoming.  Check back later.***
 {% endif %}
 {% for event in category.events %}
+<hr>
 {% if event.url %}
 <h4><a href='{{event.url}}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{event.name}}</a></h4>
 {% else %}
