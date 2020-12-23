@@ -248,17 +248,23 @@ permalink: /membership/
       <h1>Individual Membership</h1>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
 
-      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. Please note we also offer regional pricing to make OWASP accessible to everyone. There are many benefits to membership including:</p>
+      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
+      <p>There are many benefits to membership including:</p>
       <ul> 
+        <li>Discounts at our global and participating regional conferences</li>
+        <li>Training discounts</li>
+        <li>OWASP email address and Google Workplace access</li>
+        <li>A vote in our OWASP Global Board elections</li>
+        <li>Hands-on application security training through the [SecureFlag Platform](https://www.secureflag.com/owasp.html)</li> 
       	<li>Networking and directory access</li>
-	<li>Flexible online learning discounts</li>
-	<li>Professional mentoring programs</li>
-	<li>Meaningful volunteer opportunities</li>
-	<li> Exclusive, industry-specific offers</li>
-	<li>And others...</li>
-        </ul>
-
-      <p>You can <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
+        <li>Flexible online learning discounts</li>
+        <li>Professional mentoring programs</li>
+        <li>Meaningful volunteer opportunities</li>
+        <li> Exclusive, industry-specific offers</li>
+        <li>And others...</li>
+      </ul>
+      <p>Membership starts at $50 USD (or $20 for students) and, as noted above, there are discounts depending on your region.</p>
+      <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
       <h2>Join or Renew Now</h2>
