@@ -196,6 +196,12 @@
   image: /assets/images/corp-member-logo/pingan-technology.png
   url: https://www.pingan.cn
   description: Ping An Insurance known also as Ping An of China, full name Ping An Insurance Company of China, Ltd. is a Chinese holding conglomerate whose subsidiaries mainly deal with insurance, banking, and financial services. The company was founded in 1988 and has its headquarters in Shenzhen.
+- member: true	
+  sponsor:
+  name: Probely
+  image: /assets/images/corp-member-logo/probely_logo_black.png
+  url: https://probely.com
+  description: Probely finds vulnerabilities or security issues in web applications and provides guidance on how to fix those issues. It can be integrated into development processes (SDLC) and continuous integration pipelines (CI/CD), in order to automate security testing. Probely helps you narrow the gap between development, security and operations, by making security an intrinsic characteristic of the web development life-cycle and achieve fast time-to-market.
 - member: false	
   sponsor: 4	
   name: Qualys	
