@@ -141,7 +141,21 @@
     },
     {
         "name": "Ory Segal",
-        "email": "",
+        "email": "orysegal@gmail.com",
+        "group": "OWASP Cloud-Native Application Security Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
+    },
+    {
+        "name": "Dean Agron",
+        "email": "dean@neosecurity.io",
+        "group": "OWASP Cloud-Native Application Security Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
+    },
+    {
+        "name": "Ron Vider",
+        "email": "ron@neosecurity.io",
         "group": "OWASP Cloud-Native Application Security Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
@@ -5776,7 +5790,7 @@
     },
     {
         "name": "Abdus Saboor",
-        "email": "abdus@vxg.co",
+        "email": "abdus.saboor@owasp.org",
         "group": "OWASP Cyber Defense Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cyber-defense-framework/"
