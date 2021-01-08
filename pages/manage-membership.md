@@ -130,7 +130,7 @@ input[type='radio'] {
             </div>
           </div>
           <div v-if="provision_email_message == true">
-               Your chosen email was created.  Please check your email address on file for a link to set your password.
+               Your chosen email was created.  Please go to https://mail.google.com and logout of any current account or click Add another account.  Choose 'Forgot password' and 'try another way' then 'receive a verification code'.
           </div>
           <div id="email-section" v-if="userData.emaillist.length > 0">
             <hr>
