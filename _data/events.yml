@@ -1,4 +1,4 @@
-- category: Global
+ki- category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
       #- name: Lightning Conference 
@@ -12,7 +12,7 @@
         dates: January 26, 2021
         url: https://training.owasp.org
       - name: Brain Break
-        optional-text: Turn off the learning, find some balance, and show up for the fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
+        optional-text: Turn off the learning, find some balance, and show up for the networking and fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
         start-date: 2021-2-18
         dates: February 18, 2021
         url: https://brainbreak.owasp.org
@@ -37,7 +37,7 @@
         dates: April 9, 2021
         url: https://calltobattle.owasp.org
       - name: Brain Break 
-        optional-text: Turn off the learning, find some balance, and show up for the fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
+        optional-text: Turn off the learning, find some balance, and show up for the networking and fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
         start-date: 2021-4-20
         dates: April 20, 2021
         url: https://brainbreak.owasp.org
