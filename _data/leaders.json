@@ -3304,6 +3304,27 @@
         "group_url": "https://owasp.org/www-chapter-phoenix/"
     },
     {
+        "name": "David Quisenberry",
+        "email": "david.quisenberry@owasp.org",
+        "group": "OWASP Portland",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-portland/"
+    },
+    {
+        "name": "John L. Whiteman",
+        "email": "john.whiteman@owasp.org",
+        "group": "OWASP Portland",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-portland/"
+    },
+    {
+        "name": "Benny Zhao",
+        "email": "benny.zhao@owasp.org",
+        "group": "OWASP Portland",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-portland/"
+    },
+    {
         "name": "Chris Romeo",
         "email": "chris.romeo@owasp.org",
         "group": "OWASP Triangle-NC",
@@ -4363,13 +4384,6 @@
     {
         "name": "Ramiro Pulgar",
         "email": "ramiro.pulgar@owasp.org",
-        "group": "OWASP Quito",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-quito/"
-    },
-    {
-        "name": "Roberto Andrade",
-        "email": "robertoandrade533@hotmail.com",
         "group": "OWASP Quito",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-quito/"
@@ -5864,5 +5878,19 @@
         "group": "OWASP Indian Institute of Technology Patna - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-indian-institute-of-technology-patna/"
+    },
+    {
+        "name": "Ahmed Saleh Shatnawi",
+        "email": "ahmed.shatnawi@owasp.org",
+        "group": "OWASP Irbid",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-irbid/"
+    },
+    {
+        "name": "Eyad Salah Taqieddin",
+        "email": "eyad.taqieddin@owasp.org",
+        "group": "OWASP Irbid",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-irbid/"
     }
 ]
