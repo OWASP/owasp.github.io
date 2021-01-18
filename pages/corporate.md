@@ -12,7 +12,7 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 
 Under the direction of the Executive Director, staff implements programs and policies of the Foundation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.
 
-Each year the staff works with the Global Board to establish an [Operating Plan](/www-staff/operating-plan/2020) and Budget. The work efforts of our staff are tracked publicly on the [Staff Projects Page](/www-staff/) along with [upcoming milestones](/www-staff/milestones).
+Each year the staff works with the Global Board to establish an [Operating Plan](https://owasp.org/www-staff/operating-plan/info) and Budget. The work efforts of our staff are tracked publicly at the [Operating Plan Status](/www-staff/operating-plan/status-2021). 
 
 <section id="staff" class="corporate">
 <div>	
