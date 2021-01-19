@@ -4375,6 +4375,20 @@
         "group_url": "https://owasp.org/www-chapter-cartagena/"
     },
     {
+        "name": "Scott Handfield",
+        "email": "scott.handfield@owasp.org",
+        "group": "OWASP Waterloo",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-waterloo/"
+    },
+    {
+        "name": "Kris Jamieson",
+        "email": "kristopher.jamieson@owas.org",
+        "group": "OWASP Waterloo",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-waterloo/"
+    },
+    {
         "name": "Lucas Ferreira",
         "email": "lucas.ferreira@owasp.org",
         "group": "OWASP Vienna",
@@ -5894,15 +5908,15 @@
         "group_url": "https://owasp.org/www-chapter-indian-institute-of-technology-patna/"
     },
     {
-        "name": "Krishnan s. Narayanan",
-        "email": "krishnan.snarayanan@owasp.org",
+        "name": "Krishnan SN",
+        "email": "krishnan.sn@owasp.org",
         "group": "OWASP Indian Institute of Technology Patna - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-indian-institute-of-technology-patna/"
     },
     {
-        "name": "Utkarash Singh",
-        "email": "utkarash.singh@owasp.org",
+        "name": "Utkarsh Singh",
+        "email": "utkarsh.singh@owasp.org",
         "group": "OWASP Indian Institute of Technology Patna - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-indian-institute-of-technology-patna/"
@@ -5920,5 +5934,75 @@
         "group": "OWASP Irbid",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-irbid/"
+    },
+    {
+        "name": "Erez Yalon",
+        "email": "erez.yalon@owasp.org",
+        "group": "OWASP CloudSheep",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cloudsheep/"
+    },
+    {
+        "name": "Erez Yalon",
+        "email": "erez.yalon@owasp.org",
+        "group": "OWASP crAPI",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-crapi/"
+    },
+    {
+        "name": "Monica Pastor",
+        "email": "pastorabanades@gmail.com",
+        "group": "OWASP Mobile Audit",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mobile-audit/"
+    },
+    {
+        "name": "Everton Melo",
+        "email": "everton.win32@gmail.com",
+        "group": "OWASP Blockchain Distributed Infrastructure",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-blockchain-distributed-infrastructure/"
+    },
+    {
+        "name": "Abhineet Jayaraj",
+        "email": "abhineet9020@gmail.com",
+        "group": "OWASP Damn Vulnerable Web Sockets",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-damn-vulnerable-web-sockets/"
+    },
+    {
+        "name": "Jeremy Bonghwan Choi",
+        "email": "bonghwan.choi@owasp.org",
+        "group": "OWASP Vulnerable Container Hub",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerable-container-hub/"
+    },
+    {
+        "name": "Gian-Luca Frei",
+        "email": "gian-luca.frei@owasp.org",
+        "group": "OWASP Application Gateway",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-gateway/"
+    },
+    {
+        "name": "Paras Malhotra",
+        "email": "paras@laravel-enlightn.com",
+        "group": "OWASP Laravel Goat",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-laravel-goat/"
+    },
+    {
+        "name": "Ankit Vashisth",
+        "email": "ankit.vashisth@owasp.org",
+        "group": "OWASP Jodhpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jodhpur/"
+    },
+    {
+        "name": "Darshan Chouhan",
+        "email": "darshan.chouhan@owasp.org",
+        "group": "OWASP Jodhpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jodhpur/"
     }
 ]
