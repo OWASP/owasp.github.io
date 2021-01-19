@@ -178,6 +178,12 @@
   image: /assets/images/corp-member-logo/netspi_owler_20171208_205822_original.png	
   url: https://www.netspi.com/	
   description: NetSPI is a privately held information-security consulting company founded in 2001. By using its consulting team's deep security knowledge and its CorrelatedVM vulnerability management & reporting solution, the company is a trusted advisor to large enterprises. NetSPI provides a range of assessment and advisory services designed to analyze and mitigate risks and ensure compliance with relevant regulations and industry standards. Clients include large financial services firms, retailers, healthcare organizations and technology companies.	
+- member: true
+  sponsor:
+  name: NeuraLegion
+  image: /assets/images/corp-member-logo/neuralegionastlogohorizontal.png
+  url: 	http://www.neuralegion.com
+  description: NeuraLegion helps significantly improve application security at a lower cost by providing a 0-false positive, AI powered DAST solution, purpose built for modern development environments. We integrate into DevOps environments and enable you to run DAST scans as part of your CI/CD flows to identify a broad set of known (7,000+ payloads) and unknown (0-day) security vulnerabilities. We enable you to scan multiple protocols across Web, mobile & API and are built for developers to provide compliance on every build by providing remediation guidelines for every vulnerability identified.
 - member: false	
   sponsor: 4	
   name: NowSecure	
