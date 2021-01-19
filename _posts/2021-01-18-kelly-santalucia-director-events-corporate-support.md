@@ -2,7 +2,7 @@
 
 date: 2021-01-18
 author: Andrew van der Stock
-author_image: /assets/images/people/staff_kelly.jpg
+author_image: /assets/images/people/staff_kelly2.jpg
 layout: blogpost
 title: Kelly Santalucia appointed as Director of Events and Corporate Support
 excerpt_separator: <!--more-->
