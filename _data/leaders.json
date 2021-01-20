@@ -2100,22 +2100,15 @@
         "group_url": "https://owasp.org/www-chapter-bolivia/"
     },
     {
-        "name": "Alcyon Junior (a.k.a AlcyJones)",
-        "email": "alcyon.junior@owasp.org",
+        "name": "Ulisses Alves Dias",
+        "email": "ulisses.alves@owasp.org",
         "group": "OWASP Brasilia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-brasilia/"
     },
     {
-        "name": "Andre De Miranda",
-        "email": "andre.demiranda@owasp.org",
-        "group": "OWASP Brasilia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brasilia/"
-    },
-    {
-        "name": "Marcos Cicero",
-        "email": "marcos.cicero@owasp.org",
+        "name": "Luiz Henrique F. Cardoso",
+        "email": "luiz.henrique@owasp.org",
         "group": "OWASP Brasilia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-brasilia/"
@@ -2284,6 +2277,13 @@
     {
         "name": "Jance Luiz",
         "email": "jance.luiz@owasp.org",
+        "group": "OWASP Vitoria",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vitoria/"
+    },
+    {
+        "name": "Zoziel Freire",
+        "email": "zoziel.freire@owasp.org",
         "group": "OWASP Vitoria",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vitoria/"
@@ -3122,13 +3122,6 @@
         "group_url": "https://owasp.org/www-chapter-kansas-city/"
     },
     {
-        "name": "Richard Greenberg",
-        "email": "richard.greenberg@owasp.org",
-        "group": "OWASP Los Angeles",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-los-angeles/"
-    },
-    {
         "name": "Cassio Goldschmidt",
         "email": "cassio@owasp.org",
         "group": "OWASP Los Angeles",
@@ -3152,6 +3145,13 @@
     {
         "name": "Aryan Guenthner",
         "email": "aryan.guenthner@owasp.org",
+        "group": "OWASP Los Angeles",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-los-angeles/"
+    },
+    {
+        "name": "Aneel Dadani",
+        "email": "aneel.dadani@owasp.org",
         "group": "OWASP Los Angeles",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-los-angeles/"
@@ -4044,6 +4044,20 @@
         "group": "OWASP London",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-london/"
+    },
+    {
+        "name": "Yasser Aboukir",
+        "email": "yasser.aboukir@owasp.org",
+        "group": "OWASP Luxembourg",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-luxembourg/"
+    },
+    {
+        "name": "Raffaele Perrone",
+        "email": "raffaele.perrone@owasp.org",
+        "group": "OWASP Luxembourg",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-luxembourg/"
     },
     {
         "name": "Igor Beliaiev",
@@ -5082,20 +5096,6 @@
         "group_url": "https://owasp.org/www-committee-outreach/"
     },
     {
-        "name": "Haral Tsitsivas",
-        "email": "haral.tsitsivas@owasp.org",
-        "group": "OWASP Outreach Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-outreach/"
-    },
-    {
-        "name": "Zoe Braiterman",
-        "email": "zoe.braiterman@owasp.org",
-        "group": "OWASP Outreach Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-outreach/"
-    },
-    {
         "name": "Samuel Aldis",
         "email": "samuel.aldis@owasp.org",
         "group": "OWASP Redteam Toolkit",
@@ -5980,6 +5980,13 @@
     {
         "name": "Gian-Luca Frei",
         "email": "gian-luca.frei@owasp.org",
+        "group": "OWASP Application Gateway",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-gateway/"
+    },
+    {
+        "name": "Patrick Steger",
+        "email": "padi.steger@owasp.org",
         "group": "OWASP Application Gateway",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-gateway/"
