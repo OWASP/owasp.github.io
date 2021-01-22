@@ -7,30 +7,30 @@
        # dates: January 20, 2021
        # url: 
       - name: Summer of Security Top 6 Re-Run 
-        optional-text: We're bringing back our hotest virtual training courses from 2020 to kick-off your New Year! If you missed these this summer, now is your chance to upskill.
+        optional-text: We're bringing back our hottest virtual training courses from 2020 to kick-off your New Year! If you missed these this summer, now is your chance to upskill.
         start-date: 2021-1-26
         dates: January 26, 2021
         url: https://training.owasp.org
       - name: Brain Break
-        optional-text: Turn off the learning, find some balance, and show up for the fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
+        optional-text: Turn off the learning, find some balance, and show up for the networking and fun. Join us for this short entertainment program and let us provide some laughter and levity in your life.
         start-date: 2021-2-18
-        dates: February 18, 2021
-        url: 
+        dates: February 18, April 20, June 23, August 18, October 20, and December 16.
+        url: https://brainbreak.owasp.org
       - name: Call to Battle
         optional-text: Calling all gamers, challenge champs, and fun-nerds this event is just for you. Submit your idea to host a virtual game challenge and we'll invite the community for the ultimate global game-a-thon. 
         start-date: 2021-2-26
-        dates: February 26, 2021
+        dates: February 26, April 9, August 27, and December 7.
         url: https://calltobattle.owasp.org
       - name: OWASP Virtual Training Courses
         optional-text: Offering new topics and skills, our OWASP Training Course line-up kicks off with these offerings this March. Don't miss out on these multi-day virtual trainings to retool and level-up.
         start-date: 2021-3-9
-        dates: March 9, 2021
-        url:
-      - name: Lightning Conference 
+        dates: March 9, May 25, June 15, July 13, September 7, and November 3.
+        url: 
+      - name: Lightning Conference
         optional-text: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and insights from sponsors all in a fast paced 90 minutes.
         start-date: 2021-3-15
-        dates: March 15, 2021
-        url: 
+        dates: March 15, May 12, July 20, September 28, and November 16.
+        url: https://lightning.owasp.org
       - name: OWASP Global AppSec Dublin
         dates: Postponed
         optional-text: Due to COVID 19 and the desire to put on the best AppSec events possible, Global AppSec Dublin and Global AppSec San Francisco have been postponed until 2022.

@@ -255,7 +255,7 @@ permalink: /membership/
         <li>Training discounts</li>
         <li>OWASP email address and Google Workplace access</li>
         <li>A vote in our OWASP Global Board elections</li>
-        <li>Hands-on application security training through the [SecureFlag Platform](https://www.secureflag.com/owasp.html)</li> 
+        <li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
       	<li>Networking and directory access</li>
         <li>Flexible online learning discounts</li>
         <li>Professional mentoring programs</li>
