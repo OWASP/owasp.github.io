@@ -2142,22 +2142,22 @@
         "group_url": "https://owasp.org/www-chapter-cuiaba/"
     },
     {
-        "name": "Gabriel Pedro",
-        "email": "gpedro831@gmail.com",
-        "group": "OWASP Cuiaba",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cuiaba/"
-    },
-    {
         "name": "Ricardo Germano",
-        "email": "segurancalinux@gmail.com",
+        "email": "ricardo.germano@owasp.org",
         "group": "OWASP Cuiaba",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cuiaba/"
     },
     {
         "name": "Leandro Barata",
-        "email": "leandrobarata@msn.com",
+        "email": "leandro.diasbarata@owasp.org",
+        "group": "OWASP Cuiaba",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cuiaba/"
+    },
+    {
+        "name": "Gabriel Pedro",
+        "email": "gabriel.pedro@owasp.org",
         "group": "OWASP Cuiaba",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cuiaba/"
@@ -2329,13 +2329,6 @@
         "group": "OWASP Medellin",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-medellin/"
-    },
-    {
-        "name": "Yuichi Hattori",
-        "email": "yuichi.hattori@owasp.org",
-        "group": "OWASP Kyushu",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kyushu/"
     },
     {
         "name": "Shinichi Fuchigami",
@@ -2585,6 +2578,13 @@
     {
         "name": "Walter Martín Villalba",
         "email": "martin.villalba@owasp.org",
+        "group": "OWASP Santa Barbara",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-santa-barbara/"
+    },
+    {
+        "name": "Albert Chae",
+        "email": "albert.chae@owasp.org",
         "group": "OWASP Santa Barbara",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-santa-barbara/"
@@ -4144,8 +4144,22 @@
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
     },
     {
+        "name": "Eivind Arvesen",
+        "email": "eivind.arvesen@owasp.org",
+        "group": "OWASP Norway",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-norway/"
+    },
+    {
         "name": "Erlend Oftedal",
         "email": "erlend.oftedal@owasp.org",
+        "group": "OWASP Norway",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-norway/"
+    },
+    {
+        "name": "Ståle Pettersen",
+        "email": "ståle.pettersen@owasp.org",
         "group": "OWASP Norway",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-norway/"
@@ -5416,27 +5430,6 @@
         "group": "OWASP CWE Toolkit",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cwe-toolkit/"
-    },
-    {
-        "name": "Sam Stepanyan",
-        "email": "sam.stepanyan@owasp.org",
-        "group": "OWASP Chapter Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-chapter/"
-    },
-    {
-        "name": "Avi Douglen",
-        "email": "avi.douglen@owasp.org",
-        "group": "OWASP Chapter Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-chapter/"
-    },
-    {
-        "name": "Haral Tsitsivas",
-        "email": "haral.tsitsivas@owasp.org",
-        "group": "OWASP Chapter Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-chapter/"
     },
     {
         "name": "Raj Sureja",
