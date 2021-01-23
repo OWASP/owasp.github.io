@@ -1,17 +1,17 @@
 - member:
-  sponsor: 	4
+  sponsor: 4
   name: 7A Security
   image: /assets/images/corp-member-logo/7Asecurity.png
   url: https://www.7asecurity.com/
   description: 7ASecurity strives to provide the highest quality security consulting services within budget constraints. In a time when low quality, uncustomized and mostly automated 'audits' are commonplace, 7ASecurity prides itself on tailoring assessments to the threat models and needs of its customers. This puts 7ASecurity in a unique position within the information security industry, delivering maximum value for money, finding vulnerabilities where other companies come empty, and underlining our motto Quality Pentests & Code Audits. Following the same philosophy, 7ASecurity delivers top quality security training where students get lifetime updates at no extra charge.
 - member: true	
-  sponsor: 	4
+  sponsor: 4
   name: Acunetix
   image: /assets/images/corp-member-logo/Acunetix.png
   url: https://www.acunetix.com/
   description: Acunetix lets you manage security risks associated with your web presence. It detects an extensive range of web vulnerabilities and helps you eliminate them. Acunetix uses unique technologies to discover issues that evade other tools. It can be integrated within your SDLC to provide comprehensive protection at all stages. Acunetix is the most established product of its class on the market. It is the tool of choice of many industry leaders including Fortune 500 companies.
 - member: true	
-  sponsor: 	
+  sponsor:
   name: Adobe	
   image: /assets/images/corp-member-logo/adobe.png	
   url: https://www.adobe.com	
@@ -47,7 +47,7 @@
   url: https://bsg.tech
   description: BSG is a privately-held consulting firm specializing in application security, penetration testing, and professional training. Since our founding in 2014, we have delivered hundreds of successful projects to more than 80 clients in all major verticals. We help our customers build a risk-aware mindset and integrate security principles into all aspects of their business.
 - member: false 	
-  sponsor: 	
+  sponsor: 5	
   name: BlackHat 	
   image: /assets/images/corp-member-logo/blackhat.png	
   url: https://www.blackhat.com/
@@ -221,7 +221,7 @@
   url: https://www.pingan.cn
   description: Ping An Insurance known also as Ping An of China, full name Ping An Insurance Company of China, Ltd. is a Chinese holding conglomerate whose subsidiaries mainly deal with insurance, banking, and financial services. The company was founded in 1988 and has its headquarters in Shenzhen.
 - member: true	
-  sponsor:
+  sponsor: 
   name: Probely
   image: /assets/images/corp-member-logo/probely_logo_black.png
   url: https://probely.com
@@ -239,7 +239,7 @@
   url: https://global.rakuten.com/corp/
   description: Rakuten Security Team, aka the Cyber Security Department, is a team of multi-national professionals aim to protect Rakuten's users and maintain the peaceful order of the Internet society. With its cross continent branches, the Rakuten Security Team is not only responsible for the Cyber Security of Rakuten Inc, but also its group companies across Asia, Americas and Europe, which together serves 70+ services to almost 1.4 Billion users. Inside of the team includes Rakuten-CERT (https://www.nca.gr.jp/member/rakuten-cert.html), our emergency response team established from 2007, which has been a long time Cyber Security Guardian for Rakuten.
 - member: false	
-  sponsor: Barter
+  sponsor: 5
   name: RankSense 	
   image: /assets/images/corp-member-logo/RankSense.png	
   url: https://www.ranksense.com/
