@@ -1,9 +1,3 @@
-- member: 
-  sponsor:
-  name: SecureFlag
-  image: /assets/images/corp-member-logo/secureflagposhighres_copy.png
-  url: 	https://www.secureflag.com
-  description: At SecureFlag, we teach secure coding through hands-on exercises that run in real, fully configured development environments created on-demand and available via the web browser.Developers and DevOps engineers learn defensive programming via a gamified, adaptive training platform that includes learning paths, tournaments, assessments, and powerful metrics. Our platform is 100% hands-on, replaces ineffective secure coding quizzes, and uses an engine able to live-test code changes, instantly displaying whether the code has been fixed and awarding points upon exercise completion. SecureFlag is a proud OWASP Partner, providing training for all OWASP members alongside its Enterprise edition for corporate clients.
 - member:
   sponsor: 4
   name: 7A Security
@@ -287,6 +281,12 @@
   image: /assets/images/corp-member-logo/SecureBrain.png	
   url: https://www.securebrain.co.jp/eng/	
   description: SecureBrain a Hitachi Group Company is a leader in providing software and services to help protect enterprises and their customers against cybercrime including online fraud and malware attacks.  To ensure that our customers are always protected from the latest trend of cybercrime, SecureBrain has its own advanced security research center. Team of security researchers works closely with many Japanese government research agencies to research and develop solutions against the latest cyber threats.	
+- member: 
+  sponsor:
+  name: SecureFlag
+  image: /assets/images/corp-member-logo/secureflagposhighres_copy.png
+  url: 	https://www.secureflag.com
+  description: At SecureFlag, we teach secure coding through hands-on exercises that run in real, fully configured development environments created on-demand and available via the web browser.Developers and DevOps engineers learn defensive programming via a gamified, adaptive training platform that includes learning paths, tournaments, assessments, and powerful metrics. Our platform is 100% hands-on, replaces ineffective secure coding quizzes, and uses an engine able to live-test code changes, instantly displaying whether the code has been fixed and awarding points upon exercise completion. SecureFlag is a proud OWASP Partner, providing training for all OWASP members alongside its Enterprise edition for corporate clients.
 - member: true 
   sponsor: 	
   name: Secure Ideas
