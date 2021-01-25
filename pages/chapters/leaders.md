@@ -95,7 +95,7 @@ permalink: /chapters/leaders/
               html += "' style='padding-left:1em;' title='Mail the leaders'><i class='fa fa-envelope' style='color:lightblue;'></i></a></li>";
               html += '<ul>';
             }
-            html += "<li><a href='" + email + "' target=\"_blank\">" + name + "</a></li>";
+            html += "<li><a href='mailto:" + email + "' target=\"_blank\">" + name + "</a></li>";
          }
          html += "</ul>";
          $('#leaders-list').html(html);
