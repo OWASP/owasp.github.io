@@ -47,7 +47,7 @@ Grant is taking over from Vandana as Treasurer. Grant is an active participant i
 
 ![Owen Pendlebury](/assets/images/people/board_owen.jpg)
 
-Owen was Chair in 2020, and we thank him for his service. Owen oversaw a tumultoeous year, one that had many challenges. Recently, Owen took on a new role, and will remain involved with OWASP in various initiatives. 
+Owen was Chair in 2020, and we thank him for his service. Owen oversaw a tumultuous year, one that had many challenges. Recently, Owen took on a new professional role, and will remain involved with OWASP in various initiatives. 
 
 ### Joubin Jabbari
 
