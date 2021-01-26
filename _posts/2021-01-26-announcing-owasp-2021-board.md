@@ -21,43 +21,43 @@ I welcome each and every new Board member to our Board - it's important that we 
 
 ### Sherif Mansour - Chair
 
-<img src="{{site.baseurl}}/assets/images/people/board-sherif.jpg">
+![Sherif Mansour](/assets/images/people/board_sherif.jpg)
 
 Sherif was Vice Chair in 2020, and as his last year on the Board, wants to bring a wealth of member benefits, and increased revenue streams such as our new fundraising and grants initiatives, as well as taking the lead on our Trademark program. 
 
 ### Vandana Verma - Vice Chair
 
-<img src="{{site.baseurl}}/assets/images/people/board-vandana.jpg">
+![Vandana Verma](/assets/images/people/board-vandana.jpg)
 
 Vandana was our Treasurer in 2020, who was very active in ensuring that OWASP improved our positiion compared to Budget Forecast Z by $376k USD. Vandana is currently working on Project Spotlights, bringing a great deal of publicity to our flagship and lesser known (but still important) projects. 
 
 ### Bil Corry - Secretary
 
-<img src="{{site.baseurl}}/assets/images/people/board-bil.jpg">
+![Bil Corry](/assets/images/people/board_bil.jpg)
 
 Bil has been on our compliance committee for a very long time, especially during busy years like 2020 to help right our community and bring it back together. Bil knows our bylaws and policies inside out, and I look forward to Bil helping us guide our bylaw and contract reviews, as well as ensuring that we manage to policy going forward.
 
 ### Grant Ongers - Treasurer
 
-<img src="{{site.baseurl}}/assets/images/people/board-grant.png">
+![Grant Ongers](/assets/images/people/board-grant.png)
 
 Grant is taking over from Vandana as Treasurer. Grant is an active participant in the Education Committee, and one of my personal "thought leaders" when it comes to OWASP matters. Grant is assisting us with our curriculum and Getting Started with AppSec initiatives. 
 
 ### Owen Pendlebury
 
-<img src="{{site.baseurl}}/assets/images/people/board-owen.jpg">
+![Owen Pendlebury](/assets/images/people/board_owen.jpg)
 
 Owen was Chair in 2020, and we thank him for his service. Owen oversaw a tumultoeous year, one that had many challenges. Recently, Owen took on a new role, and will remain involved with OWASP in various initiatives. 
 
 ### Joubin Jabbari
 
-<img src="{{site.baseurl}}/assets/images/people/board-joubin.png">
+![Owen Pendlebury](/assets/images/people/board-joubin.png)
 
-Joubin is the Sacramento Chapter leader, and will be the community's bridge between chapters, regional events, and more. Please reach out to Joubin, and help us return to in person chapter meetings and events. 
+Joubin is a Sacramento Chapter leader, and will be the community's bridge between chapters, regional events, and more. Please reach out to Joubin, and help us return to in person chapter meetings and events. 
 
 ### Martin Knobloch
 
-<img src="{{site.baseurl}}/assets/images/people/board-martin2.png">
+![Martin Knobloch](/assets/images/people/board_martin2.png)
 
 One of OWASP's longest ever serving Board members, Martin has organized our most successful ever AppSec EU in Amsterdam, **the** compliance committee at one point, and a previous OWASP Board chair. Martin brings a wealth of experience to the OWASP Board, helping re-write our mission, champion of volunteers, and helping our new Board members settle into their positions. 
 
