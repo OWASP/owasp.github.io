@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-Today, the incoming OWASP Board voted Sherif Mansour and Chair of OWASP, Vandana Verma as Vice Chair, Bil Corry as Chair, and Grant Ongers as Treasurer of OWASP. 
+Today, the incoming OWASP Board voted Sherif Mansour as Chair of OWASP, Vandana Verma as Vice Chair, Bil Corry as Chair, and Grant Ongers as Treasurer of OWASP. 
 
 We've got a dream team of OWASP Board members, voted in by our amazing Community. Honestly, today feels like Christmas to me. Read on to find out more.
 
