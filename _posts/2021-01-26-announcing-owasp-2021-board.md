@@ -37,7 +37,7 @@ Vandana was our Treasurer in 2020, who was very active in ensuring that OWASP im
 
 Bil has been on our compliance committee for a very long time, especially during busy years like 2020 to help right our community and bring it back together. Bil knows our bylaws and policies inside out, and I look forward to Bil helping us guide our bylaw and contract reviews, as well as ensuring that we manage to policy going forward.
 
-### Grant Ongers - Treasurer. 
+### Grant Ongers - Treasurer
 
 <img src="{{site.baseurl}}/assets/images/people/board-grant.png">
 
