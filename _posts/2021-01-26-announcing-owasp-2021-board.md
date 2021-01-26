@@ -15,7 +15,9 @@ We've got a dream team of OWASP Board members, voted in by our amazing Community
 
 <!--more-->
 
-The Board met in early January to discuss their vision for OWASP, and decide on who would likely be our nominees for various "officer" positions (Chair, Vice Chair, Secretary and Treasurer). Today, the Board voted to confirm these nominations. I welcome each and every new Board member to our Board - it's important that we have new blood and new ideas adding to our strategy and to listen to our members, as well as passing knowledge to the next generation of Board members. Every healthy community has a pipeline of new talent coming to the fore, with the old guard passing along their knowledge and wisdom to the next generation. This is why I supported Josh Sokol's initiative for term limits for Board members back in my day, and today is the proof of the pudding!
+The Board met in early January to discuss their vision for OWASP, and decide on who would likely be our nominees for various "officer" positions (Chair, Vice Chair, Secretary and Treasurer). Today, the Board voted to confirm these nominations. 
+
+I welcome each and every new Board member to our Board - it's important that we have new blood and new ideas adding to our strategy and to listen to our members, as well as passing knowledge to the next generation of Board members. Every healthy community has a pipeline of new talent coming to the fore, with the old guard passing along their knowledge and wisdom to the next generation. This is why I supported Josh Sokol's initiative for term limits for Board members back in my day, and today is the proof of the pudding!
 
 ### Sherif Mansour - Chair
 
