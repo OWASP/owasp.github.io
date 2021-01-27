@@ -74,8 +74,6 @@ Joubin is a Sacramento Chapter leader, and will be the community's bridge betwee
 
 One of OWASP's longest ever serving Board members, Martin has organized our most successful ever AppSec EU in Amsterdam, **the** compliance committee at one point, and a previous OWASP Board chair. Martin brings a wealth of experience to the OWASP Board, helping re-write our mission, champion of volunteers, and helping our new Board members settle into their positions. 
 
-No matter which way you look at it, this is a dream Global Board. I look forward to working with them on a revised strategy, ensuring our community is central to everything we do, and fighting like hell that we are here for the next 20 years.
-
 ### Owen Pendlebury
 
 <div class="member-img-container" style="float:right;">	
@@ -86,6 +84,7 @@ No matter which way you look at it, this is a dream Global Board. I look forward
 Owen was Chair in 2020, and we thank him for his service. Owen oversaw a tumultuous year, one that had many challenges. Recently, Owen took on a new professional role, and will remain involved with OWASP in various initiatives. 
 
 
+No matter which way you look at it, this is a dream Global Board. I look forward to working with them on a revised strategy, ensuring our community is central to everything we do, and fighting like hell that we are here for the next 20 years.
 
 
 Andrew van der Stock
