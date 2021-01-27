@@ -90,4 +90,5 @@ No matter which way you look at it, this is a dream Global Board. I look forward
 <br>Andrew van der Stock
 <br>Executive Director, OWASP Foundation
 <br>
-Please support our mission - [donate](https://owasp.org/donate/), [support us or sponsor an event](https://owasp.org/supporters/), or [join](https://owasp.org/membership/) today!
+<br>
+<br>Please support our mission - [donate](https://owasp.org/donate/), [support us or sponsor an event](https://owasp.org/supporters/), or [join](https://owasp.org/membership/) today!
