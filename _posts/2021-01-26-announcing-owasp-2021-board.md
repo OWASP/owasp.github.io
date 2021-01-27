@@ -85,10 +85,9 @@ Owen was Chair in 2020, and we thank him for his service. Owen oversaw a tumultu
 <br>
 <br>
 No matter which way you look at it, this is a dream Global Board. I look forward to working with them on a revised strategy, ensuring our community is central to everything we do, and fighting like hell that we are here for the next 20 years.
-
-
-
-Andrew van der Stock
-Executive Director, OWASP Foundation
-
+<br>
+<br>
+<br>Andrew van der Stock
+<br>Executive Director, OWASP Foundation
+<br>
 Please support our mission - [donate](https://owasp.org/donate/), [support us or sponsor an event](https://owasp.org/supporters/), or [join](https://owasp.org/membership/) today!
