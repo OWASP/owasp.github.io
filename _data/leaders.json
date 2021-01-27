@@ -2646,13 +2646,6 @@
         "group_url": "https://owasp.org/www-chapter-hampton-roads/"
     },
     {
-        "name": "Afonson Alves",
-        "email": "afonson.alves@owasp.org",
-        "group": "OWASP Hampton Roads",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hampton-roads/"
-    },
-    {
         "name": "Stacy Dunn",
         "email": "stacy.dunn@owasp.org",
         "group": "OWASP Oklahoma City",
@@ -4263,6 +4256,13 @@
         "group_url": "https://owasp.org/www-chapter-sofia/"
     },
     {
+        "name": "Peter Peshev",
+        "email": "peter.peshev@owasp.org",
+        "group": "OWASP Sofia Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sofia/"
+    },
+    {
         "name": "Jose Luis Nuñez",
         "email": "jnunez@owasp.org",
         "group": "OWASP Sevilla",
@@ -5038,6 +5038,13 @@
         "group": "OWASP Florianopolis",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-florianopolis/"
+    },
+    {
+        "name": "Doyle Turner",
+        "email": "doyle.turner@owasp.org",
+        "group": "OWASP Somerset",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-somerset/"
     },
     {
         "name": "Avi Douglen",
@@ -5997,5 +6004,26 @@
         "group": "OWASP Jodhpur",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-jodhpur/"
+    },
+    {
+        "name": "Jimmy Gathage",
+        "email": "jimmy.gathage@owasp.org",
+        "group": "OWASP Nairobi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nairobi/"
+    },
+    {
+        "name": "Clifford Ogeto",
+        "email": "clifford.ogeto@owasp.org",
+        "group": "OWASP Nairobi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nairobi/"
+    },
+    {
+        "name": "Joseph Mwangi",
+        "email": "joseph.mwangi@owasp.org",
+        "group": "OWASP Nairobi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nairobi/"
     }
 ]
