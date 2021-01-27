@@ -82,8 +82,8 @@ One of OWASP's longest ever serving Board Members, Martin has organized our most
 </div>
 
 Owen was Chair in 2020, and we thank him for his service. Owen oversaw a tumultuous year, one that had many challenges. Recently, Owen took on a new professional role, and will remain involved with OWASP in various initiatives. 
-
-
+<br>
+<br>
 No matter which way you look at it, this is a dream Global Board. I look forward to working with them on a revised strategy, ensuring our community is central to everything we do, and fighting like hell that we are here for the next 20 years.
 
 
