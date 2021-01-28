@@ -2107,6 +2107,13 @@
         "group_url": "https://owasp.org/www-chapter-brasilia/"
     },
     {
+        "name": "Jose Augusto",
+        "email": "jose.augusto@owasp.org",
+        "group": "OWASP Brasilia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brasilia/"
+    },
+    {
         "name": "Carlos Allendes",
         "email": "carlos.allendes@owasp.org",
         "group": "OWASP Chile",
@@ -2730,13 +2737,6 @@
         "group_url": "https://owasp.org/www-chapter-brisbane/"
     },
     {
-        "name": "Julian Berton",
-        "email": "julian.berton@owasp.org",
-        "group": "OWASP Melbourne",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-melbourne/"
-    },
-    {
         "name": "Daniel Ting",
         "email": "daniel.ting@owasp.org",
         "group": "OWASP Melbourne",
@@ -2744,8 +2744,8 @@
         "group_url": "https://owasp.org/www-chapter-melbourne/"
     },
     {
-        "name": "Pamela O'shea",
-        "email": "https://twitter.com/pamoshea",
+        "name": "Aaron Robertson",
+        "email": "aaron.robertson@owasp.org",
         "group": "OWASP Melbourne",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-melbourne/"
@@ -4653,20 +4653,6 @@
         "group": "OWASP Columbia SC",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-columbia-sc/"
-    },
-    {
-        "name": "Fiona Collins",
-        "email": "fiona.collins@owasp.org",
-        "group": "OWASP Compliance Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-compliance/"
-    },
-    {
-        "name": "Bil Corry",
-        "email": "bil.corry@owasp.org",
-        "group": "OWASP Compliance Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-compliance/"
     },
     {
         "name": "Adrian Winckles",
