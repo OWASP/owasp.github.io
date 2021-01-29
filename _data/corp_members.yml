@@ -106,6 +106,12 @@
   image: /assets/images/corp-member-logo/detectify.png
   url:  https://detectify.com/ 	
   description:  Detectify is a domain monitoring and web application security startup. We automate hacker attacks to help businesses stay on top of emerging threats and secure applications. Today, we collaborate with over 150 handpicked white-hat hackers to continually improve our modern test bed of 1500+ security tests from the cutting edge of security. Go Hack Yourself!and enthusiasts around the globe. Topics that are taught at the Academy include; container security, secrets management, SAST, DAST, cloud security and much more!
+- member: true
+  sponsor:
+  name: Estrategia y Seguridad
+  image: /assets/images/corp-member-logo/Estrategia y Seguridad.png
+  url: https://www.estrategiayseguridad.com
+  description: ES believes that organizations want to be more secure, resilient and productive. Organizations needs are not only technical but also strategical. With high quality consulting services and products, along with certified experts in international standards and best practices, allows organizations to increase maturity levels and understand how risks and threats should be faced and mitigated.
 - member: false	
   sponsor: 4	
   name: ExtraHop	
