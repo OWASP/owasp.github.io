@@ -1,4 +1,8 @@
-## [Project Spotlight: Mobile Security Testing Guide](/mstg/)
-<a><img src="/assets/images/content/featured_project.jpg" alt="MSTG Team" class="featured-proj-image"></a>
+## [Project Spotlight: Security Knowledge Framework](/www-project-security-knowledge-framework/)
+![SKF Logo](/assets/images/content/featured_project.svg){:class="featured-proj-image" width="160px"}
 
-The OWASP Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering for the iOS and Android platforms, describing technical processes for verifying the controls listed in the MSTG's co-project Mobile Application Verification Standard (MASVS). The MASVS defines a mobile app security model and lists generic security requirements for mobile apps, while the MSTG serves as a baseline for manual security testing and as a template for automated security tests during or after development. Included with the MSTG, the Mobile Security Hacking Playground is a collection of iOS and Android mobile apps that are intentionally built insecure. These apps are used as examples to demonstrate different vulnerabilities explained in the MSTG. [Learn more](https://owasp.org/mstg "MSTG Project Site") about the MSTG and the MASVS.
+The [OWASP Security Knowledge Framework (SKF)](/www-project-security-knowledge-framework/) is a fully open-source Python-Flask web application that uses the OWASP Application Security Verification Standard to train developers in writing secure code, by design. The OWASP Security Knowledge Framework is incredibly relevant to current application security and should be required in any organization for training developers, security researchers, and even gathering requirements.
+
+SKF helps and empowers developers to give them the right awareness and knowledge to build secure applications. Everything is ready and able to be deployed in Kubernetes platforms as well as being available via docker-compose and bare-metal/on-premise deployments.
+
+To learn more about the SKF, continue to the [Project Spotlight](/projects/spotlight/) page
