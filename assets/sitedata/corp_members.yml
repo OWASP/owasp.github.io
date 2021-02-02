@@ -190,6 +190,12 @@
   image: /assets/images/corp-member-logo/neuralegionastlogohorizontal.png
   url: http://www.neuralegion.com
   description: NeuraLegion helps significantly improve application security at a lower cost by providing a 0-false positive, AI powered DAST solution, purpose built for modern development environments. We integrate into DevOps environments and enable you to run DAST scans as part of your CI/CD flows to identify a broad set of known (7,000+ payloads) and unknown (0-day) security vulnerabilities. We enable you to scan multiple protocols across Web, mobile & API and are built for developers to provide compliance on every build by providing remediation guidelines for every vulnerability identified.
+- member: true 
+  sponsor:
+  name: Noname Security 
+  image: /assets/images/corp-member-logo/nonamesecurity_300x90.png
+  url: https://nonamesecurity.com
+  description: Noname Security is a holistic security platform that allows enterprises to see and secure managed and unmanaged APIs. Leveraging AI models specifically tailored for API security, Noname exposes rogue APIs with thorough discovery, brings cyberattack protection, and deep API traffic insights while being completely out of band, with no agents and no network modifications.
 - member: false	
   sponsor: 4	
   name: NowSecure	
