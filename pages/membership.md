@@ -616,7 +616,10 @@ window.addEventListener('load', function () {
           errors.email_confirm = ['Both email addresses must match.'];
         }
 
-        if (!this.name_on_card) {
+        fname = this.name_on_card.substr(0, this.name_on_card.indexOf(' '));
+        lname = this.name_on_card.substr(this.name_on_card.indexOf(' ') + 1);
+
+        if (!fname || !lname) {
           errors.name_on_card = ['Please enter your first and last name.'];
         }
 
