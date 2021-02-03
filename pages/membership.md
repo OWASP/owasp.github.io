@@ -534,10 +534,10 @@ window.addEventListener('load', function () {
         } else {
           const postData = {
             checkout_type: 'membership',
-            membership_type: 'One Year',
+            membership_type: 'complimentary',
             discount: this.membership_discount,
             recurring: this.auto_renew,
-            country: this.country,
+            country: this.country['name'],
             postal_code: this.postal_code,
             email: this.email,
             name: this.name_on_card,
@@ -550,20 +550,19 @@ window.addEventListener('load', function () {
             currency: 'usd'
           };
           let errors = {}
-          // so instead of this...just create the membership?
-          axios.post('https://owaspadmin.azurewebsites.net/api/IsLeaderByEmail?code=yGSVCT1EaQHhLsVhbF6zEiOUninaB/jT4CIO9OyNdqg7lVmr8J4jLA==', postData)
+          // so instead of this...just create the membership? https://owaspadmin.azurewebsites.net/api/IsLeaderByEmail?code=yGSVCT1EaQHhLsVhbF6zEiOUninaB/jT4CIO9OyNdqg7lVmr8J4jLA==
+          axios.post('https://owaspadmin.azurewebsites.net/api/CreateLeaderMembership?code=4ooIeXPupxNPTpIXRsPEiIDEhpeuTmr9wmsURjLHXCm3YFozQHfNwA==', postData)
             .then(response => {
               
               if(response.data.error){
-                errors = [error.response.data.errors]
+                errors = [response.data.error]
                 this.errors = errors
+                if (response.data.error.indexOf('agreement') > 0)
+                  errors.free_leader_agreement = [response.data.error];
+                else
+                  errors.free_leader = [response.data.error];
               }
-              else if (response.data.leader == false)
-              {
-                errors.free_leader = ['We did not find your email address in our list of OWASP Leaders']
-                this.errors = errors
-              }
-              else if(response.data.leader == true){
+              else{
                 //success case?
                 this.$nextTick(function () {
                     document.location.href = "/membership-success"
@@ -572,18 +571,20 @@ window.addEventListener('load', function () {
               this.loading = false
               if (Object.keys(this.errors).length > 0) {
                 this.loading = false;
-                //this works...why not in the axios post?
+                
                 this.$nextTick(function () {
                   document.getElementById('error-message').scrollIntoView();
                 })
               }
             })
             .catch(error => {
+              errors = [error]
               errors.free_leader = [error]
+              this.errors = errors
               this.loading = false
               if (Object.keys(this.errors).length > 0) {
                 this.loading = false;
-                //this works...why not in the axios post?
+                
                 this.$nextTick(function () {
                   document.getElementById('error-message').scrollIntoView();
                 })
