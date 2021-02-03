@@ -6011,5 +6011,12 @@
         "group": "OWASP purpleteam",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-purpleteam/"
+    },
+    {
+        "name": "Test Leader",
+        "email": "test.leader@owasp.org",
+        "group": "OWASP Test Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-projectchapter-example/"
     }
 ]
