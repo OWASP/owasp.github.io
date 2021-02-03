@@ -36,3 +36,5 @@ SKF is an open-source security knowledgebase including manageable projects with 
 [Contributing to OWASP-SKF](https://github.com/blabla1337/skf-flask/blob/main/CONTRIBUTING.md)
 
 [Donate](https://owasp.org/donate/)
+
+**Contributing Author:** Vandana Verma
