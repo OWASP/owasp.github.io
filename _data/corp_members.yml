@@ -89,12 +89,6 @@
   url: https://datadome.co/?utm_source=Partner&utm_campaign=Owasp
   description: "DataDome is the #1 SaaS bot protection solution at the edge: strong performer in The Forrester New Wave™: Bot Management, and several times leader of the Bot Detection and Mitigation software section on G2.COM.DataDome offers real-time AI protection against all OWASP automated threats: credential stuffing, application DDoS, scalping, carding, vulnerability scanning, scraping... Deployed in minutes, on any infrastructure, it is compatible with multi-cloud and multi-CDN setups. DataDome runs on autopilot - its users remain in full control thanks to the industry’s most comprehensive dashboard. DataDome protects 10,000+ domains worldwide, including TripAdvisor, Rakuten, Kurt Geiger, FootLocker, Kogan, BlaBlaCar and Adevinta."
 - member: true	
-  sponsor: 	
-  name: Dell
-  image: /assets/images/corp-member-logo/dell.png	
-  url: https://www.delltechnologies.com/en-us/index.htm	
-  description: Dell Technologies - NYSE:DELL unique family of businesses that helps organizations and individuals build their digital future and transform how they work and live. The company provides customers with the industry's broadest and most innovative technology and services portfolio spanning from edge to core to cloud. The Dell Technologies family includes Dell, Dell EMC, Pivotal, RSA, SecureWorks, Virtustream and VMware.
-- member: true	
   sponsor:	
   name: Denim Group	
   image: /assets/images/corp-member-logo/denim-group.png	
@@ -166,6 +160,12 @@
   image: /assets/images/corp-member-logo/intertrust.png
   url: https://www.intertrust.com/	
   description: Intertrust provides trusted computing products and services to leading global corporations. Products include the world’s leading digital rights management (DRM), software tamper resistance, and technologies to enable private data exchanges for energy, entertainment, retail/marketing, automotive, fintech, and IoT.  Founded in 1990, headquartered in Silicon Valley with offices globally. Intertrust has a legacy of invention, and its fundamental contributions in the areas of computer security and digital trust are globally recognized. Intertrust holds hundreds of patents underpinning Internet security, trust, and privacy management components of operating systems, trusted mobile code and networked operating environments, web services, and cloud computing. 
+- member: true
+  sponsor:
+  name: IriusRisk
+  image: /assets/images/corp-member-logo/IriusRisklogo.300x90.png
+  url: https://iriusrisk.com
+  description: IriusRisk is the industry's leading threat modeling solution in Application Security. With enterprise clients including Fortune 500 banks, payments, and technology providers, it empowers security and development teams to ensure applications have security built-in from the start - using its powerful threat modeling platform. Whether teams are implementing threat modeling from scratch, or scaling-up their existing operations, the IriusRisk approach results in improved speed-to-market, collaboration across security and development teams, and the avoidance of costly security flaws.
 - member: false	
   sponsor: 4	
   name: Lyft	
