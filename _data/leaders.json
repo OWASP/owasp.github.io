@@ -623,6 +623,13 @@
         "group_url": "https://owasp.org/www-project-csrfguard/"
     },
     {
+        "name": "Istvan Albert-Toth",
+        "email": "istvan.albert.toth@gmail.com",
+        "group": "OWASP CSRFGuard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-csrfguard/"
+    },
+    {
         "name": "Sébastien Gioria",
         "email": "sebastien.gioria@owasp.org",
         "group": "OWASP CSRFGuard",
@@ -4816,13 +4823,6 @@
         "group_url": "https://owasp.org/www-chapter-belagavi/"
     },
     {
-        "name": "Issoufou Ibrahim",
-        "email": "issoufou.ibrahim@owasp.org",
-        "group": "OWASP Niamey",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-niamey/"
-    },
-    {
         "name": "Marcos Vinicius Cassel",
         "email": "marcos.cassel@owasp.org",
         "group": "OWASP Porto Alegre",
@@ -6011,5 +6011,12 @@
         "group": "OWASP purpleteam",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-purpleteam/"
+    },
+    {
+        "name": "Princeton Brooke",
+        "email": "princetonbrooke@outlook.com",
+        "group": "OWASP Enterprise DevSecOps",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-enterprise-devsecops/"
     }
 ]
