@@ -1,8 +1,17 @@
-## [Project Spotlight: Security Knowledge Framework](/www-project-security-knowledge-framework/)
-![SKF Logo](/assets/images/content/featured_project.svg){:class="featured-proj-image" width="160px"}
+## [Project Spotlight: Top 10 Proactive Controls](/www-project-proactive-controls/)
+![SKF Logo](/assets/images/content/featured_project.png){:class="featured-proj-image" width="160px"}
 
-The [OWASP Security Knowledge Framework (SKF)](/www-project-security-knowledge-framework/) is a fully open-source Python-Flask web application that uses the OWASP Application Security Verification Standard to train developers in writing secure code, by design. The OWASP Security Knowledge Framework is incredibly relevant to current application security and should be required in any organization for training developers, security researchers, and even gathering requirements.
+[OWASP Top 10 Proactive Controls](/www-project-proactive-controls/) describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project. The Top 10 Proactive Controls are **by** developers **for** developers to assist those new to secure development.
 
-SKF helps and empowers developers to give them the right awareness and knowledge to build secure applications. Everything is ready and able to be deployed in Kubernetes platforms as well as being available via docker-compose and bare-metal/on-premise deployments.
+- C1: Define Security Requirements
+- C2: Leverage Security Frameworks and Libraries
+- C3: Secure Database Access
+- C4: Encode and Escape Data
+- C5: Validate All Inputs
+- C6: Implement Digital Identity
+- C7: Enforce Access Controls
+- C8: Protect Data Everywhere
+- C9: Implement Security Logging and Monitoring
+- C10: Handle All Errors and Exceptions
 
-To learn more about the SKF, continue to the [Project Spotlight](/projects/spotlight/) page
+For more information, see the complete document at the [Top 10 Proactive Controls project page](/www-project-proactive-controls)

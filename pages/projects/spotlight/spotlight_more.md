@@ -6,35 +6,24 @@ permalink: /projects/spotlight/
 
 ---
 
+![SKF Logo](/assets/images/content/featured_project.png){:class="featured-proj-image" width="160px"}
+
+## [Project Spotlight: Top 10 Proactive Controls](/www-project-proactive-controls/)
 ![SKF Logo](/assets/images/content/featured_project.svg){:class="featured-proj-image" width="160px"}
 
-The [OWASP Security Knowledge Framework (SKF)](/www-project-security-knowledge-framework/) is a fully open-source Python-Flask web application that uses the OWASP Application Security Verification Standard to train developers in writing secure code, by design. The OWASP Security Knowledge Framework is incredibly relevant to current application security and should be required in any organization for training developers, security researchers, and even gathering requirements.
+[OWASP Top 10 Proactive Controls](/www-project-proactive-controls/) describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project. The Top 10 Proactive Controls are **by** developers **for** developers to assist those new to secure development.
 
-SKF helps and empowers developers to give them the right awareness and knowledge to build secure applications. Everything is ready and able to be deployed in Kubernetes platforms as well as being available via docker-compose and bare-metal/on-premise deployments.
+- C1: Define Security Requirements
+- C2: Leverage Security Frameworks and Libraries
+- C3: Secure Database Access
+- C4: Encode and Escape Data
+- C5: Validate All Inputs
+- C6: Implement Digital Identity
+- C7: Enforce Access Controls
+- C8: Protect Data Everywhere
+- C9: Implement Security Logging and Monitoring
+- C10: Handle All Errors and Exceptions
 
-### SKF has:
-* Knowledge Base items to help you understand more.
-* Checklist - Out of the box SKF comes with ASVS and MASVS included.
-* Security requirements implementation suggestions.
-* Labs: to test actual vulnerabilities.
-* And more.
-
-And SKF is flexible too! Build or modify your own checklist. As a framework, it can be changed and adapted as needed.
-
-The SKF team is trying to help developers know how to secure their programs and empower them to do a part of the verification themselves. You can also go to the SKF URL and start doing the labs. 
-
-With the SKF, developers can shine, building cool applications that are secure by design in a very structured manner. 
-
-### About the Project:
-
-SKF is an open-source security knowledgebase including manageable projects with checklists and best practice code examples in multiple programming languages showing you how to prevent hackers from gaining access and running exploits on your application.
-
-[OWASP SKF](https://owasp.org/www-project-security-knowledge-framework/)
-
-[Labs](https://beta.securityknowledgeframework.org/auth/login)
-
-[Contributing to OWASP-SKF](https://github.com/blabla1337/skf-flask/blob/main/CONTRIBUTING.md)
-
-[Donate](https://owasp.org/donate/)
+For more information, see the complete document at the [Top 10 Proactive Controls project page](/www-project-proactive-controls)
 
 **Contributing Author:** Vandana Verma
