@@ -1638,15 +1638,15 @@
         "group_url": "https://owasp.org/www-chapter-syracuse/"
     },
     {
-        "name": "Victor Vera",
+        "name": "<img src=\"assets/images/victorvera.jpg\" width=\"150\" height=\"150\" style=\"border-radius: 15px;\">",
         "email": "victor.vera@owasp.org",
         "group": "OWASP Guayaquil",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-guayaquil/"
     },
     {
-        "name": "Roberto Teran",
-        "email": "roberto.teranmarin@owasp.org",
+        "name": "Victor Vera",
+        "email": "victor.vera@owasp.org",
         "group": "OWASP Guayaquil",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-guayaquil/"
@@ -2557,6 +2557,13 @@
     {
         "name": "Arun Sakithivel",
         "email": "arun.sakthivel@owasp.org",
+        "group": "OWASP Dindigul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dindigul/"
+    },
+    {
+        "name": "Prithiv Kumaravel",
+        "email": "prithiv.kumaravel@owasp.org",
         "group": "OWASP Dindigul",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dindigul/"
@@ -4067,6 +4074,13 @@
         "group_url": "https://owasp.org/www-chapter-manchester/"
     },
     {
+        "name": "Wesley Parsons",
+        "email": "wesley.parsons@owasp.org",
+        "group": "OWASP Manchester",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-manchester/"
+    },
+    {
         "name": "Joren Poll",
         "email": "joren.poll@owasp.org",
         "group": "OWASP Netherlands",
@@ -5045,13 +5059,6 @@
         "group": "OWASP Malmo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-malmo/"
-    },
-    {
-        "name": "Mantas Sasnauskas",
-        "email": "mantas.sasnauskas@owasp.org",
-        "group": "OWASP Bournemouth University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bournemouth-university/"
     },
     {
         "name": "Dalmo Manoel Veras Neto",
