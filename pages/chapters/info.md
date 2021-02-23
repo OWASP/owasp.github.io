@@ -1,13 +1,13 @@
 ### Important Links
+
+### [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters)Must Read
+
 * [Upcoming Chapter Events](/chapters/events/)
-* [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters)
-* 
 * [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
-* 
 * [Chapter Handbook WIP](/www-policy/operational/chapter-handbook-existing)
 * [All Chapter Leaders](/chapters/leaders/)
 * [Chapter Status](/chapters/status/)
 * [OWASP Meetup](https://owasp.meetup.com)
-### Quick video to play at every Chapter Meeting:[Why should you become an OWASP Members?](https://youtu.be/RrUQYkzdaos)
+### Video:[Why should you become an OWASP Members?](https://youtu.be/RrUQYkzdaos)
 
 
