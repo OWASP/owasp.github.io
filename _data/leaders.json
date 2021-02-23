@@ -1848,6 +1848,13 @@
         "group_url": "https://owasp.org/www-chapter-kharkiv/"
     },
     {
+        "name": "Victoria Paschenko",
+        "email": "victoria.paschenko@owasp.org",
+        "group": "OWASP Kharkiv",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kharkiv/"
+    },
+    {
         "name": "Carmi Moser",
         "email": "carmi.moser@owasp.org",
         "group": "OWASP Las Vegas",
@@ -3948,8 +3955,36 @@
         "group_url": "https://owasp.org/www-chapter-greece/"
     },
     {
-        "name": "Petteri Arola",
-        "email": "petteri.arola@owasp.org",
+        "name": "Petteri Ahola",
+        "email": "petteri.ahola@owasp.org",
+        "group": "OWASP Helsinki",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-helsinki/"
+    },
+    {
+        "name": "Pyry Heikkilä",
+        "email": "pyry.heikkinen@owasp.org",
+        "group": "OWASP Helsinki",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-helsinki/"
+    },
+    {
+        "name": "Petri Koistinen",
+        "email": "petri.koistinen@iki.fi",
+        "group": "OWASP Helsinki",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-helsinki/"
+    },
+    {
+        "name": "Lasse Korvala",
+        "email": "lasse.korvala@ns.fi",
+        "group": "OWASP Helsinki",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-helsinki/"
+    },
+    {
+        "name": "Timo Meriläinen",
+        "email": "timo@owasp.org",
         "group": "OWASP Helsinki",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-helsinki/"
@@ -4639,13 +4674,6 @@
         "group": "OWASP San Fernando Valley",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-san-fernando-valley/"
-    },
-    {
-        "name": "Johanna Curiel",
-        "email": "johanna.curiel@owasp.org",
-        "group": "OWASP Project and Chapter Example",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-google-assistant/"
     },
     {
         "name": "Daniel Kefer",
