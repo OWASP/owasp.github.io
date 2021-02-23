@@ -24,7 +24,7 @@ For nearly two decades corporations, foundations, developers, and volunteers hav
 ## Participation and Membership
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-<h4>Enter your email to join our Slack community</h4>
+<h4><i class="fa fa-lg fa-slack"></i>&nbsp;Enter your email to join our Slack community</h4>
 <div id='div-slack-join' style='text-align:left;align-controls:center;padding: 8px;'>
     <label for='emailaddr'>Email Address</label><br>
     <input style='line-height: 24px;margin-bottom:8px;' id='emailaddr' type='email'><br>

@@ -21,7 +21,7 @@ Most answers you might have about the OWASP Foundation can be found by searching
 
 <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
 
-<h4>Enter your email to join our Slack community</h4>
+<h4><i class="fa fa-lg fa-slack"></i>&nbsp;Enter your email to join our Slack community</h4>
 <div id='div-slack-join' style='text-align:left;align-controls:center;padding: 8px;'>
     <label for='emailaddr'>Email Address</label><br>
     <input style='line-height: 24px;margin-bottom:8px;' id='emailaddr' type='email'><br>
