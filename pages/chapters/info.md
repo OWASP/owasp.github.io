@@ -1,6 +1,6 @@
 ### Important Links
 
-### [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters) Must Read
+### [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters) 
 
 * [Upcoming Chapter Events](/chapters/events/)
 * [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
