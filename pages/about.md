@@ -24,14 +24,7 @@ For nearly two decades corporations, foundations, developers, and volunteers hav
 ## Participation and Membership
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-<h4><i class="fa fa-lg fa-slack"></i>&nbsp;Enter your email to join our Slack community</h4>
-<div id='div-slack-join' style='text-align:left;align-controls:center;padding: 8px;'>
-    <label for='emailaddr'>Email Address</label><br>
-    <input style='line-height: 24px;margin-bottom:8px;' id='emailaddr' type='email'><br>
-    <button class="cta-button dark" id="btn-join-slack">Join</button>
-</div>
-<div id='div-slack-result' style="display:hidden;font-weight:bold;margin: 24px;">
-</div>
+{% include slack_invite.html %}
 
 ## Core Values
 - **Open**: Everything at OWASP is radically transparent from our finances to our code.
@@ -73,32 +66,3 @@ The activities, programs, and events of the Foundation conform to a number of po
 
 ## Licensing
 All OWASP materials are available under an approved FLOSS License.
-
-<script type="text/javascript">
-    $(function(){
-        $('#btn-join-slack').click(function(){
-            var email = $('#emailaddr').val();
-            $.ajax({
-                type: "POST",
-                url: "https://owaspadmin.azurewebsites.net/api/owasp_slack_add_user?code=aaanp3ICdjlaVHHoAnmO06EiDh9dgrCZfkjdTeoOQLVvdesivNWUjA==&email=" + email,
-                dataType: "json",
-                success: function (result, status, xhr) {
-                   if(result['ok']){
-                    $("#div-slack-join").hide();
-                    $("#div-slack-result").text("Thanks for joining!  Be on the lookout for an email with more information.");
-                    $("#div-slack-result").show();
-                   }else {
-                    $("#div-slack-join").hide();
-                    $("#div-slack-result").text("Oops!  Looks like something went wrong or you are already signed up.");
-                    $("#div-slack-result").show();    
-                   }
-                },
-                error: function (xhr, status, error) {
-                   $("#div-slack-join").hide();
-                   $("#div-slack-result").text("Oops!  Looks like something went wrong or you are already signed up.");
-                   $("#div-slack-result").show();
-                }
-            });
-        });
-    });
-</script>
