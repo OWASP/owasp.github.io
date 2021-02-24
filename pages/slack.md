@@ -1,7 +1,7 @@
 ---
 
 layout: full-width
-title: Slack Invite Redirect
+title: Slack Invite
 permalink: /slack/invite
 
 ---
