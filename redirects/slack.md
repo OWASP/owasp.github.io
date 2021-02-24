@@ -1,7 +1,7 @@
 ---
 
-title: Slack Invite Redirect
-permalink: /slack/invite
-redirect_to: https://owasp-slack.herokuapp.com/
+title: Slack Redirect
+permalink: /slack
+redirect_to: https://owasp.slack.com/
 
 ---
