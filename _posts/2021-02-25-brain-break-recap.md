@@ -1,15 +1,15 @@
 ---
 
-date: 2021-02-03
+date: 2021-02-24
 author: Alonna Stock
 author_image: /assets/images/people/staff_alonna.jpg
 layout: blogpost
-title: "Announcing Brain Breaks, starting with comedian Jeff Shaw"
+title: "Brain Breaks Recap"
 excerpt_separator: <!--more-->
 
 ---
 
-The OWASP Foundation hosted first-ever [OWASP Brain Break](https://brainbreak.owasp.org/) entertainment event on Thursday February 18th, featuring comedian Jeff Shaw.
+The OWASP Foundation hosted the first-ever [OWASP Brain Break](https://brainbreak.owasp.org/) entertainment event on Thursday February 18th, featuring comedian Jeff Shaw.
 
 The new event series is just one in a line-up of a variety of virtual based events planned for OWASP Foundation's 2021 calendar. With intentional planning around this event series, the foundation's goal is to create a fun, mind-breaking escape for our community as we all continue to navigate the global pandemic.
 
