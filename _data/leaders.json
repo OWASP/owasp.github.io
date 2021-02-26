@@ -917,7 +917,7 @@
         "group_url": "https://owasp.org/www-project-top-10-fuer-entwickler/"
     },
     {
-        "name": "Björn Kimminich",
+        "name": "Bjoern Kimminich",
         "email": "bjoern.kimminich@owasp.org",
         "group": "OWASP Juice Shop",
         "group-type": "project",
@@ -1437,7 +1437,7 @@
     {
         "name": "Tal Melamed",
         "email": "tal.melamed@owasp.org",
-        "group": "OWASP Dvsa",
+        "group": "OWASP DVSA",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-dvsa/"
     },
@@ -1997,6 +1997,13 @@
     {
         "name": "Paulino Calderon",
         "email": "paulino.calderonpale@owasp.org",
+        "group": "OWASP Riviera Maya",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-riviera-maya/"
+    },
+    {
+        "name": "Ismael Jimenez",
+        "email": "ismael.jimenez@owasp.org",
         "group": "OWASP Riviera Maya",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-riviera-maya/"
@@ -3003,6 +3010,34 @@
         "group_url": "https://owasp.org/www-chapter-dallas/"
     },
     {
+        "name": "Jeromme Lawler",
+        "email": "jeromme.lawler@owasp.org",
+        "group": "OWASP Dallas",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dallas/"
+    },
+    {
+        "name": "Zack Hatfield",
+        "email": "zack.hatfield@owasp.org",
+        "group": "OWASP Dallas",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dallas/"
+    },
+    {
+        "name": "Anil Mahale",
+        "email": "anil.mahale@owasp.org",
+        "group": "OWASP Dallas",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dallas/"
+    },
+    {
+        "name": "Abhishek Gandhi",
+        "email": "abhishek.gandhi@owasp.org",
+        "group": "OWASP Dallas",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dallas/"
+    },
+    {
         "name": "David Rhoades",
         "email": "david.rhoades@owasp.org",
         "group": "OWASP Delaware",
@@ -3661,6 +3696,13 @@
         "group_url": "https://owasp.org/www-chapter-chandigarh/"
     },
     {
+        "name": "Yash Mishra",
+        "email": "yash.mishra@owasp.org",
+        "group": "OWASP Chandigarh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chandigarh/"
+    },
+    {
         "name": "Tushar Kulkarni",
         "email": "tushar.kulkarni@owasp.org",
         "group": "OWASP Nagpur",
@@ -3925,6 +3967,41 @@
         "group": "OWASP Geneva",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-geneva/"
+    },
+    {
+        "name": "Tobias Glemser",
+        "email": "tobias.glemser@owasp.org",
+        "group": "OWASP Germany",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-germany/"
+    },
+    {
+        "name": "Bastian Braun",
+        "email": "bastian.braun@owasp.org",
+        "group": "OWASP Germany",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-germany/"
+    },
+    {
+        "name": "Bjoern Kimminich",
+        "email": "bjoern.kimminich@owasp.org",
+        "group": "OWASP Germany",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-germany/"
+    },
+    {
+        "name": "Jan Wolff",
+        "email": "jan.wolff@owasp.org",
+        "group": "OWASP Germany",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-germany/"
+    },
+    {
+        "name": "Dirk Wetter",
+        "email": "dirk@owasp.org",
+        "group": "OWASP Germany",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-germany/"
     },
     {
         "name": "Jonas Magazinius",
@@ -5311,6 +5388,20 @@
         "group": "OWASP Aligarh",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-aligarh/"
+    },
+    {
+        "name": "Sachin Selvaraju",
+        "email": "sachin.selvaraju@owasp.org",
+        "group": "OWASP Erode",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-erode/"
+    },
+    {
+        "name": "Abhi Nivesh",
+        "email": "abhi.nivesh@owasp.org",
+        "group": "OWASP Erode",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-erode/"
     },
     {
         "name": "Mujtaba Hussain",
