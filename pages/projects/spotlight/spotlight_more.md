@@ -1,6 +1,6 @@
 ---
 
-title: Project Spotlight - Security Knowledge Framework
+title: Project Spotlight - Proactive Controls
 layout: col-sidebar
 permalink: /projects/spotlight/
 
