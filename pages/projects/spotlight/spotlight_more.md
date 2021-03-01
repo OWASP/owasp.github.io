@@ -8,9 +8,6 @@ permalink: /projects/spotlight/
 
 ![SKF Logo](/assets/images/content/featured_project.png){:class="featured-proj-image" width="160px"}
 
-## [Project Spotlight: Top 10 Proactive Controls](/www-project-proactive-controls/)
-![SKF Logo](/assets/images/content/featured_project.svg){:class="featured-proj-image" width="160px"}
-
 [OWASP Top 10 Proactive Controls](/www-project-proactive-controls/) describes the most important control and control categories that every architect and developer should absolutely, 100% include in every project. The Top 10 Proactive Controls are **by** developers **for** developers to assist those new to secure development.
 
 - C1: Define Security Requirements
