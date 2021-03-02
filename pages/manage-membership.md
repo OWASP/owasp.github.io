@@ -100,6 +100,10 @@ input[type='radio'] {
             <div v-if="userData.membership.membership_end">
               <strong>Membership {{ userData.membership.membership_recurring ? 'Automatically Renews On' : 'Ends On' }}:</strong> {{ userData.membership.membership_end }}
             </div>
+            <div v-if="userData.membership.owasp_email">
+              <strong>OWASP Email Address:</strong> {{ userData.membership.owasp_email }}
+              <p>To access your OWASP email, please go to <a href="https://mail.google.com">Google Mail</a> and logout of any current account or click Add another account.  Choose 'Forgot password' and 'try another way' then 'receive a verification code'.</p>
+            </div>
           </div>
           <div v-if="memberships.length > 0" style="margin-bottom: 40px;">
             <h3>Manage Membership</h3>
@@ -130,7 +134,7 @@ input[type='radio'] {
             </div>
           </div>
           <div v-if="provision_email_message == true">
-               Your chosen email was created.  Please go to <a href="https://mail.google.com">Google Mail</a> and logout of any current account or click Add another account.  Choose 'Forgot password' and 'try another way' then 'receive a verification code'.
+               <h2>Your chosen email was created.  Please go to <a href="https://mail.google.com">Google Mail</a> and logout of any current account or click Add another account.  Choose 'Forgot password' and 'try another way' then 'receive a verification code'.</h2>
           </div>
           <div id="email-section" v-if="userData.emaillist.length > 0">
             <hr>
