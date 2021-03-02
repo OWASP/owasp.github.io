@@ -1,5 +1,5 @@
 ## [Project Spotlight: OWASP SAMM](/www-project-samm/)
-![SAMM Logo](/assets/images/content/featured_project.png){:class="featured-proj-image" width="160px"}
+![SAMM Logo](/assets/images/content/featured_project_samm.png){:class="featured-proj-image" width="160px"}
 
 [OWASP Software Assurance Maturity Model (SAMM)](/www-project-samm/) makes software security measurable. Once you can measure it, you can manage it. So it allows one to actually manage a secure software program in an organization. SAMM helps any application security manager or security champion to understand where they are in terms of activities and also what they can do moving forward. It helps one to create a roadmap and to improve and demonstrate security activities are performed.
 
