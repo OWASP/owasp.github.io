@@ -247,7 +247,6 @@ permalink: /membership/
 
       <h1>Individual Membership</h1>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
-
       <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
       <p>There are many benefits to membership including:</p>
       <ul> 
@@ -267,7 +266,7 @@ permalink: /membership/
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
-      <h2>Join or Renew Now</h2>
+      <h2 class='alert'>Two Year Membership - 20% off to celebrate 20 Years.<br>Join or Renew Now!</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
@@ -435,7 +434,7 @@ window.addEventListener('load', function () {
         } else {
           return [
             { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$95', discount: false },
+            { name: 'Two Year', amount: '$75', discount: false },//changed from 95 for month promotion
             { name: 'Lifetime', amount: '$500', discount: false }
           ];
 	  }
@@ -447,7 +446,7 @@ window.addEventListener('load', function () {
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true },
-            { name: 'Two Year', amount: '$38', discount: true },
+            { name: 'Two Year', amount: '$30', discount: true },//changed from 38 for month promotion
             { name: 'Lifetime', amount: '$200', discount: true }
           ]
 	  }
