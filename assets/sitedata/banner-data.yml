@@ -1,6 +1,6 @@
-- type: notice
-  start: 2021-01-05 10:00:00-0500
-  end: 2021-01-11 01:00:00-0500
-  text: "<p>Call for Training for ALL 2021 <a href='https://training.owasp.org/''>AppSecDays Training Events</a> is open. <a href='https://owasp.submittable.com/submit/181232/2021-virtual-appsec-days-training-events'>Apply Now!</a></p>"
+- type: alert
+  start: 2021-03-02 10:00:00-0500
+  end: 2021-03-31 01:00:00-0500
+  text: "<h3>Two Year Membership - 20% off to celebrate 20 Years.<br><a href='https://owasp.org/membership/'>Join or Renew Now!</a></h3>"
 - type: notice
   text: "<p>Please support the OWASP mission to improve sofware security through open source initiatives and community education. <a href='https://owasp.org/donate/'>Donate Now!</a></p>"
