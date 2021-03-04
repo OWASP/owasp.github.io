@@ -262,7 +262,7 @@ permalink: /membership/
         <li> Exclusive, industry-specific offers</li>
         <li>And others...</li>
       </ul>
-      <p>Membership starts at $50 USD (or $20 for <a href="/membership?student=yes">students</a>) and, as noted above, there are discounts depending on your region.</p>
+      <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
