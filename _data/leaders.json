@@ -3297,20 +3297,6 @@
         "group_url": "https://owasp.org/www-chapter-omaha/"
     },
     {
-        "name": "John Rogers",
-        "email": "john.rogers@owasp.org",
-        "group": "OWASP Omaha",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-omaha/"
-    },
-    {
-        "name": "Dave Pinos",
-        "email": "dave.pinos@owasp.org",
-        "group": "OWASP Omaha",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-omaha/"
-    },
-    {
         "name": "Craig Hai",
         "email": "craig.hai@owasp.org",
         "group": "OWASP Orange County",
@@ -4060,6 +4046,13 @@
         "group_url": "https://owasp.org/www-chapter-greece/"
     },
     {
+        "name": "Pekka Sillanpää",
+        "email": "pekka.sillanpaa@owasp.org",
+        "group": "OWASP Helsinki",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-helsinki/"
+    },
+    {
         "name": "Petteri Ahola",
         "email": "petteri.ahola@owasp.org",
         "group": "OWASP Helsinki",
@@ -4083,13 +4076,6 @@
     {
         "name": "Lasse Korvala",
         "email": "lasse.korvala@ns.fi",
-        "group": "OWASP Helsinki",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-helsinki/"
-    },
-    {
-        "name": "Timo Meriläinen",
-        "email": "timo@owasp.org",
         "group": "OWASP Helsinki",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-helsinki/"
