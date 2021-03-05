@@ -8,6 +8,7 @@
 * [All Chapter Leaders](/chapters/leaders/)
 * [Chapter Status](/chapters/status/)
 * [OWASP Meetup](https://owasp.meetup.com)
-### Video:[Why should you become an OWASP Members?](https://youtu.be/RrUQYkzdaos)
+
+### Video:[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
 
 
