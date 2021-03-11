@@ -25,4 +25,6 @@ Thank you to everyone for being part of this event and congratulations to the wi
 
 **3rd place** – Sebastian Green-Husted 
 
+Thank you Veracode for hosting and sponsoring this battle! 
+
  Join us and register for our next Call to Battle "Owasp Juice Shop Virtual Escape Room" community challenge on April 9. 
