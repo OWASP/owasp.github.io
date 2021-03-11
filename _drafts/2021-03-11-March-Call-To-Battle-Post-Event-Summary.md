@@ -18,13 +18,13 @@ real OWASP Top 10 vulnerabilities in containerized environments, using the langu
 languages a competitor knows, the more points they can score.  Out of the 18 fierce competitors, we had 9 who finished 
 at the top of the leaderboard with 440 points, but it's also not just about completing the labs and getting the points, 
 it's also about how fast you can solve each one.
-
+<!--more-->
 Thank you to everyone for being part of this event and congratulations to the winners!
 
-1st place – Sam Long 
+**1st place** – Sam Long 
 
-2nd place – Matt B
+**2nd place** – Matt B
 
-3rd place – Sebastian Green-Husted 
+**3rd place** – Sebastian Green-Husted 
 
  Join us and register for our next Call to Battle "Owasp Juice Shop Virtual Escape Room" community challenge on April 9. 
