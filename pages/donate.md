@@ -308,7 +308,7 @@ permalink: /donate/
           </div>
         </div>
         <div class="donation-options" v-if="showRestrictedOption">
-          <label class="checkbox-container">Please restrict this gift<span v-if="projectName"> for <span style="font-weight: 900; color: #233e81">{{ projectName }}</span></span>. In doing so, I understand this gift amount is net 15% administration costs and unspent restricted gift balances become unrestricted at the end of each calendar year.
+          <label class="checkbox-container">Please restrict this gift<span v-if="projectName"> for <span style="font-weight: 900; color: #233e81">{{ projectName }}</span></span>. In doing so, I understand this gift amount is net 10% administration costs and unspent restricted gift balances become unrestricted at the end of each calendar year.
 	    <input type="checkbox" v-model="restricted">
 	    <span class="checkmark"></span>
 	  </label>
