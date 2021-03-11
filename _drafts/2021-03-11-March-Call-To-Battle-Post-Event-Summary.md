@@ -9,8 +9,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-# 2021 March OWASP Call to Battle Post Event Wrap-up
-
 ## Vearcode Secure Coding Challenge Summary 
 The Call To Battle Secure Coding challenge brought together developers and security engineers this past week to show 
 off their secure coding skills.  Using Veracode's Security Labs Enterprise, all of the contestants worked on patching 
