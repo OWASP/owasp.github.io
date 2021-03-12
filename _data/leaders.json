@@ -2984,14 +2984,14 @@
     {
         "name": "Adam Lewis",
         "email": "adam.lewis@owasp.org",
-        "group": "OWASP Chicago",
+        "group": "www-chapter-chicago",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-chicago/"
     },
     {
         "name": "Michael Allen",
         "email": "michael.allen@owasp.org",
-        "group": "OWASP Chicago",
+        "group": "www-chapter-chicago",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-chicago/"
     },
@@ -3145,6 +3145,20 @@
     {
         "name": "Carl Sampson",
         "email": "carl.sampson@owasp.org",
+        "group": "OWASP Indianapolis",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-indianapolis/"
+    },
+    {
+        "name": "Damian Profancik",
+        "email": "damian.profancik@owasp.org",
+        "group": "OWASP Indianapolis",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-indianapolis/"
+    },
+    {
+        "name": "Justin Baxtron",
+        "email": "justin.baxtron@owasp.org",
         "group": "OWASP Indianapolis",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-indianapolis/"
@@ -4090,6 +4104,13 @@
     {
         "name": "Timur Khrotko",
         "email": "timur@owasp.org",
+        "group": "OWASP Hungary",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-hungary/"
+    },
+    {
+        "name": "Peter Nyilasy",
+        "email": "peter.nyilasy@owasp.org",
         "group": "OWASP Hungary",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-hungary/"
@@ -5588,6 +5609,13 @@
     {
         "name": "Hadi Mahmoudi",
         "email": "hm6816@gmail.com",
+        "group": "OWASP MITM Guard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mitm-guard/"
+    },
+    {
+        "name": "Omid Rahimzadeh",
+        "email": "rahemzadeh2@gmail.com",
         "group": "OWASP MITM Guard",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-mitm-guard/"
