@@ -26,7 +26,7 @@ permalink: /projects/leaders/
       <li><a href="{{leader.group_url}}">{{group}}</a><a href='mailto:{{leader_emails | strip}}' style='padding-left:1em;' title='Mail the leaders'><i class="fa fa-envelope" style='color:lightblue;'></i></a></li>
       <ul>
     {% endif %}
-    <li><a href='{{ leader.email | replace: "mailto://", "mailto:" }}' target="_blank">{{ leader.name }}</a></li>
+    <li><a href='mailto:{{ leader.email | replace: "mailto://", "mailto:" }}' target="_blank">{{ leader.name }}</a></li>
     {% if forloop.last %}
     </ul>
     {% endif %}
