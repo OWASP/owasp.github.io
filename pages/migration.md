@@ -16,13 +16,13 @@ permalink: /migration/
 
 ## Ready to Get Started
 
-Each project and chapter will have their own repository located in the organization repo (https://github.com/OWASP).  The naming convention for repos is: 
+Each project and chapter will have their own repository located in the organization repo (<https://github.com/OWASP>).  The naming convention for repos is: 
 
 **www-project-[projectname or abbreviation]** for projects
 
 **www-chapter-[chaptername]** for chapters.
 
-If you do not have access to your repository yet, please contact [Harold Blankenship](mailto://harold.blankenship@owasp.com)
+If you do not have access to your repository yet, please contact [Harold Blankenship](mailto:harold.blankenship@owasp.com)
 
 The following files are included in the repository.  Only the index.md, leaders.md, and info.md files are required:
 
