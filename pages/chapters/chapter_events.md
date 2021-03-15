@@ -3,6 +3,7 @@
 title: Upcoming OWASP Chapter Meetup Events (next 30 days)
 layout: col-sidebar
 permalink: /chapters/events/
+redirect_to: /www-community/meetings/
 
 ---
 
