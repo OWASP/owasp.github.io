@@ -945,13 +945,6 @@
         "group_url": "https://owasp.org/www-project-webgoat-php/"
     },
     {
-        "name": "Johanna Curiel",
-        "email": "johanna.curiel@owasp.org",
-        "group": "OWASP webgoat php",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webgoat-php/"
-    },
-    {
         "name": "Simon Bennetts (psiinon)",
         "email": "psiinon@gmail.com",
         "group": "OWASP Vulnerable Web Applications Directory",
@@ -1856,7 +1849,7 @@
     },
     {
         "name": "Victoria Paschenko",
-        "email": "victoria.paschenko@owasp.org",
+        "email": "* [victoria paschenko",
         "group": "OWASP Kharkiv",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kharkiv/"
@@ -2301,6 +2294,27 @@
         "group": "OWASP Sao Paulo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sao-paulo/"
+    },
+    {
+        "name": "Martín Marsicano",
+        "email": "martin.marsicano@owasp.org",
+        "group": "OWASP Uruguay",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-uruguay/"
+    },
+    {
+        "name": "Maximiliano Alonzo",
+        "email": "maximiliano.alonzo@owasp.org",
+        "group": "OWASP Uruguay",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-uruguay/"
+    },
+    {
+        "name": "Guillermo Talento",
+        "email": "guillermo.talento@owasp.org",
+        "group": "OWASP Uruguay",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-uruguay/"
     },
     {
         "name": "Josmell Chavarri",
@@ -4786,27 +4800,6 @@
         "group": "OWASP Marquette",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-marquette/"
-    },
-    {
-        "name": "Orion Miller",
-        "email": "orion.miller@owasp.org",
-        "group": "OWASP San Fernando Valley",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-fernando-valley/"
-    },
-    {
-        "name": "Liliya Frye",
-        "email": "liliya.frye@owasp.org",
-        "group": "OWASP San Fernando Valley",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-fernando-valley/"
-    },
-    {
-        "name": "Aidan Anderson",
-        "email": "aidan.anderson@owasp.org",
-        "group": "OWASP San Fernando Valley",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-fernando-valley/"
     },
     {
         "name": "Daniel Kefer",
