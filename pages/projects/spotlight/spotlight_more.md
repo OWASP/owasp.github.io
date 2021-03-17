@@ -1,33 +1,27 @@
 ---
 
-title: Project Spotlight - SAMM
+title: Project Spotlight - Top 10
 layout: col-sidebar
 permalink: /projects/spotlight/
-date: 2021-02-10
+date: 2021-03-17
 
 ---
 
-![SAMM Logo](/assets/images/content/featured_project_samm.png){:class="featured-proj-image" width="160px"}
+![Top 10 Logo](/assets/images/content/featured_project_t10.png){:class="featured-proj-image" width="160px"}
 
-[OWASP Software Assurance Maturity Model (SAMM)](/www-project-samm/) makes software security measurable. Once you can measure it, you can manage it. So it allows one to actually manage a secure software program in an organization. SAMM helps any application security manager or security champion to understand where they are in terms of activities and also what they can do moving forward. It helps one to create a roadmap and to improve and demonstrate security activities are performed.
+We are back again with yet another OWASP Spotlight series and this time we have a project which needs no introduction and I got the chance to interact with Andrew van der Stock, OWASP Foundation Executive Director and the project leader for OWASP Top 10.
 
-Software in each of the business functions of an organisation have a couple of security practices and each of these security practices have a couple of activities with an increasing level of maturity. The model provides the framework to know what kind of activities and practices one needs to look at in terms of software security.
+The OWASP Top 10 is a book/referential document outlining the 10 most critical security concerns for web application security. The report is put together by a team of security experts from all over the world and the data comes from a number of organisations and is then analysed.
 
-For example:  Credit assessment is an important aspect of software because one must understand the risk profile of an application. How important is the application for the organization 's application risk profile? Does one need to do threat modelling? One needs to understand what kind of risks one has, what kind of threats are there for the software and provide threat modelling.
-    
-**Maturity Levels:**
+OWASP refers to the Top 10 as an ‘awareness document’ and recommends that all organisations incorporate the report into their processes in order to mitigate security risks. One thing to remember, it is not a standard. Organisations can define the matrix based on their own environment. This also means that it's not just OWASP who defines Top10 but takes data from so many people, organisations and then opens it up for us to post the feedback. Analysis is very interesting and actually got Top 10 a total of forty-three CWA.
 
-1. Perform activities at a basic level, ad hoc.
-2. More organized, structured, and possibly automated activities.
-3. Learn from what has been done and provide feedback into the other activities of your software assurance program. 
-
-[Check out this video about the project](https://youtu.be/N0zcZnkH5Wg)
+Check out the [video on the OWASP Spotlight series](https://www.youtube.com/watch?v=RMkoIrpz8ug)
 
 ### Other Resources
-* [OWASP SAMM](https://owasp.org/www-project-samm/)
-* [SAMM Website](https://owaspsamm.org/model/)
-* [Contributing to OWASP SAMM](https://github.com/OWASP/samm)
-* [Donate](https://owasp.org/donate/)
+* [OWASP Top 10](/www-project-top-ten/)
+* [Contributing to OWASP Top 10](https://github.com/OWASP/Top10/)
+* [Donate](/donate/)
+
 
 
 **Contributing Author:** Vandana Verma
