@@ -1,6 +1,6 @@
 ---
 
-date: 2021-03-11
+date: 2021-03-16
 author: Kelly Santalucia
 author_image: /assets/images/people/staff_kelly2.jpg
 layout: blogpost
@@ -9,8 +9,8 @@ excerpt_separator: <!--more-->
 
 ---
 
-## Vearcode Secure Coding Challenge Summary 
-The Call To Battle Secure Coding challenge brought together developers and security engineers this past week to show 
+## Veracode Secure Coding Challenge Summary 
+The Call To Battle Secure Coding challenge brought together developers and security engineers two weeks ago to show 
 off their secure coding skills.  Using Veracode's Security Labs Enterprise, all of the contestants worked on patching 
 real OWASP Top 10 vulnerabilities in containerized environments, using the languages of their choice. The more 
 languages a competitor knows, the more points they can score.  Out of the 18 fierce competitors, we had 9 who finished 
@@ -27,4 +27,4 @@ Thank you to everyone for being part of this event and congratulations to the wi
 
 Thank you Veracode for hosting and sponsoring this battle! 
 
- Join us and register for our next Call to Battle "Owasp Juice Shop Virtual Escape Room" community challenge on April 9. 
+ Join us for our next Call to Battle "Owasp Juice Shop Virtual Escape Room" community challenge on April 9. Tickets are limited and are on a first come first serve basis. [REGISTER TODAY!](https://www.eventbrite.com/e/owasps-call-to-battle-juice-shop-virtual-escape-room-tickets-146508124745)
