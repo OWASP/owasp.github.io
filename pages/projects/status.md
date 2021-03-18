@@ -45,6 +45,7 @@ Jump to
 ### Recently Updated Projects (updated page within last 60 days)
 <ul>
 {% assign projects = site.data.projects | sort: 'updated' | reverse %}
+{% assign rtotal = 0 %}
 {% for project in projects %}
     {% assign cyear = project.created | date: "%Y" %}
     {% assign cmonth = project.created | date: "%m" %}
@@ -61,6 +62,7 @@ Jump to
        {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless project.region contains 'Website Update' %}
+                    {% assign rtotal = rtotal + 1 %}
                     <li><a href='{{ project.url }}'>{{ custr }}, {{ project.title }}</a></li>
                 {% endunless %}
             {% endunless %}
@@ -69,6 +71,7 @@ Jump to
         {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless project.region contains 'Website Update' %}
+                    {% assign rtotal = rtotal + 1 %}
                     <li><a href='{{ project.url }}'>{{ custr }}, {{ project.title }}</a></li>
                 {% endunless %}
             {% endunless %}
@@ -76,18 +79,24 @@ Jump to
     {% endif %}
 {% endfor %}
 </ul>
+    
+Total: {{ rtotal }}
 
 ----
 <section id='needs_update'></section>
 
 ### Needs Website Update (has not been updated to remove default info)
 <ul>
+{% assign nwutotal = 0 %}
 {% for project in site.data.projects %}
-    {% if project.region contains 'Website Update' %} 
+    {% if project.region contains 'Website Update' %}
+        {% assign nwutotal = nwutotal + 1 %}
         <li><a href='{{ project.url }}'>{{ project.title }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
+
+Total: {{ nwutotal }}
 
 ---
 <section id='last-update'></section>
