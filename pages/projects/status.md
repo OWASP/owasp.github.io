@@ -62,7 +62,7 @@ Jump to
        {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless project.region contains 'Website Update' %}
-                    {% assign rtotal = rtotal + 1 %}
+                    {% assign rtotal = rtotal | plus: 1 %}
                     <li><a href='{{ project.url }}'>{{ custr }}, {{ project.title }}</a></li>
                 {% endunless %}
             {% endunless %}
@@ -71,7 +71,7 @@ Jump to
         {% unless cyear == year and cmonth == month %}
             {% unless  cyear == testyear and cmonth >= 11 %}
                 {% unless project.region contains 'Website Update' %}
-                    {% assign rtotal = rtotal + 1 %}
+                    {% assign rtotal = rtotal | plus: 1 %}
                     <li><a href='{{ project.url }}'>{{ custr }}, {{ project.title }}</a></li>
                 {% endunless %}
             {% endunless %}
@@ -90,7 +90,7 @@ Total: {{ rtotal }}
 {% assign nwutotal = 0 %}
 {% for project in site.data.projects %}
     {% if project.region contains 'Website Update' %}
-        {% assign nwutotal = nwutotal + 1 %}
+        {% assign nwutotal = nwutotal | plus: 1 %}
         <li><a href='{{ project.url }}'>{{ project.title }}</a></li>
     {% endif %}
 {% endfor %}
