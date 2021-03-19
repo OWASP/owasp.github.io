@@ -67,7 +67,7 @@ input[type='radio'] {
       <h1>Manage Your Information</h1>
 
       <div v-if="state === 'unsubmitted'">
-        <p>If you have an existing OWASP membership or recurring gift, enter your address (case sensitive) below and you will receive an email response that includes an URL which you can visit to update your billing information.</p>
+        <p>If you have an existing OWASP membership or recurring gift, enter your address (case sensitive) below and you will receive an email response that includes an URL which you can visit to update your billing information, see your membership data, and provision your owasp email address.</p>
         <form v-on:submit.prevent="handleSubmit" class="form-container">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
