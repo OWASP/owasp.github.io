@@ -18,6 +18,6 @@ permalink: /search/
     });
 </script>
 <div class="search-results">
-<div class="gcse-searchresults-only" data-queryParameterName="searchString" data-resultsUrl="https://owasp.org/search" data-newWindow="false" data-linkTarget="_self">
+<div class="gcse-searchresults-only" data-queryParameterName="searchString" data-resultsUrl="https://owasp.org/www-pdf-archive//Intercept-proxies.pdf" data-newWindow="false" data-linkTarget="_self">
 </div>
 </div>
