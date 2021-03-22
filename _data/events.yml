@@ -50,7 +50,8 @@
         optional-text: Due to COVID 19 and the desire to put on the best AppSec events possible, Global AppSec Dublin and Global AppSec San Francisco have been postponed until 2022.
 - category: Regional
   description: Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
-      - name: OWASP Italy Day 2021
+     events:
+     - name: OWASP Italy Day 2021
         start-date: 2021-04-28
         dates: April 28, 2021
         optional-text: More information can be found [here](https://owasp.org/www-chapter-italy/)
