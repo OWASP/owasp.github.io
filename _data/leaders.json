@@ -1533,20 +1533,6 @@
         "group_url": "https://owasp.org/www-chapter-worcestershire/"
     },
     {
-        "name": "Rodrigo Valero",
-        "email": "rodrigo.valero@owasp.org",
-        "group": "OWASP Barranquilla",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-barranquilla/"
-    },
-    {
-        "name": "Nahum Deavila",
-        "email": "nahum.deavila@owasp.org",
-        "group": "OWASP Barranquilla",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-barranquilla/"
-    },
-    {
         "name": "Yan Lypnytsky",
         "email": "lypnytsky.yan@owasp.org",
         "group": "OWASP Dnipro",
@@ -2067,13 +2053,6 @@
     {
         "name": "Alejandro Federico Iacobelli",
         "email": "alejandro.iacobelli@owasp.org",
-        "group": "OWASP Buenos Aires",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-buenos-aires/"
-    },
-    {
-        "name": "Pablo Garbossa",
-        "email": "pablo.garbossa@owasp.org",
         "group": "OWASP Buenos Aires",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-buenos-aires/"
@@ -3129,13 +3108,6 @@
         "group_url": "https://owasp.org/www-chapter-denver/"
     },
     {
-        "name": "Katie Uhl",
-        "email": "katie.uhl@owasp.org",
-        "group": "OWASP Detroit",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-detroit/"
-    },
-    {
         "name": "Alvin Fong",
         "email": "alvin.fong@owasp.org",
         "group": "OWASP CT Hartford",
@@ -3976,20 +3948,6 @@
         "group_url": "https://owasp.org/www-chapter-cambridge/"
     },
     {
-        "name": "Simon Loizides",
-        "email": "simon.loizides@owasp.org",
-        "group": "OWASP Cyprus",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cyprus/"
-    },
-    {
-        "name": "Marios Nicolaides",
-        "email": "marios.nicolaides@owasp.org",
-        "group": "OWASP Cyprus",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cyprus/"
-    },
-    {
         "name": "Jan Kopecky",
         "email": "jan.kopecky@owasp.org",
         "group": "OWASP Czech Republic",
@@ -4375,6 +4333,13 @@
         "group_url": "https://owasp.org/www-chapter-norway/"
     },
     {
+        "name": "Jostein Tveit",
+        "email": "jostein.tveit@gmail.com",
+        "group": "OWASP Norway",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-norway/"
+    },
+    {
         "name": "Ståle Pettersen",
         "email": "stale.pettersen@owasp.org",
         "group": "OWASP Norway",
@@ -4674,20 +4639,6 @@
         "group": "OWASP Oakland County, MI",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-oakland-county/"
-    },
-    {
-        "name": "Rafael Enrique Monterroza Barrios",
-        "email": "rafael.monterroza@owasp.org",
-        "group": "OWASP Cartagena",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cartagena/"
-    },
-    {
-        "name": "Aisner José Marrugo Juliao",
-        "email": "aisner.marrugo@owasp.org",
-        "group": "OWASP Cartagena",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cartagena/"
     },
     {
         "name": "Scott Handfield",
@@ -6424,5 +6375,47 @@
         "group": "OWASP Saitama",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-saitama/"
+    },
+    {
+        "name": "Ivan Tsarynny",
+        "email": "ivan@feroot.com",
+        "group": "OWASP Top 10 Client-Side Security Risks",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-client-side-security-risks/"
+    },
+    {
+        "name": "Tariq Hawis",
+        "email": "tariqhawis@gmail.com",
+        "group": "OWASP InjectBot",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-injectbot/"
+    },
+    {
+        "name": "Güler Okay",
+        "email": "o.gueler@cloudyrion.com",
+        "group": "OWASP Cybersecurity Risk Register",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cybersecurity-risk-register/"
+    },
+    {
+        "name": "Pawan Phogat",
+        "email": "pawanphogat@outlook.com",
+        "group": "OWASP Financial Systems Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-financial-systems-security/"
+    },
+    {
+        "name": "Peter Henggeler",
+        "email": "peter.henggeler@owasp.org",
+        "group": "OWASP Boise",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boise/"
+    },
+    {
+        "name": "Lucas Alton",
+        "email": "lucas.alton@owasp.org",
+        "group": "OWASP Boise",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boise/"
     }
 ]
