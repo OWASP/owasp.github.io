@@ -255,7 +255,8 @@
   name: Prophaze Technologies Pvt Ltd
   image: /assets/images/corp-member-logo/prophaze-logo_300x90.png
   url: https://prophaze.com
-  description: Prophaze is a Native Cloud Security Platform used by organizations, businesses, and SaaS providers along with their DevOps and security teams to protect their web-facing assets from all types of cyber threats using its behavioral based threat detection algorithms. Prophaze having its WAF + RASP capabilities, along with fingerprinting-based bot detection is an economical substitute for traditional or legacy-based WAFs in which costs of ownership, deployment, maintenance, monitoring, and tuning are high. Supports public cloud, private cloud, on-premise deployment. It is also a native WAF for Kubernetes that secures microservices across Kubernetes clusters from malicious or illegitimate traffic and requests.
+  description: Prophaze is a Native Cloud Security Platform used by organizations, businesses, and SaaS providers along with their DevOps and security teams to protect their web-facing assets from all types of cyber threats using its behavioral based threat detection algorithms. Prophaze having its WAF + RASP capabilities, along with fingerprinting-based bot detection is an economical substitute for traditional or legacy-based WAFs in which costs of ownership, deployment, maintenance, monitoring, and tuning are high. Supports public cloud, private cloud, on-premise deployment. It is also a native WAF for Kubernetes that secures microservices across Kubernetes clusters from malicious or illegitimate traffic and requests. 
+- member: true 
   sponsor: 4	
   name: Qualys	
   image: /assets/images/corp-member-logo/qualys.png	
