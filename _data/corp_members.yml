@@ -250,6 +250,12 @@
   image: /assets/images/corp-member-logo/probely_logo_black.png
   url: https://probely.com
   description: Probely finds vulnerabilities or security issues in web applications and provides guidance on how to fix those issues. It can be integrated into development processes (SDLC) and continuous integration pipelines (CI/CD), in order to automate security testing. Probely helps you narrow the gap between development, security and operations, by making security an intrinsic characteristic of the web development life-cycle and achieve fast time-to-market.
+- member: true
+  sponsor: 
+  name: Prophaze Technologies Pvt Ltd
+  image: /assets/images/corp-member-logo/prophaze-logo_300x90.png
+  url: https://prophaze.com
+  description: Prophaze is a Native Cloud Security Platform used by organizations, businesses, and SaaS providers along with their DevOps and security teams to protect their web-facing assets from all types of cyber threats using its behavioral based threat detection algorithmsProphaze having its WAF + RASP capabilities, along with fingerprinting-based bot detection is an economical substitute for traditional or legacy-based WAFs in which costs of ownership, deployment,  maintenance, monitoring, and tuning are high. Supports public cloud, private cloud, on-premise deployment. It is also a native WAF for Kubernetes that secures microservices across Kubernetes clusters from malicious or illegitimate traffic and requests.
 - member: false	
   sponsor: 4	
   name: Qualys	
