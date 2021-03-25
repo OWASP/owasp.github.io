@@ -82,6 +82,12 @@
   image: /assets/images/corp-member-logo/code-dx.png	
   url: https://www.codedx.com	
   description: Code Dx is committed to reducing barriers to effective application security. Our automated application vulnerability correlation and management tools help find and fix insecure code faster, with less effort and a smaller team. Focus your precious resources on developing valuable new features, and ship secure code faster and more often.	
+- member: true
+  sponsor:
+  name: Contrast Security
+  image: /assets/images/corp-member-logo/ContrastSecCMYK.jpeg
+  url: https://www.contrastsecurity.com/
+  description: Contrast Security is the only company that enables applications to automatically detect and fix vulnerabilities, identify attacks, and defend themselves. Contrast employs security instrumentation to strengthen applications before they deploy, protect them in production and provide visibility throughout the application lifecycle.
 - member: true 
   sponsor: 
   name: DataDome
