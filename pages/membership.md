@@ -300,7 +300,7 @@ permalink: /membership/
           {{ errors.membership_type[0] }}
         </div>
         <div style="margin-bottom: 35px; margin-top: 35px;">
-	  <label class="checkbox-container" v-if="showAutoRenew">Set my Membership to Auto-renew
+	  <label class="checkbox-container" v-if="!student">Set my Membership to Auto-renew
 	    <input type="checkbox" v-model="auto_renew">
 	    <span class="checkmark"></span>
 	  </label>
@@ -423,9 +423,6 @@ window.addEventListener('load', function () {
       }
     },
     computed: {
-      showAutoRenew: function () {
-        return (!student and membership_type == 'One Year')
-      },
       membershipOptions: function () {
         
         if (!this.country || !this.country.hasOwnProperty('discount') ||
