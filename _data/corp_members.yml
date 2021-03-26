@@ -154,6 +154,12 @@
   image: /assets/images/corp-member-logo/hackerone.png
   url: https://www.hackerone.com/?utm_source=owasp&amp;utm_medium=partner&amp;utm_campaign=owasp
   description: HackerOne empowers the world to build a safer internet. As the world’s most trusted hacker-powered security platform, HackerOne gives organizations access to the largest community of hackers on the planet. Armed with the most robust database of vulnerability trends and industry benchmarks, the hacker community mitigates cyber risk by searching, finding, and safely reporting real-world security weaknesses for organizations across all industries and attack surfaces. HackerOne was ranked fifth on the Fast Company World’s Most Innovative Companies list for 2020. Headquartered in San Francisco with a presence in London, New York, the Netherlands, France, Singapore, and 70+ other global locations.
+- member: true
+  sponsor:
+  name: Hdiv Security 
+  image: /assets/images/corp-member-logo/hdivSecurityLogo.png
+  url: https://hdivsecurity.com/
+  description: Hdiv Security delivers continuous security that natively integrates into all stages of the software lifecycle (SDLC), automating application security. Hdiv’s Unified Application Security platform accurately finds security vulnerabilities and protects applications, microservices, and APIs from a broad range of attacks and exploits, including those that can be considered design flaws. Leveraging IAST, SCA and RASP technologies, Hdiv Security enables DevSecOps by incorporating application security automatically into DevOps pipelines.
 - member: true	
   sponsor: 	
   name: HiSolutions	
