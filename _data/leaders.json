@@ -574,6 +574,13 @@
         "group_url": "https://owasp.org/www-project-top-ten/"
     },
     {
+        "name": "Torsten Gigler",
+        "email": "torsten.gigler@owasp.org",
+        "group": "OWASP Top Ten",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-ten/"
+    },
+    {
         "name": "Larry Conklin",
         "email": "larry.conklin@owasp.org",
         "group": "OWASP Code Review Guide",
@@ -901,13 +908,6 @@
         "group": "OWASP Cornucopia",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cornucopia/"
-    },
-    {
-        "name": "Sven-Torsten Gigler",
-        "email": "torsten.gigler@owasp.org",
-        "group": "OWASP Top 10 Fuer Entwickler",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-fuer-entwickler/"
     },
     {
         "name": "Sven-Torsten Gigler",
@@ -1675,6 +1675,20 @@
     {
         "name": "Azzeddine RAMRAMI",
         "email": "azzeddine.ramrami@owasp.org",
+        "group": "OWASP Morocco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-morocco/"
+    },
+    {
+        "name": "Tarik ELAOUADI",
+        "email": "tarik.elaouadi@owasp.org",
+        "group": "OWASP Morocco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-morocco/"
+    },
+    {
+        "name": "Alaeddine MESBAHI",
+        "email": "alaeddine.mesbahi@owasp.org",
         "group": "OWASP Morocco",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-morocco/"
