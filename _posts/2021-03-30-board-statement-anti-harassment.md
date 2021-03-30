@@ -4,7 +4,7 @@ date: 2021-03-30
 author: Sherif Mansour
 author_image: /assets/images/people/board_sherif.jpg
 layout: blogpost
-title: 2021 March OWASP Call to Battle Post Event Wrap-up
+title: OWASP Foundation Statement on Anti-Harassment
 excerpt_separator: <!--more-->
 
 ---
