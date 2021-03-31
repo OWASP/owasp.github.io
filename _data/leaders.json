@@ -2429,6 +2429,13 @@
         "group_url": "https://owasp.org/www-chapter-indore/"
     },
     {
+        "name": "Masato Kaneko",
+        "email": "masato.kaneko@owasp.org",
+        "group": "OWASP Fukushima",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fukushima/"
+    },
+    {
         "name": "Tomohiko Morita",
         "email": "tomohiko.morita@owasp.org",
         "group": "OWASP Kansai",
@@ -3383,6 +3390,13 @@
     {
         "name": "Urvin Mistry",
         "email": "urvin.mistry@owasp.org",
+        "group": "OWASP Surat",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-surat/"
+    },
+    {
+        "name": "Khushbu Mistry",
+        "email": "khushbu.mistry@owasp.org",
         "group": "OWASP Surat",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-surat/"
@@ -4471,6 +4485,20 @@
         "group": "OWASP Oakland County, MI",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-oakland-county/"
+    },
+    {
+        "name": "Rafael Enrique Monterroza Barrios",
+        "email": "rafael.monterroza@owasp.org",
+        "group": "OWASP Cartagena",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cartagena/"
+    },
+    {
+        "name": "Brandon Alfredo Pérez Lara",
+        "email": "brandon.perez@owasp.org",
+        "group": "OWASP Cartagena",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cartagena/"
     },
     {
         "name": "Scott Handfield",
@@ -5777,13 +5805,6 @@
     {
         "name": "Abhisek Rajkumar",
         "email": "abhisek.rajkumar@owasp.org",
-        "group": "OWASP Sastra University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sastra-university/"
-    },
-    {
-        "name": "Sai Aditya Viswanadham",
-        "email": "saiaditya.viswanadham@owasp.org",
         "group": "OWASP Sastra University - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sastra-university/"
