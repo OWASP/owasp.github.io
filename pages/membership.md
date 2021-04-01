@@ -449,7 +449,7 @@ window.addEventListener('load', function () {
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true },
-            { name: 'Two Year', amount: '$38', discount: true },
+            { name: 'Two Year', amount: '$35', discount: true },
             { name: 'Lifetime', amount: '$200', discount: true }
           ]
 	  }
