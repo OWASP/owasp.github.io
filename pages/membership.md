@@ -437,7 +437,7 @@ window.addEventListener('load', function () {
         } else {
           return [
             { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$75', discount: false },//changed from 95 for month promotion
+            { name: 'Two Year', amount: '$95', discount: false },
             { name: 'Lifetime', amount: '$500', discount: false }
           ];
 	  }
@@ -449,7 +449,7 @@ window.addEventListener('load', function () {
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true },
-            { name: 'Two Year', amount: '$30', discount: true },//changed from 38 for month promotion
+            { name: 'Two Year', amount: '$38', discount: true },
             { name: 'Lifetime', amount: '$200', discount: true }
           ]
 	  }
