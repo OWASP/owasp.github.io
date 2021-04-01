@@ -2,7 +2,7 @@
 
 date: 2021-03-30
 author: Sherif Mansour
-author_image: /assets/images/people/board_sherif.jpg
+author_image: /assets/images/people/board-sherif.png
 layout: blogpost
 title: OWASP Foundation Statement on Anti-Harassment
 excerpt_separator: <!--more-->
