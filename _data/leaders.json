@@ -2429,8 +2429,22 @@
         "group_url": "https://owasp.org/www-chapter-indore/"
     },
     {
-        "name": "Masato Kaneko",
-        "email": "masato.kaneko@owasp.org",
+        "name": "Jun Yamadera",
+        "email": "jun.yamadera@owasp.org",
+        "group": "OWASP Fukushima",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fukushima/"
+    },
+    {
+        "name": "Junichi Fujinuma",
+        "email": "junichi.fujinuma@owasp.org",
+        "group": "OWASP Fukushima",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fukushima/"
+    },
+    {
+        "name": "Kensuke Shimizu",
+        "email": "kensuke.shimizu@owasp.org",
         "group": "OWASP Fukushima",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-fukushima/"
@@ -4781,13 +4795,6 @@
         "group_url": "https://owasp.org/www-chapter-reading/"
     },
     {
-        "name": "Isuru Senadheera",
-        "email": "isuru.senadheera@owasp.org",
-        "group": "OWASP Colombo",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-colombo/"
-    },
-    {
         "name": "Lohitha Perera",
         "email": "lohitha.perera@owasp.org",
         "group": "OWASP Colombo",
@@ -6263,5 +6270,19 @@
         "group": "OWASP Belem",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-belem/"
+    },
+    {
+        "name": "Dominykas Seikis",
+        "email": "dominykas.seikis@owasp.org",
+        "group": "OWASP Vilnius",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vilnius/"
+    },
+    {
+        "name": "Miroslav Lucinskij",
+        "email": "miroslav.lucinskij@owasp.org",
+        "group": "OWASP Vilnius",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vilnius/"
     }
 ]
