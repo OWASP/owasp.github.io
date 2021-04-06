@@ -1575,20 +1575,6 @@
         "group_url": "https://owasp.org/www-chapter-seoul/"
     },
     {
-        "name": "Mohammad Khreesha",
-        "email": "mohammad.khreesha@owasp.org",
-        "group": "OWASP Amman",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-amman/"
-    },
-    {
-        "name": "Raad Haddad",
-        "email": "raad.haddad@owasp.org",
-        "group": "OWASP Amman",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-amman/"
-    },
-    {
         "name": "Adam Horeth",
         "email": "adam.horeth@owasp.org",
         "group": "OWASP Syracuse",
@@ -3472,6 +3458,20 @@
         "group_url": "https://owasp.org/www-chapter-delhi/"
     },
     {
+        "name": "Deep Shankar Yadav",
+        "email": "deep.yadav@owasp.org",
+        "group": "OWASP Delhi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-delhi/"
+    },
+    {
+        "name": "Pawan Phogat",
+        "email": "pawan.phogat@owasp.org",
+        "group": "OWASP Delhi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-delhi/"
+    },
+    {
         "name": "Raj Shalem",
         "email": "raj.shalem@owasp.org",
         "group": "OWASP Hyderabad",
@@ -4501,20 +4501,6 @@
         "group_url": "https://owasp.org/www-chapter-oakland-county/"
     },
     {
-        "name": "Rafael Enrique Monterroza Barrios",
-        "email": "rafael.monterroza@owasp.org",
-        "group": "OWASP Cartagena",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cartagena/"
-    },
-    {
-        "name": "Brandon Alfredo Pérez Lara",
-        "email": "brandon.perez@owasp.org",
-        "group": "OWASP Cartagena",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cartagena/"
-    },
-    {
         "name": "Scott Handfield",
         "email": "scott.handfield@owasp.org",
         "group": "OWASP Waterloo",
@@ -5089,20 +5075,6 @@
         "group_url": "https://owasp.org/www-chapter-malmo/"
     },
     {
-        "name": "Akshay Gupta",
-        "email": "akshay.gupta@owasp.org",
-        "group": "OWASP Canberra",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-canberra/"
-    },
-    {
-        "name": "Toby Amodio",
-        "email": "toby.amodio@owasp.org",
-        "group": "OWASP Canberra",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-canberra/"
-    },
-    {
         "name": "Dalmo Manoel Veras Neto",
         "email": "dalmo.veras@owasp.org",
         "group": "OWASP Florianopolis",
@@ -5307,7 +5279,7 @@
     },
     {
         "name": "Dr. Samreen F",
-        "email": "samy_salsa@yahoo.com",
+        "email": "",
         "group": "OWASP Aligarh",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-aligarh/"
@@ -6291,5 +6263,33 @@
         "group": "OWASP Vilnius",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vilnius/"
+    },
+    {
+        "name": "Arpit Goyal",
+        "email": "arpit.goyal@owasp.org",
+        "group": "OWASP Warangal",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-warangal/"
+    },
+    {
+        "name": "Ankush Mittal",
+        "email": "ankush.mittal@owasp.org",
+        "group": "OWASP Warangal",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-warangal/"
+    },
+    {
+        "name": "Subhash Chandra Bhil",
+        "email": "subhash.chandrabil@owasp.org",
+        "group": "OWASP Warangal",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-warangal/"
+    },
+    {
+        "name": "Aakash Kumar",
+        "email": "aakash,kuymar@owasp.org",
+        "group": "OWASP Warangal",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-warangal/"
     }
 ]
