@@ -266,7 +266,6 @@ permalink: /membership/
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
 
-      <h2 class='alert'>Two Year Membership - 20% off to celebrate 20 Years.<br>Join or Renew Now!</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
