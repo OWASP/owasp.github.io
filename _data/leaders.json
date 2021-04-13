@@ -1659,13 +1659,6 @@
         "group_url": "https://owasp.org/www-chapter-morocco/"
     },
     {
-        "name": "Alaeddine MESBAHI",
-        "email": "alaeddine.mesbahi@owasp.org",
-        "group": "OWASP Morocco",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-morocco/"
-    },
-    {
         "name": "TK Matima",
         "email": "tk.matima@owasp.org",
         "group": "OWASP Johannesburg",
@@ -3675,13 +3668,6 @@
         "group_url": "https://owasp.org/www-chapter-suffolk/"
     },
     {
-        "name": "Abhinav Sejpal",
-        "email": "abhinav.sejpal@owasp.org",
-        "group": "OWASP Suffolk",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-suffolk/"
-    },
-    {
         "name": "David Flint",
         "email": "david.flint@owasp.org",
         "group": "OWASP Suffolk",
@@ -3691,6 +3677,13 @@
     {
         "name": "Martin Russ",
         "email": "martin.russ@owasp.org",
+        "group": "OWASP Suffolk",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-suffolk/"
+    },
+    {
+        "name": "Abhinav Sejpal",
+        "email": "abhinav.sejpal@owasp.org",
         "group": "OWASP Suffolk",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-suffolk/"
@@ -4291,6 +4284,20 @@
         "group_url": "https://owasp.org/www-chapter-stockholm/"
     },
     {
+        "name": "Shane Murnion",
+        "email": "shane.murnion@owasp.org",
+        "group": "OWASP Stockholm",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-stockholm/"
+    },
+    {
+        "name": "Henrik Åmark",
+        "email": "henrik.amark@owasp.org",
+        "group": "OWASP Stockholm",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-stockholm/"
+    },
+    {
         "name": "Mihail Stoynov",
         "email": "mihail.stoynov@owasp.org",
         "group": "OWASP Sofia Chapter",
@@ -4704,20 +4711,6 @@
         "group_url": "https://owasp.org/www-chapter-monterrey/"
     },
     {
-        "name": "Ramesh Krishnasagar",
-        "email": "ramesh.krishnasagar@owasp.org",
-        "group": "OWASP Reading",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-reading/"
-    },
-    {
-        "name": "Shweta Choudaha",
-        "email": "shweta.choudaha@owasp.org",
-        "group": "OWASP Reading",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-reading/"
-    },
-    {
         "name": "Lohitha Perera",
         "email": "lohitha.perera@owasp.org",
         "group": "OWASP Colombo",
@@ -4963,27 +4956,6 @@
         "group_url": "https://owasp.org/www-project-iot-security-verification-standard/"
     },
     {
-        "name": "Humberto Junior",
-        "email": "humberto.junior@owasp.org",
-        "group": "OWASP Paraíba",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-paraiba/"
-    },
-    {
-        "name": "Ícaro Torres",
-        "email": "",
-        "group": "OWASP Paraíba",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-paraiba/"
-    },
-    {
-        "name": "Jessé Neto",
-        "email": "",
-        "group": "OWASP Paraíba",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-paraiba/"
-    },
-    {
         "name": "@JamesCullum",
         "email": "https://mailhide.io/e/wno7k",
         "group": "OWASP Single Sign-On",
@@ -4996,6 +4968,20 @@
         "group": "OWASP Malmo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-malmo/"
+    },
+    {
+        "name": "Akshay Gupta",
+        "email": "akshay.gupta@owasp.org",
+        "group": "OWASP Canberra",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-canberra/"
+    },
+    {
+        "name": "Tody Amondio",
+        "email": "toby.amondio@owasp.org",
+        "group": "OWASP Canberra",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-canberra/"
     },
     {
         "name": "Dalmo Manoel Veras Neto",
