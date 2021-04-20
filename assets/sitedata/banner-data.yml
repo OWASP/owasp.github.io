@@ -1,6 +1,6 @@
 - type: alert
-  start: 2021-03-02 10:00:00-0500
-  end: 2021-03-31 01:00:00-0500
-  text: "<div style='display:table'><div style='display:table-row'><h3>Two Year Membership - 20% off to celebrate 20 Years <span style='font-size: smaller;font-style: italic'>(valid through March 31, 2021)</span>.</h3></div><div style='text-align:center;display:table-row;'><h3><a href='https://owasp.org/membership/'>Join or Renew Now!</a></h3></div></div>"
+  start: 2021-04-19 10:00:00-0500
+  end: 2021-04-30 01:00:00-0500
+  text: "<h3>Regional Membership Discount - regional memberships are now discounted to celebrate OWASP's 20 Years.<br><a href='https://owasp.org/membership/'>Join or Renew Now!</a></h3>"
 - type: notice
   text: "<p>Please support the OWASP mission to improve sofware security through open source initiatives and community education. <a href='https://owasp.org/donate/'>Donate Now!</a></p>"
