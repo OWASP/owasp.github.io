@@ -447,9 +447,9 @@ window.addEventListener('load', function () {
           ];
           }else{
           return [
-            { name: 'One Year', amount: '$20', discount: true },
-            { name: 'Two Year', amount: '$35', discount: true },
-            { name: 'Lifetime', amount: '$200', discount: true }
+            { name: 'One Year', amount: '$15', discount: true }, // was 20
+            { name: 'Two Year', amount: '$30', discount: true }, // was 35
+            { name: 'Lifetime', amount: '$195', discount: true } // was 200
           ]
 	  }
         }
