@@ -7,22 +7,22 @@
        # dates: January 20, 2021
        # url:
       - name: Brain Break
-        optional-text: Kick back and join us for some laughs on April 24 as we welcome comedian Richard Sarvate. Click on Brain Break above for more details and how to register. 
+        optional-text: Kick back and join us for some laughs on April 24 as we welcome comedian Richard Sarvate. Click on Brain Break above for more details, sponsorship opportunities and how to register. 
         start-date: 2021-2-18
         dates: February 18, April 24, June 23, August 18, October 20, and December 16.
         url: https://brainbreak.owasp.org
       - name: Call to Battle
-        optional-text: Join us for our next Call to Battle April 9 Virtual Escape Room to see if you have what it takes to ESCAPE!
+        optional-text: Join us for our next Call to Battle on August 28 Capture the Flag Hacking-Defense Paraguay. Sponsorship opportunities are available!
         start-date: 2021-2-26
         dates: February 26, April 9, August 28, and December 7.
         url: https://calltobattle.owasp.org
       - name: OWASP Virtual Training Courses
-        optional-text: Don't miss out on these multi-day virtual trainings to retool and level-up. Our next virtual training days will be held May 25-26. For more information on the trainings and how to register, click OWASP Virtual Training Courses above.
+        optional-text: Don't miss out on these multi-day virtual trainings to retool and level-up. Our next virtual training days will be held May 25-26. For more information on the trainings, how to register and sponsorship opportunities, click OWASP Virtual Training Courses above.
         start-date: 2021-3-9
         dates: March 9, May 25, June 15, July 13, September 7, and November 3.
         url: https://training.owasp.org
       - name: Lightning Conference
-        optional-text: Join us for our next Lightning Conference on May 12 featuring Katie Paxton-Fear. Click on Lightning Confernce above for more details and how to regsiter.
+        optional-text: Join us for our next Lightning Conference on May 12 featuring Katie Paxton-Fear. Click on Lightning Confernce above for more details including sponsorship opportunities and how to regsiter.
         start-date: 2021-3-15
         dates: March 15, May 12, July 20, September 28, and November 16.
         url: https://lightning.owasp.org
@@ -50,15 +50,15 @@
       - name: OWASP Italy Day 2021
         start-date: 2021-4-28
         dates: April 28, 2021
-        optional-text: More information can be found [here](https://owasp.org/www-chapter-italy/)
+        url: https://owasp.org/www-chapter-italy/
       - name: OWASP Portland Training Day 2021
         start-date: 2021-10-13
         dates: October 13, 2021
-        optional-text: More information can be found [here](https://owasp.org/www-chapter-portland/)
+        url: https://owasp.org/www-chapter-portland/
       - name: LASCON 2021
         start-date: 2021-10-26
         dates: October 26-29, 2021
-        optional-text: More information can be found [here](https://lascon.org/)
+        url: https://lascon.org/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:

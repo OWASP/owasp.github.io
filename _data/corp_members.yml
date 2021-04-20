@@ -341,6 +341,12 @@
   image: /assets/images/corp-member-logo/si_logo_owasp_300x90.png
   url: https://www.secureideas.com
   description: Secure Ideas has delivered penetration testing, training, and security consulting services to clients in every industry since 2010. We are known in the information security community for our expertise in testing applications, including web, mobile, and APIs. Secure Ideas operates on a foundation of ethics marked by our popular tagline "Professionally Evil". We also strongly believe in the value of openly sharing information and security knowledge, which is why we champion affordable training and offer many of our short-form classes for free.
+- member: true
+  sponsor:
+  name: SecurityFirst
+  image: /assets/images/corp-member-logo/SecurityFirstLogo.png
+  url: https://securityfirst.io/
+  description: SecurityFirst by SEFISA is a security consulting firm specialized in blue and red team services. With our talented and passionate team of experts we have been serving customers in all major verticals since 1996. We help our customers to develop the security in-depth approach and to focus on people rather than tools.
 - member: true	
   sponsor: 	
   name: Security Innovation	
