@@ -14,8 +14,8 @@
   sponsor:
   name: Adobe	
   image: /assets/images/corp-member-logo/adobe.png	
-  url: https://www.adobe.com	
-  description: Adobe is the global leader in digital marketing and digital media solutions. Our tools and services allow our customers to create groundbreaking digital content, deploy it across media and devices, measure and optimize it over time, and achieve greater business success. We help our customers make, manage, measure, and monetize their content across every channel and screen.	
+  url: 	https://trust.adobe.com	
+  description: Adobe is changing the world through digital experiences. Great experiences have the power to inspire, transform, and move the world forward. And every great experience starts with creativity. Creativity is in our DNA. Our game-changing innovations are redefining the possibilities of digital experiences. We connect content and data and introduce new technologies that democratize creativity, shape the next generation of storytelling, and inspire entirely new categories of business.	
 - member: true
   sponsor:
   name: Akeero
@@ -262,6 +262,12 @@
   image: /assets/images/corp-member-logo/praetorianlogo300x73.png
   url: http://praetorian.com
   description: Praetorian is a cybersecurity solutions company whose mission is to make the digital world safer and more secure. Through expertise and engineering, Praetorian helps today’s leading organizations solve complex cybersecurity problems across critical enterprise assets and product portfolios. From the Cloud to IoT, we are bringing together the world’s security expertise to solve the cybersecurity problem and secure the next wave of innovation.
+- member: true
+  sponsor:
+  name: Proack Security Inc.
+  image: /assets/images/corp-member-logo/proack_logo_main_rgb_72dpi.png
+  url: https://proacksecurity.com
+  description: Proack is a Canadian consulting firm with a focus on offensive security, threat and vulnerability management, and cybersecurity program advisory. Our services include application, mobile, and infrastructure penetration testing; secure SDLC advisory and training; cloud security; security maturity assessments; and roadmap development. Proack consultants have a broad range of experience working with clients, from advising executive leadership on enterprise-wide security maturity assessments, to designing security program roadmaps for CISOs, as well as working with developers and security analysts to remediate specific application vulnerabilities.
 - member: true	
   sponsor: 
   name: Probely
