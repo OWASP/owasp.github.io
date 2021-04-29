@@ -22,5 +22,10 @@ In celebration of our 20th Anniversary, OWASP is pleased to announce our new mer
 
 The OWASP Foundation store is strictly for fundraising purposes.  There will be no reimbursements from OWASP for any purchases.  
 
+<!--more-->
 
+![owasp keychain](/assets/images/content/owaspkeychain.png){:width="200px" style="float:left;"}
+![owasp face mask](/assets/images/content/owaspfacemask.png){:width="200px" style="float:left;"}
+![20th mug](/assets/images/content/20thmug.png){:width="200px" style="float:left;"}
+![Owasp golf ball](/assets/images/content/owaspgolfball.png){:width="200px" style="float:left;"}
 
