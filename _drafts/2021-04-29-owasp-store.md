@@ -1,4 +1,15 @@
-OWASP Fundraising Store 
+---
+
+date:   2021-04-28 14:00:00 -0200
+categories: owasp store 
+author: Dawn Aitken 
+author_image: /assets/images/people/staff_dawn21.jpg
+layout: blogpost
+title: "New OWASP Fundraising Store"
+excerpt_separator: <!--more-->
+
+---
+
 
 In celebration of our 20th Anniversary, OWASP is pleased to announce our new merchandise store where you can purchase a range of t-shirts, hoodies, stickers, mugs, masks, and more. Each purchase you make helps fund the OWASP mission.  
 
