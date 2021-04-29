@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-
+![20th sweatshirt](/assets/images/content/Sweatshirtimage.png)
 In celebration of our 20th Anniversary, OWASP is pleased to announce our new merchandise store where you can purchase a range of t-shirts, hoodies, stickers, mugs, masks, and more. Each purchase you make helps fund the OWASP mission.  
 
 https://owasp.org/store
