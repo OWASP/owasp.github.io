@@ -3,7 +3,7 @@
 * [NEW Chapter Policy](https://owasp.org/www-policy/operational/chapters) requirements and criteria of an active OWASP Chapter.
 * [Start a New/Reactivate Chapter Request](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
 * [Add/Change Leaders Request](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
-* [Upcoming Chapter Events](/chapters/events/)
+* [Upcoming OWASP Community Activiies](/chapters/events/)
 * [All Chapter Leaders](/chapters/leaders/)
 * [Chapter Status](/chapters/status/)
 * [OWASP Meetup](https://owasp.meetup.com)
