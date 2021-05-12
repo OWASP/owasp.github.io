@@ -2807,6 +2807,20 @@
         "group_url": "https://owasp.org/www-chapter-los-angeles/"
     },
     {
+        "name": "Lance Rudolph",
+        "email": "lance.rudolph@owasp.org",
+        "group": "OWASP Madison",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-madison/"
+    },
+    {
+        "name": "Drew Thompson",
+        "email": "drew.thompson@owasp.org",
+        "group": "OWASP Madison",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-madison/"
+    },
+    {
         "name": "Mark Geeslin",
         "email": "mark.geeslin@owasp.org",
         "group": "OWASP Nashville",
@@ -3766,6 +3780,13 @@
         "group_url": "https://owasp.org/www-chapter-netherlands/"
     },
     {
+        "name": "Adam Pickering",
+        "email": "adam.pickering@owasp.org",
+        "group": "OWASP Newcastle (UK)",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
+    },
+    {
         "name": "Andi Pannell",
         "email": "andrew.pannell@owasp.org",
         "group": "OWASP Newcastle (UK)",
@@ -3780,8 +3801,8 @@
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
     },
     {
-        "name": "Adam Pickering",
-        "email": "adam.pickering@owasp.org",
+        "name": "Dan Mullen",
+        "email": "dan.mullen@owasp.org",
         "group": "OWASP Newcastle (UK)",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
@@ -5553,14 +5574,14 @@
     {
         "name": "Didar Gelici",
         "email": "didar.gelici@owasp.org",
-        "group": "OWASP How to get into AppSec",
+        "group": "OWASP How to Get Into AppSec",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-how-to-get-into-appsec/"
     },
     {
         "name": "Daniel Ting",
         "email": "daniel.ting+appsecgithub@owasp.org",
-        "group": "OWASP How to get into AppSec",
+        "group": "OWASP How to Get Into AppSec",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-how-to-get-into-appsec/"
     },
