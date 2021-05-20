@@ -106,7 +106,11 @@ Total: {{ nwutotal }}
 {% assign projects = site.data.projects | sort: 'updated' | reverse %}
 {% for project in projects %}
     {% assign custr = project.updated | date: "%Y-%m-%d" %}
-      <li><a href='{{ project.url }}'>{{ custr }}, {{ project.title }}</a></li>
+    {% assign status_color = 'black' %}
+    {% if project.build == 'errored' %}
+       {% assign status_color = 'red' %}
+    {% endif %}
+      <li><a href='{{ project.url }}'>{{ custr }}, {{ project.title }}&nbsp;&nbsp;<span style='color:{{status_color}};'>Build Status: {{ project.build }} </span></a></li>
 {% endfor %}
 </ul>
 
