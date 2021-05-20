@@ -109,10 +109,10 @@ Jump to
 {% for chapter in chapters %}
     {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
     {% assign status_color = 'black' %}
-    {% if chapter.status == 'errored' %}
+    {% if chapter.build == 'errored' %}
        {% assign status_color = 'red' %}
     {% endif %}
-      <li><a href='{{ chapter.url }}'><span style='color:{{status_color}}'>{{ custr }}, {{ chapter.title }}</span></a></li>
+      <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}&nbsp;&nbsp;<span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></a></li>
 {% endfor %}
 </ul>
 
