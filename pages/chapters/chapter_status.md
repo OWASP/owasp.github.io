@@ -108,7 +108,11 @@ Jump to
 {% assign chapters = site.data.chapters | sort: 'updated' | reverse %}
 {% for chapter in chapters %}
     {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
-      <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}, build status={{ chapter.build}}</a></li>
+    {% assign status_color = 'black' %}
+    {% if chapter.status == 'errored' %}
+       {% assign status_color = 'red' %}
+    {% endif %}
+      <li><a href='{{ chapter.url }}'><span style='color:{{status_color}}'>{{ custr }}, {{ chapter.title }}</span></a></li>
 {% endfor %}
 </ul>
 
