@@ -110,7 +110,7 @@ Total: {{ nwutotal }}
     {% if project.build == 'errored' %}
        {% assign status_color = 'red' %}
     {% endif %}
-      <li><div style='display:block;'><a href='{{ project.title }}'>{{ project.title }}</a></div>
+      <li><div style='display:block;'><a href='{{ project.url }}'>{{ project.title }}</a></div>
       <div style='float:left;padding-right:24px;'>Last Updated: {{ custr }}</div>
       <div style='display:block;'><span style='color:{{status_color}};'>Build Status: {{ project.build }} </span></div></li>
 {% endfor %}

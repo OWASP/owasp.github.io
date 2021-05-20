@@ -112,7 +112,9 @@ Jump to
     {% if chapter.build == 'errored' %}
        {% assign status_color = 'red' %}
     {% endif %}
-      <li><a href='{{ chapter.url }}'>{{ custr }}, {{ chapter.title }}&nbsp;&nbsp;<span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></a></li>
+      <li><div style='display:block;'><a href='{{ chapter.url }}'>{{ chapter.title }}</a></div>
+      <div style='float:left;padding-right:24px;'>Last Updated: {{ custr }}</div>
+      <div style='display:block;'><span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></div></li>
 {% endfor %}
 </ul>
 
