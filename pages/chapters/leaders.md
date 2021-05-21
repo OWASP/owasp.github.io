@@ -59,46 +59,48 @@ permalink: /chapters/leaders/
         emails = emails.substring(0, emails.length - 1);
         return emails;
     }
-
+    
     $("#leaders-filter").keyup(function(e) {
-     var code = e.keyCode ? e.keyCode : e.which;
-     
-     if (code == 13) {  // Enter keycode
-         var filter = $('#leaders-filter').val();
-         filter = filter.toLowerCase();
-         var fleaders = []; 
-         
-          for(i = 0; i < leaders.length; i++){
-            var group = leaders[i].group.toLowerCase();
-            var email = leaders[i].email.toLowerCase();
-            var name = leaders[i].name.toLowerCase();
-            if(filter == '' || group.indexOf(filter) > -1 || email.indexOf(filter) > -1 || name.indexOf(filter) > -1)
-            {
-               fleaders.push(leaders[i]);
-            }
-          }
-         var html = "<ul>";
-         var group = '';
-         for(i = 0; i < fleaders.length; i++){
-            email = fleaders[i].email;
-            name = fleaders[i].name;
-            if(group != fleaders[i].group)
-            {
-              if(group != '')
-                html += "</ul>";
+        var code = e.keyCode ? e.keyCode : e.which;
+      
+        if (code == 13) {  // Enter keycode
+            var filter = $('#leaders-filter').val();
+            filter = filter.toLowerCase();
+            var fleaders = []; 
+            
+              for(i = 0; i < leaders.length; i++){
+                var group = leaders[i].group.toLowerCase();
+                var email = leaders[i].email.toLowerCase();
+                var name = leaders[i].name.toLowerCase();
+                if(filter == '' || group.indexOf(filter) > -1 || email.indexOf(filter) > -1 || name.indexOf(filter) > -1)
+                {
+                  fleaders.push(leaders[i]);
+                }
+              }
 
-              group = fleaders[i].group;
-              group_url = fleaders[i].group_url;
-              emails = getLeaderEmailsForGroup(fleaders, group);
-              html += "<li><a href='" + group_url + "'>";
-              html += group + "</a><a href='" + emails;
-              html += "' style='padding-left:1em;' title='Mail the leaders'><i class='fa fa-envelope' style='color:lightblue;'></i></a></li>";
-              html += '<ul>';
+            
+            var html = "<ul>";
+            var group = '';
+            for(i = 0; i < fleaders.length; i++){
+                email = fleaders[i].email;
+                name = fleaders[i].name;
+                if(group != fleaders[i].group)
+                {
+                  if(group != '')
+                    html += "</ul>";
+
+                  group = fleaders[i].group;
+                  group_url = fleaders[i].group_url;
+                  emails = getLeaderEmailsForGroup(fleaders, group);
+                  html += "<li><a href='" + group_url + "'>";
+                  html += group + "</a><a href='" + emails;
+                  html += "' style='padding-left:1em;' title='Mail the leaders'><i class='fa fa-envelope' style='color:lightblue;'></i></a></li>";
+                  html += '<ul>';
+                }
+                html += "<li><a href='mailto:" + email + "' target=\"_blank\">" + name + "</a></li>";
             }
-            html += "<li><a href='mailto:" + email + "' target=\"_blank\">" + name + "</a></li>";
-         }
-         html += "</ul>";
-         $('#leaders-list').html(html);
-       }
-   });
+            html += "</ul>";
+            $('#leaders-list').html(html);
+          }
+      });
 </script>
