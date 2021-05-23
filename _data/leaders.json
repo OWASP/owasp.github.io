@@ -2205,13 +2205,6 @@
         "group_url": "https://owasp.org/www-chapter-japan/"
     },
     {
-        "name": "Nabin KC",
-        "email": "nabin.kc@owasp.org",
-        "group": "OWASP Nepal",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-nepal/"
-    },
-    {
         "name": "Wong Onn Chee",
         "email": "ocwong@owasp.org",
         "group": "OWASP Singapore",
@@ -4215,14 +4208,14 @@
     },
     {
         "name": "Gagan Jattana",
-        "email": "tba",
+        "email": "gagan.jattana@owasp.org",
         "group": "OWASP Doha",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-doha/"
     },
     {
         "name": "Sheik Fareed",
-        "email": "tba",
+        "email": "sheik.fareed.owasp.org",
         "group": "OWASP Doha",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-doha/"
@@ -4543,27 +4536,6 @@
         "group_url": "https://owasp.org/www-chapter-ahmedabad/"
     },
     {
-        "name": "Jerry Caston",
-        "email": "jerry.caston@owasp.org",
-        "group": "OWASP San Jacinto College - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-jacinto-college/"
-    },
-    {
-        "name": "Paul Morgan",
-        "email": "paul.morgan@owasp.org",
-        "group": "OWASP San Jacinto College - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-jacinto-college/"
-    },
-    {
-        "name": "Christen Susko",
-        "email": "christen.susko@owasp.org",
-        "group": "OWASP San Jacinto College - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-jacinto-college/"
-    },
-    {
         "name": "Aaron Guzman",
         "email": "aaron.guzman@owasp.org",
         "group": "OWASP IoT Security Verification Standard",
@@ -4844,20 +4816,6 @@
         "group_url": "https://owasp.org/www-chapter-peshawar/"
     },
     {
-        "name": "Antonio Claret Rodriguez Blanco",
-        "email": "antonio.rodriguez-blanc@owasp.org",
-        "group": "OWASP Borox Toledo",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-borox-toledo/"
-    },
-    {
-        "name": "Milagros del Valle Martín Duran",
-        "email": "milagros.delvallemartinduran@owasp.org",
-        "group": "OWASP Borox Toledo",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-borox-toledo/"
-    },
-    {
         "name": "Charles Givre",
         "email": "charles.givre@gtkcyber.com",
         "group": "OWASP Drill",
@@ -4977,32 +4935,11 @@
         "group_url": "https://owasp.org/www-project-big-data/"
     },
     {
-        "name": "Aditya Pujara",
-        "email": "aditya.pujara@owasp.org",
-        "group": "OWASP Adelaide",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-adelaide/"
-    },
-    {
-        "name": "Ryan K",
-        "email": "",
-        "group": "OWASP Adelaide",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-adelaide/"
-    },
-    {
         "name": "Dr. Ferda Özdemir Sönmez",
         "email": "ferdaozdemir@gmail.com",
         "group": "OWASP Security Qualitative Metrics",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-qualitative-metrics/"
-    },
-    {
-        "name": "Abishekraghav Murugeashan",
-        "email": "abisherkraghav.murugeashan@owasp.org",
-        "group": "OWASP Namakkal",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-namakkal/"
     },
     {
         "name": "Liran Tal",
@@ -5791,6 +5728,20 @@
     {
         "name": "Michał Walkowski",
         "email": "michal.walkowski@dsecure.me",
+        "group": "OWASP Vulnerability Management Center",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerability-management-center/"
+    },
+    {
+        "name": "Maciej Krakowiak",
+        "email": "maciej.krakowiak@dsecure.me",
+        "group": "OWASP Vulnerability Management Center",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerability-management-center/"
+    },
+    {
+        "name": "Konrad Kałużny",
+        "email": "konrad.kaluzny@dsecure.me",
         "group": "OWASP Vulnerability Management Center",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-vulnerability-management-center/"
