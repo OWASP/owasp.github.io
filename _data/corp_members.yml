@@ -142,6 +142,13 @@
   image: /assets/images/corp-member-logo/FluidAttacks.png
   url: 	https://fluidattacks.com/
   description: Since 2001, Fluid Attacks has been developing cybersecurity products and providing solutions for clients from different industries. Our comprehensive continuous hacking solution offers the perfect combination of effective automation and human intelligence to find and close all vulnerabilities in our clients' systems. Find more information at www.fluidattacks.com
+- member: true
+  sponsor:
+  name: Fortify
+  image: /assets/images/corp-member-logo/fortify_logo_owasp.png
+  url: https://www.microfocus.com/en-us/cyberres/application-security
+  description: 	
+Fortify lets you build secure software fast with an application security platform that automates testing throughout the CI/CD pipeline to enable developers to quickly resolve issues. Fortify static, dynamic, interactive, and runtime security testing technologies are available on premises or as a service, offering organizations the flexibility needed to build an end-to-end software security assurance program.
 - member: true	
   sponsor:	
   name: GitLab
