@@ -147,8 +147,7 @@
   name: Fortify
   image: /assets/images/corp-member-logo/fortify_logo_owasp.png
   url: https://www.microfocus.com/en-us/cyberres/application-security
-  description: 	
-Fortify lets you build secure software fast with an application security platform that automates testing throughout the CI/CD pipeline to enable developers to quickly resolve issues. Fortify static, dynamic, interactive, and runtime security testing technologies are available on premises or as a service, offering organizations the flexibility needed to build an end-to-end software security assurance program.
+  description: Fortify lets you build secure software fast with an application security platform that automates testing throughout the CI/CD pipeline to enable developers to quickly resolve issues. Fortify static, dynamic, interactive, and runtime security testing technologies are available on premises or as a service, offering organizations the flexibility needed to build an end-to-end software security assurance program.
 - member: true	
   sponsor:	
   name: GitLab
