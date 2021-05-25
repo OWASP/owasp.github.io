@@ -2086,20 +2086,6 @@
         "group_url": "https://owasp.org/www-chapter-vitoria/"
     },
     {
-        "name": "Hector Aguirre",
-        "email": "hector.antonio.aguirre@owasp.org",
-        "group": "OWASP Paraguay",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-paraguay/"
-    },
-    {
-        "name": "Ricardo Rodríguez",
-        "email": "ricardo.rodriguez@owasp.org",
-        "group": "OWASP Paraguay",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-paraguay/"
-    },
-    {
         "name": "Daniel Alexander Suarez",
         "email": "daniel.suarez@owasp.org",
         "group": "OWASP El Salvador",
@@ -2359,13 +2345,6 @@
         "group_url": "https://owasp.org/www-chapter-santa-barbara/"
     },
     {
-        "name": "Ian Gorrie",
-        "email": "ian.gorrie@owasp.org",
-        "group": "OWASP Seattle",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-seattle/"
-    },
-    {
         "name": "Rohini Sulatycki",
         "email": "rohini.sulatycki@owasp.org",
         "group": "OWASP South Florida",
@@ -2413,13 +2392,6 @@
         "group": "OWASP Northern Virginia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-northern-virginia/"
-    },
-    {
-        "name": "Stacy Dunn",
-        "email": "stacy.dunn@owasp.org",
-        "group": "OWASP Oklahoma City",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-oklahoma-city/"
     },
     {
         "name": "Jim Thavisouk",
@@ -4326,6 +4298,13 @@
         "group_url": "https://owasp.org/www-chapter-portland-me/"
     },
     {
+        "name": "Ruben Fernandez",
+        "email": "ruben.fernandez@owasp.org",
+        "group": "OWASP Monterrey",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-monterrey/"
+    },
+    {
         "name": "Lohitha Perera",
         "email": "lohitha.perera@owasp.org",
         "group": "OWASP Colombo",
@@ -4758,6 +4737,20 @@
         "group": "OWASP DPD (DDOS Prevention using DPI)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-dpd/"
+    },
+    {
+        "name": "Manoj Balasubramanian",
+        "email": "manoj.balasubramanian@owasp.org",
+        "group": "OWASP Mayiladuthurai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-mayiladuthurai/"
+    },
+    {
+        "name": "Priyanka Aachipillai",
+        "email": "apriyankashanthi@gmail.com",
+        "group": "OWASP Mayiladuthurai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-mayiladuthurai/"
     },
     {
         "name": "Matthew Wilkinson",
@@ -5306,11 +5299,18 @@
         "group_url": "https://owasp.org/www-project-secure-logging-benchmark/"
     },
     {
-        "name": "Ilca Lucian",
-        "email": "ilca.lucian@owasp.org",
-        "group": "OWASP Brasov",
+        "name": "Breno Gontijo Tavares",
+        "email": "breno.tavares@owasp.org",
+        "group": "OWASP Santa Rita do Sapucai",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brasov/"
+        "group_url": "https://owasp.org/www-chapter-santa-rita-do-sapucai/"
+    },
+    {
+        "name": "Francisco de Assis Silva do Carmo",
+        "email": "francisco.carmo@owasp.org",
+        "group": "OWASP Santa Rita do Sapucai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-santa-rita-do-sapucai/"
     },
     {
         "name": "Titus Balan",
@@ -5696,20 +5696,6 @@
         "group": "OWASP NIT Rourkela chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-national-institute-of-technology-rourkela/"
-    },
-    {
-        "name": "Reza Asif",
-        "email": "reza.asif@owasp.org",
-        "group": "OWASP Bochum",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bochum/"
-    },
-    {
-        "name": "Ibrahim Akknlak",
-        "email": "ibrahium.akknlak@owasp.org",
-        "group": "OWASP Bochum",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bochum/"
     },
     {
         "name": "Marta Ziolkowska-Liwinska",
