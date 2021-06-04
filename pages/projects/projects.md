@@ -74,7 +74,14 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign tool_projects = site.data.projects | where:'type', 'tool' %}
         {% assign documentation_projects = site.data.projects | where:'type', 'documentation' %}
         {% assign code_projects = site.data.projects | where:'type', 'code' %}
+        {% assign stan_projects = site.data.project | where: 'type', 'standards' %}
         {% assign other_projects = site.data.projects | where:'type', 'other' %}
+        <h2>Standards Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
+        <ul>
+        {% for project in stan_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        </ul>
         <h2>Tool Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
         <ul>
         {% for project in tool_projects %}
