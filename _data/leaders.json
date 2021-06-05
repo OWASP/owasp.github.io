@@ -3164,6 +3164,13 @@
         "group_url": "https://owasp.org/www-chapter-chennai/"
     },
     {
+        "name": "Vignesh Chandrasekaran",
+        "email": "vignesh.chandrasekaran@owasp.org",
+        "group": "OWASP Chennai",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-chennai/"
+    },
+    {
         "name": "Vaibhav Gupta",
         "email": "vaibhav.gupta@owasp.org",
         "group": "OWASP Delhi",
@@ -4298,6 +4305,34 @@
         "group_url": "https://owasp.org/www-project-securetea/"
     },
     {
+        "name": "Zoe Braiterman",
+        "email": "zoe.braiterman@owasp.org",
+        "group": "OWASP WIA, Diversity and Inclusion Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-wia/"
+    },
+    {
+        "name": "Loredana Mancini",
+        "email": "loredana.mancini@owasp.org",
+        "group": "OWASP WIA, Diversity and Inclusion Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-wia/"
+    },
+    {
+        "name": "Andra Lezza",
+        "email": "andra.lezza@owasp.org",
+        "group": "OWASP WIA, Diversity and Inclusion Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-wia/"
+    },
+    {
+        "name": "Fiona Collins",
+        "email": "fiona.collins@owasp.org",
+        "group": "OWASP Compliance Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-compliance/"
+    },
+    {
         "name": "Adrian Winckles",
         "email": "adrian.winckles@owasp.org",
         "group": "OWASP Honeypot",
@@ -4989,6 +5024,27 @@
         "group": "OWASP CWE Toolkit",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cwe-toolkit/"
+    },
+    {
+        "name": "Sam Stepanyan",
+        "email": "sam.stepanyan@owasp.org",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
+        "name": "Avi Douglen",
+        "email": "avi.douglen@owasp.org",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
+        "name": "Haral Tsitsivas",
+        "email": "haral.tsitsivas@owasp.org",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
     },
     {
         "name": "Prerit Pathak",
@@ -5801,5 +5857,19 @@
         "group": "OWASP Data Security Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-data-security-top-10/"
+    },
+    {
+        "name": "Patrick Dwyer",
+        "email": "patrick.dwyer@owasp.org",
+        "group": "OWASP CycloneDX",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cyclonedx/"
+    },
+    {
+        "name": "Steve Springett",
+        "email": "steve.springett@owasp.org",
+        "group": "OWASP CycloneDX",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cyclonedx/"
     }
 ]
