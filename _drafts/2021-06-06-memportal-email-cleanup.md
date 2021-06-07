@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-Beginning in July, OWASP will be launching a new Membership Portal. The portal will display information about your OWASP membership and will also allow you to edit your personal details. In addition, the portal will provide links to content that is of interest to members including certain membership benefits. 
+Beginning in July, OWASP will be launching a new Membership Portal. The portal will display information about your OWASP membership and will also allow you to edit your personal details. In addition, the portal will provide links to content that is of interest to members including certain membership benefits. Be on the lookout for further information about the upcoming Membership Portal as we get nearer to launch.
 
 Also beginning in July, as a necessary step to a proper membership portal, the owasp.org email address inventory will be cleaned up and any email addresses that do not belong to the following groups of people will be deactivated within 15 days of removal from all of these groups:
 
@@ -36,4 +36,4 @@ Although we are working diligently to make sure that our systems are accurate so
 * Check that your name is listed in the [Committee Leaders](https://owasp.org/committees/leaders/)
 * Check that your name is listed in the [Event Leaders](https://owasp.org/events/leaders/)
 
-If you have checked the above and still believe you received your notification in error you may [Contact Us](https://contact.owasp.org/) and choose the 'Email Deactivation Request' type.
+If you have checked the above and still believe you received your notification in error you may [Contact Us](https://contact.owasp.org/) and choose the 'Email Deactivation Assistance' type.
