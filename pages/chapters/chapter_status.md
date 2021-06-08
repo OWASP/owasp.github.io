@@ -105,16 +105,21 @@ Jump to
 
 ### All Chapters and Most Recent Update
 <ul>
-{% assign chapters = site.data.chapters | sort: 'updated' | reverse %}
+{% assign chapters = site.data.chapters | sort: 'meetings' | reverse %}
 {% for chapter in chapters %}
     {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
     {% assign status_color = 'black' %}
+    {% assign meeting_color = 'black' %}
     {% if chapter.build == 'errored' %}
        {% assign status_color = 'red' %}
     {% endif %}
+    {% if chapter.meetings < 3 %}
+       {% assign meeting_color = 'red' %}
+    {% endif %}
       <li><div style='display:block;'><a href='{{ chapter.url }}'>{{ chapter.title }}</a></div>
       <div style='float:left;padding-right:24px;'>Last Updated: {{ custr }}</div>
-      <div style='display:block;'><span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></div></li>
+      <div style='display:block;'><span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></div>
+      <div style='display:block;'><span style='color:{{meeting_color}};'>Meetings last 365 days: {{chapter.meetings}}</span></div></li>
 {% endfor %}
 </ul>
 
