@@ -462,7 +462,7 @@ window.addEventListener('load', function () {
             errors.amount = ['Donation amounts must be whole numbers greater than 10 with no commas or decimals.'];
           } else {
             let intAmount = parseInt(this.amount)
-            if (intAmount < 10 || intAmount > 25000) {
+            if (intAmount < 10 ) {
               errors.amount = ['Donation amounts must be whole numbers greater than 10 with no commas or decimals.'];
             }
           }
