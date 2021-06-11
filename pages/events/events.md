@@ -20,7 +20,10 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 {% for category in site.data.events %}
 <a name='{{category.category}}'>
 ## {{ category.category }} Events
-
+{% if category.category == 'Regional' %}
+  Planning your own regional event?  Use our <a href="https://ocms.owasp.org">OCMS Tool</a> to request approval.
+{% endif %}
+  
 {{ category.description }}
 {% if category.events == nil or category.events.size < 1 %}
 ***No events upcoming.  Check back later.***
