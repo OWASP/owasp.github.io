@@ -1,6 +1,6 @@
 ---
 
-layout: col-generic
+layout: col-sidebar
 title: OWASP Global & Regional Events
 permalink: /events/
 
