@@ -51,7 +51,7 @@ Bel Air, MD 21014
 EIN #20-0963503
 ```
 
-The European legal address is:
+The European legal address and VAT number is:
 
 ```
 OWASP Europe VZW
@@ -59,6 +59,8 @@ c/o Sr Fiduciarire Cv
 Steenvoordestraat 184
 9070 Destelbergen
 Belgium
+
+VAT: BE 0836743279
 ```
 
 ## Ethical Behavior
