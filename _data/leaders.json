@@ -3787,6 +3787,13 @@
         "group_url": "https://owasp.org/www-chapter-italy/"
     },
     {
+        "name": "Prof. Stefano Calzavara",
+        "email": "stefano.calzavara@owasp.org",
+        "group": "OWASP Italy",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-italy/"
+    },
+    {
         "name": "Simon Woods",
         "email": "simon.woods@owasp.org",
         "group": "OWASP Leeds, UK",
@@ -4753,6 +4760,13 @@
         "group_url": "https://owasp.org/www-chapter-bonita-springs/"
     },
     {
+        "name": "Stephan Schonberg",
+        "email": "stephan.schonberg@owasp.org",
+        "group": "OWASP Bonita Springs",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bonita-springs/"
+    },
+    {
         "name": "Gopalsamy Rajendran",
         "email": "gopalsamy.rajendran@owasp.org",
         "group": "OWASP Cuddalore",
@@ -4828,6 +4842,13 @@
         "group": "OWASP Canberra",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-canberra/"
+    },
+    {
+        "name": "Doyle Turner",
+        "email": "doyle.turner@owasp.org",
+        "group": "OWASP Somerset",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-somerset/"
     },
     {
         "name": "Avi Douglen",
@@ -5138,15 +5159,15 @@
         "group_url": "https://owasp.org/www-chapter-georgetown/"
     },
     {
-        "name": "Mohd Fazli Azran Abd Malek",
-        "email": "fazli@owasp.org",
+        "name": "Muhamad Zulfahmy Roslan",
+        "email": "muhamad.zulfahmy@owasp.org",
         "group": "OWASP Kuala Lumpur",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kuala-lumpur/"
     },
     {
-        "name": "Muhamad Zulfahmy Roslan",
-        "email": "muhamad.sulfahmy@owasp.org",
+        "name": "Mohd Fazli Azran",
+        "email": "fazli@owasp.org",
         "group": "OWASP Kuala Lumpur",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kuala-lumpur/"
@@ -5443,21 +5464,21 @@
         "email": "mehak.khuranan@owasp.org",
         "group": "OWASP The NorthCap University - Student Chapter",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-the-northcap-universtiy/"
+        "group_url": "https://owasp.org/www-chapter-the-northcap-university/"
     },
     {
         "name": "Abhishek Singh",
         "email": "abhishek.singh@owasp.org",
         "group": "OWASP The NorthCap University - Student Chapter",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-the-northcap-universtiy/"
+        "group_url": "https://owasp.org/www-chapter-the-northcap-university/"
     },
     {
         "name": "Aman Sharma",
         "email": "aman.sharma@owasp.org",
         "group": "OWASP The NorthCap University - Student Chapter",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-the-northcap-universtiy/"
+        "group_url": "https://owasp.org/www-chapter-the-northcap-university/"
     },
     {
         "name": "Deveeshree Nayak",
@@ -5763,6 +5784,13 @@
     {
         "name": "Jimmy Gathage",
         "email": "jimmy.gathage@owasp.org",
+        "group": "OWASP Nairobi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nairobi/"
+    },
+    {
+        "name": "Joseph Mwangi",
+        "email": "joseph.mwangi@owasp.org",
         "group": "OWASP Nairobi",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-nairobi/"
@@ -6235,5 +6263,19 @@
         "group": "OWASP Salem",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-salem/"
+    },
+    {
+        "name": "Pallab Jyoti Borah",
+        "email": "pallab.jyotiborah@owasp.org",
+        "group": "OWASP Tezpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-guwahati/"
+    },
+    {
+        "name": "Lakshya Jyoti Borah",
+        "email": "lakshya.jyotiborah@owasp.org",
+        "group": "OWASP Tezpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-guwahati/"
     }
 ]
