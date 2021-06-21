@@ -18,24 +18,34 @@ None of this would have happened without the support of the OWASP Foundation lea
 
 **Keynote Sponsors**
 Contrast Security
+
 Security Innovation
 
 **Lab Sponsors**
 Leviathan Security Group
+
 Websec Canada
 
 **Session Sponsors**
 Forward Security Inc.
+
 jane.app
+
 NetSPI
+
 StackHawk
+
 Summit Security Group
+
 TELUS Digital
 
 **Lightning Talk Sponsors**
 Bugcrowd
+
 Hijinx Security
+
 LogRhythm
+
 Reciprocity, Inc
 
 **CTF Platform**
