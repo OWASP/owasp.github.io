@@ -17,16 +17,19 @@ The Pacific Northwest chapters want to create an event to highlight our local me
 None of this would have happened without the support of the OWASP Foundation leadership and the help from our sponsors. Thank you!
 
 **Keynote Sponsors**
+
 Contrast Security
 
 Security Innovation
 
 **Lab Sponsors**
+
 Leviathan Security Group
 
 Websec Canada
 
 **Session Sponsors**
+
 Forward Security Inc.
 
 jane.app
@@ -40,6 +43,7 @@ Summit Security Group
 TELUS Digital
 
 **Lightning Talk Sponsors**
+
 Bugcrowd
 
 Hijinx Security
@@ -49,4 +53,5 @@ LogRhythm
 Reciprocity, Inc
 
 **CTF Platform**
+
 Secure Code Warrior
