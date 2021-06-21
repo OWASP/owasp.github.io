@@ -44,10 +44,9 @@ Our global address for general correspondence and faxes can be sent to our physi
 
 ```
 OWASP Foundation
-1200-C Agora Drive, #232
-Bel Air, MD 21014
+401 Edgewater Place,Suite 600
+Wakefield MA 01880
 +1 951-692-7703 (phone)
-+1 443-283-4021 (fax)
 EIN #20-0963503
 ```
 
