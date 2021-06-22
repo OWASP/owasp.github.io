@@ -47,10 +47,10 @@
 - category: Regional
   description: Ranging from single day to week long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-      - name: AppSec Pacific Northwest Security Conference
-        start-date: 2021-6-19
-        dates: June 19, 2021
-        url: https://pnwcon.com/
+     # - name: AppSec Pacific Northwest Security Conference
+     #   start-date: 2021-6-19
+      #  dates: June 19, 2021
+      #  url: https://pnwcon.com/
       - name: OWASP LATAM@HOME   
         start-date: 2021-6-29
         dates: June 29, 2021 - July 1, 2021
