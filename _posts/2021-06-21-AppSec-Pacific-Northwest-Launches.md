@@ -55,3 +55,5 @@ Reciprocity, Inc
 **CTF Platform**
 
 Secure Code Warrior
+
+Check out the event's YouTube Channel here https://www.youtube.com/channel/UCFiYUdeAoutNATYvannhqKw
