@@ -120,16 +120,16 @@
   description: dmarcian is a self-funded B-corp, dedicated to upgrading the entire world’s email by making DMARC accessible to all. Our platform facilitates users in deploying DMARC, visualizing email delivery data and managing domains in the long-term. We help domain owners large and small fight business email compromise, phishing and spoofing with superior tooling, educational resources, and knowledgeable support.
 - member: true
   sponsor:
+  name: Edgescan
+  image: /assets/images/corp-member-logo/edgescan_logo_full_color_fullstack_tm_black.png
+  url: https://www.edgescan.com/
+  description: Edgescan provides continuous or on-demand security assessments and Penetration testing as a Service (PTaaS) in a production safe manner so you can be assured your business is getting the coverage as required. Edgescan security analysts are experts in vulnerability management and penetration testing. They manually verify all discovered security vulnerabilities, so our clients benefit from accurate (false positive free) vulnerability intelligence.
+- member: true
+  sponsor:
   name: Estrategia y Seguridad
   image: /assets/images/corp-member-logo/Estrategia y Seguridad.png
   url: https://www.estrategiayseguridad.com
   description: ES believes that organizations want to be more secure, resilient and productive. Organizations needs are not only technical but also strategical. With high quality consulting services and products, along with certified experts in international standards and best practices, allows organizations to increase maturity levels and understand how risks and threats should be faced and mitigated.
-- member: false	
-  sponsor: 4	
-  name: ExtraHop	
-  image: /assets/images/corp-member-logo/extrahop.png
-  url: https://www.extrahop.com  	
-  description: ExtraHop gives you the perspective you need to understand your hybrid attack surface from the inside out. Our industry-leading network detection and response platform is purpose-built to help you rise above the noise of alerts, silos, and runaway technology so you can secure your future in the cloud.
 - member: true	
   sponsor:
   name: F5
