@@ -196,22 +196,15 @@
         "group_url": "https://owasp.org/www-project-iot-analytics-4industry4/"
     },
     {
-        "name": "Adrian Winckles",
-        "email": "adrian.winckles@owasp.org",
-        "group": "OWASP Application Security Curriculum",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-application-security-curriculum/"
-    },
-    {
-        "name": "John DiLeo",
-        "email": "john.dileo@owasp.org",
-        "group": "OWASP Application Security Curriculum",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-application-security-curriculum/"
-    },
-    {
         "name": "Grant Ongers",
         "email": "grant.ongers@owasp.org",
+        "group": "OWASP Application Security Curriculum",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-security-curriculum/"
+    },
+    {
+        "name": "Toby Irvine",
+        "email": "toby.irvine@owasp.org",
         "group": "OWASP Application Security Curriculum",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-curriculum/"
@@ -2436,6 +2429,27 @@
         "group_url": "https://owasp.org/www-chapter-santa-barbara/"
     },
     {
+        "name": "Keri Kusznir",
+        "email": "keri.kusznir@owasp.org",
+        "group": "OWASP Seattle",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seattle/"
+    },
+    {
+        "name": "Lance Reck",
+        "email": "lance.reck@owasp.org",
+        "group": "OWASP Seattle",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seattle/"
+    },
+    {
+        "name": "Scott Headington",
+        "email": "scott.headington@owasp.org",
+        "group": "OWASP Seattle",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seattle/"
+    },
+    {
         "name": "Rohini Sulatycki",
         "email": "rohini.sulatycki@owasp.org",
         "group": "OWASP South Florida",
@@ -3192,6 +3206,13 @@
         "group_url": "https://owasp.org/www-chapter-sacramento/"
     },
     {
+        "name": "Ryan Kozak",
+        "email": "ryan.kozak@owasp.org",
+        "group": "OWASP Sacramento",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sacramento/"
+    },
+    {
         "name": "Joe Blanchard",
         "email": "joe.blanchard@owasp.org",
         "group": "OWASP Saint Louis",
@@ -3774,7 +3795,21 @@
     },
     {
         "name": "Vasileios Vlachos",
-        "email": "vsvlachos@owasp.gr",
+        "email": "vsvlachos@owasp.org",
+        "group": "OWASP Greece",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-greece/"
+    },
+    {
+        "name": "Nick Andriopolis",
+        "email": "nick.andriopolis@owasp.org",
+        "group": "OWASP Greece",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-greece/"
+    },
+    {
+        "name": "Filippos Karapetis",
+        "email": "filippos.karapetis@owasp.org",
         "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
@@ -4891,13 +4926,6 @@
         "group": "OWASP Canberra",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-canberra/"
-    },
-    {
-        "name": "Doyle Turner",
-        "email": "doyle.turner@owasp.org",
-        "group": "OWASP Somerset",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-somerset/"
     },
     {
         "name": "Avi Douglen",
@@ -6081,20 +6109,6 @@
         "group": "OWASP Warangal",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-warangal/"
-    },
-    {
-        "name": "Nick Andriopoulos",
-        "email": "nick.andriopoulos@owasp.org",
-        "group": "OWASP Athens",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-athens/"
-    },
-    {
-        "name": "Filippos Karapetis",
-        "email": "filippos.karapetis@owasp.org",
-        "group": "OWASP Athens",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-athens/"
     },
     {
         "name": "Ramesh Kumar Mohapatra",
