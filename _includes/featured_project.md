@@ -15,6 +15,6 @@ We are back again with yet another OWASP Spotlight series and this time we have 
 
 The OWASP Top 10 is a book/referential document outlining the 10 most critical security concerns for web application security. The report is put together by a team of security experts from all over the world and the data comes from a number of organisations and is then analysed.
 
-<!-- Always end with a 'Continue' link to where the bulk of the article will be posted (more on that under the /projects/pages/spotlight/ folder) -->
+<!-- Always end with a 'Continue' link to where the bulk of the article will be posted (more on that under the /pages/projects/spotlight/ folder) -->
 
 [Continue to read about OWASP Top 10...](/projects/spotlight/)
