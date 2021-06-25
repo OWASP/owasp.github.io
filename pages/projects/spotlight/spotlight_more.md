@@ -7,7 +7,15 @@ date: 2021-03-17
 
 ---
 
+<!-- For the front matter, above, change the title and the date (not the layout or permalink) -->
+
+<!-- replace the logo with a logo for the featured project which should be uploaded to /assets/images/content/ 
+     leave everything else the same
+-->
+
 ![Top 10 Logo](/assets/images/content/featured_project_t10.png){:class="featured-proj-image" width="160px"}
+
+<!-- Change the content below to what you want -->
 
 We are back again with yet another OWASP Spotlight series and this time we have a project which needs no introduction and I got the chance to interact with Andrew van der Stock, OWASP Foundation Executive Director and the project leader for OWASP Top 10.
 
