@@ -2142,6 +2142,20 @@
         "group_url": "https://owasp.org/www-chapter-vitoria/"
     },
     {
+        "name": "Ricardo Rodrigues",
+        "email": "ricardo.rodriguez@owasp.org",
+        "group": "OWASP Asuncion, Paraguay",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-asuncion/"
+    },
+    {
+        "name": "Diego Garcia",
+        "email": "diego.garcia@owasp.org",
+        "group": "OWASP Asuncion, Paraguay",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-asuncion/"
+    },
+    {
         "name": "Daniel Alexander Suarez",
         "email": "daniel.suarez@owasp.org",
         "group": "OWASP El Salvador",
@@ -3801,8 +3815,8 @@
         "group_url": "https://owasp.org/www-chapter-greece/"
     },
     {
-        "name": "Nick Andriopolis",
-        "email": "nick.andriopolis@owasp.org",
+        "name": "Nick Andriopoulos",
+        "email": "nick.andriopoulos@owasp.org",
         "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
@@ -6365,15 +6379,43 @@
     {
         "name": "Muhammad Haroon",
         "email": "muhammad.haroon@owasp.org",
-        "group": "OWASP Manama",
+        "group": "OWASP Manama,Bahrain",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-manama/"
     },
     {
         "name": "Ali Khalfan",
         "email": "ali.khalfan@owasp.org",
-        "group": "OWASP Manama",
+        "group": "OWASP Manama,Bahrain",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-manama/"
+    },
+    {
+        "name": "Jayesh Patel",
+        "email": "jay.net.in@gmail.com",
+        "group": "OWASP Application Security Hardening",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-security-hardening/"
+    },
+    {
+        "name": "Nebrass Lamouchi",
+        "email": "lnibrass@gmail.com",
+        "group": "OWASP Barbarus",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-barbarus/"
+    },
+    {
+        "name": "Dhruv Jain",
+        "email": "dhruv.jain@owasp.org",
+        "group": "OWASP Port and Service Information",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-port-and-service-information/"
+    },
+    {
+        "name": "Fernando Guisso",
+        "email": "fguisso@gmail.com",
+        "group": "OWASP Code the Flag",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-code-the-flag/"
     }
 ]
