@@ -42,25 +42,11 @@ Most questions you might have about the OWASP Foundation can be found by searchi
 
 Our global address for general correspondence and faxes can be sent to our physical office address, at: 
 
-```
-OWASP Foundation
-401 Edgewater Place,Suite 600
-Wakefield MA 01880
-+1 951-692-7703 (phone)
-EIN #20-0963503
-```
+{% include address_multiline.html %}
 
 The European legal address and VAT number is:
 
-```
-OWASP Europe VZW
-c/o Sr Fiduciarire Cv
-Steenvoordestraat 184
-9070 Destelbergen
-Belgium
-
-VAT: BE 0836743279
-```
+{% include address_multiline_eu.html %}
 
 ## Ethical Behavior
 The activities, programs, and events of the Foundation conform to a number of policies set forth in our [Policies & Procedures](/www-policy/) and the [Code of Conduct](/www-policy/operational/code-of-conduct). Additionally we expect our Board Members, Leaders, Staff, and volunteers to model the upmost in integrity, honesty, and patience with supporting our extended communities.
