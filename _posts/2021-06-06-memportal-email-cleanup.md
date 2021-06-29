@@ -10,9 +10,11 @@ excerpt_separator: <!--more-->
 
 ---
 
+**Updated 6/29/2021**
+
 Beginning in July, OWASP will be launching a new Membership Portal. The portal will display information about your OWASP membership and will also allow you to edit your personal details. In addition, the portal will provide links to content that is of interest to members including certain membership benefits. Be on the lookout for further information about the upcoming Membership Portal as we get nearer to launch.
 
-Also beginning in July, as a necessary step to a proper membership portal, the owasp.org email address inventory will be cleaned up and any email addresses that do not belong to the following groups of people will be deactivated within 15 days of removal from all of these groups:
+Also beginning later in July, as a necessary step to a proper membership portal, the owasp.org email address inventory will be cleaned up and any email addresses that do not belong to the following groups of people will be deactivated within 15 days of removal from all of these groups:
 
 * OWASP Members (having an active one year, two year, or lifetime membership)
 * Project Leaders
@@ -21,11 +23,21 @@ Also beginning in July, as a necessary step to a proper membership portal, the o
 * Committee Leaders
 
 <!--more-->
+### What is the current schedule?
+The following are the dates of importance to keep in mind for the initial campaign: 
+
+* **July 1**: Membership Portal opens
+* **July 26**: Membership email cleanup begins - first notices of deactivation
+* **August 2**: Second notice of deactivation
+* **August 8**: Final notice of deactivation
+* **August 9**: Email deactivation if no action was taken
+
+Please note that from this point forward, email deactivation notices will be on a rolling schedule, depending on membership lapse/deactivation/renewal.
+
+
 ### What does this mean for me?
 If you are a member in good standing you should not have to do anything. Likewise, provided that you are a leader of an active chapter, project, committee, or event this should not affect you in any way. However, if you currently have an @owasp.org email address and you are NOT among the groups mentioned above, you may receive an email notification that your email address is going to be deactivated. You will have 15 days **AFTER RECEIVING A NOTIFICATION** to either update your status or remove any content which you wish to keep from your account before being deactivated. This content includes any files in Google Drive, Sheets, Docs, Slides, etc that is tied to your @owasp.org account. There are no plans at this time to delete the content but it will become unavailable to you. Should your OWASP Foundation status change to include you in the above groups, the content should become available to you once again.
 
-### I received this multiple times.  Why?
-This email is going out to all of our current members, persons in our contact lists, and everyone with an @owasp.org email address. The goal is to make sure that everyone is aware of the upcoming changes.
 
 ### How do I stop this from happening?
 If you feel that you are among the people whose account will be deactivated, you can prevent it from happening by becoming an [OWASP Member](https://owasp.org/membership/). Optionally, if you have the dedication, time, and/or technical talent, you can choose to become a leader in the OWASP community. There are numerous, existing [Projects](https://owasp.org/projects/), [Chapters](https://owasp.org/chapters/), [Committees](https://owasp.org/committees/),  and [Events](https://owasp.org/events/) that may have leadership positions available, provided you meet the requirements. **Please note that it may require up to 24 hours after becoming a leader before your status changes.**
