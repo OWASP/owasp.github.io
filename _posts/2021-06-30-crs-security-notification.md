@@ -2,7 +2,7 @@
 
 date:   2021-06-30 09:00:00 -0700
 categories: Projects
-author: Cristian Follini
+author: Cristian Folini
 author_image: /assets/images/people/portrait_christian_folini_3.jpg
 layout: blogpost
 title: CVE-2021-35368 - CRS Request Body Bypass
