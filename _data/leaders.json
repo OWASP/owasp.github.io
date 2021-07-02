@@ -792,22 +792,8 @@
     },
     {
         "name": "John Melton",
-        "email": "",
-        "group": "OWASP Appsensor",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-appsensor/"
-    },
-    {
-        "name": "Dennis Groves",
-        "email": "dennis.groves@owasp.org",
-        "group": "OWASP Appsensor",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-appsensor/"
-    },
-    {
-        "name": "Michael Coates",
-        "email": "michael.coates@owasp.org",
-        "group": "OWASP Appsensor",
+        "email": "john.melton@owasp.org",
+        "group": "OWASP AppSensor",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-appsensor/"
     },
@@ -2569,8 +2555,8 @@
         "group_url": "https://owasp.org/www-chapter-melbourne/"
     },
     {
-        "name": "Kim Carter",
-        "email": "kim.carter@owasp.org",
+        "name": "Pete Nicholls",
+        "email": "pete.nicholls@owasp.org",
         "group": "OWASP New Zealand",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-new-zealand/"
@@ -4317,13 +4303,6 @@
         "group": "OWASP Belfast",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-belfast/"
-    },
-    {
-        "name": "Daniel Warden",
-        "email": "daniel.warden@owasp.org",
-        "group": "OWASP Dorset",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dorset/"
     },
     {
         "name": "Mark Davison",
@@ -6470,21 +6449,21 @@
     {
         "name": "Sandipkumar C. Sagare",
         "email": "sandipkumar.sagare@owasp.org",
-        "group": "OWASP DKTE SOC Textile and Engineering Institute",
+        "group": "OWASP DKTE SOC Textile and Engineering Institute - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dkte-soc-textile-and-engineering-institute/"
     },
     {
         "name": "Pramod Sargar",
         "email": "pramod.sargar@owasp.org",
-        "group": "OWASP DKTE SOC Textile and Engineering Institute",
+        "group": "OWASP DKTE SOC Textile and Engineering Institute - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dkte-soc-textile-and-engineering-institute/"
     },
     {
         "name": "Anubhav Singh",
         "email": "anubhav.singh@owasp.org",
-        "group": "OWASP DKTE SOC Textile and Engineering Institute",
+        "group": "OWASP DKTE SOC Textile and Engineering Institute - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dkte-soc-textile-and-engineering-institute/"
     },
