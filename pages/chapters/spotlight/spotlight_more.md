@@ -1,11 +1,11 @@
 ---
 
-title: Chapter Spotlight - [CHAPTER NAME]
+title: Event Spotlight - [OWASP's 20th Anniversary Event Celebration]
 layout: col-sidebar
-permalink: /chapters/spotlight/
+permalink: /events/spotlight/
 
 ---
 
-![Chapter Logo](/assets/images/content/featured_chapter.jpg){:class="featured-proj-image" width="160px"}
+![Event Logo](/assets/images/OWASP_20th_Anniversary.svg){:class="featured-event-image" width="160px"}
 
 Add Something.
