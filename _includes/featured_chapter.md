@@ -1,7 +1,8 @@
 
-## [Featured Chapter: Sydney](#)
+## [Featured Event: OWASP's 20th Anniversary Event Celebration](#)
 
-![Fight Club Flyer](/assets/images/content/FightClub.jpeg){:class="featured-proj-image"}
+![OWASP's 20th Anniversary Event Celebration](/assets/images/OWASP_20th_Anniversary.svg){:class="featured-event-image"}
 
 
-[OWASP Sydney Chapter](https://owasp.org/www-chapter-sydney/) Leadership are on fire!  Ric Campo, Jack Guildford, and Sherry Liu took over the Sydney OWASP chapter in July 2020 and hit the ground running and have not looked back. See virtual meeting activity reach a new level. December started with OWASP Jingleton Hack for Beginners. This provided cybersecurity beginners with the opportunity to practice their skills and learn the basics of web application penetration testing. February experience their version of Hack the Box's King of the Hill called "Fight Club." This is a team event but if you do not have a team don't worry.  One will be found for you! See Meetup for all [details.](https://www.meetup.com/OWASP-Sydney-Chapter/)
+[OWASP's 20th Anniversary Event Celebration](https://20thanniversary.owasp.org/) Join us September 24 as we honor the past, celebrate the present and embrace the future of OWASP and cybersecurity. Hear from world renowned keynotes and special speakers, network with your peers and interact with our event sponsors. With an anticipated 10k+ attendees from around the world, you will not want to miss this live on-line event!
+Our projam will be announced soon and sponsorships are now being accepted!
