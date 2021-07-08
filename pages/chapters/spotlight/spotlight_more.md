@@ -1,6 +1,6 @@
 ---
 
-title: Event Spotlight - [OWASP's 20th Anniversary Event Celebration]
+title: Event Spotlight - OWASP's 20th Anniversary Event Celebration
 layout: col-sidebar
 permalink: /events/spotlight/
 
