@@ -1,5 +1,5 @@
 
-## [Featured Event: OWASP's 20th Anniversary Event Celebration](#)
+## [Featured Event: OWASP's 20th Anniversary Event Celebration](https://20thanniversary.owasp.org/)
 
 ![OWASP's 20th Anniversary Event Celebration](/pages/chapters/spotlight/OWASP20thAnniversary1.jpeg){:class="featured-proj-image"}
 
