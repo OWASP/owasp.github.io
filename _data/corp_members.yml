@@ -76,6 +76,12 @@
   image: /assets/images/corp-member-logo/checkmarx.png	
   url: https://www.checkmarx.com 	
   description: Checkmarx is an Application Security software company, whose mission is to provide enterprise organizations with application security testing products and services that empower developers to deliver secure applications. Amongst the company's 1,000 customers are 5 of the world's top 10 software vendors and many Fortune 500 and government organizations. Checkmarx CxSAST is a highly accurate and flexible Source Code Analysis product that allows organizations to automatically scan a un-compiled/un-built code and identify hundreds of security vulnerabilities in the most prevalent coding languages.	
+- member: true
+  sponsor:
+  name: Cobalt
+  image: /assets/images/corp-member-logo/cobaltcolormarklogotypetagline.png
+  url: http://cobalt.io
+  description: Cobalt’s Pentest as a Service (PtaaS) platform is modernizing traditional pentesting. By combining a SaaS platform with an exclusive community of testers, we deliver the real-time insights you need to remediate risk quickly and innovate securely.
 - member: false	
   sponsor: 4	
   name: CodeDX	
