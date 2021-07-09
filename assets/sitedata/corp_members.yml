@@ -390,6 +390,12 @@
   description: Secure Ideas has delivered penetration testing, training, and security consulting services to clients in every industry since 2010. We are known in the information security community for our expertise in testing applications, including web, mobile, and APIs. Secure Ideas operates on a foundation of ethics marked by our popular tagline "Professionally Evil". We also strongly believe in the value of openly sharing information and security knowledge, which is why we champion affordable training and offer many of our short-form classes for free.
 - member: true
   sponsor:
+  name: secuvera GmbH
+  image: /assets/images/corp-member-logo/secuvera_GmbH_logo.png
+  url: https://www.secuvera.de
+  description: secuvera is a highly specialized IT security consultancy in Germany. We are accredited and certified by the German Federal Office for Information Security. If you are looking for high qualified penetration test, secuvera is definitely a preferred choice. We offer services in ISO 27001, BSI-Grundschutz, as well as Product Certification services for Common Criteria and Industry 4.0 Security with IEC 62443. secuvera is strictly vendor neutral, supports OWASP projects since more than a decade and encourages employees to volunteer.
+- member: true
+  sponsor:
   name: SecurityFirst
   image: /assets/images/corp-member-logo/SecurityFirstLogo.png
   url: https://securityfirst.io/
@@ -532,3 +538,4 @@
   image: /assets/images/corp-member-logo/zeronorth.png	
   url: https://www.zeronorth.io/	
   description: ZeroNorth is the first company to deliver risk-based vulnerability orchestration across applications and infrastructure. By orchestrating scanning tools across the entire software lifecycle, ZeroNorth provides a comprehensive and continuous view of risk, and reduces costs associated with managing disparate technologies. ZeroNorth empowers customers across all industries to rapidly scale application and infrastructure security, while integrating seamlessly into developer environments to simplify and verify remediation.
+
