@@ -84,6 +84,13 @@
         "group_url": "https://owasp.org/www-project-best-practices-in-vulnerability-disclosure-and-bug-bounty-programs/"
     },
     {
+        "name": "Test Leader",
+        "email": "harold.blankenship@owasp.com",
+        "group": "OWASP Test",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-test/"
+    },
+    {
         "name": "Ken Prole",
         "email": "",
         "group": "OWASP Attack Surface Detector",
@@ -6529,5 +6536,19 @@
         "group": "OWASP Riga",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-riga/"
+    },
+    {
+        "name": "Test Leader 2",
+        "email": "harold.blankenship@owasp.com",
+        "group": "OWASP Test2",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-test/"
+    },
+    {
+        "name": "Test Leader 3",
+        "email": "harold.blankenship@owasp.com",
+        "group": "OWASP Test 3",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-test3/"
     }
 ]
