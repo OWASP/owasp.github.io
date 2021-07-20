@@ -155,7 +155,7 @@
   url: 	https://fluidattacks.com/
   description: Since 2001, Fluid Attacks has been developing cybersecurity products and providing solutions for clients from different industries. Our comprehensive continuous hacking solution offers the perfect combination of effective automation and human intelligence to find and close all vulnerabilities in our clients' systems. Find more information at www.fluidattacks.com
 - member: true
-  sponsor:
+  sponsor: 3
   name: Fortify
   image: /assets/images/corp-member-logo/fortify_logo_owasp.png
   url: https://www.microfocus.com/en-us/cyberres/application-security
@@ -226,11 +226,6 @@
   image: /assets/images/corp-member-logo/lyft.png
   url: https://www.lyft.com/
   description: At Lyft, community is what we are and it’s what we do. It’s what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring. 
-- member: true
-  sponsor: 3
-  name: Micro Focus
-  image: /assets/images/corp-member-logo/micro-focus.png
-  #description:
 - member: true	
   sponsor: 	
   name: Netsparker	
