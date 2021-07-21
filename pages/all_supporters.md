@@ -59,10 +59,10 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 
 ## Corporate Sponsorship
 Organizations looking to support the mission of OWASP while also interested in exhibiting at conferences like our Global AppSec events, should consider Corporate Sponsorship. These packages offer the best value. Please contact [Events](events@owasp.com) for more information. 
-#- Event Exhibition space - up to five events per year
-#- Discounted conference and training passes
-#- Listing in rotation as Corporate Supporter site-wide on owasp.org
-#- Public acknowledgment on various other channels
+- Event Exhibition space - up to five events per year
+- Discounted conference and training passes
+- Listing in rotation as Corporate Supporter site-wide on owasp.org
+- Public acknowledgment on various other channels
 
 #Visit [Corporate Sponsorship](/pages/corporate-sponsorships) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
