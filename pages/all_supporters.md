@@ -58,9 +58,7 @@ Annual Regional Corporate Membership pricing is available for companies in [deve
 To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ## Corporate Sponsorship
-Organizations looking to support the mission of OWASP while also interested in exhibiting at conferences like our Global AppSec events, should consider Corporate Sponsorship. These packages offer the best value. Please contact [Events](events@owasp.com) for more information. 
-
-#Visit [Corporate Sponsorship](/pages/corporate-sponsorships) to learn more about these packages. And if you're ready, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+Organizations looking to support the mission of OWASP while also interested in exhibiting at conferences like our Global AppSec events, should consider Corporate Sponsorship. These packages offer the best value. Please contact events@owasp.com for more information. 
 
 ---
 ## Corporate Members, Sponsors & Supporters
