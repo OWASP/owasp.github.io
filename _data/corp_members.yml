@@ -1,4 +1,4 @@
-- member:
+- member: false
   sponsor: 4
   name: 7A Security
   image: /assets/images/corp-member-logo/7Asecurity.png
@@ -22,13 +22,13 @@
   image: /assets/images/corp-member-logo/Akeerologo_owasp.png
   url: 	https://www.akeero.com
   description: Akeero is the ultimate automated security design platform for cloud-native environments. Built by experienced security architects, and integrated with existing Automation and DevOps toolsets, Akeero helps teams to collaboratively build secure apps and networks better, faster - all before a line of code is ever written by allowing teams to automatically embed security and compliance requirements into their Software Development Lifecycle. Whether you’re already in the cloud, or you’re planning on migrating there, Akeero will enable you to securely design your cloud-native infrastructure.
-- member: true
+- member: false
   sponsor: 4	
   name: Altitude Networks	
   image: /assets/images/corp-member-logo/altitude-networks.png	
   url: https://www.altitudenetworks.com	
   description: Altitude Networks tackles data security in the cloud to protect enterprises against unauthorized data access, accidental or malicious sharing to unintended individuals, and data theft.	
-- member: true  
+- member: false  
   sponsor: 	
   name: AppSealing 	
   image: /assets/images/corp-member-logo/appsealing.jpeg	
@@ -52,7 +52,7 @@
   image: /assets/images/corp-member-logo/blackhat.png	
   url: https://www.blackhat.com/
   description: Black Hat is the most technical and relevant information security event series in the world. For more than 20 years, Black Hat Briefings have provided attendees with the very latest in information security research, development, and trends in a strictly vendor-neutral environment. These high-profile global events and Trainings are driven by the needs of the security community, striving to bring together the best minds in the industry. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors.
-- member: true	
+- member: false	
   sponsor: 4
   name: Bugcrowd	
   image: /assets/images/corp-member-logo/bugcrowd.png	
@@ -112,7 +112,7 @@
   image: /assets/images/corp-member-logo/denim-group.png	
   url: https://www.denimgroup.com	
   description: Denim Group is the leading independent application security firm, serving as a trusted advisor to customers on matters of application risk and security. The company helps organizations assess and mitigate application security risks.  Denim Group’s flagship ThreadFix platform accelerates the process of application vulnerability remediation, reflecting the company’s rich understanding of what it takes to fix application vulnerabilities faster.		
-- member: true	
+- member: false	
   sponsor: 4	
   name: Detectify AB	
   image: /assets/images/corp-member-logo/detectify.png
@@ -130,7 +130,7 @@
   image: /assets/images/corp-member-logo/edgescan_logo_full_color_fullstack_tm_black.png
   url: https://www.edgescan.com/
   description: Edgescan provides continuous or on-demand security assessments and Penetration testing as a Service (PTaaS) in a production safe manner so you can be assured your business is getting the coverage as required. Edgescan security analysts are experts in vulnerability management and penetration testing. They manually verify all discovered security vulnerabilities, so our clients benefit from accurate (false positive free) vulnerability intelligence.
-- member: true
+- member: false
   sponsor:
   name: Estrategia y Seguridad
   image: /assets/images/corp-member-logo/Estrategia y Seguridad.png
@@ -178,7 +178,7 @@
   image: /assets/images/corp-member-logo/hdivSecurityLogo.png
   url: https://hdivsecurity.com/
   description: Hdiv Security delivers continuous security that natively integrates into all stages of the software lifecycle (SDLC), automating application security. Hdiv’s Unified Application Security platform accurately finds security vulnerabilities and protects applications, microservices, and APIs from a broad range of attacks and exploits, including those that can be considered design flaws. Leveraging IAST, SCA and RASP technologies, Hdiv Security enables DevSecOps by incorporating application security automatically into DevOps pipelines.
-- member: true	
+- member: false	
   sponsor: 	
   name: HiSolutions	
   image: /assets/images/corp-member-logo/hi-solutions.png	
@@ -192,7 +192,7 @@
   description: Indusface is a SaaS company that secures critical Web applications of 2000+ global customers using its award-winning platform that integrates Web application scanner, Web application firewall, CDN, and threat information engine. The company has been mentioned in the Gartner Magic Quadrant and Forrester Tech Now reports, is CERT-In empanelled as a trusted scanning vendor, and has been the recipient of many awards such as the Economic Times Top 25, Nasscom DSCI Top Security Company of the Year Award and is funded by Tata Capital Growth Fund.
 - member: true
   sponsor:
-  name: Infsec Institute
+  name: Infosec Institute
   image: /assets/images/corp-member-logo/infosec_owasp.png
   url: https://www.infosecinstitute.com/
   description: Infosec is a leading cybersecurity education company helping IT and security professionals advance their careers and empowering employees to be cyber-safe at work and home. Its mission is to equip individuals and organizations with the knowledge and skills to confidently outsmart cybercrime. More than 70% of the Fortune 500 have relied on Infosec Skills to develop their security talent and teams, and more than 5 million learners worldwide are more cyber-resilient from Infosec IQ’s security awareness and phishing training. Learn more at infosecinstitute.com.
@@ -202,7 +202,7 @@
   image: /assets/images/corp-member-logo/infra.300x90.logo.png
   url: https://www.infrascan.net
   description: INFRA (Intelligence Framework) develops Artificial Intelligence driven hacking technologies for military/government entities and corporations with fuzzing and machine learning, finding more, verifying more and automating more to limit human errors and maximizing reliability in Vulnerability Assessments, Penetration Tests and Intelligence, INFRA reduces the time for the security analysis automating most parts of tests that are normally done manually by the analysts. Specialized in web applications, servers and IoT, the platform can conduct also phishing campaigns and automated exploiting.
-- member: true	
+- member: false	
   sponsor: 4 	
   name: intertrust
   image: /assets/images/corp-member-logo/intertrust.png
@@ -214,7 +214,7 @@
   image: /assets/images/corp-member-logo/IriusRiskNEWlogo.png
   url: https://iriusrisk.com
   description: IriusRisk is the industry's leading threat modeling company. Its powerful threat modeling platform empowers organisations to build security into application design, resulting in improved speed to market, collaboration across security and development teams, and the avoidance of costly security design flaws. IriusRisk enables teams to create a diagram of their product architecture and automatically generate a list of threats, plus the countermeasures required to fix them, within minutes. It assesses the diagram against key security standards and regulations to not only highlight product weaknesses, but also gaps in compliance before a line of code is even written.
-- member: ture
+- member: true
   sponsor:
   name: Kovert
   image: /assets/images/corp-member-logo/Kovert_logo.png
@@ -226,7 +226,7 @@
   image: /assets/images/corp-member-logo/lyft.png
   url: https://www.lyft.com/
   description: At Lyft, community is what we are and it’s what we do. It’s what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring. 
-- member: true	
+- member: false	
   sponsor: 	
   name: Netsparker	
   image: /assets/images/corp-member-logo/netsparker.png	
@@ -256,13 +256,13 @@
   image: /assets/images/corp-member-logo/nowsecure.png	
   url: https://www.nowsecure.com/	
   description: Only the NowSecure Platform delivers automated 360-degree coverage of mobile app security testing with the speed and depth modern enterprises require. The world’s most demanding organizations and advanced security teams trust NowSecure to identify the broadest array of security, privacy, and compliance gaps in custom, third-party, and business-critical mobile apps.	
-- member: true	
+- member: false	
   sponsor: 	 
   name: Oracle
   image: /assets/images/corp-member-logo/oracle.png	
   url: https://www.oracle.com/corporate/
   description: Our mission is to help people see data in new ways, discover insights, unlock endless possibilities.
-- member: true	
+- member: false	
   sponsor: 	 
   name: OWA Digital Ltd.
   image: /assets/images/corp-member-logo/owa.png	
@@ -286,7 +286,7 @@
   image: /assets/images/corp-member-logo/Permitere81logo.png
   url: https://www.perimeter81.com/
   description: Perimeter 81 was launched in 2018 as the second company of cybersecurity experts Amit Bareket and Sagi Gidali, who met at Tel Aviv University in 2012 while studying computer science. Perimeter 81 provides secure access to local networks, applications and cloud infrastructures with one unified platform. By transforming the outdated, hardware-based security appliances into a cloud-based SaaS solution, we are simplifying network security for the modern and distributed workforce and helping organizations of all sizes and in many industries to secure their remote workers. Since its founding, Perimeter 81 has quickly gained traction in the Secure Access Service Edge (SASE) and Network as a Service market, and is transforming the way companies consume cyber and network security. Perimeter 81 has been named a Gartner Cool Vendor, holds a patent for Automatic Wi-Fi Security, and is considered by industry leaders to be winning the “SASE space race”.
-- member: true	
+- member: false	
   sponsor: 
   name: PingAn	
   image: /assets/images/corp-member-logo/pingan-technology.png
@@ -298,7 +298,7 @@
   image: /assets/images/corp-member-logo/praetorianlogo300x73.png
   url: http://praetorian.com
   description: Praetorian is a cybersecurity solutions company whose mission is to make the digital world safer and more secure. Through expertise and engineering, Praetorian helps today’s leading organizations solve complex cybersecurity problems across critical enterprise assets and product portfolios. From the Cloud to IoT, we are bringing together the world’s security expertise to solve the cybersecurity problem and secure the next wave of innovation.
-- member: true
+- member: false
   sponsor:
   name: Proack Security Inc.
   image: /assets/images/corp-member-logo/proack_logo_main_rgb_72dpi.png
@@ -334,7 +334,7 @@
   image: /assets/images/corp-member-logo/RankSense.png	
   url: https://www.ranksense.com/
   description: RankSense is a startup on a mission to shorten SEO results from 6 months down to 6 weeks using artificial intelligence and automation. Our software operates similar to a Web Application Firewall in the Cloudflare CDN, but instead of patching incoming HTTP traffic to avoid security exploits, we patch outgoing HTTP traffic to fix issues in the HTML that can prevent effective search engine indexing. 
-- member: true	
+- member: false	
   sponsor: 	
   name: Realware 	
   image: /assets/images/corp-member-logo/real-ware.png	
@@ -346,7 +346,7 @@
   image: /assets/images/corp-member-logo/salesforce.png	
   url: https://www.salesforce.com/  
   description: Salesforce is the world’s (#)1 customer relationship management (CRM) platform. Our cloud-based applications for sales, service, marketing, and more don’t require IT experts to set up or manage — simply log in and start connecting to customers in a whole new way.
-- member: true	
+- member: false	
   sponsor: 4
   name: Salt Security	
   image: /assets/images/corp-member-logo/Salt_Security.png	
@@ -371,7 +371,7 @@
   image: /assets/images/corp-member-logo/SecureBrain.png	
   url: https://www.securebrain.co.jp/eng/	
   description: SecureBrain a Hitachi Group Company is a leader in providing software and services to help protect enterprises and their customers against cybercrime including online fraud and malware attacks.  To ensure that our customers are always protected from the latest trend of cybercrime, SecureBrain has its own advanced security research center. Team of security researchers works closely with many Japanese government research agencies to research and develop solutions against the latest cyber threats.	
-- member: 
+- member: true
   sponsor:
   name: SecureFlag
   image: /assets/images/corp-member-logo/secureflagposhighres_copy.png
@@ -389,7 +389,7 @@
   image: /assets/images/corp-member-logo/si_logo_owasp_300x90.png
   url: https://www.secureideas.com
   description: Secure Ideas has delivered penetration testing, training, and security consulting services to clients in every industry since 2010. We are known in the information security community for our expertise in testing applications, including web, mobile, and APIs. Secure Ideas operates on a foundation of ethics marked by our popular tagline "Professionally Evil". We also strongly believe in the value of openly sharing information and security knowledge, which is why we champion affordable training and offer many of our short-form classes for free.
-- member: true
+- member: false
   sponsor:
   name: secuvera GmbH
   image: /assets/images/corp-member-logo/secuvera_GmbH_logo.png
@@ -407,7 +407,7 @@
   image: /assets/images/corp-member-logo/security-innovation.png	
   url: https://www.securityinnovation.com/	
   description: 	Security Innovation is a pioneer in software security and trusted advisor to its clients. Since 2002, organizations have relied on our assessment and training solutions to make the use of software systems safer in the most challenging environments – whether in Web applications, IoT devices, or the cloud. The company’s flagship product, CMD+CTRL Cyber Range, is the industry’s only simulated Web site environment designed to build the skills teams need to protect the enterprise where it is most vulnerable – at the application layer. Security Innovation is privately held and headquartered in Wilmington, MA USA.	
-- member: true	
+- member: false	
   sponsor: 	
   name: Security Initiative 	
   image: /assets/images/corp-member-logo/securityinitiative.png
@@ -431,7 +431,7 @@
   image: /assets/images/corp-member-logo/signal-sciences.png
   url: https://www.signalsciences.com/
   description: Signal Sciences secures the most important web applications, APIs, and microservices of the world's leading companies. Our next-gen WAF and RASP help you increase security and maintain site reliability without sacrificing velocity, all at the lowest total cost of ownership. Learn how our patented approach can help you.	
-- member: true	
+- member: false	
   sponsor: 	
   name: Software Improvement Group	
   image: /assets/images/corp-member-logo/sig.png
@@ -443,7 +443,7 @@
   image: /assets/images/corp-member-logo/sonarsource.png	
   url: https://www.sonarsource.com/	
   description: SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. With over 6,000 customers, and a Community Edition trusted by more than 200,000 organizations globally, SonarSource products are a de-facto standard for teams and organizations to deliver better, safer software.
-- member: true	
+- member: false	
   sponsor: 4 	
   name: Sqreen	
   image: /assets/images/corp-member-logo/sqreen.png	
@@ -455,19 +455,19 @@
   image: /assets/images/corp-member-logo/stackhawk.png	
   url: https://www.stackhawk.com/	
   description: StackHawk is dynamic application vulnerability scanning built for modern development teams. With simple configuration, easy invocation via docker command, and interpretable results, StackHawk is built for developers to take control of their AppSec. 	
-- member: true	
+- member: false	
   sponsor: 	
   name: Symantec	
   image: /assets/images/corp-member-logo/symantec.png
   url: https://www.symantec.com/	
   description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."
-- member: true	
+- member: false	
   sponsor: 4	
   name: Synopsys	
   image: /assets/images/corp-member-logo/synopsys.png	
   url: https://www.synopsys.com/	
   description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.	
-- member: 
+- member: false
   sponsor: 4 	
   name: Tala Security	
   image: /assets/images/corp-member-logo/tala.png   
@@ -503,7 +503,7 @@
   image: /assets/images/corp-member-logo/virsec.png
   url: http://www.virsec.com/
   description: Virsec delivers a radically new approach to security, protecting enterprise applications from today’s most dangerous cyber threats. Virsec definitively stops fileless and in-memory exploits that bypass conventional security, delivering unprecedented accuracy, while eliminating false positives. The solution protects the entire application stack in runtime, including web apps, memory, files, processes, and binary code. By preemptively stopping attacks, Virsec delivers effective virtual patching and compensating controls for any application, whether new, legacy, or un-patchable.
-- member: true
+- member: false
   sponsor:
   name: Voatz
   image: /assets/images/corp-member-logo/voatz.png
@@ -521,7 +521,7 @@
   image: /assets/images/corp-member-logo/waratek.png	
   url: https://www.waratek.com/	
   description: "The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code."
-- member: false	
+- member: true	
   sponsor: 4	
   name: WhiteSource Software	
   image: /assets/images/corp-member-logo/whitesource.png
