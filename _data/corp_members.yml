@@ -166,6 +166,12 @@
   image: /assets/images/corp-member-logo/gitlab.png
   url: https://about.gitlab.com/
   description: GitLab is a complete open-source DevOps platform, delivered as a single application, fundamentally changing the way Development, Security, and Ops teams collaborate and build software. From idea to production, GitLab helps teams improve cycle time from weeks to minutes, reduce development process costs and decrease time to market while increasing developer productivity. 
+- member: true
+  sponsor:
+  name: HackEDU
+  image: /assets/images/corp-member-logo/HackEDU_logo.png
+  url: https://www.hackedu.com
+  description: HackEDU is the Secure Coding Training company. Our hands-on training, which revolves around a real, functional web app, can be accessed anytime, anywhere via a web browser. Our offensive + defensive lessons, science-based approach, and DevSecOps toolchain integrations help to keep developers motivated and engaged, and learn and retain secure coding principles effectively.
 - member: true	
   sponsor:	
   name: HackerOne
