@@ -2,7 +2,6 @@
 
 layout: col-generic
 title: Corporate Supporters
-permalink: /supporters/
 
 ---
 

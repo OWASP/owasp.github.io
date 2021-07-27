@@ -16,7 +16,7 @@ Organizations looking to support the mission of OWASP while also interested in e
 ## Packages
 
 ### Diamond - Premier package
-- Exhibition space (typically 8'x6') at all Global AppSec events and up to THREE Regional Events
+- Exhibition space (typically 8'x6') at all Global AppSec events and up to THREE participating AppSec Day Events
 - Three complimentary Full Conference passes to exhibiting events
 - Ten single-day Training Passes
 - Ten-day on-site training
@@ -24,7 +24,7 @@ Organizations looking to support the mission of OWASP while also interested in e
 - Price: $120,000
 
 ### Platinum
-- Exhibition space (typically 8'x6') at all Global AppSec events and up to TWO Regional Events
+- Exhibition space (typically 8'x6') at all Global AppSec events and up to TWO participating AppSec Day Events
 - Three complimentary Full Conference passes to exhibiting events
 - Ten single-day Training Passes
 - Five-day on-site training
@@ -32,14 +32,14 @@ Organizations looking to support the mission of OWASP while also interested in e
 - Price: $80,000
 
 ### Gold
-- Exhibition space (typically 8'x6') at up to TWO Global AppSec events and ONE Regional Events
+- Exhibition space (typically 8'x6') at up to TWO Global AppSec events and ONE participating AppSec Day Events
 - Three complimentary Full Conference passes to exhibiting events
 - Ten single-day Training Passes
 - Full Conference 20% off discounted passes
 - Price: $45,000
 
 ### Silver
-- Exhibition space (typically 8'x6') at ONE Global AppSec events and ONE Regional Events
+- Exhibition space (typically 8'x6') at ONE Global AppSec events and ONE participating AppSec Day Events
 - Three complimentary Full Conference passes to exhibiting events
 - Two single-day Training Passes
 - Full Conference 20% off discounted passes
