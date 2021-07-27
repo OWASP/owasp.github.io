@@ -485,6 +485,12 @@
   image: /assets/images/corp-member-logo/tala.png   
   url: https://www.talasecurity.io/
   description: Tala protects modern websites and web applications across the full spectrum of client-side vulnerability.  No other solution offers similar breadth of security coverage.  Tala’s analysis engine evaluates over 50 unique indicators of a web page’s behavior to continuously monitor and detect anomalous activity within the server, the website supply chain, or malicious code executing at the user’s browser. This dynamic AI-driven analytics engine works in conjunction an automation engine that activates standards-based capabilities, like CSP, SRI and HSTS to protect against a wide range of app layer attacks like magecart, cross-site scripting, clickjacking, iframe injection, session-redirects, client-side malware, etc. 
+- member: true
+  sponsor:
+  name: Teleport
+  image: /assets/images/corp-member-logo/Teleport.png
+  url: https://goteleport.com/
+  description: Teleport allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments.
 - member: true	
   sponsor: 	
   name: ThoughtWorks	
