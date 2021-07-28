@@ -27,22 +27,18 @@ OWASP has three Corporate Membership packages:
 | Discounted event sponsorship | ✅ | ✅ | ✅ |
 | Ambassador for global election vote | ✅ | ✅ | ✅|
 
-<!-- ### Promotional Pricing
-
-To celebrate our 20th Anniversary, for the first 20 Corporate Memberships, either new or renewing, a 10% discount will apply to the package level chosen. -->
-
 ### Become a Corporate Member Today
 
 To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
 ### Platinum Corporate Membership
 
-| ![Platinum](/assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg) | Platinum | TBA |
-| -- | :--: | :--: |
-| Platinum Standard | \$25,000 | TBA|
-| Platinum Regional | \$10,000 | TBA |
-| Platinum Startup | \$10,000 | TBA |
-| Platinum Regional Startup | \$4,000 | TBA | 
+| ![Platinum](/assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg) | Platinum | 
+| -- | :--: | 
+| Platinum Standard | \$25,000 |
+| Platinum Regional | \$10,000 |
+| Platinum Startup | \$10,000 |
+| Platinum Regional Startup | \$4,000 | 
 
 - Listing in rotation as Corporate Supporter site-wide on owasp.org with a large sized logo
 - 1 Year license to use OWASP trademarks and relevant logo on unlimited products or services, with all fees waived
@@ -64,12 +60,12 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 
 ### Gold Corporate Membership
 
-| ![Gold](/assets/images/corp-membership-icons/OWASP_Tier_icons_Gold.svg) | Gold Price | TBA |
-| -- | :--: | :--: |
-| Gold | \$15,000 | TBA | 
-| Gold Regional | \$6,000 | TBA | 
-| Gold Startup | \$6,000 | TBA | 
-| Gold Regional Startup | $2,400 | TBA | 
+| ![Gold](/assets/images/corp-membership-icons/OWASP_Tier_icons_Gold.svg) | Gold Price |
+| -- | :--: |
+| Gold | \$15,000 | 
+| Gold Regional | \$6,000 | 
+| Gold Startup | \$6,000 | 
+| Gold Regional Startup | $2,400 | 
 
 - Listing in rotation as Corporate Supporter site-wide on owasp.org with a medium sized logo
 - 1 Year license to use OWASP trademarks and relevant logo on up to 5 products or services, with all fees waived
@@ -91,12 +87,12 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 
 ### Silver Corporate Membership
 
-| ![Silver](/assets/images/corp-membership-icons/OWASP_Tier_icons_Silver.svg) | Silver Price | 20th Anniversary |
-| -- | :--: | :--: |
-| Silver | \$5,000 | TBA | 
-| Silver Regional | \$2,000 | TBA | 
-| Silver Startup | \$2,000 | TBA | 
-| Silver Regional Startup | \$800 | TBA | 
+| ![Silver](/assets/images/corp-membership-icons/OWASP_Tier_icons_Silver.svg) | Silver Price | 
+| -- | :--: | 
+| Silver | \$5,000 | 
+| Silver Regional | \$2,000 | 
+| Silver Startup | \$2,000 | 
+| Silver Regional Startup | \$800 | 
 
 - Listing in rotation as Corporate Supporter site-wide on owasp.org with a standard sized logo
 - 1 Year license to use OWASP trademarks and relevant logo on up to 5 products or services, with fees waived
@@ -139,8 +135,6 @@ To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/cus
 ### What are Startup Corporate Members?
 
 Startups founded for less than 24 months at time of joining or renewal are eligible to access the Corporate Membership Startup discount. Evidence such as a company registration record will be required.
-
-
 
 <!-- 
 Annual discounted Corporate Membership rates are available for start-up companies in the first 12 months, max 24 months of Corporate Membership. 
