@@ -25,20 +25,9 @@ Most answers you might have about the OWASP Foundation can be found by searching
 
 Our global address for general correspondence and faxes can be sent to our physical office address, at: 
 
-```
-OWASP Foundation
-1200-C Agora Drive, #232
-Bel Air, MD 21014
-+1 951-692-7703 (phone)
-+1 443-283-4021 (fax)
-EIN #20-0963503
-```
+{% include address_multiline.html %}
 
-The European legal address is:
 
-```
-OWASP Europe VZW
-Leinstraat 104A
-B-9660 Opbrakel
-Belgium
-```
+The European legal address and VAT number is:
+
+{% include address_multiline_eu.html %}
