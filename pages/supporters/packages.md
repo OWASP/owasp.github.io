@@ -20,19 +20,19 @@ OWASP has three Corporate Membership packages:
 
 | Feature | [Platinum](#platinum-corporate-membership) | [Gold](#gold-corporate-membership) | [Silver](#silver-corporate-membership) |
 | -- | :--: | :--: | :--: |
-| Availability | ✅  |  ✅  | ✅  |
-| Corporate Member Supporter Logo | Platinum | Gold | Silver |
-| OWASP Trademark license | Unlimited | 5 services or products | 3 services or products |
-| Participating Chapter or Projects Sponsorships | 10 | 3 | 1 |
-| Participating AppSec Days Sponsorships  | ✅ | ✅ | ✅  |
-| Global AppSec Early bird Registration Discounts | 20 | 10 | 2 |
-| Logo on OWASP.org | Large | Medium |  Standard |
-| Rotation priority | Priority | Boosted |  Standard |
-| Social media recognition | 4/month | 2/month | 1/month |
-| Global AppSec Sponsorship Early access | ✅ |  |  |
-| News article upon signing | ✅ | ✅ | |
-| $2500 towards event sponsorship | ✅ | ✅ | ✅ |
-| Ambassador for global election vote | ✅ | ✅ | ✅|
+| [Availability](/supporters/benefits#packages-available-to-all) | ✅  |  ✅  | ✅  |
+| [Corporate Member Supporter Logo](/supporters/benefits#corporate-member-logo) | Platinum | Gold | Silver |
+| [OWASP Trademark license](/supporters/benefits#owasp-trademark-license) | Unlimited | 5 | 3 |
+| [Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) | 10 | 3 | 1 |
+| [Sponsor Participating AppSec Days](/supporters/benefits#corporate-sponsorship-of-participating-appsec-days-events)  | ✅ | ✅ | ✅  |
+| [Global AppSec Early bird Registration Discounts](/supporters/benefits#early-bird-global-appsec-registrations) | 20 | 10 | 2 |
+| [Your brand on OWASP.org](/supporters/benefits#your-logo-on-owasporg) | Large | Medium |  Standard |
+| [Rotation priority](/supporters/benefits#rotation-priority) | Priority | Boosted |  Standard |
+| [Social media recognition](/supporters/benefits#social-media-recognition) | 4/month | 2/month | 1/month |
+| [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship) | ✅ |  |  |
+| [News article upon signing](/supporters/benefits#news-article-upon-signing) | ✅ | ✅ | |
+| [Corporate Sponsorship Subsidy](/supporters/benefits#discounted-global-appsec-sponsorship) | ✅ | ✅ | ✅ |
+| [Ambassador for global election vote](/supporters/benefits#ambassador-for-owasp-board-of-directors-election-vote) | ✅ | ✅ | ✅ |
 
 ### Platinum Corporate Membership
 

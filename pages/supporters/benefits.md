@@ -8,25 +8,47 @@ tags: corp-membership
 
 ---
 
-### Your logo on OWASP.org website
+### Packages available to all
 
-Updated! Platinum members can submit logos up to 
+Our new Corporate Membership packages are available to anyone, with price points for everyone. 
+
+### Corporate Member Logo
+
+Our new Corporate Membership logos can be used on your website and marketing to demonstrate your support for OWASP. 
 
 ### Rotation Priority
 
-New! Platinum, Gold, and Silver members will be shown on the owasp.org website in priority (20% more likely to be shown than Silver), boosted (around 10% more likely to be shown than Silver), and Silver (standard rate). 
+Our new Corporate Membership program implements improved rotation for Platinum and Gold members, whilst still providing a great deal of exposure for Silver members. Platinum members will receive a 20% boost over a silver member, Gold 10% more likely to be shown than Silver, and our Silver members will share the residual rotation. OWASP.org website traffic has grown dramatically since 2019, with more than 4 million monthly page views, so our Silver members receive more views than in 2019, despite lower ratio.
 
-### OWASP Corporate Supporter Logo for your website
+### Your logo on OWASP.org
+
+Corporate Members can get their logo and a descriptive blurb on the OWASP.org website, which appear on our [supporters page](/supporters/list), as well as randomly at the bottom of every page on owasp.org. 
+
+- Platinum Large size
+- Gold Medium size
+- Silver Standard size
+
+We will work with you to obtain a transparent icon of 300px X 90px at 72dpi. Our website automatically sizes your icon per the Corporate Membership level.
 
 ### Social Media Recognition
 
+We will share your Corporate Membership regularly with our 300k+ followers:
+
+- Platinum 4/month
+- Gold 2/month
+- Silver 1/month
+
+This is an improvement over our previous Corporate Sponsorship program.
+
 ### News article upon signing
+
+We will work with our Platinum and Gold Corporate Members to publish a short news article for the OWASP.org news content about your organization becoming an OWASP Corporate Member. We encourage you to turn the copy into a press release or put it in your marketing.
 
 ### OWASP Trademark License
 
-If you offer a product or service that uses OWASP's trademarks, such as a training course about the OWASP Top 10, or a product that markets adherance to say the OWASP Mobile Application Security Verification Standard, you can now obtain a license through Corporate Membership (normally a $1500 USD per service). Platinum Corporate Members are permitted to use our trademarks for an unlimited number of services or products, Gold can use it for up to 5 services or products, and Silver for a 
+If you offer a product or service that uses OWASP's trademarks, such as a training course about the OWASP Top 10, or a product that markets compliance with the OWASP Mobile Application Security Verification Standard, you can now obtain an OWASP trademark license through Corporate Membership (normally a $1500 USD per service). Platinum Corporate Members are permitted to use our trademarks for an unlimited number of services or products, Gold can use it for up to 5 services or products, and Silver for a single product or service.
 
-Events are not included in this trademark license. If you are interested in running an OWASP themed conference, please contact our [Events team](mailto:events@owasp.com) for more details.
+Events (other than instructor led training classes) are not included in this trademark license. If you are interested in running an OWASP themed conference, please contact our [Events team](mailto:events@owasp.com) for more details.
 
 ### Corporate Sponsorship of participating projects or chapters
 
@@ -40,7 +62,18 @@ NB: Not all chapters or projects participate in this benefit. Please contact us 
 
 ### Early bird Global AppSec registrations
 
-Many employers provide staff training and conferences as a benefit. OWASP Corporate Membership comes with a varying number of early bird discounted registrations, with half for the H1 Global AppSec conference (usually held in Europe), and half for the 2H Global AppSec conference conference (usually held in North America). Your staff can use the discount code equivalent to the OWASP Member price within the early bird registration period. 
+Many employers provide training and conferences as an employment benefit. Your staff can use the included Early Bird Global AppSec Registration discount codes, to access the equivalent of the OWASP Member discount, even if they are not individual OWASP members. This benefit does not stack if they are individual members.  
+
+| Package | Global AppSec H1 | Global AppSec H2 | 
+| -- | -- | -- | 
+| Platinum | 10 discount codes | 10 discount codes |
+| Gold | 5 discount codes | 5 discount codes |
+| Platinum | 1 discount code | 1 discount code |
+
+OWASP will send through your discount code entitlements for each event as registrations are first opened to make sure your staff doesn't miss out. The discount codes are only valid for the event they are issued within the early bird registration period, and are not transferrable to another event.
+
+* Global AppSec H1 is usually held in Europe in the first half of the year
+* Global AppSec H2 is usually held in North America in the second half of the year
 
 ### Early access to Global AppSec Sponsorship
 
