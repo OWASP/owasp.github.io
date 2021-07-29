@@ -14,6 +14,24 @@ We have completely refreshed our Corporate Membership program to celebrate our a
 
 As OWASP's 20th Anniversary approaches on September 24, we will be running a Corporate Membership drive, in the lead up to our [20th Anniversary Celebrations on September 24](https://20thanniversary.owasp.org/). [20th Anniversary Sponsorships Packages](https://20thanniversary.owasp.org/sponsors/) are still available. 
 
+Help support OWASP's mission, by becoming an [OWASP Corporate Member](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+
+Learn about:
+
+- [What's New](/supporters/whatsnew)
+- [Packages and prices](/supporters/packages)
+- [Benefits](/supporters/benefits)
+- [Existing Corporate Member Migration](/supporters/migration)
+- [Thank you to all our Corporate Members and Corporate Sponsors!](/supporters/list)
+- [Become a Corporate Event Sponsor](../corporate-sponsorships)
+- [Make a charitable gift](/donate)
+
+## Why become an OWASP Corporate Member
+
+By becoming a Corporate Member, you can show your support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
+
+Many of our most well-known organizations have grown their business dramatically due to being an OWASP Corporate Member and partnering with us. Our new Corporate Membership program helps you get involved with our community. 
+
 ![Attendees at a Global AppSec Conference](/assets/images/web/global-conference.png)
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programming includes:
@@ -27,15 +45,10 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
 
-## Why become an OWASP Corporate Member
-
-By becoming a Corporate Member, you can show your support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
-
-Many of our most well-known organizations have grown their business dramatically due to being an OWASP Corporate Member and partnering with us. Our new Corporate Membership program helps you get involved with our community. 
-
 ## Supporting the Foundation
 
-There are many ways to participate and support the mission of OWASP.
+There are many ways to participate and support the mission of OWASP
+
 - Employees can participate in our [Projects](/projects) and [Local Chapters](/chapters)
 - Become a [Corporate Member](./packages)
 - [Sponsor our Global Events and participating AppSec Days events](../corporate-sponsorships)

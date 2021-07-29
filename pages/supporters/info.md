@@ -1,7 +1,9 @@
 ### Important Links
 
-- [All our supporters](/supporters/list)
 - [What's New](/supporters/whatsnew)
-- [Packages, Benefits and Prices](/supporters/packages)
-- [Make a charitable gift](/donate)
+- [Packages and Prices](/supporters/packages)
+- [Benefits](/supporters/benefits)
+- [Member Migration](/supporters/migration)
+- [OWASP Corporate Members](/supporters/list)
 - [Corporate Event Sponsorship](../corporate-sponsorships)
+- [Make a charitable gift](/donate)

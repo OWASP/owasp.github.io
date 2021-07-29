@@ -8,23 +8,32 @@ tags: corp-membership
 
 ---
 
+Our new packages contain many new benefits for organizations of all sizes. We will work with you to understand your requirements to determine the best Corporate Membership package that meets your needs. [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today to learn more or become a Corporate Member!
+
 ## What's new
 
-- Platinum, Gold, and Silver packages are now available to all.
-- Sponsor your favorite committee, project, or chapter.
-- Corporate Sponsor badges for your website to publicly show your support of OWASP
-- Priority access and early-bird discounts when sponsoring events 
-- OWASP Member early-bird registration discounts for all your staff, even if they aren't a member
-- A trademark license agreement allows Corporate Members to use OWASP's brand with their marketing,  products, and services.
-- Regional pricing is available for all packages.
-- Startup pricing is open to all companies less than 36 months old.
+- New! Platinum, Gold, and Silver packages are now available to all
+- New! OWASP Corporate Supporter Logo for your website
+- New! OWASP Trademark License
+- New! Corporate Sponsorship of participating projects or chapters
+- New! Corporate Sponsorship of participating AppSec Days events
+- New! Early bird Global AppSec Registration Discounts
+- Improved: Larger logos for Platinum and Gold members
+- Improved: Rotation priority for Platinum and Gold members
+- Improved: Social Media Recognition
+- Improved: News article upon signing
+- Improved: Early access to Global AppSec Sponsorship
 
-## What's changing for the better
+### What's staying the same
 
-We understand that COVID has impacted everyone. Package pricing based upon your organization's gross income is going away, as this held back many sponsors both before and during the pandemic. 
+All of our prior benefits are available unchanged or improved without any action required by existing Corporate Members.
 
-## Opt in upgrades for existing members
+- Up to $2,500 of your Corporate Membership fee going towards your choice of Global AppSec Sponsorship package
+- Ambassador for OWASP Board of Directors election vote
 
-As no part of your existing Corporate Membership package is being removed, OWASP will migrate all current sponsors to the new Corporate Sponsorship packages at your request. The new packages provide immediate access to all additional benefits for the residual term of your Corporate Sponsorship at the level you paid.
+### Migration plan
 
-You don't need to do anything today. We will be communicating with you individually over the next month to discuss setting up your new benefits, such as sending you your Corporate Sponsor badge and executing a trademark license agreement. Accessing the new benefits is entirely optional. However, if you decide to take on the OWASP trademark license agreement, for example, there is an additional agreement to be reviewed and signed.
+Existing Corporate Members do not need to take any action or adopt any of these new benefits. However, we are making the new benefits available to Existing members. For more details, please see the [detailed migration page](/supporters/migration).
+
+
+
