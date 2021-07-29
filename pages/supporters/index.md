@@ -12,7 +12,7 @@ tags: corp-membership
 
 We have completely refreshed our Corporate Membership program to celebrate our anniversary with some exciting new benefits and options. Here's how you can get involved.
 
-As OWASP's 20th Anniversary approaches on September 24, we will be running a Corporate Membership drive, in the lead up to our [20th Anniversary Celebrations on September 24](https://20thanniversary.owasp.org/). [20th Anniversary Sponsorships Packages](https://20thanniversary.owasp.org/sponsors/) are still available. 
+As OWASP's 20th Anniversary approaches on September 24, we will be running a Corporate Membership drive in the lead up to our [20th Anniversary Celebrations on September 24](https://20thanniversary.owasp.org/). [20th Anniversary Sponsorships Packages](https://20thanniversary.owasp.org/sponsors/) are still available. 
 
 Help support OWASP's mission, by becoming an [OWASP Corporate Member](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
@@ -28,13 +28,13 @@ Learn about:
 
 ## Why become an OWASP Corporate Member
 
-By becoming a Corporate Member, you can show your support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
+Corporate members can show their support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
 
 Many of our most well-known organizations have grown their business dramatically due to being an OWASP Corporate Member and partnering with us. Our new Corporate Membership program helps you get involved with our community. 
 
 ![Attendees at a Global AppSec Conference](/assets/images/web/global-conference.png)
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programming includes:
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve software security. Our programming includes:
 
 - Community-led open source software projects
 - Over 250+ local chapters worldwide
@@ -43,7 +43,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 <p class="callout-mono right">Corporate support accelerates our impact. Become a member or sponsor today.</p>
 
-We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
+We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that individuals and organizations can trust. Our projects, tools, documents, groups, and chapters are free and open to anyone interested in improving application security. For nearly two decades, corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
 
 ## Supporting the Foundation
 
