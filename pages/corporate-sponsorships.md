@@ -1,7 +1,8 @@
 ---
 
 layout: col-generic
-title: Corporate Sponsorship
+title: Corporate Event Sponsorship
+permalink: /corporate-sponsorships
 
 ---
 

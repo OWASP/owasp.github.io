@@ -18,7 +18,7 @@ OWASP has three Corporate Membership packages:
 | Rotation priority | Priority | Boosted |  Standard |
 | Logo for your website | Platinum | Gold | Silver |
 | Social media recognition | 4/month | 2/month | 1/month |
-| Press release upon signing | ✅ | ✅ | ✅ |
+| News article upon signing | ✅ | ✅ | ✅ |
 | OWASP Trademark license | Unlimited | 5 services or products | 3 services or products |
 | Chapter or Projects Sponsored | 10 | 3 | 1 |
 | Early bird event registrations | 25 @ 20% | 10 @ 15% | 3 @ 10% |
