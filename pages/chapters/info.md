@@ -1,6 +1,6 @@
 ### Important Links
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
-* [Chapter Policy](https://owasp.org/www-policy/) requirements for an OWASP Chapter for leaders to follow.
+* [Chapter Policy](https://owasp.org/www-policy/) requirements for an OWASP Chapter for leaders.
 * [List of All Chapters Status](/chapters/status/)
 * [Start a New/Reactivate Chapter Request Ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
 
