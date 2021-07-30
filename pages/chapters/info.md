@@ -11,4 +11,4 @@
 * [Upcoming OWASP Community Activities](/chapters/events/)
 
 * Video:[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
-* [Chapter Handbook WIP](/www-policy/operational/chapter-handbook-existing)
+* [Chapter Handbook WIP](/www-policy/operational/chapter-handbook-existing)see chapter policy for chapter requirements.
