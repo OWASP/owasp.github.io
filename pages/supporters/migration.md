@@ -14,9 +14,9 @@ Our previous Sponsorship agreement provided the following benefits:
 
 - Listing in rotation as Corporate Supporter site-wide on owasp.org (Improved)
 - Public acknowledgment on various other channels (Improved)
-- Up to $2,500 of your Fee can be applied towards a Global AppSec sponsorship (No change for existing Corporate Members)
-- Vote in the Global Board of Directors election (No change for existing Corporate Members)
-- Discounted sponsorship rates at participating events (No change for existing Corporate Members)
+- Up to $2,500 of your package fee can be applied towards a Global AppSec sponsorship (No change for current Corporate Members)
+- Vote in the Global Board of Directors election (No change for current Corporate Members)
+- Discounted sponsorship rates at participating events (No change for current Corporate Members)
 
 In addition to your current benefits, you are now eligible to receive the new Corporate Membership benefits at your discretion.
 
@@ -44,7 +44,7 @@ Please visit [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/po
 
 ### Early access to Global AppSec Sponsorship
 
-Existing Corporate Members can obtain Corporate Event Sponsorships for:
+Current Corporate Members can obtain Corporate Event Sponsorships for:
 
 - [OWASP's 20th Anniversary Celebrations](https://20thanniversary.owasp.org/sponsors/)
 - [Global AppSec Virtual 2021](https://usa.globalappsec.org/)

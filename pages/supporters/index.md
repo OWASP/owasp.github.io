@@ -21,7 +21,7 @@ Learn about:
 - [What's New](/supporters/whatsnew)
 - [Packages and prices](/supporters/packages)
 - [Benefits](/supporters/benefits)
-- [Existing Corporate Member Migration](/supporters/migration)
+- [Corporate Member Migration](/supporters/migration)
 - [Thank you to all our Corporate Members and Corporate Sponsors!](/supporters/list)
 - [Become a Corporate Event Sponsor](../corporate-sponsorships)
 - [Make a charitable gift](/donate)
