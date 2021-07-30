@@ -27,7 +27,7 @@ Events (other than instructor-led training classes) are not included in this tra
 Corporate Members can contribute 10% of their Corporate Membership fee to participating chapters or projects. OWASP will directly add this contribution to the Expenses pool with no administrative fee to benefit all Chapters and Projects. In return, participating Chapters or Projects should add your logo to their home page and are encouraged to recognize your contribution at the start of meetings or in the project's deliverable, where possible.
 
 - Platinum 10 projects or chapters
-- Gold 3 projects or chapters
+- Gold 5 projects or chapters
 - Silver 1 project or chapter
 
 NB: Not all chapters or projects participate in this benefit. Please get in touch with us to connect you with the relevant Chapter or Project Leader.
@@ -46,7 +46,7 @@ Many employers provide training and conferences as an employment benefit. Your s
 | -------- | :---------------: | :---------------: |
 | Platinum | 10 discount codes | 10 discount codes |
 | Gold     | 5 discount codes  | 5 discount codes  |
-| Platinum | 1 discount code   | 1 discount code   |
+| Silver | 1 discount code   | 1 discount code   |
 
 OWASP will send through your discount code entitlements for each event as registrations are first opened to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec within the early bird registration period and are not transferrable to another event.
 
@@ -88,6 +88,14 @@ We will work with our Platinum and Gold Corporate Members to publish a short new
 ### Global AppSec Corporate Event Sponsorship Subsidy
 
 Up to USD 2,500 of your Corporate Membership fee can be applied towards a Global AppSec sponsorship package.
+
+| Package | Standard | Regional | Startup | Regional Startup |
+| -- | :--: | :--: | :--: | :--: |
+| Platinum | 2,500 | 1,000 | 1,000 | 400 |
+| Gold | 2,500 | 600 | 600 | 240 |
+| Silver | 2,500 | 200 | 200 | 80 |
+
+We will honor all existing signed contracts for this benefit. After September 24 2021, the Standard discount will change to 10% of the overall package price.
 
 ### Ambassador for OWASP Board of Directors election vote
 

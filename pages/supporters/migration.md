@@ -40,7 +40,7 @@ Please [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7
 
 Traditionally, sponsorship of regional AppSec Day events has been negotiated with the Event team. This benefit is immediately available for participating AppSec Days conferences. Please create a non-funding ticket, detailing which regional AppSec Day event you wish to sponsor. We will work with you and the Event team to become a financial sponsor of their event. We will encourage all AppSec Days leaders to open up their conference to this benefit over time. 
 
-Please visit our [Corporate Event Sponsorship page](/corporate-sponsorships) for more details or [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
+Please visit [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
 
 ### Early access to Global AppSec Sponsorship
 
@@ -48,9 +48,8 @@ Existing Corporate Members can obtain Corporate Event Sponsorships for:
 
 - [OWASP's 20th Anniversary Celebrations](https://20thanniversary.owasp.org/sponsors/)
 - [Global AppSec Virtual 2021](https://usa.globalappsec.org/)
-- [Global AppSec Virtual Training November 2021](https://training.owasp.org/schedule_nov/)
-- Global AppSec Dublin (June 2022)
-- By October 2021, sponsorships for Global AppSec San Francisco will open.
+- Opening August 15, 2021: Global AppSec Dublin (June 2022)
+- Opening October 2021: Global AppSec San Francisco (September 2022)
 
 Please visit our [Corporate Event Sponsorship page](/corporate-sponsorships) for more details or [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72). 
 
@@ -60,7 +59,7 @@ In our previous Corporate Membership benefits package, sponsors could obtain a $
 
 ### Early bird Global AppSec Registration
 
-As we open early bird registration for each Global AppSec or training, we will automatically send all current Corporate Members the relevant number of discount codes to your nominated address. Please distribute these codes to your staff to obtain the OWASP Member discount for the participating event. The discount codes only apply to the nominated participating event and are not valid once the early bird registration period closes. 
+As we open early bird registration for 2022 Global AppSec events, we will automatically send all current Corporate Members the relevant number of discount codes to your nominated address. Please distribute these codes to your staff to obtain the OWASP Member discount for the participating event. The discount codes only apply to the nominated participating event and are not valid once the early bird registration period closes. 
 
 ### Ambassdor to vote in Global Board Elections
 
