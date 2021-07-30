@@ -4,12 +4,18 @@
 - level: 2
   title: Platinum
   image: /assets/images/sponsor2.png
+  memberimage: /assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg
 - level: 3
   title: Gold
   image: /assets/images/sponsor3.png
+  memberimage: /assets/images/corp-membership-icons/OWASP_Tier_icons_Gold.svg
 - level: 4
   title: Silver
   image: /assets/images/sponsor4.png
+  memberimage: /assets/images/corp-membership-icons/OWASP_Tier_icons_Silver.svg
 - level: 5
   title: Supporter
   image: /assets/images/sponsor5.png
+- level: -1
+  title: None
+  image: 
