@@ -6,7 +6,12 @@ permalink: /
 tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vulnerability Assessment
 
 ---
-
+{% assign spnews_exists = False %}
+{% for file in site.static_files %}
+{% if file.name contains '_includes/specialnews.md' %}
+{% assign spnews_exists = True %}
+{% endif %}
+{% endfor %}
 <!-- Rebuild Site Tag 166 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
@@ -54,3 +59,5 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 <hr class="mobile">
 
 {% include news-events.html %}
+
+{% include specialnews.md %}
