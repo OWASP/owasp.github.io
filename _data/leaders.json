@@ -2193,14 +2193,14 @@
     {
         "name": "Amit Ojha",
         "email": "amit.ojha@owasp.org",
-        "group": "OWASP Gwalior",
+        "group": "OWASP-Gwalior-Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-gwalior/"
     },
     {
         "name": "Sumit Ojha",
         "email": "sumit.ojha@owasp.org",
-        "group": "OWASP Gwalior",
+        "group": "OWASP-Gwalior-Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-gwalior/"
     },
@@ -2961,15 +2961,22 @@
         "group_url": "https://owasp.org/www-chapter-indianapolis/"
     },
     {
-        "name": "Kevin Johnson",
+        "name": "Larry Franklin",
+        "email": "larry.franklin@owasp.org",
+        "group": "OWASP Jacksonville",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jacksonville/"
+    },
+    {
+        "name": "kevin Johnson - Outgoing Chapter Leader",
         "email": "kevin@secureideas.com",
         "group": "OWASP Jacksonville",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-jacksonville/"
     },
     {
-        "name": "Larry Franklin",
-        "email": "larry.franklin@owasp.org",
+        "name": "Mark King - Future Chapter Leader",
+        "email": "fires10@gmail.com",
         "group": "OWASP Jacksonville",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-jacksonville/"
@@ -3523,6 +3530,13 @@
     {
         "name": "Aatif Khan",
         "email": "aatif.khan@owasp.org",
+        "group": "OWASP Riyadh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-riyadh/"
+    },
+    {
+        "name": "Rayed Almutiry",
+        "email": "rayed.almutiry@owasp.org",
         "group": "OWASP Riyadh",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-riyadh/"
@@ -4509,7 +4523,7 @@
     },
     {
         "name": "Ed Matthews",
-        "email": "",
+        "email": "ed.matthews@owasp.org",
         "group": "OWASP Manchester NH",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-manchester-nh/"
@@ -6629,13 +6643,6 @@
         "group_url": "https://owasp.org/www-chapter-yerevan/"
     },
     {
-        "name": "Rodolfo Lopez",
-        "email": "rodolfo.lopez@grcbit.com",
-        "group": "OWASP IT GRC",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-it-grc/"
-    },
-    {
         "name": "Marco Lam",
         "email": "marco.lam@owasp.org",
         "group": "OWASP Kowloon",
@@ -6648,5 +6655,61 @@
         "group": "OWASP Kowloon",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kowloon/"
+    },
+    {
+        "name": "Aman Srivastava",
+        "email": "aman.srivastava@owasp.org",
+        "group": "OWASP Babu Banarasi Das NITM",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-babu-banarasi-das-nittm/"
+    },
+    {
+        "name": "Shivam Dixit",
+        "email": "shivam.dixit@owasp.org",
+        "group": "OWASP Babu Banarasi Das NITM",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-babu-banarasi-das-nittm/"
+    },
+    {
+        "name": "Ankita Agarwal",
+        "email": "ankita.agarwal@owasp.org",
+        "group": "OWASP Babu Banarasi Das NITM",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-babu-banarasi-das-nittm/"
+    },
+    {
+        "name": "Excel Philip Guidang",
+        "email": "excel.guidang@owasp.org",
+        "group": "OWASP Bangued",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bangued/"
+    },
+    {
+        "name": "Joventino T Trinidad",
+        "email": "joventino.trinidad@owasp.org",
+        "group": "OWASP Bangued",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bangued/"
+    },
+    {
+        "name": "Vyshnav NK",
+        "email": "vyshnav.nadukkandy@owasp.org",
+        "group": "OWASP Kannur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kannur/"
+    },
+    {
+        "name": "Amal Mohandas",
+        "email": "amal.mohandas@owasp.org",
+        "group": "OWASP Kannur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kannur/"
+    },
+    {
+        "name": "Prasanth K",
+        "email": "prasanth.kymmaruvath@owasp.org",
+        "group": "OWASP Kannur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kannur/"
     }
 ]
