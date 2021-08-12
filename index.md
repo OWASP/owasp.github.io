@@ -60,4 +60,4 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 
 {% include news-events.html %}
 
-{% include specialnews.md %}
+{% comment %}{% include specialnews.md %}{% endcomment %}
