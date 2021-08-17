@@ -175,6 +175,13 @@
         "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
     },
     {
+        "name": "Daniel Abeles",
+        "email": "daniel@oxeye.io",
+        "group": "OWASP Cloud-Native Application Security Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
+    },
+    {
         "name": "Srirama Dheeraj",
         "email": "",
         "group": "OWASP Lock It",
@@ -5007,14 +5014,14 @@
     {
         "name": "Avi Douglen",
         "email": "avi.douglen@owasp.org",
-        "group": "OWASP Threat Model",
+        "group": "OWASP Threat Modeling Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-model/"
     },
     {
         "name": "Steven Wierckx",
         "email": "steven.wierckx@owasp.org",
-        "group": "OWASP Threat Model",
+        "group": "OWASP Threat Modeling Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-model/"
     },
@@ -6701,6 +6708,20 @@
     {
         "name": "Prasanth K",
         "email": "prasanth.kunnaruvath@owasp.org",
+        "group": "OWASP Kannur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kannur/"
+    },
+    {
+        "name": "Arjun R",
+        "email": "arjun.rajendrakumar@owasp.org",
+        "group": "OWASP Kannur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kannur/"
+    },
+    {
+        "name": "Sooraj V",
+        "email": "sooraj.velluahouse@owasp.org",
         "group": "OWASP Kannur",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kannur/"
