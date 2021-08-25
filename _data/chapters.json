@@ -179,7 +179,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Medellin-Chapter",
-        "meetings": 0
+        "meetings": 6
     },
     {
         "name": "Monterrey",
@@ -277,7 +277,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-recife-meetup-group",
-        "meetings": 0
+        "meetings": 2
     },
     {
         "name": "Rio De Janeiro",
@@ -291,7 +291,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-rio-de-janeiro",
-        "meetings": 0
+        "meetings": 7
     },
     {
         "name": "Santa Rita Do Sapucai",
@@ -319,7 +319,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sao-Paulo-Chapter",
-        "meetings": 0
+        "meetings": 4
     },
     {
         "name": "Uruguay",
@@ -333,13 +333,13 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
-        "meetings": 0
+        "meetings": 7
     },
     {
         "name": "Vina Del Mar",
         "url": "https://owasp.org/www-chapter-vina-del-mar/",
         "created": "2019-09-12",
-        "updated": "2021-08-17",
+        "updated": "2021-08-25",
         "build": "built",
         "title": "OWASP Vina Del Mar",
         "level": "0",
@@ -361,7 +361,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-capixaba",
-        "meetings": 0
+        "meetings": 3
     },
     {
         "name": "Brisbane",
@@ -674,7 +674,7 @@
         "name": "Georgetown",
         "url": "https://owasp.org/www-chapter-georgetown/",
         "created": "2020-05-28",
-        "updated": "2021-07-30",
+        "updated": "2021-08-24",
         "build": "built",
         "title": "OWASP Georgetown",
         "level": "layout: col-sidebar",
@@ -772,7 +772,7 @@
         "name": "Jacksonville",
         "url": "https://owasp.org/www-chapter-jacksonville/",
         "created": "2019-09-12",
-        "updated": "2021-08-20",
+        "updated": "2021-08-24",
         "build": "built",
         "title": "OWASP Jacksonville",
         "level": "layout: col-sidebar",
@@ -1398,6 +1398,33 @@
         "meetings": 0
     },
     {
+        "name": "Gauhati University",
+        "url": "https://owasp.org/www-chapter-gauhati-university/",
+        "created": "2021-08-23",
+        "updated": "2021-08-23",
+        "build": "built",
+        "title": "OWASP Gauhati University",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
+        "name": "Jamshedpur",
+        "url": "https://owasp.org/www-chapter-jamshedpur/",
+        "created": "2021-08-23",
+        "updated": "2021-08-24",
+        "build": "built",
+        "title": "OWASP Jamshedpur",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-jamshedpur-chapter",
+        "meetings": 0
+    },
+    {
         "name": "Kowloon",
         "url": "https://owasp.org/www-chapter-kowloon/",
         "created": "2021-08-02",
@@ -1436,6 +1463,19 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "owasp-sao-luis",
+        "meetings": 0
+    },
+    {
+        "name": "Surabaya",
+        "url": "https://owasp.org/www-chapter-surabaya/",
+        "created": "2021-08-23",
+        "updated": "2021-08-24",
+        "build": "errored",
+        "title": "OWASP Surabaya",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -2239,7 +2279,7 @@
         "name": "Ahmedabad",
         "url": "https://owasp.org/www-chapter-ahmedabad/",
         "created": "2020-01-28",
-        "updated": "2021-08-20",
+        "updated": "2021-08-23",
         "build": "built",
         "title": "OWASP Ahmedabad",
         "level": "layout: col-sidebar",
@@ -2553,7 +2593,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Gwalior-Chapter",
-        "meetings": 0
+        "meetings": 3
     },
     {
         "name": "Hong Kong",
@@ -2670,7 +2710,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2021-08-22",
+        "updated": "2021-08-25",
         "build": "built",
         "title": "OWASP Japan",
         "level": "0",
@@ -2725,7 +2765,7 @@
         "name": "Karachi",
         "url": "https://owasp.org/www-chapter-karachi/",
         "created": "2020-02-12",
-        "updated": "2021-06-28",
+        "updated": "2021-08-23",
         "build": "built",
         "title": "OWASP Karachi Chapter",
         "level": "2",
@@ -2767,7 +2807,7 @@
         "name": "Kuala Lumpur",
         "url": "https://owasp.org/www-chapter-kuala-lumpur/",
         "created": "2020-06-02",
-        "updated": "2021-08-18",
+        "updated": "2021-08-23",
         "build": "built",
         "title": "OWASP Kuala Lumpur",
         "level": "0",
@@ -2865,7 +2905,7 @@
         "name": "Meerut",
         "url": "https://owasp.org/www-chapter-meerut/",
         "created": "2019-09-12",
-        "updated": "2021-07-07",
+        "updated": "2021-08-23",
         "build": "built",
         "title": "OWASP Meerut",
         "level": "layout: col-sidebar",
@@ -3031,7 +3071,7 @@
         "name": "Sagar Institute Of Science And Technology",
         "url": "https://owasp.org/www-chapter-sagar-institute-of-science-and-technology/",
         "created": "2021-03-17",
-        "updated": "2021-05-26",
+        "updated": "2021-08-23",
         "build": "built",
         "title": "OWASP Sagar Institute of Science and Technology (SISTec)-Student Chapter",
         "level": "layout: col-sidebar",
