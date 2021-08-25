@@ -19,7 +19,8 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
             <div class="member-img" style="background-image: url(/assets/images{{ member.image }});">
             </div>
         </div>
-        <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/><div class="member-location">{{member.location}}</div></div><br/>
+        <div class="member-caption"><h2>{{ member.name }}</h2><hr><strong>{{ member.title }}</strong><br/>
+        <div class="member-location">{{member.location}}</div></div><br/>
         <div class="member-info">{{ member.description }} Current Term Ends {{ member.term-ends}}.</div>	
     </div>
     <div style="height:18px;"></div>
