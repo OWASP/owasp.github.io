@@ -1,5 +1,19 @@
 [
     {
+        "name": "Miami",
+        "url": "https://owasp.org/www-chapter-miami/",
+        "created": "2019-09-12",
+        "updated": "2021-08-25",
+        "build": "built",
+        "title": "OWASP Miami",
+        "level": "0",
+        "type": "",
+        "region": "United States",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Miami-Chapter",
+        "meetings": 0
+    },
+    {
         "name": "Asuncion",
         "url": "https://owasp.org/www-chapter-asuncion/",
         "created": "2019-09-12",
@@ -179,7 +193,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Medellin-Chapter",
-        "meetings": 6
+        "meetings": 0
     },
     {
         "name": "Monterrey",
@@ -277,7 +291,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-recife-meetup-group",
-        "meetings": 2
+        "meetings": 0
     },
     {
         "name": "Rio De Janeiro",
@@ -291,7 +305,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-rio-de-janeiro",
-        "meetings": 7
+        "meetings": 0
     },
     {
         "name": "Santa Rita Do Sapucai",
@@ -319,7 +333,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sao-Paulo-Chapter",
-        "meetings": 4
+        "meetings": 0
     },
     {
         "name": "Uruguay",
@@ -333,7 +347,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
-        "meetings": 7
+        "meetings": 0
     },
     {
         "name": "Vina Del Mar",
@@ -361,7 +375,7 @@
         "region": "South America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-capixaba",
-        "meetings": 3
+        "meetings": 0
     },
     {
         "name": "Brisbane",
@@ -808,7 +822,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Las-Vegas-Chapter",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Long Island",
@@ -1398,12 +1412,12 @@
         "meetings": 0
     },
     {
-        "name": "Gauhati University",
-        "url": "https://owasp.org/www-chapter-gauhati-university/",
-        "created": "2021-08-23",
-        "updated": "2021-08-23",
+        "name": "Gujarat Technological University",
+        "url": "https://owasp.org/www-chapter-gujarat-technological-university/",
+        "created": "2021-08-26",
+        "updated": "2021-08-26",
         "build": "built",
-        "title": "OWASP Gauhati University",
+        "title": "OWASP Gujarat Technological University",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -1435,20 +1449,6 @@
         "type": "",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Miami",
-        "url": "https://owasp.org/www-chapter-miami/",
-        "created": "2019-09-12",
-        "updated": "2021-08-20",
-        "build": "built",
-        "title": "OWASP Miami",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Miami-Chapter",
         "meetings": 0
     },
     {
@@ -1776,7 +1776,7 @@
         "name": "Israel",
         "url": "https://owasp.org/www-chapter-israel/",
         "created": "2019-09-12",
-        "updated": "2021-07-11",
+        "updated": "2021-08-26",
         "build": "built",
         "title": "OWASP Israel",
         "level": "0",
@@ -2545,7 +2545,7 @@
         "name": "Fukuoka",
         "url": "https://owasp.org/www-chapter-fukuoka/",
         "created": "2021-01-11",
-        "updated": "2021-08-18",
+        "updated": "2021-08-26",
         "build": "built",
         "title": "OWASP Fukuoka",
         "level": "layout: col-sidebar",
@@ -2562,6 +2562,19 @@
         "build": "built",
         "title": "OWASP Fukushima",
         "level": "0",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
+        "name": "Gauhati University",
+        "url": "https://owasp.org/www-chapter-gauhati-university/",
+        "created": "2021-08-23",
+        "updated": "2021-08-26",
+        "build": "built",
+        "title": "OWASP Gauhati University",
+        "level": "layout: col-sidebar",
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
@@ -2593,7 +2606,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Gwalior-Chapter",
-        "meetings": 3
+        "meetings": 0
     },
     {
         "name": "Hong Kong",
@@ -2613,7 +2626,7 @@
         "name": "Hyderabad",
         "url": "https://owasp.org/www-chapter-hyderabad/",
         "created": "2019-09-12",
-        "updated": "2021-07-07",
+        "updated": "2021-08-25",
         "build": "built",
         "title": "OWASP Hyderabad",
         "level": "ayout: col-sidebar",
