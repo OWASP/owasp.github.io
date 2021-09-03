@@ -451,12 +451,12 @@
   image: /assets/images/corp-member-logo/signal-sciences.png
   url: https://www.signalsciences.com/
   description: Signal Sciences secures the most important web applications, APIs, and microservices of the world's leading companies. Our next-gen WAF and RASP help you increase security and maintain site reliability without sacrificing velocity, all at the lowest total cost of ownership. Learn how our patented approach can help you.	
-- member: false	
+- member: true
   sponsor: 	
   name: Software Improvement Group	
-  image: /assets/images/corp-member-logo/sig.png
+  image: /assets/images/corp-member-logo/sig_logo.png
   url: https://www.softwareimprovementgroup.com/	
-  description: SIG gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
+  description: Software Improvement Group (SIG) gives technology leaders the visibility they need to address current software problems and prevent future ones from ever happening. Drawing on proprietary methods and decades of expertise, SIG helps organizations fundamentally improve the security and performance of the enterprise applications that support every aspect of their businesses.
 - member: false	
   sponsor: 4	
   name: Sonarsource	
