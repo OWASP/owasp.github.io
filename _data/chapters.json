@@ -126,6 +126,20 @@
         "meetings": 0
     },
     {
+        "name": "Fortaleza",
+        "url": "https://owasp.org/www-chapter-fortaleza/",
+        "created": "2020-01-17",
+        "updated": "2021-03-09",
+        "build": "built",
+        "title": "OWASP Fortaleza",
+        "level": "2",
+        "type": "",
+        "region": "South America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Fortaleza-Chapter",
+        "meetings": 0
+    },
+    {
         "name": "Guayaquil",
         "url": "https://owasp.org/www-chapter-guayaquil/",
         "created": "2019-09-12",
@@ -1516,6 +1530,20 @@
         "meetings": 0
     },
     {
+        "name": "Aarhus",
+        "url": "https://owasp.org/www-chapter-aarhus/",
+        "created": "2019-09-12",
+        "updated": "2021-03-25",
+        "build": "built",
+        "title": "OWASP Aarhus",
+        "level": "0",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Aarhus-Chapter",
+        "meetings": 2
+    },
+    {
         "name": "Belfast",
         "url": "https://owasp.org/www-chapter-belfast/",
         "created": "2019-09-12",
@@ -1597,7 +1625,21 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Cambridge-Meetup",
-        "meetings": 6
+        "meetings": 0
+    },
+    {
+        "name": "Cluj",
+        "url": "https://owasp.org/www-chapter-cluj/",
+        "created": "2019-09-12",
+        "updated": "2021-08-17",
+        "build": "no pages",
+        "title": "OWASP Cluj",
+        "level": "0",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Cluj",
+        "meetings": 0
     },
     {
         "name": "Copenhagen",
@@ -1768,6 +1810,20 @@
         "meetings": 0
     },
     {
+        "name": "Iasi",
+        "url": "https://owasp.org/www-chapter-iasi/",
+        "created": "2020-08-17",
+        "updated": "2021-06-14",
+        "build": "no pages",
+        "title": "OWASP Iasi",
+        "level": "ayout: col-sidebar",
+        "type": "layout: col-sidebar",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Iasi-Meetup-Group",
+        "meetings": 0
+    },
+    {
         "name": "Israel",
         "url": "https://owasp.org/www-chapter-israel/",
         "created": "2019-09-12",
@@ -1835,6 +1891,20 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "kyiv-meetup-group",
+        "meetings": 0
+    },
+    {
+        "name": "Leeds Uk",
+        "url": "https://owasp.org/www-chapter-leeds-uk/",
+        "created": "2019-09-12",
+        "updated": "2021-07-07",
+        "build": "no pages",
+        "title": "OWASP Leeds, UK",
+        "level": "3",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Leeds-Chapter",
         "meetings": 0
     },
     {
@@ -2563,6 +2633,19 @@
         "meetings": 0
     },
     {
+        "name": "Gauhati University",
+        "url": "https://owasp.org/www-chapter-gauhati-university/",
+        "created": "2021-08-23",
+        "updated": "2021-08-28",
+        "build": "no pages",
+        "title": "OWASP Gauhati University",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Guwahati",
         "url": "https://owasp.org/www-chapter-guwahati/",
         "created": "2021-06-16",
@@ -3212,6 +3295,20 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-surabaya-chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Surat",
+        "url": "https://owasp.org/www-chapter-surat/",
+        "created": "2019-09-12",
+        "updated": "2021-07-07",
+        "build": "no pages",
+        "title": "OWASP Surat",
+        "level": "0",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "surat-owasp-meetup-group",
         "meetings": 0
     },
     {
