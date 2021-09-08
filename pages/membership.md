@@ -25,7 +25,7 @@ permalink: /membership/
       <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
       <p>There are many benefits to membership including:</p>
       <ul> 
-        <li>Access to the <a href="https://members.owasp.org/">Membership Portal</a>(with owasp.org email address)</li>
+        <li>Access to the <a href="https://members.owasp.org/">Membership Portal</a> with owasp.org email address.</li>
         <li>Discounts at our global and participating regional conferences</li>
         <li>Training discounts</li>
         <li>OWASP email address and Google Workplace access</li>
