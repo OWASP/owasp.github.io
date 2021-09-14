@@ -6,6 +6,10 @@ permalink: /sample/
 
 ---
 
+{% for m in site.data.tstmenu %}
+Title: {{m.title}}
+{% endfor %}
+
 <div>
   <p style="font-size: 40px; background-color: whitesmoke;">Content tags</p>
   
