@@ -39,7 +39,7 @@ permalink: /membership/
         <li> Exclusive, industry-specific offers</li>
         <li>And others...</li>
       </ul>
-      <div class='alert'>Lifetime Memberships are now 10% off as part of the <a href="https://20thanniversary.owasp.org">OWASP 20th Anniversary Celebration</a></div>
+      <!--<div class='alert'>Lifetime Memberships are now 10% off as part of the <a href="https://20thanniversary.owasp.org">OWASP 20th Anniversary Celebration</a></div>-->
       <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
@@ -216,7 +216,7 @@ window.addEventListener('load', function () {
           return [
             { name: 'One Year', amount: '$50', discount: false },
             { name: 'Two Year', amount: '$95', discount: false },
-            { name: 'Lifetime', amount: '$450', discount: false, special: '(previously $500)' }
+            { name: 'Lifetime', amount: '$500', discount: false}
           ];
 	  }
         } else {
@@ -228,7 +228,7 @@ window.addEventListener('load', function () {
           return [
             { name: 'One Year', amount: '$20', discount: true }, 
             { name: 'Two Year', amount: '$35', discount: true }, 
-            { name: 'Lifetime', amount: '$180', discount: true, special: '(previously $200)' } 
+            { name: 'Lifetime', amount: '$200', discount: true} 
           ]
 	  }
         }
