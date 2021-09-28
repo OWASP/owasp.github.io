@@ -1,3 +1,11 @@
+# Definitions for this file
+# member: true if the company is a corporate sponsor, false otherwise
+# membertype: (2 = Platinum, 3 = Gold, 4 or missing = Silver) 
+# sponsor: (1 = Diamond, 2 = Platinum, 3 = Gold, 4 = Silver, 5 = Supporter)
+# name: name of company
+# image: relative URL to the logo image
+# url: url of the company website
+# description: description of the company
 - member: false
   sponsor: 4
   name: 7A Security
