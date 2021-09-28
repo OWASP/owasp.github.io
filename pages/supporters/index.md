@@ -10,9 +10,9 @@ tags: corp-membership
 
 ## 20th Anniversary Celebrations!
 
-We have completely refreshed our Corporate Membership program to celebrate our anniversary with some exciting new benefits and options. Here's how you can get involved.
+We have completely refreshed our Corporate Membership program to celebrate our 20th Anniversary with some exciting new benefits and options. Here's how you can get involved.
 
-As OWASP's 20th Anniversary approaches on September 24, we will be running a Corporate Membership drive in the lead up to our [20th Anniversary Celebrations on September 24](https://20thanniversary.owasp.org/). [20th Anniversary Sponsorships Packages](https://20thanniversary.owasp.org/sponsors/) are still available. 
+September 24, 2021 marked the OWASP's 20th Anniversary. To add to and continue with the celebration, we are running a Corporate Membership drive.
 
 Help support OWASP's mission, by becoming an [OWASP Corporate Member](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
 
