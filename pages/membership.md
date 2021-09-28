@@ -8,6 +8,20 @@ permalink: /membership/
 
 <style>
 [v-cloak] {display: none}
+.shared-header {
+  width: 50%;
+  display: inline;
+  padding: 8px;
+  border-left: 2px solid darkgray;
+  border-top: 2px solid darkgray;
+  border-right: 2px solid darkgray;
+  border-radius: 4px;
+  margin-right: 6px;
+}
+
+.unselected {
+  background: lightgray;
+}
 </style>
 
 {% raw %}
@@ -19,8 +33,7 @@ permalink: /membership/
 
       <!-- main membership form -->
 
-      <h1>Individual Membership</h1>
-      <i><p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p></i>
+      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Membership</a></h1></div>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
       <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
       <p>There are many benefits to membership including:</p>
