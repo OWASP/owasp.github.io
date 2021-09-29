@@ -1,3 +1,11 @@
+# Definitions for this file
+# member: true if the company is a corporate sponsor, false otherwise
+# membertype: (2 = Platinum, 3 = Gold, 4 or missing = Silver) 
+# sponsor: (1 = Diamond, 2 = Platinum, 3 = Gold, 4 = Silver, 5 = Supporter)
+# name: name of company
+# image: relative URL to the logo image
+# url: url of the company website
+# description: description of the company
 - member: false
   sponsor: 4
   name: 7A Security
@@ -584,8 +592,9 @@
   url: https://www.cyberment.it/
   description: "Cyberment is a company specialized in IT security consulting and training. We constantly study the evolution of cyber threats from our corporate offices: Milan, Mantua, London.  We are strategic consultants that deal with defending business and people from cyber threats. We help companies to prevent cyber-attacks finding security bugs through Vulnerability Assessment and Penetration Test services. Our reports are concrete solutions and explain the customers where are risks and how to solve them.  Cyberment is an international company involving people, technologies and values: the core activity of the team is strictly related to the freedom, security and well-being of people."
 - member: true
-  sponsor: 2
+  sponsor: 4
   name: Black Belt Security
+  membertype:  2
   image: /assets/images/corp-member-logo/black_belt_logo.png
   url: https://blackbeltsec.com/
   description: >-
@@ -595,8 +604,10 @@
 - member: true
   sponsor: -1
   name: Mercari Inc.
-  image: /assets/images/corp-member-logo/mercari.png
+  membertype:  3
+  image: /assets/images/corp-member-logo/mercari_logo.png
   url:  https://about.mercari.com/en/
   description: >-
-    Mercari providers a C2C marketplace where individuals can easily sell used items. We want to provide both buyers and sellers with a service where they can enjoy safe and secure transactions. Mercari offers a unique customer experience, with a transaction environment that uses an escrow system, where Mercari temporarily holds payments, and simple and affordable shipping options.</a>
-  
+    Mercari provides a C2C marketplace where individuals can easily sell used items. We want to provide both buyers and sellers with a service
+    where they can enjoy safe and secure transactions. Mercari offers a unique customer experience, with a transaction environment that uses an 
+    escrow system, where Mercari temporarily holds payments, and simple and affordable shipping options.
