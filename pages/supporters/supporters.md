@@ -202,7 +202,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
         {{ supporter.description }}
         </p>
         </li>
-        <hr>
+        {% if not supporters.last %}<hr>{% endif %}
     {% endif %}
 {% endfor %}
 
