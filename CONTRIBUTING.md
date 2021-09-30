@@ -1,5 +1,7 @@
 This is the source code for the root web pages in https://owasp.org/
 
+For providing contributions to our Community related pages see the [OWASP Community Pages](https://github.com/OWASP/www-community) or the associated [GitHub OWASP Community Pages Repository](https://github.com/OWASP/www-community)
+
 The website is generated using [GitHub Pages](https://github.com/pages). We use a [custom theme](https://github.com/owasp/www--site-theme/).
 
 To contribute to this repository, you will need to have a [GitHub account](https://github.com/). You can make edits using the integrated editor in GitHub and then open a PR (pull request).
