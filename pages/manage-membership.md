@@ -293,8 +293,9 @@ window.addEventListener('load', function () {
                 vm.userData.emaillist = []
                 vm.provision_email_message = true
           }).catch(function (error) {
-              vm.errors = error
+              vm.errors = [error]
             });
+  
       },
       redirectToStripe: function (sessionId) {
         stripe.redirectToCheckout({
