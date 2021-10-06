@@ -1,12 +1,15 @@
 ---
 
-title: Event Spotlight - OWASP's 20th Anniversary Event Celebration
+title: Event Spotlight - OWASP Global AppSec US 2021 Virtual
 layout: col-sidebar
 permalink: /events/spotlight/
 
 ---
 
-[![OWASP's 20th Anniversary Event Celebration](/pages/chapters/spotlight/OWASP20thAnniversary1.jpeg){:class="featured-proj-image"}](https://20thanniversary.owasp.org/)
+![OWASP Global AppSec US 2021 Virtual](https://usa.globalappsec.org/assets/images/virtualUSheader.png)
 
-Join us September 24 for 24-hours as we honor the past, celebrate the present and embrace the future of OWASP and cybersecurity. Hear from world renowned keynotes and special speakers, network with your peers and interact with our event sponsors. With an anticipated 10k+ attendees from around the world, you will not want to miss this live on-line event!
-Our program will be announced soon and [sponsorships](https://20thanniversary.owasp.org/sponsors/) are now being accepted!
+Global AppSec US Virtual 2021 returns Nov. 11-12, 2021. Designed for private and public sector infosec professionals, the two day OWASP conferences equip developers, defenders, and advocates to build a more secure web.
+
+Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.     
+
+Sponsorship opportunities for this conference can be found [here](https://usa.globalappsec.org/assets/images/Global_AppSec_US_2021_Sponsorship_.pdf)
