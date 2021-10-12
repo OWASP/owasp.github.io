@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-I am very pleased to announce that the OWASP Foundation has recruited [Lauren Thomas](https://owasp.org/corporate/) as our new Events Coordinator. I'm sure those of you involved with Events will welcome Lauren's appointment!
+I am very pleased to announce that the OWASP Foundation has recruited [Lauren Thomas](https://www.linkedin.com/in/lauren-summerlin-thomas-52129587/) as our new Events Coordinator. I'm sure those of you involved with Events will welcome Lauren's appointment!
 
 <!--more-->
 
