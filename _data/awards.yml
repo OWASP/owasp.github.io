@@ -1,0 +1,39 @@
+- title: WASPY
+  type: category
+  description: The WASPY Awards started in 200 BC
+- title: Distinguished Lifetime Memberships
+  type: category
+  description: Awarded by the board for outstanding involvement in the organization over the course of many years.
+- title: Most Outstanding Chapter Leader
+  type: award
+  category: WASPY
+  year: 2021
+  winners:
+    - name: Johann Johann
+      title: Chapter Leader, Avernus
+      info: >-
+        Lorem ipsum defacto Klaatu barada nikto
+- title: Most Effective Project Leader
+  type: award
+  category: WASPY
+  year: 2020
+  winners:
+    - name: Ekoj Rekam
+      title: Nextdoor Neighbor
+      info:
+    - name: Winner Two
+      title: Always Second
+      info: Example of more info on Winner Two
+- title: OWASP Distinguished Lifetime Membership
+  type: award
+  category: Distinguished Lifetime
+  year: 2021
+  winners:
+    - name: Ekoj Rekam
+      title: Nextdoor Neighbor
+      info: >-
+        Collector of fine goods
+    - name: Lorm Lore
+      title:
+      info: >-
+        Lorm Lore like to be secure
