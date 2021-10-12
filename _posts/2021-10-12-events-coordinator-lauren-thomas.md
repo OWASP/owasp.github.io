@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 I am very pleased to announce that the OWASP Foundation has recruited [Lauren Thomas](https://owasp.org/corporate/) as our new Events Coordinator. I'm sure those of you involved with Events will welcome Lauren's appointment!
 
-<--more-->
+<!--more-->
 
 Lauren comes to OWASP with a wealth of events experience, and will be helping us with all things events: AppSec Globals, AppSec Days, training, virtual events, and assisting the OWASP events community. Some of her first tasks will be to work on the forthcoming [AppSec Virtual](https://usa.globalappsec.org/), and working with the community to improve Events In A Box and our events budgeting templates.
 
