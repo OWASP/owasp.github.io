@@ -1,6 +1,5 @@
 ## Important Links
 * [Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
- 
 * [OWASP Policies and Procedures](https://owasp.org/www-policy/)
 * [Chapter Policy](https://owasp.org/www-policy/)
 * [All Chapter Leaders](/chapters/leaders/)
