@@ -11,6 +11,6 @@
 * Make sure there is not another chapter within 50 miles/80 km. [List of All Chapters Status](/chapters/status/)
 * Must read the [Chapter Policy](https://owasp.org/www-policy/) 
 * And follow the [OWASP policies](https://owasp.org/www-policy/)
-## Tickets to enter outlined in Chapter Policy:
+## Tickets described in Chapter Policy:
 * [Start a New/Reactivate Chapter Request Ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
 * [Add/Change Leaders Request Ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
