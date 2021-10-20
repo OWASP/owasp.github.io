@@ -5,16 +5,18 @@
   type: category
   description: Awarded by the board for outstanding involvement in the organization over the course of many years.
 # Everything below the categories is example data and can be removed when comfortable with formats
-# - title: Most Outstanding Chapter Leader
-#   type: award
-#   category: WASPY
-#   year: 2021
-#   winners:
-#     - name: Johann Johann
-#       title: Chapter Leader, Avernus
-#       image: /assets/images/people/no-person.png
-#       info: >-
-#         Lorem ipsum defacto Klaatu barada nikto
+- title: Oustanding Innovator 
+  type: award
+  category: WASPY
+  year: 2021
+  winners:
+    - name: Bjoern Kimminich
+      title: 
+      image: /assets/images/people/Bjoern_Kimminich.jpg
+      info: 
+
+
+
 # - title: Most Effective Project Leader
 #   type: award
 #   category: WASPY
