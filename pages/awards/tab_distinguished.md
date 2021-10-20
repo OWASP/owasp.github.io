@@ -8,7 +8,6 @@ order: 1
 tags: awd
 
 ---
-
 ## Distinguished Lifetime Membership Awards
 <section class="corporate">
 
@@ -19,12 +18,15 @@ tags: awd
 {% assign previous = award.year %}
 <hr>
 <h2>{{award.year}}</h2>
-{% endif %}
+{%endif%}
+<br>
+<hr>
+* <h3>{{award.title}}</h3>
 {% for winner in award.winners %}
-<div class="member-container">
-{% if winner.image %}<div class="member-img-container"><img src="{{winner.image}}" alt="{{winner.name}}" class="member-img"></div>{% endif %}<div class="member-caption"><h3>{{ winner.name }}</h3>{%if winner.title %}({{winner.title}}){% endif %}</div>
-{%- if winner.info -%}<br>{{winner.info}}{%- endif -%}
-</div>
+    * ![{{winner.name}}]({{winner.image}}){:width="80px"}{{winner.name}}
+{%- if winner.info -%}
+     <br>{{winner.info}}
+{%- endif -%}
+<br>
 {% endfor %}
 {%endfor%}
-</section>

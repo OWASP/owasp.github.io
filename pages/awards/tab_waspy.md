@@ -8,23 +8,24 @@ order: 2
 tags: awd
 
 ---
-## WASPY Awards
-<section class="corporate">
 
+## WASPY Awards
 {% assign awards = site.data.awards | where: 'category', 'WASPY' | sort: 'year' | reverse %}
 {% assign previous = nil %}
 {%for award in awards %}
 {% if previous != award.year %}
 {% assign previous = award.year %}
 <hr>
-<h3>{{award.year}}</h3>
-{% endif %}
-<h3>{{ award.title }}{% if award.winners.size > 1%}s{%endif%}</h3><br>
+<h2>{{award.year}}</h2>
+{%endif%}
+<br>
+<hr>
+* <h3>{{award.title}}</h3>
 {% for winner in award.winners %}
-<div class="member-container">
-{% if winner.image %}<div class="member-img-container"><img src="{{winner.image}}" alt="{{winner.name}}" class="member-img"></div>{% endif %}<div class="member-caption"><strong>{{ winner.name }}</strong>{%if winner.title %}({{winner.title}}){% endif %}</div>
-{%- if winner.info -%}<br>{{winner.info}}{%- endif -%}
-</div>
+    * ![{{winner.name}}]({{winner.image}}){:width="80px"}{{winner.name}}
+{%- if winner.info -%}
+     <br>{{winner.info}}
+{%- endif -%}
+<br>
 {% endfor %}
 {%endfor%}
-</section>
