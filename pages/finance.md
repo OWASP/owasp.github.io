@@ -38,7 +38,8 @@ As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foun
 
 The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December. We post our 990 as soon as we can each year.
 
-- [2019](/assets/financial-taxreturns/2018_Form_990.pdf){:target='_blank'}
+- [2020](/assets/financial-taxreturns/2020_Form_990.pdf){:target='_blank'}
+- [2019](/assets/financial-taxreturns/2019_Form_990.pdf){:target='_blank'}
 - [2018](/assets/financial-taxreturns/2018_Form_990.pdf){:target='_blank'}
 - [2017](/assets/financial-taxreturns/2017_Form_990.pdf){:target='_blank'}
 - [2016](/assets/financial-taxreturns/2016_Form_990.pdf){:target='_blank'}
