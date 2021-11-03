@@ -36,23 +36,11 @@ permalink: /membership/
       <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Membership</a></h1></div>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
       <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
-      <p>There are many benefits to membership including:</p>
-      <ul> 
-        <li>Access to the <a href="https://members.owasp.org/">Membership Portal</a> with owasp.org email address.</li>
-        <li>Discounts at our global and participating regional conferences</li>
-        <li>Training discounts</li>
-        <li>OWASP email address and Google Workplace access</li>
-        <li>A vote in our OWASP Global Board elections</li>
-	<li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
-        <li>Learn application security fundamentals through <a href="https://academy.wehackpurple.com/enroll/1506193?th__ug=ee41e186&th__c=owaspmembers">We Hack Purple’s Application Security Foundations Level 1 Course</a></li> 
-	<li>Access DevSecOps training from <a href="https://learning.appsecengineer.com/signup/partner/Y29tcGFueV9hY2I4ODBkMC02M2Y3LTRkMzctYjI0ZS0yMDQ5ZDYwYzhmMjU">AppSecEngineer</a></li>
-      	<li>Networking and directory access</li>
-        <li>Flexible online learning discounts</li>
-        <li>Professional mentoring programs</li>
-        <li>Meaningful volunteer opportunities</li>
-        <li> Exclusive, industry-specific offers</li>
-        <li>And others...</li>
-      </ul>
+
+<!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
+{% endraw %}
+      {% include member_benefits.md %}
+{% raw %}
       <!--<div class='alert'>Lifetime Memberships are now 10% off as part of the <a href="https://20thanniversary.owasp.org">OWASP 20th Anniversary Celebration</a></div>-->
       <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
