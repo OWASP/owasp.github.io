@@ -87,7 +87,7 @@ permalink: /membership/
 	    <input type="checkbox" v-model="mailing_list">
 	    <span class="checkmark"></span>
 	  </label>
-    <label class="checkbox-container">I am requesting Complimentary Membership for OWASP Leaders
+    <label class="checkbox-container">I am requesting <a href="https://owasp.org/www-policy/operational/membership#complimentary-membership">Complimentary Membership for OWASP Leaders</a>
 	    <input type="checkbox" v-model="free_leader">
 	    <span class="checkmark"></span>
 	  </label>
