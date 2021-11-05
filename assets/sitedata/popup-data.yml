@@ -1,0 +1,23 @@
+# This file is just an example file; see owasp.github.io repository for the actual popup data file
+- type: notice
+  start: 2021-04-19 10:00:00-0500
+  end: 2021-11-12 01:00:00-0500
+  text: >-
+    <div style="margin:auto;width:100%;text-align:center;">
+      <h2 style="width:100%;margin:auto;padding-left:24px; padding-right:24px;">OWASP Global AppSec 2021 Virtual US Conference</h2>
+      <h3>November 11-12</h3>
+      <div style="width:50%;display:inline;padding:24px;text-align:center;float:left;height:100%;" id='not-registered'>
+        <h3>Not Registered Yet?</h3>
+        <br>Get registered to access the full content<br> and connect with the OWASP community<br>
+        <br>
+        <a href="https://www.eventbrite.com/e/global-appsec-us-2021-virtual-conference-tickets-162096600295" class="cta-button">Register Now</a>
+      </div>
+      <div style="width:50%;display:inline;padding:24px;text-align:center;float:left;height:100%;" id='registered'>
+        <h3>Already Registered?</h3>
+        <br>Create an account or log into<br> Whova to watch<br>
+        <br>
+        <a href="https://whova.com/portal/webapp/owasp1_202111/sign_up" class="cta-button">Get Whova Now</a>
+        <br>
+        <span style="font-size:smaller"><i>*You must use the email address from your Eventbrite registration</i></span> 
+      </div>
+    </div>
