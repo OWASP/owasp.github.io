@@ -777,15 +777,8 @@
         "group_url": "https://owasp.org/www-chapter-colombo/"
     },
     {
-        "name": "Terry Bradshaw",
-        "email": "terry.bradshaw@owasp.org",
-        "group": "OWASP Colorado Springs",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-colorado-springs/"
-    },
-    {
-        "name": "Andrew van der Stock",
-        "email": "vanderaj@owasp.org",
+        "name": "Terry Bradley",
+        "email": "terry.bradley@owasp.org",
         "group": "OWASP Colorado Springs",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-colorado-springs/"
@@ -2681,20 +2674,6 @@
         "group_url": "https://owasp.org/www-chapter-nairobi/"
     },
     {
-        "name": "Mark Geeslin",
-        "email": "mark.geeslin@owasp.org",
-        "group": "OWASP Nashville",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-nashville/"
-    },
-    {
-        "name": "Joel Tomassini",
-        "email": "joel.tomassini@owasp.org",
-        "group": "OWASP Nashville",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-nashville/"
-    },
-    {
         "name": "Brandon Evans",
         "email": "brandon.evans@owasp.org",
         "group": "OWASP Nashville",
@@ -2704,6 +2683,13 @@
     {
         "name": "Casey Rosini",
         "email": "casey.rosini@owasp.org",
+        "group": "OWASP Nashville",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-nashville/"
+    },
+    {
+        "name": "Joel Tomassini",
+        "email": "joel.tomassini@owasp.org",
         "group": "OWASP Nashville",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-nashville/"
@@ -2863,8 +2849,8 @@
         "group_url": "https://owasp.org/www-chapter-noida/"
     },
     {
-        "name": "Pooja Sharma)(mailto:",
-        "email": "* [pooja sharma)(",
+        "name": "Pooja Sharma",
+        "email": "",
         "group": "OWASP Noida",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-noida/"
@@ -3257,14 +3243,14 @@
     {
         "name": "Arvind Mehta",
         "email": "arvind.mehta@owasp.org",
-        "group": "OWASP Princeton",
+        "group": "OWASP Princeton, New Jersey",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-princeton/"
     },
     {
         "name": "Ashutosh Rana",
         "email": "ashutosh.rana@owasp.org",
-        "group": "OWASP Princeton",
+        "group": "OWASP Princeton, New Jersey",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-princeton/"
     },
@@ -4370,6 +4356,27 @@
     {
         "name": "Sparsh Raj",
         "email": "sparsh.raj@owasp.org",
+        "group": "OWASP Vellore Institute of Technology Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vellore-institute-of-technology-student-chapter/"
+    },
+    {
+        "name": "Shraddha Mehta",
+        "email": " shraddha.mehta@owasp.org",
+        "group": "OWASP Vellore Institute of Technology Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vellore-institute-of-technology-student-chapter/"
+    },
+    {
+        "name": "Aditya Basta",
+        "email": " aditya.basta@owasp.org",
+        "group": "OWASP Vellore Institute of Technology Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vellore-institute-of-technology-student-chapter/"
+    },
+    {
+        "name": "Kunal Kumar Jha",
+        "email": " kunalkumar.jha@owasp.org",
         "group": "OWASP Vellore Institute of Technology Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vellore-institute-of-technology-student-chapter/"
@@ -6440,8 +6447,8 @@
         "group_url": "https://owasp.org/www-project-seraphimdroid/"
     },
     {
-        "name": "Kartik Kholi",
-        "email": "kartik.kholi@owasp.org",
+        "name": "Kartik Kohli",
+        "email": "kartik.kohli@owasp.org",
         "group": "OWASP Seraphimdroid",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-seraphimdroid/"
