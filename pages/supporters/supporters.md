@@ -13,7 +13,7 @@ tags: corp-membership
 _Disclaimer:_ The following information is not an endorsement for any particular entity and reflects the messaging of the supporter only.
 
 
-{% assign supporters = site.data.corp_members | sort: 'name' %}
+{% assign supporters = site.data.corp_members | sort: 'sortname' %}
 
 <h2>Diamond Corporate Event Sponsors</h2>
 <ul style='list-style-type:none;     padding-inline-start: 0px;'>
