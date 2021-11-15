@@ -7051,7 +7051,14 @@
     {
         "name": "Jeroen Willemsen",
         "email": "jeroen.willemsen@owasp.org",
-        "group": "OWASP wrongsecrets",
+        "group": "OWASP WrongSecrets",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-wrongsecrets/"
+    },
+    {
+        "name": "Ben de Haan",
+        "email": "ben.dehaan@owasp.org",
+        "group": "OWASP WrongSecrets",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-wrongsecrets/"
     },
