@@ -5,12 +5,12 @@
 * [OWASP Meetup](https://owasp.meetup.com)
 * [Upcoming OWASP Community Activities](/chapters/events/)
 * [ALL Chapter Support Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
-*   New Chapter Request
-*   New Leader
-*   Leader stepping down
-*   Reactivating a Chapter
-*   Shared Service request
-*   Pre-approval of chapter expense
+  - New Chapter Request
+  - New Leader
+  - Leader stepping down
+  - Reactivating a Chapter
+  - Shared Service request
+  - Pre-approval of chapter expense
 ## Additional Resources & Assistance:
 * [Chapter Committee page](https://owasp.org/www-committee-chapter/) or [email](mailto:chapter-committee@owasp.org)
 
