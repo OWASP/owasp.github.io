@@ -19,7 +19,7 @@ Most answers you might have about the OWASP Foundation can be found by searching
 - Local [Chapter](/chapters) Leaders are listed on a Chapters' respective page
 - Who do I contact for [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) opportunities?
 
-<a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
+<a href="https://owasporg.atlassian.net/servicedesk/customer/portals" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
 
 {% include slack_invite.html %}
 
