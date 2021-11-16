@@ -16,4 +16,4 @@
         <li>And others...</li>
       </ul>
       
-**[Questions or problems contact Membership Support](https://owasporg.atlassian.net/servicedesk/customer/portal/9)**
+[Questions or problems contact Membership Support](https://owasporg.atlassian.net/servicedesk/customer/portal/9)
