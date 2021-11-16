@@ -3,6 +3,7 @@
 # membertype: (2 = Platinum, 3 = Gold, 4 or missing = Silver) 
 # sponsor: (1 = Diamond, 2 = Platinum, 3 = Gold, 4 = Silver, 5 = Supporter)
 # name: name of company
+# sortname: name of company but use capital for at least the first letter to sort correctly
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
@@ -484,13 +485,6 @@
   image: /assets/images/corp-member-logo/si_logo_owasp_300x90.png
   url: https://www.secureideas.com
   description: Secure Ideas has delivered penetration testing, training, and security consulting services to clients in every industry since 2010. We are known in the information security community for our expertise in testing applications, including web, mobile, and APIs. Secure Ideas operates on a foundation of ethics marked by our popular tagline "Professionally Evil". We also strongly believe in the value of openly sharing information and security knowledge, which is why we champion affordable training and offer many of our short-form classes for free.
-- member: false
-  sponsor: -1
-  name: secuvera GmbH
-  sortname: Secuvera GmbH
-  image: /assets/images/corp-member-logo/secuvera_GmbH_logo.png
-  url: https://www.secuvera.de
-  description: secuvera is a highly specialized IT security consultancy in Germany. We are accredited and certified by the German Federal Office for Information Security. If you are looking for high qualified penetration test, secuvera is definitely a preferred choice. We offer services in ISO 27001, BSI-Grundschutz, as well as Product Certification services for Common Criteria and Industry 4.0 Security with IEC 62443. secuvera is strictly vendor neutral, supports OWASP projects since more than a decade and encourages employees to volunteer.
 - member: true
   sponsor: -1
   name: SecurityFirst
