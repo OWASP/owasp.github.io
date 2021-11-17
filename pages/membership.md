@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: full-width
 title: OWASP Membership Information & Benefits
 permalink: /membership/
 
