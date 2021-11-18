@@ -11,7 +11,8 @@
   - Reactivating a Chapter
   - Shared Service request
   - Pre-approval of chapter expense
-## Additional Resources & Assistance:
-* [Chapter Committee page](https://owasp.org/www-committee-chapter/) or [email](mailto:chapter-committee@owasp.org)
+  
+**Need asssitance contact the [Chapter Committee](mailto:chapter-committee@owasp.org)**
+* Visit their [OWASP Committee page](https://owasp.org/www-committee-chapter/)
 
 *[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
