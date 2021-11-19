@@ -16,3 +16,5 @@
 * Visit their [OWASP Committee page](https://owasp.org/www-committee-chapter/)
 
 *[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
+
+* [List of All Chapters status](https://owasp.org/chapters/status/)
