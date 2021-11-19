@@ -4,6 +4,8 @@
 * [All Chapter Leaders](/chapters/leaders/)
 * [OWASP Meetup](https://owasp.meetup.com)
 * [Upcoming OWASP Community Activities](/chapters/events/)
+* [List of All Chapters status](https://owasp.org/chapters/status/)
+
 * [ALL Chapter Support Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
   - New Chapter Request
   - New Leader
@@ -17,4 +19,4 @@
 
 *[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
 
-* [List of All Chapters status](https://owasp.org/chapters/status/)
+
