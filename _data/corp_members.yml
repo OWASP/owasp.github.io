@@ -735,4 +735,12 @@
   image: /assets/images/corp-member-logo/cyllectiveAGLogo.png
   url: 	https://cyllective.com
   description: "cyllective AG is an independent consulting and engineering firm in the IT security sector. With a strong background in offensive security, technical security audits are a cornerstone of the company’s services. While the main practices lie in offensive security-testing, cyllective is a holistic security company - offering many high-quality security services to customers world wide. cyllective is a privately held 'security boutique' - with moderate size, exquisite quality, and supreme customer satisfaction as our primary goals."
-
+- member: true
+  sponsor:
+  name: Oxeye
+  sortname: Oxeye
+  membertype:
+  image: /assets/images/corp-member-logo/oxeye_rgb_logo__light.png
+  url: 	https://www.oxeye.io/
+  description: Oxeye provides a cloud-native application security testing solution that is designed to overcome the challenges imposed by the complex nature of modern architectures. Oxeye disrupts traditional application security testing (AST) approaches by offering a contextual, effortless, and comprehensive solution to ensure no vulnerable code ever reaches production. Oxeye helps to shift-left security while accelerating development cycles, reducing friction, and eliminating risks. Leverage our advanced vulnerable-flow tracing technology to identify and resolve code vulnerabilities in your applications, services, APIs, and open-source libraries.
+  
