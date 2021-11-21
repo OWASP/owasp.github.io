@@ -6,16 +6,16 @@
        # start-date: 2021-1-20
        # dates: January 20, 2021
        # url:
-      - name: Brain Break
-        optional-text: Kick back and join us as you give your brain a break!
-        start-date: 2021-2-18
-        dates: October 20, and December 16
-        url: https://brainbreak.owasp.org
-      - name: Call to Battle
-        optional-text: Join us for our next Call to Battle on August 28 Capture the Flag Hacking-Defense Paraguay. Sponsorship opportunities are available!
-        start-date: 2021-2-26
-        dates: August 28, and December 7
-        url: https://calltobattle.owasp.org
+     # - name: Brain Break
+       # optional-text: Kick back and join us as you give your brain a break!
+       # start-date: 2021-2-18
+       # dates: October 20, and December 16
+       # url: https://brainbreak.owasp.org
+     # - name: Call to Battle
+     #   optional-text: Join us for our next Call to Battle on August 28 Capture the Flag Hacking-Defense Paraguay. Sponsorship opportunities are available!
+     #   start-date: 2021-2-26
+     #   dates: August 28, and December 7
+    #    url: https://calltobattle.owasp.org
       - name: OWASP Virtual Training Courses
         optional-text: Don't miss out on these multi-day virtual trainings to retool and level-up. Our next virtual training days will be held November 16-17. For more information on the trainings, how to register, and sponsorship opportunities, click OWASP Virtual Training Courses above.
         start-date: 2021-3-9
@@ -60,18 +60,22 @@
         #start-date: 2021-7-24
         #dates: July 24, 2021
         #url: https://owasp.org/www-project-developer-outreach-program/
-      - name: OWASP Portland Training Day 2021
-        start-date: 2021-10-13
-        dates: October 13, 2021
-        url: https://owasp.org/www-chapter-portland/
-      - name: LASCON 2021
-        start-date: 2021-10-26
-        dates: October 26-29, 2021
-        url: https://lascon.org/
+    #  - name: OWASP Portland Training Day 2021
+     #   start-date: 2021-10-13
+     #   dates: October 13, 2021
+     #   url: https://owasp.org/www-chapter-portland/
+     # - name: LASCON 2021
+     #   start-date: 2021-10-26
+     #   dates: October 26-29, 2021
+     #   url: https://lascon.org/
       - name: OWASP 2021 AppSec Days BeNeLux
         start-date: 2021-11-25
-        dates: November 25-26, 2021
+        dates: Postponed until 2022
         url: https://www.owaspbenelux.eu/
+      - name: SnowFROC 2022
+        start-date: 2022-03-03
+        dates: March 3, 2022
+        url:
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
