@@ -33,7 +33,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - **Integrity**: Our community is respectful, supportive, truthful, and vendor neutral
 
 ## Contacting OWASP
-Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72). Several other common contact points include:
+Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portals). Several other common contact points include:
 
 - [Corporate Sponsorships or Support](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 - [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83)
