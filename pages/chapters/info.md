@@ -6,17 +6,17 @@
 * [Upcoming OWASP Community Activities](/chapters/events/)
 * [List of All Chapters status](https://owasp.org/chapters/status/)
 
-* [ALL Chapter Support Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
-  - New Chapter Request
-  - New Leader
-  - Leader stepping down
-  - Reactivating a Chapter
-  - Shared Service request
-  - Pre-approval of chapter expense
+**NEW Chapter Support Request Tickets**
+  - [Start a New Chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
+  - [New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
+  - [Leader stepping down](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
+  - [Reactivating a Chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
+  - [Request a Shared Service](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
+  - [Pre-approval of Chapter Expense](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
   
 **Need asssitance contact the [Chapter Committee](mailto:chapter-committee@owasp.org)**
 * Visit their [OWASP Committee page](https://owasp.org/www-committee-chapter/)
 
-*[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
+*[Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)**
 
 
