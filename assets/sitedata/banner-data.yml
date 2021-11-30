@@ -1,6 +1,6 @@
 - type: alert
   start: 2021-11-29 10:00:00-0500
   end: 2021-12-01 01:00:00-0500
-  text: "<p>This Giving Tuesday, please consider donating to help us have <strong>no more insecure software.</strong> <a href="https://owasp.org/donate/">Donate Here</a></p>"
+  text: "<p>This Giving Tuesday, please consider donating to help us have <strong>no more insecure software.</strong> <a href='https://owasp.org/donate/'>Donate Here</a></p>"
 - type: notice
   text: "<p>Please support the OWASP mission to improve software security through Open Source initiatives and community education. <a href='https://owasp.org/donate/'>Donate Now!</a></p>"
