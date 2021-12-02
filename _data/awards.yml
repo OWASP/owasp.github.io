@@ -40,7 +40,8 @@
   winners:
     - name: Rick Mitchell
       image: /assets/images/people/Rick_Mitchell.jpg
-      info:
+      info:  >-
+          Rick's focus on Web Application Security has represents more than half of his 20+ year IT career. You may know him for his work as a co-lead of the ZAP project, however Rick can also be credited for his contributions to the Open Source Security Testing Methodology Manual (OSSTMM), Web Security Testing Guide (WSTG), Vulnerable Web Applications Directory (VWAD), and OWASP community content. Rick is a security assessment and testing trainer for part of his work, a lightning talk presenter at the Ottawa OWASP chapter meetings and AppSec USA, OWASP Ottawa volunteer, and has helped with project promotion assessments during previous AppSec USA conferences. Rick enjoys helping others learn and challenge themselves, and strongly believes that together we can and do make the industry better.
     - name: Riccardo Pereira
       title:  
       info: 
