@@ -52,16 +52,21 @@
 #       title: Always Second
 #       info: Example of more info on Winner Two
 #       image: /assets/images/people/no-person.png
-# - title: OWASP Distinguished Lifetime Membership
-#   type: award
-#   category: Distinguished Lifetime
-#   year: 2021
-#   winners:
-#     - name: Ekoj Rekam
-#       title: Nextdoor Neighbor
-#       image: /assets/images/people/no-person.png
-#       info: >-
-#         Collector of fine goods
+- title: OWASP Distinguished Lifetime Membership
+  type: award
+  category: Distinguished Lifetime
+  year: 2021
+  winners:
+    - name: Jeff Williams 
+      title: 
+      image: /assets/images/people/no-person.png
+      info: >-
+        See his interview [here](https://www.youtube.com/watch?v=ojJY8ysK-Tw)
+   - name: Dave Wichers
+      title: 
+      image: /assets/images/people/no-person.png
+      info: >-
+        See his interview [here](https://www.youtube.com/watch?v=nM3ABhcrS7c)  
 #     - name: Lorm Lore
 #       title:
 #       image: /assets/images/people/no-person.png
