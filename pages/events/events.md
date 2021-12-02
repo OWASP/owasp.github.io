@@ -37,7 +37,7 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 {% endif %}
 <ul>
 <li>{{ event.dates }}</li>
-{% if event.optional-text %}<li>{{ event.optional-text }}</li>{% endif %}
+{% if event.optional-text %}<li>{{ event.optional-text | markdownify }}</li>{% endif %}
 </ul>
 {% endfor %}
 {% endfor %}
