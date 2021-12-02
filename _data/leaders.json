@@ -1402,21 +1402,21 @@
     {
         "name": "Konstantinos Papapanagiotou",
         "email": "konstantinos@owasp.org",
-        "group": "OWASP Greece Chapter",
+        "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
     },
     {
         "name": "Nick Andriopoulos",
         "email": "nick.andriopoulos@owasp.org",
-        "group": "OWASP Greece Chapter",
+        "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
     },
     {
         "name": "Filippos Karapetis",
         "email": "filippos.karapetis@owasp.org",
-        "group": "OWASP Greece Chapter",
+        "group": "OWASP Greece",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-greece/"
     },
@@ -1951,6 +1951,20 @@
         "group": "OWASP Johannesburg",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-johannesburg/"
+    },
+    {
+        "name": "Boobalan Ravi",
+        "email": "boobalan.ravi@owasp.org",
+        "group": "OWASP Kanchipuran",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanchipuram/"
+    },
+    {
+        "name": "Jeyan Rajavel",
+        "email": "jeyan.rajavel@owasp.org",
+        "group": "OWASP Kanchipuran",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanchipuram/"
     },
     {
         "name": "Vyshnav NK",
@@ -3782,28 +3796,28 @@
     {
         "name": "Hasan Firnas",
         "email": "hasan.firnas@owasp.org",
-        "group": "OWASP SIST",
+        "group": "OWASP - Sathyabama Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sathyabama-institute-of-science-and-technology/"
     },
     {
         "name": "Sayan Pramanik",
         "email": "sayan.pramanik@owasp.org",
-        "group": "OWASP SIST",
+        "group": "OWASP - Sathyabama Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sathyabama-institute-of-science-and-technology/"
     },
     {
         "name": "Dhamodaran Sambandan",
         "email": "dhamodaran.sambandan@owasp.org",
-        "group": "OWASP SIST",
+        "group": "OWASP - Sathyabama Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sathyabama-institute-of-science-and-technology/"
     },
     {
         "name": "Albert Mayan John",
         "email": "albertmayan.john@owasp.org",
-        "group": "OWASP SIST",
+        "group": "OWASP - Sathyabama Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sathyabama-institute-of-science-and-technology/"
     },
@@ -5780,6 +5794,13 @@
         "group": "OWASP Java HTML Sanitizer",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-java-html-sanitizer/"
+    },
+    {
+        "name": "Joas Antonio",
+        "email": "joas.aantoniodossantosbarbosa@owasp.org",
+        "group": "OWASP JavaScript Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-javascript-security/"
     },
     {
         "name": "Ali Razmjoo",
