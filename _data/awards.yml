@@ -31,7 +31,7 @@
   winners:
     - name: Tanya Janca 
       image: /assets/images/people/Tanya_Janca.jpg
-      info:  >-
+      info: >-
           See interview [here](https://www.youtube.com/watch?v=dVDVcLyrnr40)
 - title: Outstanding Project
   type: award
@@ -40,18 +40,12 @@
   winners:
     - name: Rick Mitchell
       image: /assets/images/people/Rick_Mitchell.jpg
-      info:  >-
+      info: >-
           Rick's focus on Web Application Security has represents more than half of his 20+ year IT career. You may know him for his work as a co-lead of the ZAP project, however Rick can also be credited for his contributions to the Open Source Security Testing Methodology Manual (OSSTMM), Web Security Testing Guide (WSTG), Vulnerable Web Applications Directory (VWAD), and OWASP community content. Rick is a security assessment and testing trainer for part of his work, a lightning talk presenter at the Ottawa OWASP chapter meetings and AppSec USA, OWASP Ottawa volunteer, and has helped with project promotion assessments during previous AppSec USA conferences. Rick enjoys helping others learn and challenge themselves, and strongly believes that together we can and do make the industry better.
     - name: Riccardo Pereira
       title:  
       info: 
       image: /assets/images/people/wasp_circle_black%20(1).png
-# -     title: Nextdoor Neighbor
-#       info:
-#     - name: Winner Two
-#       title: Always Second
-#       info: Example of more info on Winner Two
-#       image: /assets/images/people/no-person.png
 - title: OWASP Distinguished Lifetime Membership
   type: award
   category: Distinguished Lifetime
@@ -67,8 +61,3 @@
       image: /assets/images/people/no-person.png
       info: >-
         See his interview [here](https://www.youtube.com/watch?v=nM3ABhcrS7c)  
-#     - name: Lorm Lore
-#       title:
-#       image: /assets/images/people/no-person.png
-#       info: >-
-#         Lorm Lore like to be secure
