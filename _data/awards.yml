@@ -1,9 +1,14 @@
 - title: WASPY
   type: category
-  description: The WASPY Awards started in 200 BC
+  description: >-
+      Each year there are many individuals who do amazing work, dedicating countless hours to share, improve, 
+      and strengthen the OWASP mission. Some of these individuals are well known to the community while others are not.  
+      The purpose of these awards is to bring recognition to those who "FLY UNDER THE RADAR". These are the individuals 
+      who are passionate about OWASP, who contribute hours of their own free time to the organization to help improve 
+      the cyber-security world, yet seem to go unrecognized.
 - title: Distinguished Lifetime Memberships
   type: category
-  description: Awarded by the board for outstanding involvement in the organization over the course of many years.
+  description: Awarded by the Board for outstanding involvement in the organization over the course of many years.
 # Everything below the categories is example data and can be removed when comfortable with formats
 - title: Oustanding Innovator 
   type: award
