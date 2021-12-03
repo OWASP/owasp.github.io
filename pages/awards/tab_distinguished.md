@@ -9,7 +9,6 @@ tags: awd
 
 ---
 ## Distinguished Lifetime Membership Awards
-<section class="corporate">
 
 {% assign awards = site.data.awards | where: 'category', 'Distinguished Lifetime' | sort: 'year' | reverse %}
 {% assign previous = nil %}
