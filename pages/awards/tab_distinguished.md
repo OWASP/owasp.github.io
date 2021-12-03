@@ -26,6 +26,6 @@ tags: awd
 {%- if winner.info -%}
      <br>{{winner.info}}
 {%- endif -%}
-<br>
+<br><br>
 {% endfor %}
 {%endfor%}
