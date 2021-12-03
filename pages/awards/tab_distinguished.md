@@ -22,7 +22,7 @@ tags: awd
 <hr>
 * <h3>{{award.title}}</h3>
 {% for winner in award.winners %}
-    * ![{{winner.name}}]&nbsp;&nbsp;&nbsp;({{winner.image}}){:width="80px"}{{winner.name}}
+    * ![{{winner.name}}]({{winner.image}}){:width="80px"}&nbsp;&nbsp;&nbsp;{{winner.name}}
 {%- if winner.info -%}
      <br>{{winner.info}}
 {%- endif -%}
