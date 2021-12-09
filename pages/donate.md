@@ -350,7 +350,7 @@ permalink: /donate/
 <script src="https://js.stripe.com/v3"></script>
 <script src="https://unpkg.com/vue"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-<script src="https://unpkg.com/vue-recaptcha@latest/dist/vue-recaptcha.min.js"></script>
+<script src="https://unpkg.com/vue-recaptcha@1.3.0/dist/vue-recaptcha.min.js"></script>
 
 <script>
 var stripe = Stripe('pk_live_mw0B2kiXQTFkD44liAEI03oT00S5AGfSV3');
@@ -525,7 +525,7 @@ window.addEventListener('load', function () {
         this.recaptchaVerified = false;
         this.$refs.recaptcha.reset()
       },
-      onCaptchaError: function () {
+      onCaptchaError: function (err) {
         this.recaptchaVerified = false;
         this.$refs.recaptcha.reset()
       }
