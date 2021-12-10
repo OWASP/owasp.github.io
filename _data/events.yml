@@ -32,10 +32,10 @@
        dates: February 2022
        url:
      - name: 2022 OWASP March Webinars
-        optional-text: Join us as we bring you a variety of fresh application security training courses. NOW ACCEPTING [Call for Trainers](https://owasp.submittable.com/submit/210677/2022-owasp-march-training-call-for-trainers) and [Call for Reviewers](https://owasp.wufoo.com/forms/2022-call-for-reviewers-interest-form/). Training courses will be announced and registration will open the week of January 31.
-        start-date: 2022-03-07
-        dates: March 7, 2022
-        url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
+       optional-text: Join us as we bring you a variety of fresh application security training courses. NOW ACCEPTING [Call for Trainers](https://owasp.submittable.com/submit/210677/2022-owasp-march-training-call-for-trainers) and [Call for Reviewers](https://owasp.wufoo.com/forms/2022-call-for-reviewers-interest-form/). Training courses will be announced and registration will open the week of January 31.
+       start-date: 2022-03-07
+       dates: March 7, 2022
+       url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
     #  - name: Lightning Conference
     #    optional-text: Join us for our next Lightning Conference on September 28 featuring Caroline Wong. Click on Lightning Conference above for more details including sponsorship opportunities and how to register.
     #    start-date: 2021-3-15
@@ -51,15 +51,15 @@
     #    dates: November 8-12, 2021
     #    url: https://usa.globalappsec.org/
     #    optional-text: Sponsorships are available!
-      - name: OWASP Global AppSec Dublin
-        start-date: 2022-6-6
-        dates: June 6-10, 2022
-        url: https://dublin.globalappsec.org/
-        optional-text: More details including Call for Trainers, Call for Papers, and Exhibit & Sponsorship Opportunities are coming soon!
-      - name: OWASP Global AppSec San Francisco
-        start-date: 2022-11-19
-        dates: September 19-23, 2022
-        optional-text: Due to COVID 19 and the desire to put on the best AppSec events possible, Global AppSec San Francisco has been postponed until 2022.
+     - name: OWASP Global AppSec Dublin
+       start-date: 2022-6-6
+       dates: June 6-10, 2022
+       url: https://dublin.globalappsec.org/
+       optional-text: More details including Call for Trainers, Call for Papers, and Exhibit & Sponsorship Opportunities are coming soon!
+     - name: OWASP Global AppSec San Francisco
+       start-date: 2022-11-19
+       dates: September 19-23, 2022
+       optional-text: Due to COVID 19 and the desire to put on the best AppSec events possible, Global AppSec San Francisco has been postponed until 2022.
 - category: Regional
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
