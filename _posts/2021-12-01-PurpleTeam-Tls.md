@@ -1,5 +1,5 @@
 ---
-
+date:   2021-12-01 09:00:00 -0700
 categories: blog
 author: Kim Carter
 author_image: /www-project-purpleteam/assets/images/posts/PT_SSLDeploy_210c.png
