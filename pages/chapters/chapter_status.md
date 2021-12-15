@@ -84,7 +84,7 @@ Jump to
 ### Needs Website Update (has not been updated to remove default info)
 <ul>
 {% for chapter in site.data.chapters %}
-    {% if chapter.region contains 'Website Update' %} 
+    {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 
         <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
     {% endif %}
 {% endfor %}
@@ -95,8 +95,11 @@ Jump to
 
 ### Inactive Chapters 
 <ul>
-{% for chapter in site.data.inactive_chapters %}
+{% assign chapters = site.data.chapters | sort: 'title' %}
+{% for chapter in chapters %}
+  {% if chapter.build == 'no pages' %}
     <li>{{ chapter.title }}</li>
+  {% endif %}
 {% endfor %}
 </ul>
 
