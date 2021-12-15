@@ -6,7 +6,7 @@ permalink: /events/career_fair/
 
 ---
 
-![CareerFairLogo](2022_Career_Fair_Banner_Landscape.png)
+![CareerFairLogo](/assets/files/events/2022_Career_Fair_Banner_Landscape.png)
 
 Looking for a career change or maybe you are unemployeed and looking for a new opportunity? Well, you are in luck! 
 
