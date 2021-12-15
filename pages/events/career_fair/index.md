@@ -6,6 +6,6 @@ permalink: /events/career_fair/
 
 ---
 
-/assets/files/events/2022_Career_Fair.png
+![CareerFairLogo](/assets/files/events/2022_Career_Fair.png)
 
 
