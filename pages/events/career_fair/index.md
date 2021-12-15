@@ -6,6 +6,6 @@ permalink: /events/career_fair/
 
 ---
 
-# [TBD]
+# [/assets/files/events/2022_Career_Fair.png]
 
-/assets/files/events/2022_Career_Fair.png
+
