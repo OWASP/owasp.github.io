@@ -89,7 +89,7 @@ Total: {{ rtotal }}
 <ul>
 {% assign nwutotal = 0 %}
 {% for project in site.data.projects %}
-    {% if project.region contains 'Website Update' %}
+    {% if project.region contains 'Website Update' and project.build != 'no pages' %}
         {% assign nwutotal = nwutotal | plus: 1 %}
         <li><a href='{{ project.url }}'>{{ project.title }}</a></li>
     {% endif %}
