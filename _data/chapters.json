@@ -547,11 +547,11 @@
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
-        "updated": "2021-12-14",
+        "updated": "2021-12-26",
         "build": "built",
         "title": "OWASP Aguascalientes",
         "level": "4",
-        "type": "",
+        "type": "layout: col-sidebar",
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-aguascalientes-meetup-group",
@@ -989,6 +989,20 @@
         "meetings": 3
     },
     {
+        "name": "Madison",
+        "url": "https://owasp.org/www-chapter-madison/",
+        "created": "2019-09-12",
+        "updated": "2021-10-12",
+        "build": "built",
+        "title": "OWASP Madison",
+        "level": "0",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-madison",
+        "meetings": 3
+    },
+    {
         "name": "Manchester Nh",
         "url": "https://owasp.org/www-chapter-manchester-nh/",
         "created": "2019-09-12",
@@ -1197,20 +1211,6 @@
         "meetings": 3
     },
     {
-        "name": "Philadelphia",
-        "url": "https://owasp.org/www-chapter-philadelphia/",
-        "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
-        "title": "OWASP Philadelphia",
-        "level": "3",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Philadelphia",
-        "meetings": 0
-    },
-    {
         "name": "Pittsburgh",
         "url": "https://owasp.org/www-chapter-pittsburgh/",
         "created": "2019-09-12",
@@ -1269,7 +1269,7 @@
         "name": "Quebec City",
         "url": "https://owasp.org/www-chapter-quebec-city/",
         "created": "2019-09-12",
-        "updated": "2021-11-25",
+        "updated": "2021-12-25",
         "build": "built",
         "title": "OWASP Quebec City",
         "level": "4",
@@ -1361,6 +1361,20 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-San-Antonio",
+        "meetings": 0
+    },
+    {
+        "name": "San Diego",
+        "url": "https://owasp.org/www-chapter-san-diego/",
+        "created": "2019-09-12",
+        "updated": "2021-11-10",
+        "build": "built",
+        "title": "OWASP San Diego",
+        "level": "0",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "Open-Web-Application-Security-Project-San-Diego-OWASP-SD",
         "meetings": 0
     },
     {
@@ -3777,7 +3791,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Ahmedabad-Chapter",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Aligarh",
@@ -3862,6 +3876,20 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Belagavi-Chapter",
         "meetings": 2
+    },
+    {
+        "name": "Berhampore",
+        "url": "https://owasp.org/www-chapter-berhampore/",
+        "created": "2021-09-01",
+        "updated": "2021-11-02",
+        "build": "built",
+        "title": "OWASP Berhampore",
+        "level": "3",
+        "type": "layout: col-sidebar",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-berhampore-chapter",
+        "meetings": 0
     },
     {
         "name": "Bhopal",
@@ -4281,7 +4309,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2021-12-19",
+        "updated": "2021-12-26",
         "build": "built",
         "title": "OWASP Japan",
         "level": "0",
@@ -4876,7 +4904,7 @@
         "name": "Srm Institute Of Science And Technology",
         "url": "https://owasp.org/www-chapter-srm-institute-of-science-and-technology/",
         "created": "2021-08-09",
-        "updated": "2021-11-28",
+        "updated": "2021-12-25",
         "build": "built",
         "title": "OWASP SRM Institute of Science and Technology - Student Chapter",
         "level": "layout: col-sidebar",
