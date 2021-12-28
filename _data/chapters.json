@@ -547,7 +547,7 @@
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
-        "updated": "2021-12-26",
+        "updated": "2021-12-27",
         "build": "built",
         "title": "OWASP Aguascalientes",
         "level": "4",
@@ -556,20 +556,6 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-aguascalientes-meetup-group",
         "meetings": 3
-    },
-    {
-        "name": "Atlanta",
-        "url": "https://owasp.org/www-chapter-atlanta/",
-        "created": "2019-09-12",
-        "updated": "2021-11-13",
-        "build": "built",
-        "title": "OWASP Atlanta",
-        "level": "0",
-        "type": "layout: col-sidebar",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Atlanta",
-        "meetings": 2
     },
     {
         "name": "Austin",
@@ -628,6 +614,20 @@
         "meetings": 2
     },
     {
+        "name": "Bonita Springs",
+        "url": "https://owasp.org/www-chapter-bonita-springs/",
+        "created": "2020-01-22",
+        "updated": "2021-10-05",
+        "build": "built",
+        "title": "OWASP Bonita Springs",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Bonita-Springs-Chapter",
+        "meetings": 3
+    },
+    {
         "name": "Boston",
         "url": "https://owasp.org/www-chapter-boston/",
         "created": "2019-09-12",
@@ -639,20 +639,6 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owaspboston",
-        "meetings": 3
-    },
-    {
-        "name": "Boulder",
-        "url": "https://owasp.org/www-chapter-boulder/",
-        "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
-        "title": "OWASP Boulder",
-        "level": "3",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Boulder",
         "meetings": 3
     },
     {
@@ -850,34 +836,6 @@
         "meetings": 3
     },
     {
-        "name": "Hawaii",
-        "url": "https://owasp.org/www-chapter-hawaii/",
-        "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
-        "title": "OWASP Hawaii",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Hawaii",
-        "meetings": 1
-    },
-    {
-        "name": "Houston",
-        "url": "https://owasp.org/www-chapter-houston/",
-        "created": "2019-09-12",
-        "updated": "2021-05-07",
-        "build": "no pages",
-        "title": "OWASP Houston",
-        "level": "0",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Houston-Texas-Chapter",
-        "meetings": 0
-    },
-    {
         "name": "Indianapolis",
         "url": "https://owasp.org/www-chapter-indianapolis/",
         "created": "2019-09-12",
@@ -1071,20 +1029,6 @@
         "meetings": 3
     },
     {
-        "name": "Moncton",
-        "url": "https://owasp.org/www-chapter-moncton/",
-        "created": "2020-09-29",
-        "updated": "2021-05-21",
-        "build": "built",
-        "title": "OWASP Moncton",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "moncton-owasp-meetup-group",
-        "meetings": 3
-    },
-    {
         "name": "Nashville",
         "url": "https://owasp.org/www-chapter-nashville/",
         "created": "2019-09-12",
@@ -1211,6 +1155,20 @@
         "meetings": 3
     },
     {
+        "name": "Philadelphia",
+        "url": "https://owasp.org/www-chapter-philadelphia/",
+        "created": "2019-09-12",
+        "updated": "2021-07-07",
+        "build": "built",
+        "title": "OWASP Philadelphia",
+        "level": "3",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Philadelphia",
+        "meetings": 0
+    },
+    {
         "name": "Pittsburgh",
         "url": "https://owasp.org/www-chapter-pittsburgh/",
         "created": "2019-09-12",
@@ -1294,20 +1252,6 @@
         "meetings": 3
     },
     {
-        "name": "Rochester",
-        "url": "https://owasp.org/www-chapter-rochester/",
-        "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
-        "title": "OWASP Rochester",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Rochester-Chapter",
-        "meetings": 0
-    },
-    {
         "name": "Sacramento",
         "url": "https://owasp.org/www-chapter-sacramento/",
         "created": "2019-09-12",
@@ -1319,20 +1263,6 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sacramento-Chapter",
-        "meetings": 3
-    },
-    {
-        "name": "Saint Louis",
-        "url": "https://owasp.org/www-chapter-saint-louis/",
-        "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
-        "title": "OWASP Saint Louis",
-        "level": "0",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-STL",
         "meetings": 3
     },
     {
@@ -1432,20 +1362,6 @@
         "pitch": "More info soon...",
         "meetup-group": "South-Florida-OWASP-Chapter",
         "meetings": 3
-    },
-    {
-        "name": "St. George",
-        "url": "https://owasp.org/www-chapter-st.-george/",
-        "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
-        "title": "OWASP St. George, Utah",
-        "level": "4",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-st-george-ut",
-        "meetings": 0
     },
     {
         "name": "Syracuse",
@@ -1613,6 +1529,19 @@
         "meetings": 0
     },
     {
+        "name": "Amaravathi",
+        "url": "https://owasp.org/www-chapter-amaravathi/",
+        "created": "2019-10-19",
+        "updated": "2020-02-03",
+        "build": "no pages",
+        "title": "OWASP Amaravathi",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Amman",
         "url": "https://owasp.org/www-chapter-amman/",
         "created": "2019-09-12",
@@ -1665,6 +1594,19 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Balt",
+        "meetings": 0
+    },
+    {
+        "name": "Bangued",
+        "url": "https://owasp.org/www-chapter-bangued/",
+        "created": "2021-08-03",
+        "updated": "2021-12-15",
+        "build": "no pages",
+        "title": "OWASP Bangued",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -1870,6 +1812,19 @@
         "updated": "2021-04-20",
         "build": "no pages",
         "title": "OWASP Cotonou",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
+        "name": "Cyprus",
+        "url": "https://owasp.org/www-chapter-cyprus/",
+        "created": "2019-09-12",
+        "updated": "2021-03-23",
+        "build": "no pages",
+        "title": "OWASP Cyprus",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -2154,19 +2109,6 @@
         "meetings": 0
     },
     {
-        "name": "Kaunas",
-        "url": "https://owasp.org/www-chapter-kaunas/",
-        "created": "2021-12-06",
-        "updated": "2021-12-06",
-        "build": "built",
-        "title": "OWASP Kaunas",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Kumaun Region",
         "url": "https://owasp.org/www-chapter-kumaun-region/",
         "created": "2019-09-12",
@@ -2217,6 +2159,20 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Letterkenny-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Lincoln",
+        "url": "https://owasp.org/www-chapter-lincoln/",
+        "created": "2019-09-12",
+        "updated": "2021-03-24",
+        "build": "no pages",
+        "title": "OWASP Lincoln",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Lincoln-Chapter",
         "meetings": 0
     },
     {
@@ -2275,6 +2231,20 @@
         "meetings": 0
     },
     {
+        "name": "Macedonia",
+        "url": "https://owasp.org/www-chapter-macedonia/",
+        "created": "2019-09-12",
+        "updated": "2021-06-16",
+        "build": "no pages",
+        "title": "OWASP Macedonia",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Macedonia",
+        "meetings": 0
+    },
+    {
         "name": "Maine",
         "url": "https://owasp.org/www-chapter-maine/",
         "created": "2019-09-12",
@@ -2298,20 +2268,6 @@
         "type": "",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Memphis",
-        "url": "https://owasp.org/www-chapter-memphis/",
-        "created": "2019-09-12",
-        "updated": "2021-04-06",
-        "build": "no pages",
-        "title": "OWASP Memphis",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Memphis-Chapter",
         "meetings": 0
     },
     {
@@ -2387,19 +2343,6 @@
         "updated": "2020-12-03",
         "build": "no pages",
         "title": "OWASP New Jersey North",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Niagra Falls",
-        "url": "https://owasp.org/www-chapter-niagra-falls/",
-        "created": "2021-11-23",
-        "updated": "2021-11-23",
-        "build": "built",
-        "title": "OWASP Niagra Falls",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -2487,6 +2430,20 @@
         "meetings": 0
     },
     {
+        "name": "Port Louis",
+        "url": "https://owasp.org/www-chapter-port-louis/",
+        "created": "2019-09-12",
+        "updated": "2020-11-11",
+        "build": "no pages",
+        "title": "OWASP Port Louis",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "owaspportlouis",
+        "meetings": 0
+    },
+    {
         "name": "Rhode Island",
         "url": "https://owasp.org/www-chapter-rhode-island/",
         "created": "2019-09-12",
@@ -2562,19 +2519,6 @@
         "updated": "2021-04-20",
         "build": "no pages",
         "title": "OWASP South Sweden",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Southern Maryland",
-        "url": "https://owasp.org/www-chapter-southern-maryland/",
-        "created": "2019-09-12",
-        "updated": "2020-01-17",
-        "build": "no pages",
-        "title": "OWASP Southern Maryland",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -2695,6 +2639,19 @@
         "updated": "2021-08-06",
         "build": "no pages",
         "title": "OWASP Turkey",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
+        "name": "Ukraine",
+        "url": "https://owasp.org/www-chapter-ukraine/",
+        "created": "2019-09-12",
+        "updated": "2020-09-08",
+        "build": "no pages",
+        "title": "OWASP Ukraine",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -2875,6 +2832,20 @@
         "pitch": "More info soon...",
         "meetup-group": "brussels-owasp-meetup-group",
         "meetings": 2
+    },
+    {
+        "name": "Bilbao",
+        "url": "https://owasp.org/www-chapter-bilbao/",
+        "created": "2019-09-12",
+        "updated": "2021-05-05",
+        "build": "no pages",
+        "title": "OWASP Bilbao",
+        "level": "0",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Bilbao-Chapter",
+        "meetings": 0
     },
     {
         "name": "Birmingham Uk",
@@ -3181,7 +3152,7 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Israel",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Istanbul",
@@ -3236,20 +3207,6 @@
         "type": "",
         "region": "Europe",
         "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Kristiansand",
-        "url": "https://owasp.org/www-chapter-kristiansand/",
-        "created": "2021-10-04",
-        "updated": "2021-12-08",
-        "build": "built",
-        "title": "OWASP Kristiansand",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "Europe",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-kristiansand-chapter",
         "meetings": 0
     },
     {
@@ -3625,20 +3582,6 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Vienna-Chapter",
         "meetings": 1
-    },
-    {
-        "name": "Vilnius",
-        "url": "https://owasp.org/www-chapter-vilnius/",
-        "created": "2021-04-01",
-        "updated": "2021-08-19",
-        "build": "built",
-        "title": "OWASP Vilnius",
-        "level": "0",
-        "type": "layout: col-sidebar",
-        "region": "Europe",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-vilnius",
-        "meetings": 2
     },
     {
         "name": "Worcestershire",
@@ -4306,6 +4249,20 @@
         "meetings": 3
     },
     {
+        "name": "Jamshedpur",
+        "url": "https://owasp.org/www-chapter-jamshedpur/",
+        "created": "2021-08-23",
+        "updated": "2021-09-07",
+        "build": "built",
+        "title": "OWASP Jamshedpur",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-jamshedpur-chapter",
+        "meetings": 0
+    },
+    {
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
@@ -4414,20 +4371,6 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-kolkata",
         "meetings": 1
-    },
-    {
-        "name": "Kowloon",
-        "url": "https://owasp.org/www-chapter-kowloon/",
-        "created": "2021-08-02",
-        "updated": "2021-11-08",
-        "build": "built",
-        "title": "OWASP Kowloon",
-        "level": "0",
-        "type": "",
-        "region": "Asia",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-kowloon",
-        "meetings": 0
     },
     {
         "name": "Kuala Lumpur",
@@ -4805,6 +4748,19 @@
         "meetings": 2
     },
     {
+        "name": "Saitama",
+        "url": "https://owasp.org/www-chapter-saitama/",
+        "created": "2021-03-22",
+        "updated": "2021-12-06",
+        "build": "built",
+        "title": "OWASP Saitama",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Salem",
         "url": "https://owasp.org/www-chapter-salem/",
         "created": "2021-06-11",
@@ -4904,7 +4860,7 @@
         "name": "Srm Institute Of Science And Technology",
         "url": "https://owasp.org/www-chapter-srm-institute-of-science-and-technology/",
         "created": "2021-08-09",
-        "updated": "2021-12-25",
+        "updated": "2021-12-27",
         "build": "built",
         "title": "OWASP SRM Institute of Science and Technology - Student Chapter",
         "level": "layout: col-sidebar",
@@ -4926,19 +4882,6 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-surabaya-chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Surat",
-        "url": "https://owasp.org/www-chapter-surat/",
-        "created": "2019-09-12",
-        "updated": "2021-11-22",
-        "build": "built",
-        "title": "OWASP Surat",
-        "level": "0",
-        "type": "",
-        "region": "Asia",
-        "pitch": "More info soon...",
         "meetings": 0
     },
     {
