@@ -8,6 +8,7 @@ permalink: /corporate/
 
 The OWASP Foundation Global Board is comprised of seven elected members who serve for two-year terms. Each Fall, membership votes to elect new leadership for the Foundation. Generally our Board meets monthly and meetings are open to the public. The Global Board sets the strategic direction of the Foundation, its policies, and sets governance and leadership roles. The [Global Board Home Page](/www-board/) has information about upcoming meetings, former meeting minutes, Board decisions, contact information, and other general information. 
 
+**VOTING FOR NEW BOARD POSITIONS WILL BE COMPLETED IN JANUARY 2022**
 
 <h2>Board of Directors</h2>
 
