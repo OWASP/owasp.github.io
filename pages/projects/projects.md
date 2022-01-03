@@ -48,10 +48,10 @@ All OWASP tools, document, and code library projects are organized into the foll
 <div id='all-projects' class='projects-list'>
     <h3>List of Projects by <a id="projects-level" class='active'>Level</a> or <a id="projects-type" class='inactive'>Type</a></h3>
     <div id="project-list-level" class='project-list'>
-        {% assign fs_projects = site.data.projects | where:'level', '4' %}
-        {% assign l_projects = site.data.projects | where:'level', '3' %}
-        {% assign i_projects = site.data.projects | where:'level', '2' %}
-        {% assign u_projects = site.data.projects | where:'level', '-1' %}
+        {% assign fs_projects = site.data.projects | where:'level', '4' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign l_projects = site.data.projects | where:'level', '3' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign i_projects = site.data.projects | where:'level', '2' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign u_projects = site.data.projects | where:'level', '-1' | where_exp: "project", "project.build != 'no pages'" %}
         <h3>Flagship Projects <img src='https://owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h3>
         <ul>
         {% for project in fs_projects %}
@@ -78,11 +78,11 @@ All OWASP tools, document, and code library projects are organized into the foll
         </ul>
     </div>
     <div id="project-list-type" style='display:none;'>
-        {% assign tool_projects = site.data.projects | where:'type', 'tool' %}
-        {% assign documentation_projects = site.data.projects | where:'type', 'documentation' %}
-        {% assign code_projects = site.data.projects | where:'type', 'code' %}
-        {% assign stan_projects = site.data.project | where: 'type', 'standards' %}
-        {% assign other_projects = site.data.projects | where:'type', 'other' %}
+        {% assign tool_projects = site.data.projects | where:'type', 'tool' | where_exp: "project", "project.build != 'no pages'"  %}
+        {% assign documentation_projects = site.data.projects | where:'type', 'documentation' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign code_projects = site.data.projects | where:'type', 'code' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign stan_projects = site.data.project | where: 'type', 'standards' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign other_projects = site.data.projects | where:'type', 'other' | where_exp: "project", "project.build != 'no pages'" %}
         <h2>Standards Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
         <ul>
         {% for project in stan_projects %}

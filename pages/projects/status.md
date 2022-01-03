@@ -99,6 +99,22 @@ Total: {{ rtotal }}
 Total: {{ nwutotal }}
 
 ---
+<section id='inactive'></section>
+
+### Inactivated Projects
+<ul>
+{% assign nwutotal = 0 %}
+{% for project in site.data.projects %}
+    {% if project.build == 'no pages' and project.title != 'OWASP Project and Chapter Example' and project.title != 'OWASP [GROUPNAME]' %}
+        {% assign nwutotal = nwutotal | plus: 1 %}
+        <li><a href='{{ project.url }}'>{{ project.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+
+Total: {{ nwutotal }}
+
+---
 <section id='last-update'></section>
 
 ### All Projects and Most Recent Website Update
