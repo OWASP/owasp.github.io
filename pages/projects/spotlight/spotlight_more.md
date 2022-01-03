@@ -21,7 +21,7 @@ We are back again with yet another OWASP Spotlight series and this time we have 
 
 The OWASP Top 10 is a book/referential document outlining the 10 most critical security concerns for web application security. The report is put together by a team of security experts from all over the world and the data comes from a number of organisations and is then analysed.
 
-OWASP refers to the Top 10 as an ‘awareness document’ and recommends that all organisations incorporate the report into their processes in order to mitigate security risks. One thing to remember, it is not a standard. Organisations can define the matrix based on their own environment. This also means that it's not just OWASP who defines Top10 but takes data from so many people, organisations and then opens it up for us to post the feedback. Analysis is very interesting and actually got Top 10 a total of forty-three CWA.
+OWASP refers to the Top 10 as an ‘awareness document’ and recommends that all organisations incorporate the report into their processes in order to mitigate security risks. One thing to remember, it is not a standard. Organisations can define the matrix based on their own environment. This also means that it's not just OWASP who defines Top10 but takes data from so many people, organisations and then opens it up for us to post the feedback. Analysis is very interesting and actually got Top 10 a total of forty-three CWE.
 
 Check out the [video on the OWASP Spotlight series](https://www.youtube.com/watch?v=RMkoIrpz8ug)
 
