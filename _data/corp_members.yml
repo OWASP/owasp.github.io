@@ -129,6 +129,13 @@
   image: /assets/images/corp-member-logo/CyberSecurityWorksLogo
   url: https://www.cybersecurityworks.com/
   description: CSW is a US Department of Homeland Security sponsored CVE Numbering Authority and a leader in Attack Surface Management. Our risk management, security management, exposure management, and compliance services have helped companies, government agencies across diverse industries around the globe to secure their business from ever-evolving threats. Our innovation in vulnerability and exploit research led us to discover 45+ zero days in popular products such as Oracle, D-Link, WSO2, Thembay, Zoho, etc., among others. 
+- member: true
+  sponsor:
+  name: Cycode
+  sortname: Cycode
+  image: /assets/images/corp-member-logo/CycodeLogo.png
+  url: http://www.cycode.com
+  description: Cycode is a complete software supply chain security solution that provides visibility, security, and integrity across all phases of the SDLC. Cycode integrates with DevOps tools and infrastructure providers, hardens their security postures by implementing consistent governance, and reduces the risk of breaches with a series of scanning engines that look for issues like hardcoded secrets, infrastructure as code misconfigurations, code leaks and more. Cycode’s knowledge graph tracks code integrity, user activity, and events across the SDLC to prioritize risk, find anomalies, and prevent code tampering.
 - member: true 
   sponsor: -1
   name: DataDome
