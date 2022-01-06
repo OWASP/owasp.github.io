@@ -129,6 +129,13 @@
   image: /assets/images/corp-member-logo/CyberSecurityWorksLogo
   url: https://www.cybersecurityworks.com/
   description: CSW is a US Department of Homeland Security sponsored CVE Numbering Authority and a leader in Attack Surface Management. Our risk management, security management, exposure management, and compliance services have helped companies, government agencies across diverse industries around the globe to secure their business from ever-evolving threats. Our innovation in vulnerability and exploit research led us to discover 45+ zero days in popular products such as Oracle, D-Link, WSO2, Thembay, Zoho, etc., among others. 
+- member: true
+  sponsor:
+  name: Cycode
+  sortname: Cycode
+  image: /assets/images/corp-member-logo/CycodeLogo.png
+  url: http://www.cycode.com
+  description: Cycode is a complete software supply chain security solution that provides visibility, security, and integrity across all phases of the SDLC. Cycode integrates with DevOps tools and infrastructure providers, hardens their security postures by implementing consistent governance, and reduces the risk of breaches with a series of scanning engines that look for issues like hardcoded secrets, infrastructure as code misconfigurations, code leaks and more. Cycode’s knowledge graph tracks code integrity, user activity, and events across the SDLC to prioritize risk, find anomalies, and prevent code tampering.
 - member: true 
   sponsor: -1
   name: DataDome
@@ -136,6 +143,13 @@
   image: /assets/images/corp-member-logo/DataDome2020.png
   url: https://datadome.co/?utm_source=Partner&utm_campaign=Owasp
   description: "DataDome is the #1 SaaS bot protection solution at the edge: strong performer in The Forrester New Wave™: Bot Management, and several times leader of the Bot Detection and Mitigation software section on G2.COM.DataDome offers real-time AI protection against all OWASP automated threats: credential stuffing, application DDoS, scalping, carding, vulnerability scanning, scraping... Deployed in minutes, on any infrastructure, it is compatible with multi-cloud and multi-CDN setups. DataDome runs on autopilot - its users remain in full control thanks to the industry’s most comprehensive dashboard. DataDome protects 10,000+ domains worldwide, including TripAdvisor, Rakuten, Kurt Geiger, FootLocker, Kogan, BlaBlaCar and Adevinta."
+- member: true
+  sponsor:
+  name: DeepSource
+  sortname: DeepSource
+  image: /assets/images/corp-member-logo/DeepSourceLogo.png
+  url: https://deepsource.io/?ref=owasporg
+  description: DeepSource is a fast and reliable static analysis platform that helps developers and engineering teams systematically improve code quality and security and save time in code reviews. DeepSource continuously analyzes source code changes and identifies bugs categorized as security, performance, anti-patterns, and potential bug-risks, and even formats code to follow style guidelines. DeepSource integrates with your existing code review workflow in GitHub, GitLab, and Bitbucket and runs analysis on every commit and pull request, automatically.
 - member: true	
   sponsor:	
   name: Denim Group	
@@ -447,8 +461,8 @@
   name: SCSK Corporation
   sortname: SCSK Corporation	
   image: /assets/images/corp-member-logo/SCSK.jpeg	
-  url: https://www.scsk.jp/index_en.html	
-  description: SCSK provides a full lineup of services to support any area of IT solution required for businesses from system integration to IT infrastructure implementation, IT management, BPO(business process outsourcing), and IT hardware and software sales.In addition, we take advantage of the capability to support a global IT system network for customers including Sumitomo Corporation, aiming for further leaps ahead as a global IT services company.	
+  url: https://www.scsk.jp/
+  description: SCSK provides a full lineup of services to support any area of IT solution required for businesses from consulting to system integration, verification services, IT infrastructure implementation, IT management, IT hardware and software sales, and BPO(business process outsourcing).
 - member: true	
   sponsor: 3	
   name: Secure Code Warrior	
@@ -541,6 +555,13 @@
   image: /assets/images/corp-member-logo/sonarsource.png	
   url: https://www.sonarsource.com/	
   description: SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. With over 6,000 customers, and a Community Edition trusted by more than 200,000 organizations globally, SonarSource products are a de-facto standard for teams and organizations to deliver better, safer software.
+- member: true
+  sponsor:
+  name: Specialist Data Solutions
+  sortname: Specialist Data Solutions
+  image: /assets/images/corp-member-logo/SpecialistDataSolutionsLogo.png
+  url: https://www.specialistdata.com/
+  description: SDS is a leading global supplier of optical retail software. Offering exceptional Point of Sale and Practice Management Solutions, continual product enhancement, and consistently exceeding client support expectations, SDS has been leading the way for 30 years, like no other.
 - member: false	
   sponsor: 4 	
   name: Sqreen	
