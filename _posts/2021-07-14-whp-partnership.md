@@ -20,7 +20,7 @@ We Hack Purple's Application Security Foundations Level 1 course consists of 108
 
 [Join OWASP as a new member, or renew your membership](https://owasp.org/membership/)
 
-[Enroll in We Hack Purple's AppSec 101 course](https://academy.wehackpurple.com/enroll/1506193?th__ug=ee41e186&th__c=owaspmembers) 
+[Enroll in We Hack Purple's AppSec 101 course](https://academy.wehackpurple.com/enroll/1756874?th__ug=29f310de&th__c=owaspmembers) 
 
 Thank you so much to We Hack Purple for this partnership and such a wonderful and courageous donation, essentially giving away their AppSec Fundamentals course! I love the spirit of sharing and community, and nothing demonstrates this more to me than helping developers and new appsec practitioners get access to high-quality training. 
 
