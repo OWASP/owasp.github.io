@@ -6,7 +6,7 @@ permalink: /events/career_fair/
 
 ---
 
-![CareerFairLogo](OWASP_CareerFair_Webpage-01.jpeg)
+![CareerFairLogo](/assets/images/OWASP_CareerFair_Webpage-01.jpeg)
 
 
 Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our February 2022 Career Fair! 
