@@ -1,26 +1,6 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-      #- name: Lightning Conference 
-       # optional-text: Fast, furious, and informative. Our Lightning Conference will feature an industry thought-leader and Sponsor Discovery Demos all in a fast paced 90 minutes.
-       # start-date: 2021-1-20
-       # dates: January 20, 2021
-       # url:
-     # - name: Brain Break
-       # optional-text: Kick back and join us as you give your brain a break!
-       # start-date: 2021-2-18
-       # dates: October 20, and December 16
-       # url: https://brainbreak.owasp.org
-     # - name: Call to Battle
-     #   optional-text: Join us for our next Call to Battle on August 28 Capture the Flag Hacking-Defense Paraguay. Sponsorship opportunities are available!
-     #   start-date: 2021-2-26
-     #   dates: August 28, and December 7
-    #    url: https://calltobattle.owasp.org
-    # - name: OWASP Virtual Training Courses
-       #optional-text: OWASP is pleased to bring you our Happy Holiday's Training. Don't miss this multi-day virtual developer training to retool and level-up. Our next virtual training will be held December 15 and continued on December 17. This is one training course that is being split over the course of two days, four hours each day. December 17 will be a continuation from December 15. Both days, training will begin at 7 am/PST. For more information on the training and how to register click OWASP Virtual Training Courses above.
-      # start-date: 2021-12-15
-      # dates: December 15 and continued on December 17
-      # url: https://training.owasp.org
      - name: OWASP January Webinar
        optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
        start-date: 2022-1-11
