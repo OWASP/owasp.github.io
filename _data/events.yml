@@ -18,8 +18,8 @@
        url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
      - name: OWASP April Webinar
        optional-text: details coming soon
-       start-date:
-       dates:
+       #start-date:
+       #dates:
        url:
      - name: OWASP 2022 Global AppSec Europe Virtual Event
        start-date: 2022-6-6
@@ -28,18 +28,18 @@
        optional-text: Call for Papers, Call for Trainers, Exhibit and Sponsorship Opportunities are now available. 
      - name: OWASP July Webinar
        optional-text: details coming soon
-       start-date:
-       dates:
+       #start-date:
+       #dates:
        url:
      - name: OWASP Global AppSec APac Virtual Event
        optional-text: details coming soon
-       start-date:
-       dates:
+       #start-date:
+       #dates:
        url:
      - name: OWASP October Webinar
        optional-text: details coming soon
-       start-date:
-       dates:
+       #start-date:
+       #dates:
        url:
      - name: OWASP Global AppSec San Francisco
        start-date: 2022-11-14
@@ -47,8 +47,8 @@
        optional-text: Join us in-person in San Francisco for three days of training followed by two conference days with multiple tracks. More information coming soon!
      - name: Happy Holidays Training
        optional-text: OWASP is pleased to bring you our Happy Holiday's Training. Don't miss this multi-day virtual developer training to retool and level-up. More details coming soon!
-       start-date:
-       dates:
+       #start-date:
+       #dates:
        url:
 - category: Regional
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
