@@ -73,14 +73,14 @@
 - category: Regional
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
+       - name: SnowFROC 2022
+        start-date: 2022-03-03
+        dates: March 3, 2022
+        url: https://snowfroc.com/
       - name: OWASP 2021 AppSec Days BeNeLux
         start-date: TBA
         dates: Postponed until later in 2022
         url: https://www.owaspbenelux.eu/
-      - name: SnowFROC 2022
-        start-date: 2022-03-03
-        dates: March 3, 2022
-        url: https://snowfroc.com/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
