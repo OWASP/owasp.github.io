@@ -1,31 +1,24 @@
 [
     {
-        "name": "Laïcana Coulibaly",
-        "email": "laicana.coulibaly@owasp.org",
-        "group": "OWASP Abidjan",
+        "name": "Dennis Perto",
+        "email": "dennis.perto@owasp.org",
+        "group": "OWASP Aarhus",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-abidjan/"
+        "group_url": "https://owasp.org/www-chapter-aarhus/"
     },
     {
-        "name": "Christ Dago",
-        "email": "christ.dago@owasp.org",
-        "group": "OWASP Abidjan",
+        "name": "Thomas Ljungberg Kristensen",
+        "email": "thomas.kristensen@owasp.org",
+        "group": "OWASP Aarhus",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-abidjan/"
+        "group_url": "https://owasp.org/www-chapter-aarhus/"
     },
     {
-        "name": "Thomas Weilbach",
-        "email": "thomas.weilbach@owasp.org",
-        "group": "OWASP Abu Dhabi",
+        "name": "Mikkel Ole Rømer",
+        "email": "mikkel.romer@owasp.org",
+        "group": "OWASP Aarhus",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-abu-dhabi/"
-    },
-    {
-        "name": "Michael Bester",
-        "email": "michael.bester@owasp.org",
-        "group": "OWASP Abu Dhabi",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-abu-dhabi/"
+        "group_url": "https://owasp.org/www-chapter-aarhus/"
     },
     {
         "name": "Aldo Salas",
@@ -329,27 +322,6 @@
         "group_url": "https://owasp.org/www-chapter-belo-horizonte/"
     },
     {
-        "name": "Debraj Dey",
-        "email": "debraj.dey@owasp.org",
-        "group": "OWASP Berhampore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-berhampore/"
-    },
-    {
-        "name": "Apurbo Mandal",
-        "email": "apurbo.mandal@owasp.org",
-        "group": "OWASP Berhampore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-berhampore/"
-    },
-    {
-        "name": "Sandipan Roy",
-        "email": "sandipan.roy@owasp.org",
-        "group": "OWASP Berhampore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-berhampore/"
-    },
-    {
         "name": "Saurabh Chaudhary",
         "email": "saurabh.chaudhary@owasp.org",
         "group": "OWASP Bhopal",
@@ -390,6 +362,34 @@
         "group": "OWASP Bogota",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-bogota/"
+    },
+    {
+        "name": "Peter Henggeler",
+        "email": "peter.henggeler@owasp.org",
+        "group": "OWASP Boise",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boise/"
+    },
+    {
+        "name": "Lucas Alton",
+        "email": "lucas.alton@owasp.org",
+        "group": "OWASP Boise",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boise/"
+    },
+    {
+        "name": "Ross McCusker",
+        "email": "ross.mccusker@owasp.org",
+        "group": "OWASP Boise",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boise/"
+    },
+    {
+        "name": "Jesse Schmoll",
+        "email": "jesse.schmoll@owasp.org",
+        "group": "OWASP Boise",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boise/"
     },
     {
         "name": "Roxana Calderon",
@@ -497,20 +497,6 @@
         "group_url": "https://owasp.org/www-chapter-brasilia/"
     },
     {
-        "name": "Titus Balan",
-        "email": "titus.balan@owasp.org",
-        "group": "OWASP Brasov",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brasov/"
-    },
-    {
-        "name": "Ilac Lucian",
-        "email": "ilca.lucian@owasp.org",
-        "group": "OWASP Brasov",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brasov/"
-    },
-    {
         "name": "Glyn Geoghegan",
         "email": "glyng@owasp.org",
         "group": "OWASP Brisbane",
@@ -572,13 +558,6 @@
         "group": "OWASP Cairo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cairo/"
-    },
-    {
-        "name": "John Copete",
-        "email": "john.copete@owasp.org",
-        "group": "OWASP Cali",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cali/"
     },
     {
         "name": "Adrian Winckles",
@@ -1400,20 +1379,6 @@
         "group_url": "https://owasp.org/www-chapter-gothenburg/"
     },
     {
-        "name": "Benjamin Vlietstra",
-        "email": "benjamin.vlietstra@owasp.org",
-        "group": "OWASP Grand Rapids",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-grand-rapids/"
-    },
-    {
-        "name": "Josh Wenke",
-        "email": "josh.wenke@owasp.org",
-        "group": "OWASP Grand Rapids",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-grand-rapids/"
-    },
-    {
         "name": "Konstantinos Papapanagiotou",
         "email": "konstantinos@owasp.org",
         "group": "OWASP Greece",
@@ -1447,20 +1412,6 @@
         "group": "OWASP Guatemala",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-guatemala/"
-    },
-    {
-        "name": "Victor Vera",
-        "email": "victor.vera@owasp.org",
-        "group": "OWASP Guayaquil",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-guayaquil/"
-    },
-    {
-        "name": "Roberto Teran",
-        "email": "roberto.teranmarin@owasp.org",
-        "group": "OWASP Guayaquil",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-guayaquil/"
     },
     {
         "name": "Seema B. Joshi",
@@ -1512,6 +1463,20 @@
         "group_url": "https://owasp.org/www-chapter-gwalior/"
     },
     {
+        "name": "Toan Nguyen",
+        "email": "toan.nguyen@owasp.org",
+        "group": "OWASP Hanoi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-hanoi/"
+    },
+    {
+        "name": "Manh Van Nguyen",
+        "email": "manh.vannguyen@owap.org",
+        "group": "OWASP Hanoi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-hanoi/"
+    },
+    {
         "name": "John Chakauya",
         "email": "john.chakauya@owasp.org",
         "group": "OWASP Harare",
@@ -1538,20 +1503,6 @@
         "group": "OWASP Harrisburg PA",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-harrisburg/"
-    },
-    {
-        "name": "Alvin Fong",
-        "email": "alvin.fong@owasp.org",
-        "group": "OWASP Hartford, CT",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hartford/"
-    },
-    {
-        "name": "James McGovern",
-        "email": "james.mcgovern@owasp.org",
-        "group": "OWASP Hartford, CT",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hartford/"
     },
     {
         "name": "Jason Sewell",
@@ -1603,13 +1554,6 @@
         "group_url": "https://owasp.org/www-chapter-helsinki/"
     },
     {
-        "name": "Hodor Hodor",
-        "email": "hodor.hodor@owasp.org",
-        "group": "OWASP Hodor",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hodor/"
-    },
-    {
         "name": "Anthony LAI",
         "email": "anthonylai@owasp.org",
         "group": "OWASP Hong Kong",
@@ -1629,20 +1573,6 @@
         "group": "OWASP Hong Kong",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-hong-kong/"
-    },
-    {
-        "name": "Timur Khrotko",
-        "email": "timur@owasp.org",
-        "group": "OWASP Hungary",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hungary/"
-    },
-    {
-        "name": "Peter Nyilasy",
-        "email": "peter.nyilasy@owasp.org",
-        "group": "OWASP Hungary",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-hungary/"
     },
     {
         "name": "Raj Shalem",
@@ -1881,41 +1811,6 @@
         "group": "OWASP Japan",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-japan/"
-    },
-    {
-        "name": "Zakariya Syed",
-        "email": "zakariya.syed@owasp.org",
-        "group": "OWASP Jeddah",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-jeddah/"
-    },
-    {
-        "name": "Syed M. Abrar",
-        "email": "syed.abrar@owasp.org",
-        "group": "OWASP Jeddah",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-jeddah/"
-    },
-    {
-        "name": "Jonathan Jogenfors",
-        "email": "jonathan.jogenfors@owasp.org",
-        "group": "OWASP JKPG",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-jkpg/"
-    },
-    {
-        "name": "Per Josefsson",
-        "email": "per.josefsson@owasp.org",
-        "group": "OWASP JKPG",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-jkpg/"
-    },
-    {
-        "name": "Håkan Sonesson",
-        "email": "hakan.sonesson@owasp.org",
-        "group": "OWASP JKPG",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-jkpg/"
     },
     {
         "name": "Matheus Banhos",
@@ -2254,20 +2149,6 @@
         "group_url": "https://owasp.org/www-chapter-london/"
     },
     {
-        "name": "Richard Laine",
-        "email": "rich.laine@owasp.org",
-        "group": "OWASP Long Island, NY",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-long-island/"
-    },
-    {
-        "name": "Chris Cimino",
-        "email": "chris.cimino@owasp.org",
-        "group": "OWASP Long Island, NY",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-long-island/"
-    },
-    {
         "name": "Cassio Goldschmidt",
         "email": "cassio@owasp.org",
         "group": "OWASP Los Angeles",
@@ -2366,20 +2247,6 @@
         "group_url": "https://owasp.org/www-chapter-lviv/"
     },
     {
-        "name": "Lance Rudolph",
-        "email": "lance.rudolph@owasp.org",
-        "group": "OWASP Madison",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-madison/"
-    },
-    {
-        "name": "Drew Thompson",
-        "email": "drew.thompson@owasp.org",
-        "group": "OWASP Madison",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-madison/"
-    },
-    {
         "name": "Kishore T K",
         "email": "kishore.tk@owasp.org",
         "group": "OWASP Madurai",
@@ -2420,6 +2287,20 @@
         "group": "OWASP Manchester NH",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-manchester-nh/"
+    },
+    {
+        "name": "Yen-Ling Kuo",
+        "email": "yen-ling.kuo@owasp.org",
+        "group": "OWASP Manila",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-manila/"
+    },
+    {
+        "name": "Kenneth Brian Garcia",
+        "email": "kenneth.garcia@owasp.org",
+        "group": "OWASP Manila",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-manila/"
     },
     {
         "name": "Milan Gabor",
@@ -2849,13 +2730,6 @@
         "group_url": "https://owasp.org/www-chapter-niagra-falls/"
     },
     {
-        "name": "Amirali Sanatinia",
-        "email": "amirali.sanatinia@owasp.org",
-        "group": "OWASP Northeastern University",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-northeastern-university/"
-    },
-    {
         "name": "Abdullah Munawar",
         "email": "abdullah.munawar@owasp.org",
         "group": "OWASP Northern Virginia",
@@ -2875,20 +2749,6 @@
         "group": "OWASP Northern Virginia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-northern-virginia/"
-    },
-    {
-        "name": "Bradley McMahon",
-        "email": "bradley.mcmahon@owasp.org",
-        "group": "OWASP Oakland County",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-oakland-county/"
-    },
-    {
-        "name": "Steven Legg",
-        "email": "steven.legg@owasp.org",
-        "group": "OWASP Oakland County",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-oakland-county/"
     },
     {
         "name": "Shinichi Fuchigami",
@@ -3059,6 +2919,20 @@
         "group_url": "https://owasp.org/www-chapter-patna/"
     },
     {
+        "name": "Kevin Cody",
+        "email": "kevin.cody@owasp.org",
+        "group": "OWASP Pittsburgh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-pittsburgh/"
+    },
+    {
+        "name": "Joshua Waibel",
+        "email": "joshua.waibel@owasp.org",
+        "group": "OWASP Pittsburgh",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-pittsburgh/"
+    },
+    {
         "name": "Daniel Krasnokucki",
         "email": "daniel.krasnokucki@owasp.org",
         "group": "OWASP Poland",
@@ -3092,34 +2966,6 @@
         "group": "OWASP Poland",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-poland/"
-    },
-    {
-        "name": "David Quisenberry",
-        "email": "david.quisenberry@owasp.org",
-        "group": "OWASP Portland",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland/"
-    },
-    {
-        "name": "Benny Zhao",
-        "email": "benny.zhao@owasp.org",
-        "group": "OWASP Portland",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland/"
-    },
-    {
-        "name": "Katie Feucht",
-        "email": "katie.feucht@owasp.org",
-        "group": "OWASP Portland",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland/"
-    },
-    {
-        "name": "John L. Whiteman",
-        "email": "john.whiteman@owasp.org",
-        "group": "OWASP Portland",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland/"
     },
     {
         "name": "John Ellingsworth",
@@ -3430,27 +3276,6 @@
         "group_url": "https://owasp.org/www-chapter-salt-lake-city/"
     },
     {
-        "name": "Tom Spencer",
-        "email": "tom.spencer@owasp.org",
-        "group": "OWASP San Diego",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-diego/"
-    },
-    {
-        "name": "Fiona Collins",
-        "email": "fiona.collins@owasp.org",
-        "group": "OWASP San Diego",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-diego/"
-    },
-    {
-        "name": "Christian Dehoyos",
-        "email": "christian.dehoyos@owasp.org",
-        "group": "OWASP San Diego",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-diego/"
-    },
-    {
         "name": "Larry Nissen",
         "email": "larry.nissen@owasp.org",
         "group": "OWASP San Jacinto College - Student Chapter",
@@ -3612,6 +3437,20 @@
         "group_url": "https://owasp.org/www-chapter-sathyabama-institute-of-science-and-technology/"
     },
     {
+        "name": "Sean Wright",
+        "email": "sean.wright@owasp.org",
+        "group": "OWASP Scotland",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-scotland/"
+    },
+    {
+        "name": "Rob Jansson",
+        "email": "rob.jansson@owasp.org",
+        "group": "OWASP Scotland",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-scotland/"
+    },
+    {
         "name": "Keri Kusznir",
         "email": "keri.kusznir@owasp.org",
         "group": "OWASP Seattle",
@@ -3717,34 +3556,6 @@
         "group_url": "https://owasp.org/www-chapter-singapore/"
     },
     {
-        "name": "Mihail Stoynov",
-        "email": "mihail.stoynov@owasp.org",
-        "group": "OWASP Sofia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sofia/"
-    },
-    {
-        "name": "Peter Peshev",
-        "email": "peter.peshev@owasp.org",
-        "group": "OWASP Sofia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sofia/"
-    },
-    {
-        "name": "Rohini Sulatycki",
-        "email": "rohini.sulatycki@owasp.org",
-        "group": "OWASP South Florida",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-south-florida/"
-    },
-    {
-        "name": "Adesina Adebiyi",
-        "email": "adesina.adebiyi@owasp.org ",
-        "group": "OWASP South Florida",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-south-florida/"
-    },
-    {
         "name": "Larry Conklin",
         "email": "larry.conklin@owasp.org",
         "group": "OWASP Southern Maryland",
@@ -3801,6 +3612,20 @@
         "group_url": "https://owasp.org/www-chapter-stockholm/"
     },
     {
+        "name": "Sanjin Medic",
+        "email": "sanjin.medic@owasp.org",
+        "group": "OWASP Stockholm",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-stockholm/"
+    },
+    {
+        "name": "Davis Freimanis",
+        "email": "davis.freimanis@owasp.org",
+        "group": "OWASP Stockholm",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-stockholm/"
+    },
+    {
         "name": "Wojciech T Cichon",
         "email": "wojciech.cichon@owasp.org",
         "group": "OWASP Suffolk",
@@ -3820,20 +3645,6 @@
         "group": "OWASP Suffolk",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-suffolk/"
-    },
-    {
-        "name": "Cahyo Darujati",
-        "email": "cahyo.darujati@owasp.org",
-        "group": "OWASP Surabaya",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-surabaya/"
-    },
-    {
-        "name": "Moh Noor A-Azam",
-        "email": "noor.azam@owasp.org",
-        "group": "OWASP Surabaya",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-surabaya/"
     },
     {
         "name": "Urvin Mistry",
@@ -4165,20 +3976,6 @@
         "group_url": "https://owasp.org/www-chapter-tunisia/"
     },
     {
-        "name": "Markus Örebrand",
-        "email": "markus.orebrand@owasp.org",
-        "group": "OWASP Umea",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-umea/"
-    },
-    {
-        "name": "Magnus Hultdin",
-        "email": "magnus.hultdin@owasp.org",
-        "group": "OWASP Umea",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-umea/"
-    },
-    {
         "name": "Deveeshree Nayak",
         "email": "deveeshree.nayak@owasp.org",
         "group": "OWASP University of Washington - Student Chapter",
@@ -4431,20 +4228,6 @@
         "group_url": "https://owasp.org/www-chapter-waterloo/"
     },
     {
-        "name": "Rodolfo Hernandez Baz",
-        "email": "rodolfo.hernanddesbaz@owasp.org",
-        "group": "OWASP Xalapa",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-xalapa/"
-    },
-    {
-        "name": "Alma Delia Rodriguez Gordillo",
-        "email": "alma.deliarodriguezgordillo@owasp.org",
-        "group": "OWASP Xalapa",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-xalapa/"
-    },
-    {
         "name": "Vaagn Toukharian",
         "email": "vaagn.toukharian@owasp.org",
         "group": "OWASP Yerevan",
@@ -4548,13 +4331,6 @@
         "group": "OWASP Chapter Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-chapter/"
-    },
-    {
-        "name": "Fiona Collins",
-        "email": "fiona.collins@owasp.org",
-        "group": "OWASP Compliance Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-compliance/"
     },
     {
         "name": "Adrian Winckles",
@@ -4891,13 +4667,6 @@
         "group": "OWASP Best Practices In Vulnerability Disclosure And Bug Bounty Programs",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-best-practices-in-vulnerability-disclosure-and-bug-bounty-programs/"
-    },
-    {
-        "name": "Rodrigo Araujo",
-        "email": "rodrigowpa@gmail.com",
-        "group": "OWASP Big Data Security Verification Standard",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-big-data/"
     },
     {
         "name": "Mark Deen",
@@ -5418,6 +5187,20 @@
         "group_url": "https://owasp.org/www-project-go-secure-coding-practices-guide/"
     },
     {
+        "name": "Konstantinos Papapanagiotou",
+        "email": "konstantinos@owasp.org",
+        "group": "OWASP Hackademic Challenges",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-hackademic-challenges/"
+    },
+    {
+        "name": "Spyros Gasteratos",
+        "email": "spyros.gasteratos@owasp.org",
+        "group": "OWASP Hackademic Challenges",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-hackademic-challenges/"
+    },
+    {
         "name": "Mateo Martinez",
         "email": "mateo.martinez@owasp.org",
         "group": "OWASP hacking-lab",
@@ -5488,18 +5271,18 @@
         "group_url": "https://owasp.org/www-project-igoat-tool/"
     },
     {
+        "name": "Tom Brennan",
+        "email": "tomb@owasp.org",
+        "group": "OWASP Incident Response",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-incident-response/"
+    },
+    {
         "name": "Ahmed Fouda",
         "email": "ahmed.fouda@owasp.org",
         "group": "OWASP Information Security Metrics Bank",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-information-security-metrics-bank/"
-    },
-    {
-        "name": "Tariq Hawis",
-        "email": "tariqhawis@gmail.com",
-        "group": "OWASP InjectBot",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-injectbot/"
     },
     {
         "name": "Elie Saad",
@@ -5605,13 +5388,6 @@
         "group": "OWASP JavaScript Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-javascript-security/"
-    },
-    {
-        "name": "Ali Razmjoo",
-        "email": "ali.razmjoo@owasp.org",
-        "group": "OWASP Joomscan",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-joomscan/"
     },
     {
         "name": "Robert Upcraft",
@@ -5810,11 +5586,11 @@
         "group_url": "https://owasp.org/www-project-mth3l3m3nt-framework/"
     },
     {
-        "name": "Muhammad Johar Jaafar",
-        "email": "muhammad.joharjaafar@owasp.org",
-        "group": "OWASP Nasi Lemak",
+        "name": "Jeremy Druin",
+        "email": "jeremy@ellipsisinfosec.com",
+        "group": "OWASP Mutillidae II",
         "group-type": "project",
-        "group_url": "https://owasp.org/www-project-nasi-lemak/"
+        "group_url": "https://owasp.org/www-project-mutillidae-ii/"
     },
     {
         "name": "Ali Razmjoo Qalaei",
@@ -5878,13 +5654,6 @@
         "group": "OWASP Off The Record 4 Java",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-off-the-record-4-java/"
-    },
-    {
-        "name": "John Patrick Lita",
-        "email": "john.patrick.lita@owasp.org",
-        "group": "OWASP Online Academy",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-online-academy/"
     },
     {
         "name": "Andrei Brazhuk",
@@ -5971,8 +5740,8 @@
         "group_url": "https://owasp.org/www-project-php-security-training/"
     },
     {
-        "name": "Matt Tesauro",
-        "email": "matt.tesauro@owasp.org",
+        "name": "Mark Miller",
+        "email": "mark.miller@owasp.org",
         "group": "OWASP Podcast",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-podcast/"
@@ -6018,20 +5787,6 @@
         "group": "OWASP Pygoat",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-pygoat/"
-    },
-    {
-        "name": "Ehsan Nezami",
-        "email": "ehsan.nezami@owasp.org",
-        "group": "OWASP Python Honeypot",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-python-honeypot/"
-    },
-    {
-        "name": "Ali Razmjoo Qalaei",
-        "email": "ali.razmjoo@owasp.org",
-        "group": "OWASP Python Honeypot",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-python-honeypot/"
     },
     {
         "name": "Enrico Branca",
@@ -6097,13 +5852,6 @@
         "group_url": "https://owasp.org/www-project-redteam-toolkit/"
     },
     {
-        "name": "Tushar Kulkarni",
-        "email": "tushar.kulkarni@owasp.org",
-        "group": "OWASP Revelo",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-revelo/"
-    },
-    {
         "name": "Jonathan Carter",
         "email": "jonathan.carter@owasp.org",
         "group": "OWASP Reverse Engineering And Code Modification Prevention",
@@ -6116,6 +5864,13 @@
         "group": "OWASP Reverse Engineering And Code Modification Prevention",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-reverse-engineering-and-code-modification-prevention/"
+    },
+    {
+        "name": "Tom Brennan",
+        "email": "tomb@owasp.org",
+        "group": "OWASP Rfp-Criteria",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-rfp-criteria/"
     },
     {
         "name": "Ade Yoseman Putra",
@@ -6167,6 +5922,13 @@
         "group_url": "https://owasp.org/www-project-scan-it/"
     },
     {
+        "name": "Daniel Miessler",
+        "email": "",
+        "group": "OWASP Seclists",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-seclists/"
+    },
+    {
         "name": "Ashish Rao",
         "email": "rao.ashish20@gmail.com",
         "group": "OWASP Sectudo",
@@ -6216,13 +5978,6 @@
         "group_url": "https://owasp.org/www-project-secure-medical-device-deployment-standard/"
     },
     {
-        "name": "Gregor Spagnolo",
-        "email": "gregor@ssrd.io",
-        "group": "OWASP SecureBank",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-securebank/"
-    },
-    {
         "name": "Robert Seedorff",
         "email": "https://github.com/rseedorff",
         "group": "OWASP secureCodeBox",
@@ -6251,13 +6006,6 @@
         "group_url": "https://owasp.org/www-project-securetea/"
     },
     {
-        "name": "Stefano Belloro",
-        "email": "",
-        "group": "OWASP Security Busters",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-busters/"
-    },
-    {
         "name": "Nick Miller",
         "email": "nick.miller@owasp.org",
         "group": "OWASP Security Culture",
@@ -6284,27 +6032,6 @@
         "group": "OWASP Security Knowledge Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-knowledge-framework/"
-    },
-    {
-        "name": "Sytze Van Koningsveld",
-        "email": "sytze.vankoningsveld@owasp.org",
-        "group": "OWASP Security Logging",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-logging/"
-    },
-    {
-        "name": "August Detlefsen",
-        "email": "",
-        "group": "OWASP Security Logging",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-logging/"
-    },
-    {
-        "name": "Sytze Van Koningsveld",
-        "email": "sytze.vankoningsveld@owasp.org",
-        "group": "OWASP Security Logging",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-logging/"
     },
     {
         "name": "Timo Pagel",
@@ -6902,67 +6629,11 @@
         "group_url": "https://owasp.org/www-project-webgoat/"
     },
     {
-        "name": "Shivam Dixit",
-        "email": "shivam.dixit@owasp.org",
-        "group": "OWASP webgoat php",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webgoat-php/"
-    },
-    {
-        "name": "Johanna Curiel",
-        "email": "johanna.curiel@owasp.org",
-        "group": "OWASP webgoat php",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webgoat-php/"
-    },
-    {
-        "name": "Yiannis Pavlosoglou",
-        "email": "yiannis@owasp.org",
-        "group": "OWASP Webspa",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webspa/"
-    },
-    {
-        "name": "Oliver Merki",
-        "email": "oliver.merki@owasp.org",
-        "group": "OWASP Webspa",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webspa/"
-    },
-    {
-        "name": "Oliver Merki",
-        "email": "oliver.merki@owasp.org",
-        "group": "OWASP Webspa",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webspa/"
-    },
-    {
         "name": "Henry Hon",
         "email": "henry.hon@owasp.org",
         "group": "OWASP WinFIM.NET",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-winfim.net/"
-    },
-    {
-        "name": "Luka Sikic",
-        "email": "",
-        "group": "OWASP Wpbullet",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-wpbullet/"
-    },
-    {
-        "name": "Jeroen Willemsen",
-        "email": "jeroen.willemsen@owasp.org",
-        "group": "OWASP WrongSecrets",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-wrongsecrets/"
-    },
-    {
-        "name": "Ben de Haan",
-        "email": "ben.dehaan@owasp.org",
-        "group": "OWASP WrongSecrets",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-wrongsecrets/"
     },
     {
         "name": "Simon Bennetts (psiinon)",
@@ -7040,41 +6711,6 @@
         "group": "OWASP LASCON",
         "group-type": "event",
         "group_url": "https://owasp.org/www-revent-lascon/"
-    },
-    {
-        "name": "John Vargas",
-        "email": "john.vargas@owasp.org",
-        "group": "OWASP LATAM",
-        "group-type": "event",
-        "group_url": "https://owasp.org/www-revent-latam/"
-    },
-    {
-        "name": "Mario Robles",
-        "email": "mario.robles@owasp.org",
-        "group": "OWASP LATAM",
-        "group-type": "event",
-        "group_url": "https://owasp.org/www-revent-latam/"
-    },
-    {
-        "name": "Martin Marsicano",
-        "email": "martin.marsicano@owasp.org",
-        "group": "OWASP LATAM",
-        "group-type": "event",
-        "group_url": "https://owasp.org/www-revent-latam/"
-    },
-    {
-        "name": "Raphael Hagi",
-        "email": "raphael.santos@owasp.org",
-        "group": "OWASP LATAM",
-        "group-type": "event",
-        "group_url": "https://owasp.org/www-revent-latam/"
-    },
-    {
-        "name": "Ricardo Supo",
-        "email": "ricardo.supo@owasp.org",
-        "group": "OWASP LATAM",
-        "group-type": "event",
-        "group_url": "https://owasp.org/www-revent-latam/"
     },
     {
         "name": "Katie Feucht",
