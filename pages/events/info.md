@@ -5,4 +5,4 @@
 * [Quick Links & Sample Budgets](/assets/images/content/2021 Events Quick Links.pdf)
 
 #### Other Cybersecurity Conferences
-[Cybersecurity Conferences Directory](https://infosec-conferences.com)
+* [Cybersecurity Conferences Directory](https://infosec-conferences.com)
