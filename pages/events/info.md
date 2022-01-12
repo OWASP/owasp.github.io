@@ -4,5 +4,5 @@
 * [OWASP Keynote, Speaker, and Trainer Agreement](/events/speaker_agreement/)
 * [Quick Links & Sample Budgets](/assets/images/content/2021 Events Quick Links.pdf)
 
-#### Other Cybersecurity Conferences
+#### Event Association Partners
 * [Cybersecurity Conferences Directory](https://infosec-conferences.com)
