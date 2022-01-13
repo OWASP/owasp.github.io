@@ -8,7 +8,7 @@
        url: https://www.eventbrite.com/e/owasp-january-webinar-tickets-221608546127
      - name: OWASP Career Fair
        optional-text: Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our 2022 February Career Fair! 
-       start-date: February 2022
+       start-date: 2022-2-22
        dates: February 22, 2022
        url: https://owasp.org/events/career_fair/
      - name: OWASP March Webinars
@@ -18,8 +18,8 @@
        url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
      - name: OWASP April Webinar
        optional-text: details coming soon
-       #start-date:
-       #dates:
+       start-date: April 2022
+       dates: April 2022
        url:
      - name: OWASP 2022 Global AppSec Europe Virtual Event
        start-date: 2022-6-6
@@ -28,18 +28,18 @@
        optional-text: Call for Papers, Call for Trainers, Exhibit and Sponsorship Opportunities are now available. 
      - name: OWASP July Webinar
        optional-text: details coming soon
-       #start-date:
-       #dates:
+       start-date: July 2022
+       dates: July 2022
        url:
-     - name: OWASP Global AppSec APac Virtual Event
+     - name: OWASP Global AppSec AsiaPac Virtual Event
        optional-text: details coming soon
-       #start-date:
-       #dates:
+       start-date: TBA
+       dates: TBA
        url:
      - name: OWASP October Webinar
        optional-text: details coming soon
-       #start-date:
-       #dates:
+       start-date: October 2022
+       dates: October 2022
        url:
      - name: OWASP Global AppSec San Francisco
        start-date: 2022-11-14
@@ -47,20 +47,20 @@
        optional-text: Join us in-person in San Francisco for three days of training followed by two conference days with multiple tracks. More information coming soon!
      - name: Happy Holidays Training
        optional-text: OWASP is pleased to bring you our Happy Holiday's Training. Don't miss this multi-day virtual developer training to retool and level-up. More details coming soon!
-       #start-date:
-       #dates:
+       start-date: December 2022
+       dates: December 2022
        url:
-- category: Regional
+- category: AppSec Days Events
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-     - name: SnowFROC 2022
-       start-date: 2022-03-03
-       dates: March 3, 2022
-       url: https://snowfroc.com/
      - name: OWASP 2021 AppSec Days BeNeLux
        start-date: TBA
        dates: Postponed until later in 2022
        url: https://www.owaspbenelux.eu/
+     - name: SnowFROC 
+       start-date: TBA
+       dates: Postponed to March 2023
+       url: https://snowfroc.com/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
