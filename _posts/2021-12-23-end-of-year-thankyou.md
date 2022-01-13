@@ -10,9 +10,9 @@ excerpt_separator: <!--more-->
 
 ---
 
-This year has been extremely challegning, and it looks like 2022 will be more of the same. But in the meantime, we have had some amazing successes, and I want to celebrate them. So here's a very overdue and yet still timely end of year blog blow out!
+This year has been extremely challenging, and it looks like 2022 will be more of the same. But in the meantime, we have had some amazing successes, and I want to celebrate them. So here's a very overdue and yet still timely end of year blog blow out!
 
-Read on to learn about our end of year Donation and Corporate membership drive, 20th Anniversary keynotes, Distinguished Lifetime Members and Waspy Awards announcements, and lastly how we intend to implement multi-factor authentication by the end of Q1 2022.
+Read on to learn about our end of year Donation and Corporate membership drive, 20th Anniversary keynotes, Distinguished Lifetime Members and WASPY Awards announcements, and lastly how we intend to implement multi-factor authentication by the end of Q1 2022.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ We have worked with our accountants to work with our Corporate Supporters and Me
 
 Donations may be tax deductible for US based organizations. Please consult a qualified tax accountant to determine your eligibility.
 
-To make a donation, please use our automated [donation system](https://owasp.org/donate/). If you want to direct your donation to a cause or get an invoice for your acccountants, please contact[Kelly Santalucia](mailto:kelly.santalucia@owasp.com) (and [cc me](mailto:andrew.vanderstock@owasp.com)).
+To make a donation, please use our automated [donation system](https://owasp.org/donate/). If you want to direct your donation to a cause or get an invoice for your accountants, please contact[Kelly Santalucia](mailto:kelly.santalucia@owasp.com) (and [cc me](mailto:andrew.vanderstock@owasp.com)).
 
 ### End of year Corporate Membership Drive
 
@@ -62,7 +62,7 @@ AppSec Virtual videos are now available to all attendees and OWASP members. Plea
 
 ## Distinguished Lifetime Membership Awards
 
-At OWASP's 20th Anniversary, the Global Board awarded five Distinguished Lifetime Membership Awards. Distinguished Lifetime Membership Awards are for extraordainary services to the OWASP Community over a lengthy period of time.
+At OWASP's 20th Anniversary, the Global Board awarded five Distinguished Lifetime Membership Awards. Distinguished Lifetime Membership Awards are for extraordinary services to the OWASP Community over a lengthy period of time.
 
 You can learn more about the awardees here:
 
@@ -78,20 +78,22 @@ We honor our [inaugural Distinguished Lifetime Members here:](https://owasp.org/
 
 Thank you to each and every one of our Distinguished Lifetime Members! Literally, without their extraordinary service to OWASP and our community, OWASP literally would not be here today.
 
-## Waspy Awards 2021
+## WASPY Awards 2021
 
 Similarly, at the 20th Anniversary, the OWASP Member community nominated and voted in an election for various Waspy Awards.
 
-The 2021 Waspy Award Winners are:
+The 2021 WASPY Award Winners are:
 
 - [Best Innovator - Bjoern Kimmich](https://www.youtube.com/watch?v=CMA5lWAJI8Q&list=PLpr-xdpM8wG_LQZxlWVKn304BBsVLFkc_&index=1)
 - [Best Community - Tanya Janca](https://www.youtube.com/watch?v=dVDVcLyrnr4&list=PLpr-xdpM8wG_LQZxlWVKn304BBsVLFkc_&index=2)
 - [Best Educator - Tanya Janca](https://www.youtube.com/watch?v=dVDVcLyrnr4&list=PLpr-xdpM8wG_LQZxlWVKn304BBsVLFkc_&index=2)
 - [Best Project - OWASP Zap](https://www.youtube.com/watch?v=iz1EAwaV0gI&list=PLpr-xdpM8wG_LQZxlWVKn304BBsVLFkc_&index=3)
+    - Rick Mitchell
+    - Ricardo Pereira
 
-You can [watch the entire Waspy Awards playlist here:](https://www.youtube.com/playlist?list=PLpr-xdpM8wG_LQZxlWVKn304BBsVLFkc_)
+You can [watch the entire WASPY Awards playlist here:](https://www.youtube.com/playlist?list=PLpr-xdpM8wG_LQZxlWVKn304BBsVLFkc_)
 
-We honor our [all our Waspy Award winners here:](https://owasp.org/awards/#div-waspy)
+We honor our [all our WASPY Award winners here:](https://owasp.org/awards/#div-waspy)
 
 As these awards are nominated by and voted for by OWASP Members, one of the categories (Best Project Team) might be changed next year to ensure that if we do "Best project" again, we will be making all Project Leaders eligible. As of right now, Leaders do not need to be Members. However, with complimentary membership, any Leader can become a member if they so choose, and we have memberships available from $8 to $50 per year depending on your location and if you are a student in a emerging economy.
 
