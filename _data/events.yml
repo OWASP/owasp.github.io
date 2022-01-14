@@ -17,19 +17,19 @@
        dates: March 7, 2022
        url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
      - name: OWASP April Webinar
-       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. **Please note: This webinar will be held in Moscow Standard Time (MSK)**
-       #start-date: 2022-4-12
-       dates: April 12-13, 2022
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
+       start-date: 2022-4-12 Moscow Standard Time (MSK)
+       dates: April 12-13, 2022 
        url: https://www.eventbrite.com/e/247348755787
      - name: OWASP 2022 Global AppSec Europe Virtual Event
        start-date: 2022-6-6
-       dates: June 6-10, 2022
+       dates: June 6-10, 2022 
        url: https://dublin.globalappsec.org/
        optional-text: Call for Papers, Call for Trainers, Exhibit and Sponsorship Opportunities are now available. 
      - name: OWASP July Webinar
-       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. **Please note: This webinar will be held in Eastern Daylight Time (EDT)**
-       #start-date: 2022-7-12
-       dates: July 12-13, 2022
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. 
+       start-date: 2022-7-12
+       dates: July 12-13, 2022 Eastern Daylight Time (EDT)
        url:
      - name: OWASP Global AppSec AsiaPac Virtual Event
        optional-text: details coming soon
@@ -37,8 +37,8 @@
        dates: TBA
        url:
      - name: OWASP October Webinar
-       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. **Please note: This webinar will be held in Australian Western Standard Time (AWST)**
-       #start-date: 2022-10-11
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. 
+       start-date: 2022-10-11 Australian Western Standard Time (AWST)
        dates: October 11-12, 2022
        url:
      - name: OWASP Global AppSec San Francisco
