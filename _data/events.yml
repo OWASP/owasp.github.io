@@ -1,11 +1,11 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-     - name: OWASP January Webinar
-       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
-       start-date: 2022-1-11
-       dates: January 11-12, 2022
-       url: https://www.eventbrite.com/e/owasp-january-webinar-tickets-221608546127
+     #- name: OWASP January Webinar
+     #  optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
+      # start-date: 2022-1-11
+      # dates: January 11-12, 2022
+      # url: https://www.eventbrite.com/e/owasp-january-webinar-tickets-221608546127
      - name: OWASP Career Fair
        optional-text: Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our 2022 February Career Fair! 
        start-date: 2022-2-22
@@ -17,10 +17,10 @@
        dates: March 7, 2022
        url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
      - name: OWASP April Webinar
-       optional-text: details coming soon
-       #start-date: April 2022
-       dates: April 2022
-       url:
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
+       #start-date: 2022-4-12
+       dates: April 12-13, 2022
+       url: https://www.eventbrite.com/e/247348755787
      - name: OWASP 2022 Global AppSec Europe Virtual Event
        start-date: 2022-6-6
        dates: June 6-10, 2022
