@@ -1,54 +1,54 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-     - name: OWASP January Webinar
-       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
-       start-date: 2022-1-11
-       dates: January 11-12, 2022
-       url: https://www.eventbrite.com/e/owasp-january-webinar-tickets-221608546127
+     #- name: OWASP January Webinar
+     #  optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
+      # start-date: 2022-1-11
+      # dates: January 11-12, 2022
+      # url: https://www.eventbrite.com/e/owasp-january-webinar-tickets-221608546127
      - name: OWASP Career Fair
        optional-text: Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our 2022 February Career Fair! 
-       start-date: 2022-2-22
-       dates: February 22, 2022
+       start-date: 2022-2-22 Eastern Standard Time (EST)
+       dates: February 22, 2022 Eastern Standard Time (EST)
        url: https://owasp.org/events/career_fair/
      - name: OWASP March Webinars
        optional-text: Join us as we bring you a variety of fresh application security training courses. Training courses will be announced and registration will open the week of January 31.
-       start-date: 2022-03-07
-       dates: March 7, 2022
+       start-date: 2022-03-07 Mountain Standard Time (MTS) 
+       dates: March 7, 2022 Mountain Standard Time (MTS) 
        url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
      - name: OWASP April Webinar
-       optional-text: details coming soon
-       #start-date: April 2022
-       dates: April 2022
-       url:
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills.
+       start-date: 2022-4-12 Moscow Standard Time (MSK)
+       dates: April 12-13, 2022 Moscow Standard Time (MSK)
+       url: https://www.eventbrite.com/e/247348755787
      - name: OWASP 2022 Global AppSec Europe Virtual Event
        start-date: 2022-6-6
-       dates: June 6-10, 2022
+       dates: June 6-10, 2022 
        url: https://dublin.globalappsec.org/
-       optional-text: Call for Papers, Call for Trainers, Exhibit and Sponsorship Opportunities are now available. 
+       optional-text: **Call for Papers, Call for Trainers, Exhibit and Sponsorship Opportunities are now available.**
      - name: OWASP July Webinar
-       optional-text: details coming soon
-       #start-date: July 2022
-       dates: July 2022
-       url:
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. 
+       start-date: 2022-7-12 Eastern Daylight Time (EDT)
+       dates: July 12-13, 2022 Eastern Daylight Time (EDT)
+       url: https://www.eventbrite.com/e/247416939727
      - name: OWASP Global AppSec AsiaPac Virtual Event
        optional-text: details coming soon
        #start-date: TBA
        dates: TBA
        url:
      - name: OWASP October Webinar
-       optional-text: details coming soon
-       #start-date: October 2022
-       dates: October 2022
-       url:
+       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. 
+       start-date: 2022-10-11 Australian Western Standard Time (AWST)
+       dates: October 11-12, 2022 Australian Western Standard Time (AWST)
+       url: https://www.eventbrite.com/e/247450760887
      - name: OWASP Global AppSec San Francisco
-       #start-date: 2022-11-14
-       dates: November 14-18, 2022
+       start-date: 2022-11-14 Pacific Standard Time (PST)
+       dates: November 14-18, 2022 Pacific Standard Time (PST)
        optional-text: Join us in-person in San Francisco for three days of training followed by two conference days with multiple tracks. More information coming soon!
      - name: Happy Holidays Training
        optional-text: OWASP is pleased to bring you our Happy Holiday's Training. Don't miss this multi-day virtual developer training to retool and level-up. More details coming soon!
-       #start-date: December 2022
-       dates: December 2022
+       start-date: 2022-12-12 Eastern Standard Time (EST)
+       dates: December 12-13, 2022 Eastern Standard Time (EST)
        url:
 - category: AppSec Days Events
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
