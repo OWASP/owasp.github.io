@@ -7299,5 +7299,12 @@
         "group": "OWASP SnowFROC",
         "group-type": "event",
         "group_url": "https://owasp.org/www-revent-snowfroc/"
+    },
+    {
+        "name": "Test Leader",
+        "email": "test.leader@owasp.org",
+        "group": "OWASP Test Time",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-projectchapter-example/"
     }
 ]
