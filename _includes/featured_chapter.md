@@ -1,11 +1,17 @@
-## [Featured Event: OWASP Global AppSec US 2021](https://usa.globalappsec.org/)
+## [OWASP 2022 Global AppSec European Virtual Event](https://virtual.globalappsec.org/)
 
-![OWASP Global AppSec US 2021 Virtual](/assets/images/content/featured_event_usa.png){:class="featured-proj-image"}
+![OWASP 2022 Global AppSec European Virtual Event](https://virtual.globalappsec.org/assets/images/VIRTUAL_AppSec_2022_Banner_1920x720.jpg){:class="featured-proj-image"}
 
-Global AppSec US Virtual 2021 returns Nov. 11-12, 2021. Designed for private and public sector infosec professionals, the two day OWASP conferences equip developers, defenders, and advocates to build a more secure web.
+Join us virtually June 6-10, 2022, for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.     
 
-Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.     
+- [Exhibit and Sponsorship Opportunities](https://dublin.globalappsec.org/assets/files/Virtual_AppSec_EU_2022_Sponsorship_Opportunities.pdf)
+- [Call for Trainers](https://owasp.submittable.com/submit/213361/2022-virtual-global-appsec-eu-cft)
+- [Call for Papers](https://owasp.submittable.com/submit/213362/2022-virtual-global-appsec-eu-cfp)
+- Call for Moderators - coming soon!
 
 [Read more..](/events/spotlight/)
+
+
+
 
 
