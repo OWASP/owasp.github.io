@@ -8,7 +8,7 @@
 
 **NEW Chapter Support Request Tickets**
   - [Start a New Chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
-  - [New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
+  - [Add a New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
   - [Leader stepping down](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
   - [Reactivating a Chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
   - [Request a Shared Service](https://owasporg.atlassian.net/servicedesk/customer/portal/8) 
