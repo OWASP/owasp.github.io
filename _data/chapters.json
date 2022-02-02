@@ -128,7 +128,7 @@
         "name": "Chile",
         "url": "https://owasp.org/www-chapter-chile/",
         "created": "2019-09-12",
-        "updated": "2021-09-21",
+        "updated": "2022-02-01",
         "build": "built",
         "title": "OWASP Chile",
         "level": "0",
@@ -2609,19 +2609,6 @@
         "meetings": 0
     },
     {
-        "name": "Porto",
-        "url": "https://owasp.org/www-chapter-porto/",
-        "created": "2022-01-10",
-        "updated": "2022-01-10",
-        "build": "built",
-        "title": "OWASP Porto",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Rhode Island",
         "url": "https://owasp.org/www-chapter-rhode-island/",
         "created": "2019-09-12",
@@ -3633,6 +3620,20 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "owasp-poland",
+        "meetings": 0
+    },
+    {
+        "name": "Porto",
+        "url": "https://owasp.org/www-chapter-porto/",
+        "created": "2022-01-10",
+        "updated": "2022-02-01",
+        "build": "built",
+        "title": "OWASP Porto",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Porto-Chapter",
         "meetings": 0
     },
     {
