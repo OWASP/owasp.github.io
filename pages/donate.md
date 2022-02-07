@@ -348,7 +348,7 @@ permalink: /donate/
 
 <script src="https://www.google.com/recaptcha/api.js?onload=vueRecaptchaApiLoaded&render=explicit"></script>
 <script src="https://js.stripe.com/v3"></script>
-<script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/vue@2/dist/vue.min.js"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="https://unpkg.com/vue-recaptcha@1.3.0/dist/vue-recaptcha.min.js"></script>
 
