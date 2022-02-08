@@ -19,12 +19,10 @@ OWASP Local Chapters build community for application security professionals arou
 Chapter pages on this site have general information and leader contact info. Local meeting RSVPs are handled through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
 
 ## Local Chapters by Region
-{% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
+{% assign regions = site.data.supported_regions %}
 <ul>
     {% for region in regions %}
-    {% unless region contains 'Needs Website' %}
-    <li><a href='#{{ region | remove: " " }}'>{{ region }}</a></li>
-    {% endunless %}
+    <li><a href='#{{ region.region | remove: " " }}'>{{ region.region }}</a></li>
     {% endfor %}
 </ul>
 
@@ -34,19 +32,20 @@ Chapter pages on this site have general information and leader contact info. Loc
 ## Chapter Listing
 
 <div class='chapters-list'>
-    {% assign regions = site.data.chapters | map: 'region' | sort: region | uniq %}
+    {% assign regions = site.data.supported_regions %}
     {% for region in regions %}
-        {% unless region contains 'Website Update' %}
         <div class="region">
-            <h4><a name="{{ region | remove: " " }}"></a>{{ region }}</h4>
+            <h4><a name="{{ region.region | remove: " " }}"></a>{{ region.region }}</h4>
             <ul>
             {% for chapter in site.data.chapters %}
-                {% if chapter.region == region and chapter.build != 'no pages'%}
+                {% if chapter.region == region.region and chapter.build != 'no pages'%}
                     <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
                 {% endif %}
             {% endfor %}
             </ul>
         </div>
-       {% endunless %}
     {% endfor %}
 </div>
+
+
+## Chapters in Unsupported Regions
