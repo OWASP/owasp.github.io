@@ -817,3 +817,11 @@
   image: /assets/images/corp-member-logo/GitGuardianLogo.png
   url: http://gitguardian.com
   description: 	GitGuardian is the code security platform for the DevOps generation. With automated secrets detection and remediation, our platform enables Dev, Sec, and Ops to advance together towards the Secure Software Development Lifecycle.
+- member: true
+  sponsor:
+  name: Resurface Labs Inc.
+  sortname: Resurface Labs Inc.
+  membertype: 4
+  image: /assets/images/corp-member-logo/Resurface_Logo300x210.png
+  url: https://resurface.io/
+  description: Detect and respond to API threats and risk in real-time with Resurface continuous API scanning. Purpose-built for API data, Resurface captures complete request and response payloads (including GraphQL) to instantly see threats and failures. Get alerts on data breaches for zero-day detection and response. Mapped to OWASP Top10, Resurface alerts on threats with complete data security patterns and behaviors. Resurface is the only API security solution engineered for deep inspection at scale. Handling millions of API calls, Resurface detects and alerts on active attacks. Machine learning models indicate anomalies and identify low-and-slow attack patterns.
