@@ -814,7 +814,7 @@
   name: GitGuardian
   sortname: GitGuardian
   membertype: 3
-  image: /assets/images/corp-member-logo/GitGuardianLogo.png
+  image: /assets/images/corp-member-logo/GitGuardian_Logo_Vertical.png
   url: http://gitguardian.com
   description: 	GitGuardian is the code security platform for the DevOps generation. With automated secrets detection and remediation, our platform enables Dev, Sec, and Ops to advance together towards the Secure Software Development Lifecycle.
 - member: true
@@ -824,4 +824,12 @@
   membertype: 4
   image: /assets/images/corp-member-logo/Resurface_Logo300x210.png
   url: https://resurface.io/
-  description: Detect and respond to API threats and risk in real-time with Resurface continuous API scanning. Purpose-built for API data, Resurface captures complete request and response payloads (including GraphQL) to instantly see threats and failures. Get alerts on data breaches for zero-day detection and response. Mapped to OWASP Top10, Resurface alerts on threats with complete data security patterns and behaviors. Resurface is the only API security solution engineered for deep inspection at scale. Handling millions of API calls, Resurface detects and alerts on active attacks. Machine learning models indicate anomalies and identify low-and-slow attack patterns.
+  description: Detect and respond to API threats and risk in real-time with Resurface continuous API scanning. Purpose-built for API data, Resurface captures complete request and response payloads (including GraphQL) to instantly see threats and failures. Get alerts on data breaches for zero-day detection and response. Mapped to OWASP Top10, Resurface alerts on threats with complete data security patterns and behaviors. Resurface is the only API security solution engineered for deep inspection at scale. Handling millions of API calls, Resurface detects and alerts on active attacks. Machine learning models indicate anomalies and identify low-and-slow attack patterns. 
+- member: true
+  sponsor:
+  name: KPMG LLP
+  sortname: KPMG LLP
+  membertype: 3
+  image: /assets/images/corp-member-logo/KPMG_Logo.jpeg
+  url: http://www.kpmg.com/us/cyber
+  description: KPMG has experience across the continuum — from the boardroom to the data center. In addition to assessing your cyber security and aligning it to your business priorities, we can help you develop advanced approaches, implement them, monitor ongoing risks and help you respond effectively to cyber incidents. So no matter where you are on the cyber security journey, KPMG can help you reach the destination.
