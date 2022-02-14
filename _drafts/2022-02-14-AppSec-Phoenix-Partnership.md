@@ -1,5 +1,6 @@
 ---
 
+date: 2022-02-15 07:00:00 -0600
 author: Lisa Jones
 author_image: /assets/images/people/staff_lisa.jpg
 layout: blogpost
