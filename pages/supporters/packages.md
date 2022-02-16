@@ -8,7 +8,7 @@ tags: corp-membership
 
 ---
 
-OWASP's new corporate membership packages now contain more benefits than ever. New benefits include Corporate Membership logos for your website, OWASP trademark licensing, including registration discounts, early access to our events, and more. There's a package with affordable prices for all. We have steep discounts for emerging or developing economies or are a startup or both. 
+OWASP's new corporate membership packages now contain more benefits than ever. New benefits include Corporate Membership logos for your website, OWASP trademark licensing, including registration discounts, early access to our events, and more. There's a package with affordable prices for all. We have steep discounts for emerging or developing economies or are a startup or both. Corporate Membership is valid for 365 days from the date payment is received. 
 
 ## Become a Corporate Member Today
 
