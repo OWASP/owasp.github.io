@@ -1,7 +1,7 @@
 ---
 
 title: Store Redirect
-permalink: /store
+permalink: /store/
 redirect_from: 
     - /store
     - /store/
