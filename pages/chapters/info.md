@@ -5,7 +5,7 @@
 * [OWASP Meetup](https://owasp.meetup.com)
 * [Upcoming OWASP Community Activities](/chapters/events/)
 * [List of All Chapters status](https://owasp.org/chapters/status/)
-* [OWASP New Mailing List](https://owasp.us17.list-manage.com/subscribe?u=a8012c9e2e384bf8ea8d7deb7&id=22be76c892)
+* [Subscribe to OWASP New Mailing List](https://owasp.us17.list-manage.com/subscribe?u=a8012c9e2e384bf8ea8d7deb7&id=22be76c892)
 * [Unsubscribe from OWASP Mailing List](https://owasp.us17.list-manage.com/unsubscribe?u=a8012c9e2e384bf8ea8d7deb7&id=2b8a341014)
 
 **NEW Chapter Support Request Tickets**
