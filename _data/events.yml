@@ -54,6 +54,10 @@
 - category: AppSec Days Events
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
+     - name: AppSec Days Pacific Northwest 
+       start-date: 2022-06-11
+       dates: June 11, 2022
+       url: https://pnwcon.com/
      - name: OWASP 2021 AppSec Days BeNeLux
        #start-date: TBA
        dates: Postponed until later in 2022
