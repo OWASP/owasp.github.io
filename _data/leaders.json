@@ -1456,15 +1456,8 @@
         "group_url": "https://owasp.org/www-chapter-gothenburg/"
     },
     {
-        "name": "Viktor Lindström",
-        "email": "viktor.lindstrom@owasp.org",
-        "group": "OWASP Gothenburg",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-gothenburg/"
-    },
-    {
-        "name": "Daniel Fallstrand",
-        "email": "daniel.fallstrand@owasp.org",
+        "name": "Johanna Abrahamsson",
+        "email": "johanna.abrahamsson@owasp.org",
         "group": "OWASP Gothenburg",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-gothenburg/"
@@ -1748,27 +1741,6 @@
         "group": "OWASP Iasi",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-iasi/"
-    },
-    {
-        "name": "Aman Gupta",
-        "email": "aman.gupta@owasp.org",
-        "group": "OWASP IIIT Sri City - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-iiit-sricity/"
-    },
-    {
-        "name": "Ayush Bajirao",
-        "email": "ayush.bajirao@owasp.org",
-        "group": "OWASP IIIT Sri City - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-iiit-sricity/"
-    },
-    {
-        "name": "Piyush Pranav",
-        "email": "piyush.pranav@owasp.org",
-        "group": "OWASP IIIT Sri City - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-iiit-sricity/"
     },
     {
         "name": "Dr. Somanath Tripathy",
@@ -2507,7 +2479,7 @@
     },
     {
         "name": "Kaustav Pallob",
-        "email": "kaustavpallobj@gmail.com",
+        "email": "kaustav.pallob@owasp.org",
         "group": "OWASP Maulana Abul Kalam Azad University of Technology",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-maulana-abul-kalam-azad-university-of-technology/"
@@ -6172,6 +6144,13 @@
         "group": "OWASP Penetration Testing Kit",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-penetration-testing-kit/"
+    },
+    {
+        "name": "Peter Mosmans",
+        "email": "peter.mosmans@owasp.org",
+        "group": "OWASP PenText",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-pentext/"
     },
     {
         "name": "Dan Ehrlich",
