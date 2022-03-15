@@ -22,14 +22,14 @@ OWASP is adopting an apolitical approach that provides relief and assistance for
 
 OWASP Members have at least 30 days to comment on the new policy and offer advice and improvements:
 
-https://owasp.org/www-policy/operational/force-majeure-sanctions
+[Draft Force Majeure and Sanctions Policy](https://owasp.org/www-policy/operational/force-majeure-sanctions)
 
 ### Force Majeure Implementation
 
 For the duration of any Force Majeure event, including the war in Ukraine, the following assistance measures will come into effect:
 
 - **Personal safety.** As it's incredibly unsafe to meet, even virtually, chapter, event, committee, and project leaders are exempt from all activity policy requirements.
-Membership fee relief. Membership renewal fees are waived. We support our leaders and members; they should not be worried about keeping their membership current when their lives are at risk. We will be looking at joining fee waivers soon. 
+- **Membership fee relief.** Membership renewal fees are waived. We support our leaders and members; they should not be worried about keeping their membership current when their lives are at risk. We will be looking at joining fee waivers soon. 
 **Employment assistance.** The OWASP Foundation will assist member refugees in connecting with new employers if they need a new job. Members living in or formerly from a Force Majeure country can ask in #amplify on Slack or via logging a ticket (https://contact.owasp.org) to have their Linked In profiles shared.
 **Connecting Members with Employers.** Many OWASP members do not want to leave Ukraine, some are not permitted to leave, and others have become refugees in other countries. If OWASP members need new employment, we will help connect employers with OWASP members to discuss remote and refugee hiring options. If any employers can assist, don't hesitate to get in touch with Kelly Santalucia to organize meetings or a specific career fair. Assistance will be provided at zero cost to employers and members alike.
 **Immigration assistance.** The OWASP Foundation will offer immigration letters of support so that our members can resettle in new countries if required. Letters of support have been given in the past to OWASP Members. We will need to connect with a Chapter, Event, or Project Leader to find out more, as we are not permitted to make false or misleading statements, so if a member needs this, please contact a local leader.
