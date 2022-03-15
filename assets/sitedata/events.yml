@@ -11,11 +11,11 @@
        #start-date: 2022-2-22 Eastern Standard Time (EST)
        #dates: February 22, 2022 Eastern Standard Time (EST)
        #url: https://owasp.org/events/career_fair/
-     - name: OWASP March Webinars
-       optional-text: "Join us and choose from 4 application security training courses. * Secure your SDLC using OWASP SAMM ASAP! * Cryptography and Smart Contract Security * Hacking Modern Web apps: Master the Future of Attack Vectors * <strong>Registration closes on March 3.<strong>"
-       start-date: 2022-03-07 Mountain Standard Time (MST) 
-       dates: March 7, 2022 Mountain Standard Time (MST) 
-       url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
+     #- name: OWASP March Webinars
+       #optional-text: "Join us and choose from 4 application security training courses. * Secure your SDLC using OWASP SAMM ASAP! * Cryptography and Smart Contract Security * Hacking Modern Web apps: Master the Future of Attack Vectors * <strong>Registration closes on March 3.<strong>"
+       #start-date: 2022-03-07 Mountain Standard Time (MST) 
+       #dates: March 7, 2022 Mountain Standard Time (MST) 
+       #url: https://www.eventbrite.com/e/owasp-march-webinars-tickets-225237991897
      - name: OWASP April Webinar
        optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes April 7.<strong>
        start-date: 2022-4-12 UTC/GMT +3 hours
@@ -25,7 +25,7 @@
        start-date: 2022-6-6 Irish Standard Time (IST)
        dates: June 6-10, 2022 Irish Standard Time (IST)
        url: https://dublin.globalappsec.org/
-       optional-text: <strong>Exhibitor and Sponsorship Opportunities are now available.</strong> Our event program will be announced the first week of March. 
+       optional-text: <strong>Exhibitor and Sponsorship Opportunities are now available. Early Bird Registration is now open!</strong> Our event program will be announced the middle of March.
      - name: OWASP July Webinar
        optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes July 8.<strong>
        start-date: 2022-7-12 Eastern Daylight Time (EDT)
