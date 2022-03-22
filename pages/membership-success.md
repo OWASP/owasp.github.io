@@ -25,7 +25,6 @@ permalink: /membership-success/
   <li>Discounted Conference Fees</li>
   <li>Vote in OWASP Elections</li>
   <li>An OWASP.org email address (follow directions on the <a href="/manage-membership">Manage Membership</a> page)</li>
-  <li>Priority access to Travel Grants</li>
   <li>And many others...</li>
 </ul>
 

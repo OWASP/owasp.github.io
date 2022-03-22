@@ -12,7 +12,7 @@ Most answers you might have about the OWASP Foundation can be found by searching
 
 ### Frequently Asked Questions
 
-- How do I [Renew](/membership)  my OWASP Membership or [Manage Recurring](/manage-membership) Memberships?
+- How do I [Renew](/membership) my OWASP Membership or [Manage Recurring](/manage-membership) Memberships?
 - Where do I update my [Recurring Donor Billing](/manage-membership) information?
 - How can Corporations [Sponsorships or Support](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) the OWASP Foundation?
 - [Project](/projects) leader contact info is listed on each Projects page under Leaders

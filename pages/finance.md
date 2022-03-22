@@ -19,6 +19,7 @@ You can support our mission by [becoming a member](https://owasp.org/membership/
 
 ## Annual Budgets
 
+- [2022](/www-staff/budget/2022){:target='_blank'}
 - [2021](/www-staff/budget/2021){:target='_blank'}
 - [2020 COVID-19 Response](/www-staff/budget/2020-modelz){:target='_blank'}
 - [Original 2020](/www-staff/budget/2020){:target='_blank'}
