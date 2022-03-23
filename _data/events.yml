@@ -59,17 +59,17 @@
        dates: June 11, 2022
        url: https://pnwcon.com/
      - name: OWASP 2022 AppSec Days BeNeLux
-       start-date: TBA
-       dates: TBA
+       start-date: 2022-03-31
+       dates: March 31 - April 1, 2022
        url: https://www.owaspbenelux.eu/
-     - name: SnowFROC 
-       #start-date: TBA
-       dates: Postponed to March 2023
-       url: https://snowfroc.com/
      - name: OWASP LASCON 2022
        start-date: 2022-10-25
        dates: October 25-28, 2022
        url: https://lascon.org/
+     - name: OWASP SnowFROC 
+       #start-date: TBA
+       dates: Postponed to March 2023
+       url: https://snowfroc.com/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
