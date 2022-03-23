@@ -18,7 +18,7 @@ Our call to action is every member should login to the [OWASP Membership portal]
 
 Right now, poor data quality is creating about 3-5 support tickets per day, and likely some members are just giving up. This is creating a lot of confusion and dissatisfaction and we want to fix it and make it right.
 
-## Call to Action - Please Verify and Update your data
+## Call to Action - Please verify and update your data
 
 If we don't resolve the data quality issues now, the new AMS will suffer from the same problem as our current system does - garbage in, garbage out. We need your help to test and correct your data.
 
