@@ -54,15 +54,19 @@
 - category: AppSec Days Events
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
+     - name: AppSec Days BeNeLux
+       start-date: 2022-03-31
+       dates: March 31 - April 1, 2022
+       url: https://www.owaspbenelux.eu/
      - name: AppSec Days Pacific Northwest 
        start-date: 2022-06-11
        dates: June 11, 2022
        url: https://pnwcon.com/
-     - name: OWASP 2022 AppSec Days BeNeLux
-       start-date: TBA
-       dates: TBA
-       url: https://www.owaspbenelux.eu/
-     - name: SnowFROC 
+     - name: OWASP 2022 LASCON
+       start-date: 2022-10-25
+       dates: October 25-28, 2022
+       url: https://lascon.org/
+     - name: OWASP 2023 SnowFROC 
        #start-date: TBA
        dates: Postponed to March 2023
        url: https://snowfroc.com/
