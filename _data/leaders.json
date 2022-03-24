@@ -7035,6 +7035,13 @@
         "group_url": "https://owasp.org/www-project-vulnerability-management-center/"
     },
     {
+        "name": "Elizabeth Frenz",
+        "email": "elizabeth.belousov@owasp.org",
+        "group": "OWASP Vulnerability Management Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerability-management-guide/"
+    },
+    {
         "name": "Jeremy Bonghwan Choi",
         "email": "bonghwan.choi@owasp.org",
         "group": "OWASP Vulnerable Container Hub",
@@ -7383,12 +7390,5 @@
         "group": "OWASP SnowFROC",
         "group-type": "event",
         "group_url": "https://owasp.org/www-revent-snowfroc/"
-    },
-    {
-        "name": "Elizabeth Frenz",
-        "email": "elizabeth.belousov@owasp.org",
-        "group": "OWASP Vulernability Management Guide",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-vulnerability-management-guide/"
     }
 ]
