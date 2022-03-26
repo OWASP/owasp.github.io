@@ -4207,8 +4207,15 @@
         "group_url": "https://owasp.org/www-chapter-tiruchirappalli/"
     },
     {
-        "name": "Karuppasamy K",
+        "name": "Karuppasamy Karruppiah",
         "email": "karuppasamy.karuppiah@owasp.org",
+        "group": "OWASP Tirunelveli",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-tirunelveli/"
+    },
+    {
+        "name": "Aravindhakumar Manimaran",
+        "email": "aravindhakumar.manimaran@owasp.org",
         "group": "OWASP Tirunelveli",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tirunelveli/"
@@ -6476,7 +6483,7 @@
     },
     {
         "name": "Robert Seedorff",
-        "email": "https://github.com/rseedorff",
+        "email": "robert.seedorff@owasp.org",
         "group": "OWASP secureCodeBox",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-securecodebox/"
