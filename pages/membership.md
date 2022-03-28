@@ -105,7 +105,7 @@ permalink: /membership/
         </div>
         <div class="membership-fields">
           <h3>Your Information</h3>
-	  <h4>Please use the same email address you used originally when joining if renewing</h4>
+	  <h4>If renewing, please use the same email address you used originally when joining</h4>
           <div>
             <input type="text" v-model="email" aria-label="Email Address"
             placeholder="Member Email Address" />
