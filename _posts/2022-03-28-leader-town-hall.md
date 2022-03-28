@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-I have scheduled three Leader Town Halls this coming Wednesday to cover all major time zones to discuss the changes required by our new AMS platform, YourMembership. From an organizational governance perspective, members are the owners of the organization, and that's why we require Board members to be paid members. [Leading governance practices](https://boardsource.org/resources/membership-organization/) often require that non-members should not be able to make decisions or lead an organization.
+I have scheduled three Leader Town Halls this coming Thursday to cover all major time zones to discuss the changes required by our new AMS platform, YourMembership. From an organizational governance perspective, members are the owners of the organization, and that's why we require Board members to be paid members. [Leading governance practices](https://boardsource.org/resources/membership-organization/) often require that non-members should not be able to make decisions or lead an organization.
 
 "A formal membership organization is a nonprofit that **grants its members specific rights to participate in its internal affairs**. These rights are established in the articles of incorporation and defined in more detail in the bylaws. Usually in a formal membership organization, members elect the board and/or the officers; approve changes in the bylaws; and authorize major transactions such as mergers and dissolution of the organization. In short, members have a strong interest and voice in the future of the organization and not only in the tangible benefits that they may receive as members."
 
