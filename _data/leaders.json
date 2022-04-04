@@ -1001,6 +1001,27 @@
         "group_url": "https://owasp.org/www-chapter-cuddalore/"
     },
     {
+        "name": "Yehude Huayhua Jurado",
+        "email": "yehude.jurado@owasp.org",
+        "group": "OWASP Cusco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cusco/"
+    },
+    {
+        "name": "Everth Gallegos Puma",
+        "email": "everth.gallegos@owasp.org",
+        "group": "OWASP Cusco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cusco/"
+    },
+    {
+        "name": "David Alain Franco Ochoa",
+        "email": "david.ochoa@owasp.org",
+        "group": "OWASP Cusco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cusco/"
+    },
+    {
         "name": "Jan Kopecky",
         "email": "jan.kopecky@owasp.org",
         "group": "OWASP Czech Republic",
@@ -1988,6 +2009,20 @@
         "group_url": "https://owasp.org/www-chapter-kallakkurichi/"
     },
     {
+        "name": "Boobalan Ravi",
+        "email": "boobalan.ravi@owasp.org",
+        "group": "OWASP Kanchipuram",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanchipuram/"
+    },
+    {
+        "name": "Jeyan Rajavel",
+        "email": "jeyan.rajavel@owasp.org",
+        "group": "OWASP Kanchipuram",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanchipuram/"
+    },
+    {
         "name": "Vyshnav NK",
         "email": "vyshnav.nadukkandy@owasp.org",
         "group": "OWASP Kannur",
@@ -2793,6 +2828,20 @@
         "group_url": "https://owasp.org/www-chapter-national-institute-of-technology-rourkela/"
     },
     {
+        "name": "Galoget Latorre",
+        "email": "galoget.latorre@owasp.org",
+        "group": "OWASP National Polytechnic School CEC",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-national-polytechnic-school-cec/"
+    },
+    {
+        "name": "Danilo Erazo",
+        "email": "danilo.erazo@owasp.org",
+        "group": "OWASP National Polytechnic School CEC",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-national-polytechnic-school-cec/"
+    },
+    {
         "name": "Nirmal Dahal",
         "email": "nirmal.dahal@owasp.org",
         "group": "OWASP Nepal",
@@ -2833,6 +2882,20 @@
         "group": "OWASP Netherlands",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-netherlands/"
+    },
+    {
+        "name": "Harold Blankenship",
+        "email": "harold.blankenship@owasp.org",
+        "group": "OWASP New Braunfels",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-new-braunfels/"
+    },
+    {
+        "name": "Matt Tesauro",
+        "email": "matt.tesauro@owasp.org",
+        "group": "OWASP New Braunfels",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-new-braunfels/"
     },
     {
         "name": "Guy Osa",
@@ -4593,7 +4656,7 @@
     },
     {
         "name": "Subhash Chandra Bhil",
-        "email": "subhash.chandrabil@owasp.org",
+        "email": "subhash.chandrabhil@owasp.org",
         "group": "OWASP Warangal",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-warangal/"
@@ -5894,6 +5957,13 @@
         "group_url": "https://owasp.org/www-project-kubernetes-security-testing-guide/"
     },
     {
+        "name": "James Mesta",
+        "email": "jimmy.mesta@gmail.com",
+        "group": "OWASP Kubernetes Top Ten",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-kubernetes-top-ten/"
+    },
+    {
         "name": "Paras Malhotra",
         "email": "paras@laravel-enlightn.com",
         "group": "OWASP Laravel Goat",
@@ -6741,6 +6811,13 @@
         "group_url": "https://owasp.org/www-project-sso/"
     },
     {
+        "name": "Varun Sharma",
+        "email": "varunsh@stepsecurity.io",
+        "group": "OWASP SupplyChainGoat",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-supplychaingoat/"
+    },
+    {
         "name": "Toan Nguyen",
         "email": "toan.nguyen@owasp.org",
         "group": "OWASP Thick Client Security Testing Guide",
@@ -6832,6 +6909,13 @@
         "group_url": "https://owasp.org/www-project-timegap-theory/"
     },
     {
+        "name": "Abhi M Balakrishnan",
+        "email": "abhi.balakrishnan@owasp.org",
+        "group": "OWASP TOCTOURex",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-toctourex/"
+    },
+    {
         "name": "Dennis Johnson",
         "email": "dennis.johnson@owasp.org",
         "group": "OWASP Top 10 Card Game",
@@ -6867,13 +6951,6 @@
         "group_url": "https://owasp.org/www-project-top-10-fuer-entwickler/"
     },
     {
-        "name": "Ory Segal",
-        "email": "orysegal@gmail.com",
-        "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
-    },
-    {
         "name": "Michael Bargury",
         "email": "michaelb@zenity.io",
         "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
@@ -6883,6 +6960,13 @@
     {
         "name": "Ben Kliger",
         "email": "benk@zenity.io",
+        "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
+    },
+    {
+        "name": "Ory Segal",
+        "email": "orys@zenity.io",
         "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
