@@ -1113,6 +1113,19 @@
         "meetings": 0
     },
     {
+        "name": "New Braunfels",
+        "url": "https://owasp.org/www-chapter-new-braunfels/",
+        "created": "2022-03-30",
+        "updated": "2022-03-30",
+        "build": "built",
+        "title": "OWASP New Braunfels",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "New York City",
         "url": "https://owasp.org/www-chapter-new-york-city/",
         "created": "2019-09-12",
@@ -1906,19 +1919,6 @@
         "meetings": 0
     },
     {
-        "name": "Central University Of Rajasthan",
-        "url": "https://owasp.org/www-chapter-central-university-of-rajasthan/",
-        "created": "2022-02-28",
-        "updated": "2022-02-28",
-        "build": "built",
-        "title": "OWASP Central University of Rajasthan",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Chania",
         "url": "https://owasp.org/www-chapter-chania/",
         "created": "2020-07-29",
@@ -2548,19 +2548,6 @@
         "updated": "2021-03-24",
         "build": "no pages",
         "title": "OWASP Natori",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "New Braunfels",
-        "url": "https://owasp.org/www-chapter-new-braunfels/",
-        "created": "2022-03-30",
-        "updated": "2022-03-30",
-        "build": "built",
-        "title": "OWASP New Braunfels",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -3329,7 +3316,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2022-02-26",
+        "updated": "2022-04-03",
         "build": "built",
         "title": "OWASP Germany",
         "level": "4",
@@ -4158,6 +4145,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bhopal-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Central University Of Rajasthan",
+        "url": "https://owasp.org/www-chapter-central-university-of-rajasthan/",
+        "created": "2022-02-28",
+        "updated": "2022-02-28",
+        "build": "built",
+        "title": "OWASP Central University of Rajasthan",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
