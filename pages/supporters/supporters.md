@@ -47,6 +47,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
         <hr>
     {% endif %}
 {% endfor %}
+</ul>
 
 <h2>Platinum Corporate Members and Sponsors</h2>
 
@@ -99,6 +100,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
         <hr>
     {% endif %}
 {% endfor %}
+</ul>
 
 <h2>Gold Corporate Members and Sponsors</h2>
 
@@ -151,7 +153,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
         <hr>
     {% endif %}
 {% endfor %}
-
+</ul>
 <h2>Silver Corporate Members and Sponsors</h2>
 
 <ul style='list-style-type:none;     padding-inline-start: 0px;'>
@@ -185,6 +187,59 @@ _Disclaimer:_ The following information is not an endorsement for any particular
     {% endif %}
 
     {% if membertype.level == 4 or level.level == 4 %}
+        {% assign wstr = '150px' %}
+        {% assign hstr = 'auto' %}
+        {% if supporter.vertical == true %} {% assign wstr = 'auto' %}{% assign hstr = '75px' %}{% endif %}
+        <li>
+        <div>
+        <a href = '{{ supporter.url }}' rel='noopener sponsored'><img src='{{ supporter.image }}' width='{{ wstr }}' height='{{ hstr }}'></a>
+        <span style='float:right;'> 
+        {% if supporter.member %}<img src='{{ membertype.memberimage }}' width='65px'>{% endif %}<img src ='{{ level.image }}' width="65px"> 
+        </span>
+        </div>
+        <br>
+        <p>
+        {{ supporter.description }}
+        </p>
+        </li>
+        <hr>
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Partnership Sponsors</h2>
+
+<ul style='list-style-type:none;     padding-inline-start: 0px;'>
+{% assign supporters = supporters | where: 'sponsor', 5 %}
+{% for supporter in supporters %}
+    {% if supporter.sponsor %}
+        {% assign level = site.data.sponsor_levels | where: 'level', supporter.sponsor | first %}
+    {% endif %}
+
+    {% assign membertype = site.data.sponsor_levels | where: 'level', -1 | first %}
+    {% if supporter.member %}
+        {% if supporter.membertype %}
+            {% assign membertype = site.data.sponsor_levels | where: 'level', supporter.membertype | first %}
+        {% else %}
+            {% assign membertype = site.data.sponsor_levels | where: 'level', 4 | first %}
+        {% endif %}
+    {% endif %}
+
+    {% if level.level >= 0 and level.level < 4 %}
+        {% assign supporter.sponsor = false %}
+        {% assign level = site.data.sponsor_levels | where: 'level', -1 | first %}
+        {% assign supporter.member = false %}
+        {% assign membertype = site.data.sponsor_levels | where: 'level', -1 | first %}
+    {% endif %}
+
+    {% if membertype.level >= 0 and membertype.level < 4 %}
+        {% assign supporter.sponsor = false %}
+        {% assign level = site.data.sponsor_levels | where: 'level', -1 | first %}
+        {% assign supporter.member = false %}
+        {% assign membertype = site.data.sponsor_levels | where: 'level', -1 | first %}
+    {% endif %}
+
+    {% if membertype.level == -1 and level.level == 5 %}
         {% assign wstr = '150px' %}
         {% assign hstr = 'auto' %}
         {% if supporter.vertical == true %} {% assign wstr = 'auto' %}{% assign hstr = '75px' %}{% endif %}
