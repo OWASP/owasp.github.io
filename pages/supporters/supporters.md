@@ -1,14 +1,12 @@
 ---
 
 layout: col-sidebar
-title: Corporate Membership
+title: Corporate Members, Sponsors, & Supporters
 permalink: /supporters/list
 site_side: true
 tags: corp-membership
 
 ---
-
-## Corporate Members, Sponsors & Supporters
 
 _Disclaimer:_ The following information is not an endorsement for any particular entity and reflects the messaging of the supporter only.
 
