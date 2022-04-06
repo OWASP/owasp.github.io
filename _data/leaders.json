@@ -575,7 +575,7 @@
     },
     {
         "name": "Wade Alcorn",
-        "email": "wade@bindshell.net",
+        "email": "",
         "group": "OWASP Brisbane",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-brisbane/"
@@ -1260,20 +1260,6 @@
         "group_url": "https://owasp.org/www-chapter-dorset/"
     },
     {
-        "name": "Farhan Mumtaz",
-        "email": "",
-        "group": "OWASP Dubai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dubai/"
-    },
-    {
-        "name": "Muhammad Saad",
-        "email": "",
-        "group": "OWASP Dubai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dubai/"
-    },
-    {
         "name": "Denise Murtagh-Dunne",
         "email": "denise.murtaghdunne@owasp.org",
         "group": "OWASP Dublin",
@@ -1314,20 +1300,6 @@
         "group": "OWASP Erode",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-erode/"
-    },
-    {
-        "name": "Julio Melo",
-        "email": "",
-        "group": "OWASP Florianopolis",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-florianopolis/"
-    },
-    {
-        "name": "Bruno Melo",
-        "email": "",
-        "group": "OWASP Florianopolis",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-florianopolis/"
     },
     {
         "name": "Sebastien Gioria",
@@ -3185,13 +3157,6 @@
         "group_url": "https://owasp.org/www-chapter-patna/"
     },
     {
-        "name": "Rahul Ramakant Singh",
-        "email": "rs992214@gmail.com",
-        "group": "OWASP Patna",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-patna/"
-    },
-    {
         "name": "Kevin Cody",
         "email": "kevin.cody@owasp.org",
         "group": "OWASP Pittsburgh",
@@ -3228,14 +3193,7 @@
     },
     {
         "name": "Michał Olczak",
-        "email": "michal.olczak@obserwatorium.biz",
-        "group": "OWASP Poland",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-poland/"
-    },
-    {
-        "name": "Paweł Rzepa",
-        "email": "pawel.rzepa@owasp.org",
+        "email": "",
         "group": "OWASP Poland",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-poland/"
@@ -5440,7 +5398,7 @@
     },
     {
         "name": "Ovidiu Cical",
-        "email": "ovidiu.cical@gmail.com",
+        "email": "ovidiu.cical@owasp.org",
         "group": "OWASP Data Security Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-data-security-top-10/"
