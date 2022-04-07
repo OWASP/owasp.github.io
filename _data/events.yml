@@ -51,6 +51,11 @@
        start-date: 2022-12-12
        dates: December 12-13, 2022 Eastern Standard Time (EST)
        url:
+     - name: 2023 Global AppSec Dublin
+       start-date: 2023-02-13
+       date: February 13-16, 2023
+       #url:
+       optional-text: Join us in-person in Dublin for two days of training followed by two conference days with multiple tracks.
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
