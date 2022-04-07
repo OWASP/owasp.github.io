@@ -31,7 +31,8 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 {% if category.events == nil or category.events.size < 1 %}
 ***No events upcoming.  Check back later.***
 {% endif %}
-{% for event in category.events %}
+{% assign events = category.events | sort: "start-date" %}
+{% for event in events %}
 <hr>
 {% if event.url %}
 <h4><a href='{{event.url}}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{event.name}}</a></h4>
