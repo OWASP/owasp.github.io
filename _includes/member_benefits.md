@@ -9,6 +9,7 @@
         <li>Learn application security fundamentals through <a href="https://academy.wehackpurple.com/enroll/1756874?th__ug=29f310de&th__c=owaspmembers">We Hack Purple’s Application Security Foundations Level 1 Course</a></li> 
 	      <li>Access DevSecOps training from <a href="https://learning.appsecengineer.com/signup/partner/Y29tcGFueV9hY2I4ODBkMC02M2Y3LTRkMzctYjI0ZS0yMDQ5ZDYwYzhmMjU">AppSecEngineer</a></li>
         <li>Free access to an application security posture platform with <a href="https://appsecphoenix.cloud/signup/owasp">AppSecPhoenix Community Edition</a></li>
+	<li>Get your Security Journey Belt Certification for OWASP® Core Concepts at<a href="https://owasp.securityjourney.com">Security Journey</a></li>
       	<li>Networking and directory access</li>
         <li>Flexible online learning discounts</li>
         <li>Professional mentoring programs</li>
