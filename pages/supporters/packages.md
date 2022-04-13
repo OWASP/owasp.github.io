@@ -67,8 +67,6 @@ One of OWASP's core values, which drives our mission, is that "anyone around the
 
 Companies whose headquarters is located in the bottom 50% of [Adjusted net national income per capita counties (current US$)](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD)are eligible for discounted corporate membership.
 
-Any organization headquartered in an emerging market or developing country, as defined by the [IMF World Economic Outlook, table E](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD) that is not a low tax country (defined as a corporate tax rate of less than 15%) is eligible for regional pricing. While still legal in some countries, tax havens do not align with OWASP's core values of openness, transparency, and integrity.
-
 The OWASP Foundation may grant Regional Corporate Membership at its sole discretion after obtaining additional information.
 
 ### What are Startup Corporate Members?
