@@ -65,7 +65,7 @@ OWASP has three Corporate Membership packages:
 
 One of OWASP's core values, which drives our mission, is that "anyone around the world is encouraged to participate in the OWASP community." The financial burden of standard Corporate Membership pricing in countries with emerging or developing economies can be a barrier to participation. OWASP offers affordable Regional Corporate Memberships to companies headquartered in emerging and developing economies.
 
-Companies whose headquarters is located in the bottom 50% of [Adjusted net national income per capita counties (current US$)](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD)are eligible for discounted corporate membership.
+Companies whose headquarters are based in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate membership.
 
 The OWASP Foundation may grant Regional Corporate Membership at its sole discretion after obtaining additional information.
 
