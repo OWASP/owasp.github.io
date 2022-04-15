@@ -992,7 +992,7 @@
         "name": "Los Angeles",
         "url": "https://owasp.org/www-chapter-los-angeles/",
         "created": "2019-09-12",
-        "updated": "2022-03-10",
+        "updated": "2022-04-14",
         "build": "built",
         "title": "OWASP Los Angeles",
         "level": "0",
@@ -1825,19 +1825,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bournemouth-University-Student-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Brainware University",
-        "url": "https://owasp.org/www-chapter-brainware-university/",
-        "created": "2022-04-06",
-        "updated": "2022-04-06",
-        "build": "built",
-        "title": "OWASP Brainware University",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -4187,6 +4174,20 @@
         "meetings": 0
     },
     {
+        "name": "Brainware University",
+        "url": "https://owasp.org/www-chapter-brainware-university/",
+        "created": "2022-04-06",
+        "updated": "2022-04-14",
+        "build": "built",
+        "title": "OWASP BRAINWARE UNIVERSITY",
+        "level": "0",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-brainware-university-student-chapter",
+        "meetings": 0
+    },
+    {
         "name": "Central University Of Rajasthan",
         "url": "https://owasp.org/www-chapter-central-university-of-rajasthan/",
         "created": "2022-02-28",
@@ -5372,6 +5373,7 @@
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
+        "meetup-group": "owasp-vadodara-chapter",
         "meetings": 0
     },
     {
