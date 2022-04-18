@@ -28,7 +28,13 @@ Today, we are asking OWASP Members their views on our membership classes and the
 - Do OWASP Members support non-financial membership, and if so, what rights and privileges?
 - Do OWASP Members support existing Corporate membership rights and privileges?
 
-Please take the survey here: [https://forms.gle/Vf9A96KvSjCQzTwf7](https://forms.gle/Vf9A96KvSjCQzTwf7)
+OWASP Members, please log in to your owasp.org email address and take the survey here: [https://forms.gle/Vf9A96KvSjCQzTwf7](https://forms.gle/Vf9A96KvSjCQzTwf7)
+
+*Troubleshooting*
+
+- If you are a member, but don't have an owasp.org email address or can't remember if you do, please use [Manage Your Membership](https://owasp.org/manage-membership/) to send a link to provision or reset your password.
+- If you are not a member, please [join OWASP](https://owasp.org/membership/) today.
+- Some managed Microsoft email services, including Outlook.com, Live.com, or Hotmail.com seem to be blocking some members receiving their OWASP's Manage Membership email. If you use one of these platforms, please check the spam folder. Please mark it as Not junk so that eventually mail will be received by Members using these Microsoft managed email platforms. If you still can't find it, please try using another email address first, or [please log a support ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/9/group/21/create/96). Due to the manual process involved, it might take up to 14 days to get back to you, which means you may miss the deadline for this poll.
 
 ### What's the rush, why now?
 
@@ -48,9 +54,13 @@ OWASP, like all membership organizations, must clearly and simply define our mem
 
 ### Biases and how I tried to address them
 
-We all have bias, and being aware of it and taking steps to protect against it is essential for gaining trust and good governance. This process is not about me. It happened on my watch as ED, so it falls to this Board and myself to resolve twenty years of technical/legal debt, and in a way that the majority of members will agree.
+The questions are asked in the order you see them, but every single answer option is shuffled so that there can be no leading questions or push polling. This means there's around 4096 possible permutations of the answers, so it's unlikely any member will see the same order of answers as any other. This means you need to read the question and answers carefully, as otherwise, if you answer "A" or "B" for all questions, this is unlikely to be the results you want for OWASP. That said, some of the permutations don't make any sense at all, for example, allowing non-members to stand for the Board. What we are doing is independently asking for each membership class to be approved, their voting rights, and their eligibility for the Board or Committees. Additionally, as Members will likely need to approve the overall bylaws, we would like to know who should have that power, and lastly a bit more detail on what type of membership leaders should have.
 
-Bias is understandable if you are human. Bias is not an issue if you live one of OWASP's core values of transparency. For over 20 years, I have passionately supported OWASP through thick and thin. I've promoted and advanced our mission. I am a Lifetime member. I have donated thousands of hours freely in my time as multiple flagship project leader, ex-Global Board Member, and occasional chapter leader. I am now lucky enough to be lead OWASP to the next level. Some of the choices available to the Board advance our mission, others less so, and some outright expose us to unnecessary legal or governance risk. Despite all that, I am not here to get free cookies or a pat on the back, but to simply fix the issue in a way that satisfies the law, leading governance practices, and is OWASP-like by respecting prior policy settings. No matter what the survey says or what the Board chooses, I will respect the outcome, even if I disagree with it. Any biases in the wording or questions are mine alone. I shuffled questions and question order so that donkey votes don't win. Please read each question and their answers carefully, because answering "A" all the time will likely result in an unrecognizable OWASP.
+We all have bias, and being aware of it and taking steps to protect against it is essential for gaining trust and good governance. This process is not about me. It happened on my watch as ED, so it falls to this Board and myself to resolve twenty years of technical/legal debt, and with a result that the majority of members will agree.
+
+Bias is understandable if you are human. Bias is not an issue if you live one of OWASP's core values of transparency. For over 20 years, I have passionately supported OWASP through thick and thin. I've promoted and advanced our mission. I am a Lifetime member. I have donated thousands of hours freely in my time as multiple flagship project leader, ex-Global Board Member, and occasional chapter leader. I am now lucky enough to be leading OWASP to the next level.
+
+Some of the choices available to the Board advance our mission, others less so, and some outright expose us to unnecessary legal or governance risk. Despite all that, I am not here to get free cookies or a pat on the back, but to simply fix the issue in a way that satisfies the law, leading governance practices, and is OWASP-like by respecting prior policy settings. No matter what the survey says or what the Board chooses, I will respect the outcome, even if I disagree with it. Any biases in the wording or questions are mine alone.
 
 If you have any questions, please reach out to me. We will be keeping OWASP Members informed of any progress on these necessary bylaw changes, including any necessary votes.
 
