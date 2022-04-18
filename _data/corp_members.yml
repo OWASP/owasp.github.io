@@ -680,9 +680,10 @@
   sponsor: 1
   name: Apiiro
   sortname: Apiiro
+  membertype: 2
   image: /assets/images/corp-member-logo/apiiro_logo_for_owasp.png
   url: http://apiiro.com/
-  description: Apiiro is the industry's first Code Risk Platform™ to provide Application Risk Management with every change, from design to code to cloud. Apiiro is re-inventing the secure software development lifecycle for Agile and cloud-native development and gives organizations a 360° view of security and compliance risks, from design to production, across applications, infrastructure, developers' knowledge, and business impact. Apiiro was named a Cool Vendor in DevSecOps by Gartner and won the 2021 RSA Conference Innovation Sandbox award. Apiiro is backed by Greylock and Kleiner Perkins.
+  description: To remain competitive, organizations need to accelerate business transformation in order to deliver products faster. This leaves development teams with a choice: delay feature releases until security reviews can be performed or release new code with security risks. These teams lack the contextual understanding of their application components, risks, and developers necessary to make informed decisions. Apiiro is the industry-first Code Risk Platform™ to automate visibility, assurance, and risk remediation, across applications and infrastructure, before production. Only Apiiro enables organizations to deliver faster by identifying material code changes to enable teams to have a holistic, context-driven understanding of application risk.
 - member: true
   sponsor: -1
   name: ArmorCode
