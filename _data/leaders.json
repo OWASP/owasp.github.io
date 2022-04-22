@@ -2907,14 +2907,14 @@
     {
         "name": "Galoget Latorre",
         "email": "galoget.latorre@owasp.org",
-        "group": "OWASP National Polytechnic School CEC",
+        "group": "OWASP CEC-EPN",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-national-polytechnic-school-cec/"
     },
     {
         "name": "Danilo Erazo",
         "email": "danilo.erazo@owasp.org",
-        "group": "OWASP National Polytechnic School CEC",
+        "group": "OWASP CEC-EPN",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-national-polytechnic-school-cec/"
     },
@@ -4016,6 +4016,20 @@
         "group": "OWASP Southern Maryland",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-southern-maryland/"
+    },
+    {
+        "name": "Tim Wilcoxson",
+        "email": "tim.wilcoxson@owasp.org",
+        "group": "OWASP Spokane",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-spokane/"
+    },
+    {
+        "name": "Matt Grotheer",
+        "email": "matt.grotheer@owasp.org",
+        "group": "OWASP Spokane",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-spokane/"
     },
     {
         "name": "Dr. C.N.S. Vinoth Kumar",
@@ -7023,20 +7037,6 @@
     {
         "name": "Michael Bargury",
         "email": "michaelb@zenity.io",
-        "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
-    },
-    {
-        "name": "Ben Kliger",
-        "email": "benk@zenity.io",
-        "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
-    },
-    {
-        "name": "Ory Segal",
-        "email": "orys@zenity.io",
         "group": "OWASP Top 10 Low-Code/No-Code Security Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
