@@ -1099,13 +1099,6 @@
         "group_url": "https://owasp.org/www-chapter-czech-republic/"
     },
     {
-        "name": "Denis Sheridan",
-        "email": "denis.sheridan@owasp.org",
-        "group": "OWASP Dallas",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dallas/"
-    },
-    {
         "name": "Jeromme Lawler",
         "email": "jeromme.lawler@owasp.org",
         "group": "OWASP Dallas",
@@ -3374,22 +3367,15 @@
         "group_url": "https://owasp.org/www-chapter-porto/"
     },
     {
-        "name": "Marcos Vinicius Cassel",
-        "email": "marcos.cassel@owasp.org",
+        "name": "Fernando Silva",
+        "email": "fernando.silva@owasp.org",
         "group": "OWASP Porto Alegre",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-porto-alegre/"
     },
     {
-        "name": "Maurício Ariza",
-        "email": "mauricio.ariza@owasp.org",
-        "group": "OWASP Porto Alegre",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-porto-alegre/"
-    },
-    {
-        "name": "Eduardo Schultze",
-        "email": "eduardo.schultze@owasp.org",
+        "name": "Felipe Olivaes",
+        "email": "felipe.olivaes@owasp.org",
         "group": "OWASP Porto Alegre",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-porto-alegre/"
@@ -5560,6 +5546,13 @@
     {
         "name": "Steve Springett",
         "email": "steve.springett@owasp.org",
+        "group": "OWASP Dependency-Track",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-dependency-track/"
+    },
+    {
+        "name": "Niklas Düster",
+        "email": "niklas.duester@owasp.org",
         "group": "OWASP Dependency-Track",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-dependency-track/"
