@@ -35,7 +35,7 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 {% for event in events %}
 <hr>
 {% if event.url %}
-<h4><a href='{{event.url}}/?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{event.name}}</a></h4>
+<h4><a href='{{event.url}}?utm_source=owasp-web&utm_medium=event-page&utm_campaign=none' target='_blank'>{{event.name}}</a></h4>
 {% else %}
 <h4>{{ event.name }}</h4>
 {% endif %}
