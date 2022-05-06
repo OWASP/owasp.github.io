@@ -1085,13 +1085,6 @@
         "group_url": "https://owasp.org/www-chapter-czech-republic/"
     },
     {
-        "name": "Jeromme Lawler",
-        "email": "jeromme.lawler@owasp.org",
-        "group": "OWASP Dallas",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dallas/"
-    },
-    {
         "name": "Zack Hatfield",
         "email": "zack.hatfield@owasp.org",
         "group": "OWASP Dallas",
@@ -1108,6 +1101,13 @@
     {
         "name": "Abhishek Gandhi",
         "email": "abhishek.gandhi@owasp.org",
+        "group": "OWASP Dallas",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dallas/"
+    },
+    {
+        "name": "Jeromme Lawler",
+        "email": "jeromme.lawler@owasp.org",
         "group": "OWASP Dallas",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dallas/"
@@ -4858,7 +4858,7 @@
         "group_url": "https://owasp.org/www-committee-wia/"
     },
     {
-        "name": "Eva thakran",
+        "name": "Eva Thakran",
         "email": "eva.thakran@owasp.org",
         "group": "OWASP WIA, Diversity and Inclusion Committee",
         "group-type": "committee",
