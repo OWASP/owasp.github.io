@@ -23,7 +23,7 @@ For two decades corporations, foundations, developers, and volunteers have suppo
 
 <p class="callout-mono right">No more insecure software.</p>
 
-As the world’s largest non-profit organisation concerned with software security, OWASP:
+As the world’s largest non-profit organization concerned with software security, OWASP:
 
 - Supports the building of impactful [projects](https://owasp.org/projects/);
 - Develops & nurtures communities through [events](https://owasp.org/events/) and [chapter meetings](https://owasp.org/chapters/) worldwide; and
