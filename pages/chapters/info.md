@@ -19,5 +19,5 @@
   
 ### Need asssitance contact the [Chapter Committee](mailto:chapter-committee@owasp.org)
 
-- [YouTube Video on how to create OWASP chapter page](https://www.youtube.com/watch?v=tEm-YCeQno0)
+- [YouTube Video How to create OWASP chapter page](https://www.youtube.com/watch?v=tEm-YCeQno0)
 - [Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)**
