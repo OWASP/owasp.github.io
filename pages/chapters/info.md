@@ -14,11 +14,10 @@
 - [Start a New Chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
 - [Add a New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
 - [Leader stepping down](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
-- [Reactivate a Chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
 - [Request a Shared Service](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
 - [Pre-approval of Chapter Expense](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
   
 ### Need asssitance contact the [Chapter Committee](mailto:chapter-committee@owasp.org)
 
-- Visit their [OWASP Committee page](https://owasp.org/www-committee-chapter/)
+- [YouTube Video on how to create OWASP chapter page](https://www.youtube.com/watch?v=tEm-YCeQno0)
 - [Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)**
