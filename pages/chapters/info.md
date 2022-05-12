@@ -21,6 +21,6 @@
 
 - [YouTube Video How to create OWASP chapter page](https://www.youtube.com/watch?v=tEm-YCeQno0)
 - [Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
-- [20:20 The History and Future of OWASP present by Co-Founder Mark Curphey](https://www.youtube.com/watch?v=5a7LM2PJffo)
+- [20:20 The History and Future of OWASP presented by Co-Founder Mark Curphey](https://www.youtube.com/watch?v=5a7LM2PJffo)
 
 * Leaders can contact the [Chapter Committee](mailto:chapter-committee@owasp.org) for additional assistance.
