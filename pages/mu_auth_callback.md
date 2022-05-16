@@ -22,7 +22,7 @@ permalink: /mu_auth/
     });
 
     function getParam (name) {
-        name = RegExp ('[?&]' + name.replace (/([[\]])/, '\\$1') + '=([^&#]*)');
+        name = RegExp ('[?&#]' + name.replace (/([[\]])/, '\\$1') + '=([^&#]*)');
         return (window.location.href.match (name) || ['', ''])[1];
     }
 </script>
