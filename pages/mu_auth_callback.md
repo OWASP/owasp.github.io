@@ -14,7 +14,11 @@ permalink: /mu_auth/
 
 <script text="text/javascript">
     $(function() {
-        $('#at').html(getParam('access_token'))
+        param = getParam('access_token');
+        if(param == '') {
+            param = getParam('code');
+        }
+        $('#at').html(param);
     });
 
     function getParam (name) {
