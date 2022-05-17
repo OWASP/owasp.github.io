@@ -588,13 +588,6 @@
         "group_url": "https://owasp.org/www-chapter-brasov/"
     },
     {
-        "name": "Wade Alcorn",
-        "email": "",
-        "group": "OWASP Brisbane",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brisbane/"
-    },
-    {
         "name": "Glyn Geoghegan",
         "email": "glyng@owasp.org",
         "group": "OWASP Brisbane",
@@ -604,6 +597,13 @@
     {
         "name": "Dale Hewitson",
         "email": "dale.hewitson@owasp.org",
+        "group": "OWASP Brisbane",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brisbane/"
+    },
+    {
+        "name": "Wade Alcorn",
+        "email": "wade.alcorn@owasp.org",
         "group": "OWASP Brisbane",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-brisbane/"
@@ -4282,6 +4282,20 @@
         "group": "OWASP The NorthCap University - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-the-northcap-university/"
+    },
+    {
+        "name": "Ram Prasath",
+        "email": "ram.prasath@owasp.org",
+        "group": "OWASP Theni",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-theni/"
+    },
+    {
+        "name": "Latha Rajendran",
+        "email": "latha.rajendran@owasp.org",
+        "group": "OWASP Theni",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-theni/"
     },
     {
         "name": "Varadharajan Lakshmanan",
