@@ -1721,19 +1721,6 @@
         "meetings": 0
     },
     {
-        "name": "Amrita School Of Engineering",
-        "url": "https://owasp.org/www-chapter-amrita-school-of-engineering/",
-        "created": "2022-05-10",
-        "updated": "2022-05-10",
-        "build": "built",
-        "title": "OWASP Amrita School of Engineering - Chennai",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Athens",
         "url": "https://owasp.org/www-chapter-athens/",
         "created": "2021-05-12",
@@ -4103,6 +4090,19 @@
         "meetings": 0
     },
     {
+        "name": "Amrita School Of Engineering",
+        "url": "https://owasp.org/www-chapter-amrita-school-of-engineering/",
+        "created": "2022-05-10",
+        "updated": "2022-05-10",
+        "build": "built",
+        "title": "OWASP Amrita School of Engineering - Chennai",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Ankara",
         "url": "https://owasp.org/www-chapter-ankara/",
         "created": "2019-09-12",
@@ -5476,7 +5476,7 @@
         "url": "https://owasp.org/www-chapter-warangal/",
         "created": "2021-04-05",
         "updated": "2022-03-30",
-        "build": "built",
+        "build": "no pages",
         "title": "OWASP Warangal",
         "level": "layout: col-sidebar",
         "type": "",
