@@ -2864,19 +2864,6 @@
         "meetings": 0
     },
     {
-        "name": "Theni",
-        "url": "https://owasp.org/www-chapter-theni/",
-        "created": "2022-05-16",
-        "updated": "2022-05-16",
-        "build": "built",
-        "title": "OWASP Theni",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Tirunelveli",
         "url": "https://owasp.org/www-chapter-tirunelveli/",
         "created": "2022-01-26",
@@ -5345,6 +5332,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-The-NorthCap-University-Meetup-Group",
+        "meetings": 0
+    },
+    {
+        "name": "Theni",
+        "url": "https://owasp.org/www-chapter-theni/",
+        "created": "2022-05-16",
+        "updated": "2022-05-16",
+        "build": "built",
+        "title": "OWASP Theni",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
