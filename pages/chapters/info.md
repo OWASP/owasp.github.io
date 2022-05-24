@@ -19,6 +19,8 @@
   
 ### OWASP Videos
 
+- [OWASP Global YouTube Channel with Chapters and Projects](https://www.youtube.com/OWASPGlobal)
+
 - [YouTube Video How to create OWASP chapter page](https://www.youtube.com/watch?v=tEm-YCeQno0)
 - [Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
 - [20:20 The History and Future of OWASP presented by Co-Founder Mark Curphey](https://www.youtube.com/watch?v=5a7LM2PJffo)
