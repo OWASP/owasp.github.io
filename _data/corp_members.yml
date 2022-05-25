@@ -529,6 +529,13 @@
   image: /assets/images/corp-member-logo/Shiftleft_riz_rgb_owasp.png
   url: https://www.shiftleft.io/?utm_source=owasp&utm_medium=advertising&utm_content=website&utm_campaign=owasp_sponsorship_2021&utm_term=&sfdc_campaign_id=7011I000000RzjVQAS
   description: ShiftLeft builds security software with a developers-first approach. Through industry-leading speed and accuracy, ShiftLeft maximizes developer productivity and efficiency by providing near-instantaneous security feedback on software code during every pull request. ShiftLeft CORE, a unified code security platform, combines the company’s flagship NextGen Static Analysis (NG SAST), Intelligent Software Composition Analysis (SCA), and contextual security training through ShiftLeft Educate. The platform is purpose-built to insert security directly into the modern software development lifecycle so developers receive the right vulnerability information at the right time. To learn how ShiftLeft keeps AppSec in sync with the rapid pace of DevOps, see https://www.shiftleft.io.
+- member: true
+  sponsor:
+  name: Specialist Data Solutions
+  sortname: Specialist Data Solutions
+  image: /assets/images/corp-member-logo/SpecialistDataSolutionsLogo.png
+  url: https://www.specialistdata.com/
+  description: SDS is a leading provider of Optical Practice Management Systems to very large optical retail chains.
 - member: true	
   sponsor: 4 	
   name: Signal Sciences	
@@ -550,13 +557,6 @@
   image: /assets/images/corp-member-logo/sonarsource.png	
   url: https://www.sonarsource.com/	
   description: SonarSource builds world-class products for Code Quality and Security. Our open-source and commercial code analyzers - SonarLint, SonarCloud, SonarQube - support 27 programming languages, empowering dev teams of all sizes to solve coding issues within their existing workflows. With over 6,000 customers, and a Community Edition trusted by more than 200,000 organizations globally, SonarSource products are a de-facto standard for teams and organizations to deliver better, safer software.
-- member: true
-  sponsor:
-  name: Specialist Data Solutions
-  sortname: Specialist Data Solutions
-  image: /assets/images/corp-member-logo/SpecialistDataSolutionsLogo.png
-  url: https://www.specialistdata.com/
-  description: SDS is a leading provider of Optical Practice Management Systems to very large optical retail chains.
 - member: false	
   sponsor: 4 	
   name: Sqreen	
