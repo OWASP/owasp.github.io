@@ -2381,6 +2381,19 @@
         "meetings": 0
     },
     {
+        "name": "Lisboa",
+        "url": "https://owasp.org/www-chapter-lisboa/",
+        "created": "2022-05-24",
+        "updated": "2022-05-24",
+        "build": "built",
+        "title": "OWASP Lisboa",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Lithuania",
         "url": "https://owasp.org/www-chapter-lithuania/",
         "created": "2019-09-12",
@@ -2655,19 +2668,6 @@
         "updated": "2022-01-05",
         "build": "no pages",
         "title": "OWASP Phoenix",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Pimpri Chinchwad College Of Engineering",
-        "url": "https://owasp.org/www-chapter-pimpri-chinchwad-college-of-engineering/",
-        "created": "2022-04-26",
-        "updated": "2022-04-26",
-        "build": "built",
-        "title": "OWASP Pimpri Chinchwad College of Engineering",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -3134,7 +3134,7 @@
         "name": "Birmingham Uk",
         "url": "https://owasp.org/www-chapter-birmingham-uk/",
         "created": "2019-09-12",
-        "updated": "2021-07-09",
+        "updated": "2022-05-24",
         "build": "built",
         "title": "OWASP Birmingham, UK",
         "level": "3",
@@ -4246,7 +4246,7 @@
         "name": "China Mainland",
         "url": "https://owasp.org/www-chapter-china-mainland/",
         "created": "2019-09-12",
-        "updated": "2021-12-18",
+        "updated": "2022-05-24",
         "build": "built",
         "title": "OWASP China-Mainland",
         "level": "3",
@@ -5084,6 +5084,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-peshawar-meetup-group",
+        "meetings": 0
+    },
+    {
+        "name": "Pimpri Chinchwad College Of Engineering",
+        "url": "https://owasp.org/www-chapter-pimpri-chinchwad-college-of-engineering/",
+        "created": "2022-04-26",
+        "updated": "2022-04-26",
+        "build": "built",
+        "title": "OWASP Pimpri Chinchwad College of Engineering",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
