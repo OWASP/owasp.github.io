@@ -2195,20 +2195,6 @@
         "meetings": 0
     },
     {
-        "name": "Indraprastha Institute Of Information Technology",
-        "url": "https://owasp.org/www-chapter-indraprastha-institute-of-information-technology/",
-        "created": "2022-04-11",
-        "updated": "2022-05-15",
-        "build": "built",
-        "title": "OWASP Indraprastha Institute of Information Technology",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-indraprastha-institute-of-information-technology",
-        "meetings": 0
-    },
-    {
         "name": "Iowa City",
         "url": "https://owasp.org/www-chapter-iowa-city/",
         "created": "2019-09-12",
@@ -2509,19 +2495,6 @@
         "updated": "2021-03-24",
         "build": "no pages",
         "title": "OWASP Mexicali",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Montreal",
-        "url": "https://owasp.org/www-chapter-montreal/",
-        "created": "2019-09-12",
-        "updated": "2021-11-30",
-        "build": "built",
-        "title": "OWASP Montreal",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -2868,7 +2841,7 @@
         "url": "https://owasp.org/www-chapter-tirunelveli/",
         "created": "2022-01-26",
         "updated": "2022-05-01",
-        "build": "no pages",
+        "build": "building",
         "title": "OWASP Tirunelveli",
         "level": "-1",
         "type": "layout: col-sidebar",
@@ -4022,6 +3995,19 @@
         "meetings": 0
     },
     {
+        "name": "Montreal",
+        "url": "https://owasp.org/www-chapter-montreal/",
+        "created": "2019-09-12",
+        "updated": "2021-11-30",
+        "build": "built",
+        "title": "OWASP Montreal",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Canada",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Malaysia",
         "url": "https://owasp.org/www-chapter-malaysia/",
         "created": "2019-09-12",
@@ -4574,6 +4560,20 @@
         "meetings": 0
     },
     {
+        "name": "Indraprastha Institute Of Information Technology",
+        "url": "https://owasp.org/www-chapter-indraprastha-institute-of-information-technology/",
+        "created": "2022-04-11",
+        "updated": "2022-05-15",
+        "build": "built",
+        "title": "OWASP Indraprastha Institute of Information Technology",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-indraprastha-institute-of-information-technology",
+        "meetings": 0
+    },
+    {
         "name": "Islamabad",
         "url": "https://owasp.org/www-chapter-islamabad/",
         "created": "2019-09-12",
@@ -5090,13 +5090,14 @@
         "name": "Pimpri Chinchwad College Of Engineering",
         "url": "https://owasp.org/www-chapter-pimpri-chinchwad-college-of-engineering/",
         "created": "2022-04-26",
-        "updated": "2022-04-26",
+        "updated": "2022-05-25",
         "build": "built",
-        "title": "OWASP Pimpri Chinchwad College of Engineering",
+        "title": "OWASP Pimpri Chinchwad College of Engineering, Pune",
         "level": "layout: col-sidebar",
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
+        "meetup-group": "owasp-pimpri-chinchwad-college-of-engineering-chapter",
         "meetings": 0
     },
     {
