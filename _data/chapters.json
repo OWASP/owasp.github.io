@@ -225,7 +225,7 @@
         "name": "Lima",
         "url": "https://owasp.org/www-chapter-lima/",
         "created": "2019-09-12",
-        "updated": "2021-08-20",
+        "updated": "2022-05-26",
         "build": "built",
         "title": "OWASP Lima",
         "level": "4",
@@ -1109,6 +1109,19 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "moncton-owasp-meetup-group",
+        "meetings": 0
+    },
+    {
+        "name": "Montreal",
+        "url": "https://owasp.org/www-chapter-montreal/",
+        "created": "2019-09-12",
+        "updated": "2021-11-30",
+        "build": "built",
+        "title": "OWASP Montreal",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -2300,6 +2313,19 @@
         "meetings": 0
     },
     {
+        "name": "Krishnagiri",
+        "url": "https://owasp.org/www-chapter-krishnagiri/",
+        "created": "2022-05-26",
+        "updated": "2022-05-26",
+        "build": "built",
+        "title": "OWASP Krishnagiri",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Kumaun Region",
         "url": "https://owasp.org/www-chapter-kumaun-region/",
         "created": "2019-09-12",
@@ -2668,6 +2694,19 @@
         "updated": "2022-04-06",
         "build": "built",
         "title": "OWASP Rajiv Gandhi Institute of Petroleum Technology",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
+        "name": "Rawalpindi",
+        "url": "https://owasp.org/www-chapter-rawalpindi/",
+        "created": "2022-05-26",
+        "updated": "2022-05-26",
+        "build": "built",
+        "title": "OWASP Rawalpindi",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -3344,7 +3383,7 @@
         "name": "Greece",
         "url": "https://owasp.org/www-chapter-greece/",
         "created": "2019-09-12",
-        "updated": "2021-12-01",
+        "updated": "2022-05-26",
         "build": "errored",
         "title": "OWASP Greece",
         "level": "layout: col-sidebar",
@@ -3992,19 +4031,6 @@
         "region": "Central America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Tegucigalpa-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Montreal",
-        "url": "https://owasp.org/www-chapter-montreal/",
-        "created": "2019-09-12",
-        "updated": "2021-11-30",
-        "build": "built",
-        "title": "OWASP Montreal",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "Canada",
-        "pitch": "More info soon...",
         "meetings": 0
     },
     {
