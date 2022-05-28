@@ -2313,19 +2313,6 @@
         "meetings": 0
     },
     {
-        "name": "Krishnagiri",
-        "url": "https://owasp.org/www-chapter-krishnagiri/",
-        "created": "2022-05-26",
-        "updated": "2022-05-26",
-        "build": "built",
-        "title": "OWASP Krishnagiri",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Kumaun Region",
         "url": "https://owasp.org/www-chapter-kumaun-region/",
         "created": "2019-09-12",
@@ -2880,7 +2867,7 @@
         "url": "https://owasp.org/www-chapter-tirunelveli/",
         "created": "2022-01-26",
         "updated": "2022-05-01",
-        "build": "building",
+        "build": "built",
         "title": "OWASP Tirunelveli",
         "level": "-1",
         "type": "layout: col-sidebar",
@@ -2973,19 +2960,6 @@
         "updated": "2021-03-25",
         "build": "no pages",
         "title": "OWASP Venezuela",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Vit Bhopal University",
-        "url": "https://owasp.org/www-chapter-vit-bhopal-university/",
-        "created": "2022-05-09",
-        "updated": "2022-05-09",
-        "build": "built",
-        "title": "OWASP VIT Bhopal University",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -3536,7 +3510,7 @@
         "name": "Leeds Uk",
         "url": "https://owasp.org/www-chapter-leeds-uk/",
         "created": "2019-09-12",
-        "updated": "2021-07-07",
+        "updated": "2022-05-28",
         "build": "built",
         "title": "OWASP Leeds, UK",
         "level": "3",
@@ -4793,6 +4767,19 @@
         "meetings": 0
     },
     {
+        "name": "Krishnagiri",
+        "url": "https://owasp.org/www-chapter-krishnagiri/",
+        "created": "2022-05-26",
+        "updated": "2022-05-26",
+        "build": "built",
+        "title": "OWASP Krishnagiri",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Kuala Lumpur",
         "url": "https://owasp.org/www-chapter-kuala-lumpur/",
         "created": "2020-06-02",
@@ -5509,6 +5496,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-vijayawada-chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Vit Bhopal University",
+        "url": "https://owasp.org/www-chapter-vit-bhopal-university/",
+        "created": "2022-05-09",
+        "updated": "2022-05-09",
+        "build": "built",
+        "title": "OWASP VIT Bhopal University",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
