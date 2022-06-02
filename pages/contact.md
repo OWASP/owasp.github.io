@@ -18,6 +18,7 @@ Most answers you might have about the OWASP Foundation can be found by searching
 - [Project](/projects) leader contact info is listed on each Projects page under Leaders
 - Local [Chapter](/chapters) Leaders are listed on a Chapters' respective page
 - Who do I contact for [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) opportunities?
+- New Members will automatically receive an email within 24 hours on how to provision your OWASP email address.
 
 <a href="https://owasporg.atlassian.net/servicedesk/customer/portals" target="_blank" rel="noopener"><button class="cta-button dark">Contact Us</button></a>
 
