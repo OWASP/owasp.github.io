@@ -1615,7 +1615,7 @@
         "name": "Vancouver",
         "url": "https://owasp.org/www-chapter-vancouver/",
         "created": "2019-09-12",
-        "updated": "2021-05-21",
+        "updated": "2022-06-01",
         "build": "built",
         "title": "OWASP Vancouver",
         "level": "0",
@@ -2023,6 +2023,19 @@
         "meetings": 0
     },
     {
+        "name": "Dakar",
+        "url": "https://owasp.org/www-chapter-dakar/",
+        "created": "2022-06-01",
+        "updated": "2022-06-01",
+        "build": "built",
+        "title": "OWASP Dakar",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Des Moines",
         "url": "https://owasp.org/www-chapter-des-moines/",
         "created": "2020-01-28",
@@ -2048,6 +2061,19 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Detroit-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Dhule",
+        "url": "https://owasp.org/www-chapter-dhule/",
+        "created": "2022-06-01",
+        "updated": "2022-06-01",
+        "build": "built",
+        "title": "OWASP Dhule",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -2377,19 +2403,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Lincoln-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Lisboa",
-        "url": "https://owasp.org/www-chapter-lisboa/",
-        "created": "2022-05-24",
-        "updated": "2022-05-30",
-        "build": "built",
-        "title": "OWASP Lisboa",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -3521,6 +3534,20 @@
         "meetings": 0
     },
     {
+        "name": "Lisboa",
+        "url": "https://owasp.org/www-chapter-lisboa/",
+        "created": "2022-05-24",
+        "updated": "2022-05-30",
+        "build": "errored",
+        "title": "OWASP Lisboa",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-lisboa",
+        "meetings": 0
+    },
+    {
         "name": "Liverpool",
         "url": "https://owasp.org/www-chapter-liverpool/",
         "created": "2019-09-12",
@@ -3787,7 +3814,7 @@
         "name": "Sofia",
         "url": "https://owasp.org/www-chapter-sofia/",
         "created": "2019-09-12",
-        "updated": "2021-08-02",
+        "updated": "2022-06-01",
         "build": "built",
         "title": "OWASP Sofia",
         "level": "layout: col-sidebar",
