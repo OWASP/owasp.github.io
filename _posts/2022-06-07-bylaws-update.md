@@ -28,6 +28,12 @@ For more, please read on.
 
 This is now the official position. The law is clear here, and although it will be tough to do, we are exploring options to modify our election policy if we are able to do so, because we will need to have at least half of all members vote. This will be basically impossible.
 
+### Come to the Bylaw Review Meeting
+
+The Board is meeting every week to go over the draft bylaws, and to make amendments. This is a public meeting, and you are more than welcome to join. This meeting is not an official special or general Board meeting, so no votes will be taken.
+
+[Meeting invite:](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGc4bXUzajlzN3FwOGthdGNubXZyM2hiOHBfMjAyMjA2MTVUMTUwMDAwWiBobDZjamdzNmVwMWg3b25pcWd1ZXUyYmhib0Bn&tmsrc=hl6cjgs6ep1h7oniqgueu2bhbo%40group.calendar.google.com&scp=ALL)
+
 ### Announcing three Town Halls
 
 We will be holding three town halls to coincide with the next public Board meeting on June 28. Two of them will be held before the Board meeting, so the Board can discuss what they hear during the first two.
