@@ -32,11 +32,11 @@ This is now the official position. The law is clear here, and although it will b
 
 We will be holding three town halls to coincide with the next public Board meeting on June 28. Two of them will be held before the Board meeting, so the Board can discuss what they hear during the first two.
 
-- [Option 1 - 0700 US EDT / 1100 UTC / 2100 AEST](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=28&hour=11&min=0&sec=0&p1=179&p2=240&p3=438&p4=37&p5=102&p6=103)
-- [Option 2 - 1100 US EDT / 1500 UTC / 0100 AEST](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=28&hour=15&min=0&sec=0&p1=179&p2=240&p3=438&p4=37&p5=102&p6=103)
-- [Option 3 - 2030 US EDT / 0030 UTC / 1030 AEST](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=29&hour=0&min=30&sec=0&p1=179&p2=240&p3=438&p4=37&p5=102&p6=103)
+- [Bylaws Town Hall Option 1](https://www.meetup.com/owaspfoundation/events/286440280/) - [Time & Date](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=28&hour=11&min=0&sec=0&p1=179&p2=240&p3=438&p4=37&p5=102&p6=103)
+- [Bylaws Town Hall Option 2](https://www.meetup.com/owaspfoundation/events/286440313/) - [Time & Date](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=28&hour=15&min=0&sec=0&p1=179&p2=240&p3=438&p4=37&p5=102&p6=103)
+- [Bylaws Town Hall Option 3](https://www.meetup.com/owaspfoundation/events/286440334/) - [Time & Date](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2022&month=6&day=29&hour=0&min=30&sec=0&p1=179&p2=240&p3=438&p4=37&p5=102&p6=103)
 
-We will be updating this article with the links to the Meetup registration as soon as they are available.
+*Update: links to the Meetup meetings is now complete.*
 
 ### Options
 
