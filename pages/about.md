@@ -29,7 +29,7 @@ As the world’s largest non-profit organization concerned with software securit
 - Develops & nurtures communities through [events](https://owasp.org/events/) and [chapter meetings](https://owasp.org/chapters/) worldwide; and
 - Provides [educational publications & resources](https://owasp.org/www-committee-education-and-training/)
 
-In order to enable developers to write better software, and security professionals to make the world's software more secure.
+in order to enable developers to write better software, and security professionals to make the world's software more secure.
 
 ## Participation and Membership
 
