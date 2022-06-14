@@ -1,11 +1,6 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-     - name: OWASP New Zealand Day 2022
-       start-date: 2022-07-05
-       dates: July 5-8, 2022 GMT+12
-       url: https://appsec.org.nz/conference
-       optional-text: <strong>5-6 July - Pre-conference training, 7-8 Main Conference. Register today!</strong>
      - name: OWASP 2022 Global AppSec AsiaPac Virtual Event
        optional-text: <strong>Call for Papers and Call for Trainers are now OPEN including a track that will be held in Japanese. Exhibitor and Sponsorship Opportunities - NOW available! Call for Moderators - now accepting applications for individuals fluent in both English and Japanese. Discounted rates for OWASP Members.<strong>
        start-date: 2022-08-29
@@ -31,7 +26,7 @@
        start-date: 2022-12-12
        dates: December 12-13, 2022 Eastern Standard Time (EST)
        url:
-     - name: 2023 Global AppSec Dublin
+     - name: OWASP Global AppSec Dublin 2023
        start-date: 2023-02-13
        dates: February 13-16, 2023
        #url:
@@ -39,14 +34,11 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-     - name: AppSec Days BeNeLux
-       start-date: 2022-03-31
-       dates: March 31 - April 1, 2022
-       url: https://www.owaspbenelux.eu/
-     - name: AppSec Days Pacific Northwest 
-       start-date: 2022-06-11
-       dates: June 11, 2022
-       url: https://sites.google.com/owasp.org/appsecpnw/home
+     - name: OWASP New Zealand Day 2022
+       start-date: 2022-07-05
+       dates: July 5-8, 2022 GMT+12
+       url: https://appsec.org.nz/conference
+       optional-text: <strong>5-6 July - Pre-conference training, 7-8 Main Conference. Register today!</strong>
      - name: OWASP 2022 LASCON
        start-date: 2022-10-25
        dates: October 25-28, 2022
