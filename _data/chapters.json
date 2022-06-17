@@ -2529,19 +2529,6 @@
         "meetings": 0
     },
     {
-        "name": "Muffakham Jah College Of Engineering And Technology",
-        "url": "https://owasp.org/www-chapter-muffakham-jah-college-of-engineering-and-technology/",
-        "created": "2022-06-14",
-        "updated": "2022-06-14",
-        "build": "built",
-        "title": "OWASP Muffakham Jah College of Engineering and Technology",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Mysuru",
         "url": "https://owasp.org/www-chapter-mysuru/",
         "created": "2019-09-12",
@@ -2896,19 +2883,6 @@
         "updated": "2021-03-24",
         "build": "no pages",
         "title": "OWASP Thailand",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Thapar Institute Of Engineering And Technology",
-        "url": "https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/",
-        "created": "2022-06-15",
-        "updated": "2022-06-15",
-        "build": "built",
-        "title": "OWASP Thapar Institute of Engineering and Technology",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -5016,6 +4990,19 @@
         "meetings": 0
     },
     {
+        "name": "Muffakham Jah College Of Engineering And Technology",
+        "url": "https://owasp.org/www-chapter-muffakham-jah-college-of-engineering-and-technology/",
+        "created": "2022-06-14",
+        "updated": "2022-06-14",
+        "build": "built",
+        "title": "OWASP Muffakham Jah College of Engineering and Technology - Student Chapter",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Mugla University",
         "url": "https://owasp.org/www-chapter-mugla-university/",
         "created": "2021-10-28",
@@ -5413,6 +5400,20 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Tbilisi-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Thapar Institute Of Engineering And Technology",
+        "url": "https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology/",
+        "created": "2022-06-15",
+        "updated": "2022-06-16",
+        "build": "built",
+        "title": "OWASP Thapar Institute of Engineering and Technology",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP Thapar Institute of Engineering and Technology",
         "meetings": 0
     },
     {
