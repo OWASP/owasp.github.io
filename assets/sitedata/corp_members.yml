@@ -898,18 +898,6 @@
   image: /assets/images/corp-member-logo/Coalfire.png
   url: http://coalfire.com
   description: When it comes to securing their businesses’ future, leading cloud infrastructure providers, SaaS companies, and enterprises turn to Coalfire. We are the cybersecurity advisor that combines extensive cloud expertise, advanced technology, and innovative approaches to empower our clients to strengthen their security posture and secure their digital transformations.
-- member: false
-  sponsor: 5
-  name: GOTO Amsterdam 2022
-  sortname: GOTO Amsterdam 2022
-  membertype:
-  image: /assets/images/corp-member-logo/goto_ams_logo.png
-  url: https://gotoams.nl/
-  description: >-
-        Join us on June 12-16 at GOTO Amsterdam along with the pioneers and game-changing coders who shape our industry and radically improve
-        the way we look at software. This year’s conference will dive into core technical concepts and explore what quality code looks like in 
-        2022 and beyond, covering topics like APIs, artificial intelligence, ethics & security, microservices, Cloud computing and so much more.
-        15% Discount Code:  OWASP15
 - member: true  
   sponsor: -1 
   name: Guardsquare
@@ -982,3 +970,37 @@
   image: /assets/images/corp-member-logo/alpha-serve.png
   url: https://www.alphaservesp.com/
   description: Established in 2003 as a small software development team in Ukraine, Alpha Serve has grown to a product company with a portfolio of top-rated applications on the leading B2B marketplaces. Since 2018, we have been actively bringing our product’s value to the business community as an Atlassian Gold Marketplace Partner, ServiceNiow Technology Partner and Shopify Partner. Our top priority is to create measurable value for the businesses of our customers through our applications. We achieve this through fostering competence and excellence in team performance, all while being a socially responsible company at the same time.
+- member: true
+  sponsor:
+  name: Corellium
+  sortname: Corellium
+  membertype: 2
+  image: /assets/images/corp-member-logo/corelliumlogofulldark.png
+  url: https://www.corellium.com/
+  description: Corellium helps developer and security teams build, test, and secure mobile devices and apps through the power of virtualization. Our Arm-native virtualization platform is used by businesses, agencies and security communities around the world to strengthen security testing and streamline DevSecOps. With highly performant, scalable, and accurate virtual devices, Corellium dramatically accelerates mobile R&D and enables never-before-possible security research and penetration testing. Visit Corellium.com for a free trial.
+- member: true
+  sponsor:
+  name: Truesec
+  sortname: Truesec
+  membertype: 4
+  image: /assets/images/corp-member-logo/Truesec.png
+  url: https://www.truesec.com/
+  description: As specialists in cybersecurity, IT infrastructure, and secure development, we have been delivering cutting-edge solutions to both the private and public sectors since 2005. Our global team of more than 220 purpose-driven cybersecurity specialists is fueled by expertise and a genuine willingness to make a difference. We all believe in sharing our knowledge and working together in order to continue to create the best possible value for you as a partner – and for the greater good.
+- member: true
+  sponsor: 
+  name: Rezilion Inc
+  sortname: Rezilion Inc
+  membertype: 3
+  image: /assets/images/corp-member-logo/Rezilion.png
+  url: http://www.rezilion.com
+  description: Rezilion is an automated DevSecOps platform that allows organizations to effortlessly manage and eliminate software vulnerabilities from dev to prod and across cloud workloads, applications, and IoT devices. With operations in Israel and the United States, Rezilion is swiftly attracting a growing client base of Fortune 100 companies and leading industry partners. For more information, visit www.rezilion.com.
+- member:  false
+  sponsor:  5
+  name:  DevOps India Summit 2022
+  sortname:  DevOps India Summit 2022
+  membertype:  
+  image:  /assets/images/corp-member-logo/dois.png
+  url:  https://devopsindiasummit.com
+  description:  DevOps India Summit is the largest DevOps and SRE Global Summit from India. While it started as a physical event in Bangalore, the pandemic has made it to shift to Virtual mode. 2022 is the 5 th Year of the event. The theme for #DOIS22 is The Fourth Industrial Revolution: Digital Transformation in the Cloud – Explore the Intelligent and Efficient DevSecOps, SRE and Observability with use of Value Stream Management and technologies like AI/ML, Blockchain and DataOps.#DOIS22 provides the practitioners of DevOps, DevSecOps, SRE, VSM, AIOps/MLOps, Data Science, Blockchain to have a global platform to share their experience with their global peers. The speakers in the conference will be a mix of industry stalwarts presenting the keynote as well as the DevOps India Summit Award winners showcasing their learning and contributions along with those selected through paper submissions. There will also be sessions of Workshops, Panel Discussions, and fun activities like DJ, Photobooths, Tarot reading and interactive games.
+  
+  
