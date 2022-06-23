@@ -989,14 +989,14 @@
     {
         "name": "Marc Yoralanho Oulobly",
         "email": "marc.oulobly@owasp.org",
-        "group": "OWASP Dakar (Senegal)",
+        "group": "OWASP Dakar",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dakar/"
     },
     {
         "name": "Ibrahima El Hadji Ndiaye",
         "email": "ibrahima.ndiaye@owasp.org",
-        "group": "OWASP Dakar (Senegal)",
+        "group": "OWASP Dakar",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dakar/"
     },
@@ -2023,15 +2023,8 @@
         "group_url": "https://owasp.org/www-chapter-kansas-city/"
     },
     {
-        "name": "Josh White",
-        "email": "",
-        "group": "OWASP Kansas City",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kansas-city/"
-    },
-    {
-        "name": "Greg Lahann",
-        "email": "",
+        "name": "Joshua Williams",
+        "email": "j.williams@owasp.org",
         "group": "OWASP Kansas City",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kansas-city/"
@@ -2270,20 +2263,6 @@
     {
         "name": "Nuno Loureiro",
         "email": "nuno.loureiro@owasp.org",
-        "group": "OWASP Lisboa",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-lisboa/"
-    },
-    {
-        "name": "Pedro Fortuna",
-        "email": "pedro.fortuna@owasp.org",
-        "group": "OWASP Lisboa",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-lisboa/"
-    },
-    {
-        "name": "Tiago Mendo",
-        "email": "tiago.mendo@owasp.org",
         "group": "OWASP Lisboa",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-lisboa/"
@@ -3157,13 +3136,6 @@
         "group_url": "https://owasp.org/www-chapter-panama-city/"
     },
     {
-        "name": "Manas Kumar Harsh",
-        "email": "manas.harsh@owasp.org",
-        "group": "OWASP Patna",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-patna/"
-    },
-    {
         "name": "Ganesh Deshmukh",
         "email": "ganesh.deshmukh@owasp.org",
         "group": "OWASP Pimpri Chinchwad College of Engineering- Pune - Student Chapter",
@@ -3344,20 +3316,6 @@
         "group": "OWASP Quebec City",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-quebec-city/"
-    },
-    {
-        "name": "Sergio Perea",
-        "email": "sergio.perea@owasp.org",
-        "group": "OWASP Queretaro City",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-queretaro-city/"
-    },
-    {
-        "name": "Yannick Constantin",
-        "email": "yannick.constantin@owasp.org",
-        "group": "OWASP Queretaro City",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-queretaro-city/"
     },
     {
         "name": "Ramiro Pulgar",
@@ -4475,6 +4433,20 @@
     {
         "name": "Amiran Alavidze",
         "email": "amiran.alavidze@owasp.org",
+        "group": "OWASP Vancouver",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vancouver/"
+    },
+    {
+        "name": "Aarti Gadhia",
+        "email": "https://www.linkedin.com/in/aartigadhia/",
+        "group": "OWASP Vancouver",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vancouver/"
+    },
+    {
+        "name": "Azadeh Shah",
+        "email": "https://www.linkedin.com/in/asharghi/",
         "group": "OWASP Vancouver",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vancouver/"
@@ -6431,6 +6403,13 @@
         "group": "OWASP Risk Assessment Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-risk-assessment-framework/"
+    },
+    {
+        "name": "Todor Olev",
+        "email": "todor.olev@owasp.org",
+        "group": "OWASP safetypes",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-safetypes/"
     },
     {
         "name": "Seba Deleersnyder",
