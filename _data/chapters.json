@@ -403,6 +403,20 @@
         "meetings": 0
     },
     {
+        "name": "Sao Jose Dos Campos",
+        "url": "https://owasp.org/www-chapter-sao-jose-dos-campos/",
+        "created": "2022-06-06",
+        "updated": "2022-06-19",
+        "build": "built",
+        "title": "OWASP S\u00e3o Jos\u00e9 dos Campos",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "South America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-sao-jose-dos-campos-chapter",
+        "meetings": 0
+    },
+    {
         "name": "Sao Luis",
         "url": "https://owasp.org/www-chapter-sao-luis/",
         "created": "2021-06-11",
@@ -2743,20 +2757,6 @@
         "meetings": 0
     },
     {
-        "name": "Sao Jose Dos Campos",
-        "url": "https://owasp.org/www-chapter-sao-jose-dos-campos/",
-        "created": "2022-06-06",
-        "updated": "2022-06-19",
-        "build": "built",
-        "title": "OWASP S\u00e3o Jos\u00e9 dos Campos",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-sao-jose-dos-campos-chapter",
-        "meetings": 0
-    },
-    {
         "name": "Sioux Falls",
         "url": "https://owasp.org/www-chapter-sioux-falls/",
         "created": "2019-09-12",
@@ -4663,7 +4663,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2022-06-23",
+        "updated": "2022-06-24",
         "build": "built",
         "title": "OWASP Japan",
         "level": "0",
