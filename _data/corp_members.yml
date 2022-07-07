@@ -1011,7 +1011,7 @@
   url: https://www.crest-approved.org/
   description: CREST is an international not-for-profit, membership body representing the technical cyber security industry. Our vision is to build trust in the digital world by raising professional standards and delivering measurable quality assurance for the global cyber security industry. Our mission is to build capability, capacity, consistency and community in the global cyber security industry. We continually drive improvements in our accreditation and professional certification programmes for the benefit of stakeholders. CREST has almost 300 member companies internationally and engages and partners with governments, regulators, not-for-profit and corporate organizations around the world to help realise our vision.
 - member: true
-  sponsor:  
+  sponsor: -1  
   name: Bloomberg
   sortname: Bloomberg
   membertype: 2
