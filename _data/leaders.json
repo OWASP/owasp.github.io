@@ -336,6 +336,13 @@
         "group_url": "https://owasp.org/www-chapter-belo-horizonte/"
     },
     {
+        "name": "Sandipan Roy",
+        "email": "sandipan.roy@owasp.org",
+        "group": "OWASP Berhampore",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-berhampore/"
+    },
+    {
         "name": "Debraj Dey",
         "email": "debraj.dey@owasp.org",
         "group": "OWASP Berhampore",
@@ -345,13 +352,6 @@
     {
         "name": "Apurbo Mandal",
         "email": "apurbo.mandal@owasp.org",
-        "group": "OWASP Berhampore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-berhampore/"
-    },
-    {
-        "name": "Sandipan Roy",
-        "email": "sandipan.roy@owasp.org",
         "group": "OWASP Berhampore",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-berhampore/"
@@ -4571,8 +4571,36 @@
         "group_url": "https://owasp.org/www-chapter-vienna/"
     },
     {
-        "name": "B.Satya Sasi Vatsal ",
-        "email": "sasivatsal7122@gmail.com",
+        "name": "Sastry Rachakonda",
+        "email": "sastry.rachakonda@owasp.org",
+        "group": "OWASP Vignan Institute of Information and Technology",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vignan-institute-of-information-technology/"
+    },
+    {
+        "name": "Satya Sasi Vatsal Bokka",
+        "email": "satyasasi.vatsalbokka@owasp.org",
+        "group": "OWASP Vignan Institute of Information and Technology",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vignan-institute-of-information-technology/"
+    },
+    {
+        "name": "Madhav Reddy Telukutla",
+        "email": "madhav.reddytelukutla@owasp.org",
+        "group": "OWASP Vignan Institute of Information and Technology",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vignan-institute-of-information-technology/"
+    },
+    {
+        "name": "Sai Likhith Bavisetty",
+        "email": "sai.likhithbavisetty@owasp.org",
+        "group": "OWASP Vignan Institute of Information and Technology",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vignan-institute-of-information-technology/"
+    },
+    {
+        "name": "Sri Harsha Malla",
+        "email": "sri.harshamalla@owasp.org",
         "group": "OWASP Vignan Institute of Information and Technology",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vignan-institute-of-information-technology/"
@@ -4961,6 +4989,13 @@
         "group": "OWASP Application Security Hardening",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-hardening/"
+    },
+    {
+        "name": "Josh Wilson",
+        "email": "josh.wilson@owasp.org",
+        "group": "OWASP Application Security Playbook",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-security-playbook/"
     },
     {
         "name": "Daniel Cuthbert",
