@@ -1018,4 +1018,11 @@
   image: /assets/images/corp-member-logo/Bloomberg.png
   url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
   description: Bloomberg is a global leader in business and financial information, delivering trusted data, news, and insights that bring transparency, efficiency, and fairness to markets. The company helps connect influential communities across the global financial ecosystem via reliable technology solutions that enable our customers to make more informed decisions and foster better collaboration.
-  
+- member: true
+  sponsor: -1
+  name: SOOS
+  sortname: SOOS
+  membertype: 3
+  image: /assets/images/corp-member-logo/SOOS_icon_dark.png
+  url: http://soos.io
+  desciption: SOOS is the affordable, easy to integrate Software Security Platform for your whole team. Scan your open source software for vulnerabilities, control the introduction of new dependencies, exclude unwanted license types, generate SBOMS, and fill out your compliance worksheets with confidence for one low monthly price. SOOS DAST gives your team a no limit dynamic application security test that integrates seamlessly into developer pipelines. Test all build branches automatically, find issues and assign remediation tasks directly into your workflow management systems. Flat fee pricing with no per seat licenses or pricing tiers.
