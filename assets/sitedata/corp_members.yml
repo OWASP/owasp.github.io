@@ -991,7 +991,7 @@
   name: Rezilion Inc
   sortname: Rezilion Inc
   membertype: 3
-  image: /assets/images/corp-member-logo/Rezilion.png
+  image: /assets/images/corp-member-logo/Rezilion_Logos_Rezilion_Full_Logo.png
   url: http://www.rezilion.com
   description: Rezilion is an automated DevSecOps platform that allows organizations to effortlessly manage and eliminate software vulnerabilities from dev to prod and across cloud workloads, applications, and IoT devices. With operations in Israel and the United States, Rezilion is swiftly attracting a growing client base of Fortune 100 companies and leading industry partners. For more information, visit www.rezilion.com.
 - member:  false
@@ -1018,4 +1018,11 @@
   image: /assets/images/corp-member-logo/Bloomberg.png
   url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
   description: Bloomberg is a global leader in business and financial information, delivering trusted data, news, and insights that bring transparency, efficiency, and fairness to markets. The company helps connect influential communities across the global financial ecosystem via reliable technology solutions that enable our customers to make more informed decisions and foster better collaboration.
-  
+- member: true
+  sponsor: -1
+  name: SOOS
+  sortname: SOOS
+  membertype: 3
+  image: /assets/images/corp-member-logo/SOOS_icon_dark.png
+  url: https://soos.io/
+  description: SOOS is the affordable, easy to integrate Software Security Platform for your whole team. Scan your open source software for vulnerabilities, control the introduction of new dependencies, exclude unwanted license types, generate SBOMS, and fill out your compliance worksheets with confidence for one low monthly price. SOOS DAST gives your team a no limit dynamic application security test that integrates seamlessly into developer pipelines. Test all build branches automatically, find issues and assign remediation tasks directly into your workflow management systems. Flat fee pricing with no per seat licenses or pricing tiers.
