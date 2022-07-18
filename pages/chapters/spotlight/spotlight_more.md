@@ -1,6 +1,6 @@
 ---
 
-title: Event Spotlight - OWASP 2022 Global AppSec European Virtual Event
+title: Event Spotlight - OWASP 2022 Global AppSec APAC Virtual Event
 layout: col-sidebar
 permalink: /events/spotlight/
 
