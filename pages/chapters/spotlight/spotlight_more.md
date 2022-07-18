@@ -6,7 +6,7 @@ permalink: /events/spotlight/
 
 ---
 
-![OWASP 2022 Global AppSec APAC Virtual Event](https://virtual.globalappsec.org/assets/images/assets/images/APAC_Banner_810x400.jpeg){:class="featured-proj-image" width="100%"}
+![OWASP 2022 Global AppSec APAC Virtual Event](/assets/images/APAC_Banner_810x400.jpeg){:class="featured-proj-image" width="100%"}
 
 ---
 
