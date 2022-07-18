@@ -5,6 +5,7 @@ title: OWASP Global & Regional Events
 permalink: /events/
 
 ---
+
 ![Attendees at a Global AppSec Conference](/assets/images/web/events-header.png)
 
 Ever wanted to network and learn along with other AppSec professionals? We host nearly a dozen events each year varying in format to week long trainings and conferences, to single day programs. OWASP events are a great way to:
@@ -15,8 +16,7 @@ Ever wanted to network and learn along with other AppSec professionals? We host 
 
 While some of our events have corporate sponsors, the content is vendor neutral, and speakers are carefully selected ensuring a good return on your investment of time and money. Often times are larger events also host Expositions, Capture the Flags, and Career Fairs. Often members get a discount on conference passes.
 
-<a href="file:///Users/kellysantalucia/Downloads/OWASP%202021%20November%20Event%20Town%20Hall%20Slide%20Presentation.pdf">OWASP 2021 November Event Town Hall Slide Presentation</a>
-
+[OWASP 2021 November Event Town Hall Slide Presentation](/assets/files/OWASP%20Event%20Town%20Hall%20November%202021.pdf)
 
 Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><strong>{{category.category}} Events</strong></a> {%unless forloop.last %},{%endunless%} {% endfor %}
 
