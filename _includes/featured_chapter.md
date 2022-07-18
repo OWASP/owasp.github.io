@@ -6,8 +6,6 @@
 
 [Join us](https://whova.com/portal/registration/ogauc_202211/) virtually August 29 - September 1, for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.  
 
-Designed for private and public sector infosec professionals, the two-day OWASP conference, featuring a track in Japanese, equips developers, defenders, and advocates to build a more secure web.  Join us for leading application security technologies, speakers, prospects, and the community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
-
 [Exhibit and Sponsorship Opportunities](https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/files/AppSec_APAC_sponsorship.pdf) <br><br>
 
 [Read more..](/events/spotlight/)
