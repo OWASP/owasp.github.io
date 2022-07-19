@@ -969,7 +969,7 @@
   membertype: 4
   image: /assets/images/corp-member-logo/alpha-serve.png
   url: https://www.alphaservesp.com/
-  description: Established in 2003 as a small software development team in Ukraine, Alpha Serve has grown to a product company with a portfolio of top-rated applications on the leading B2B marketplaces. Since 2018, we have been actively bringing our product’s value to the business community as an Atlassian Gold Marketplace Partner, ServiceNiow Technology Partner and Shopify Partner. Our top priority is to create measurable value for the businesses of our customers through our applications. We achieve this through fostering competence and excellence in team performance, all while being a socially responsible company at the same time.
+  description: Established in 2003 as a small software development team in Ukraine, Alpha Serve has grown to a product company with a portfolio of top-rated applications on the leading B2B marketplaces. Since 2018, we have been actively bringing our product’s value to the business community as an Atlassian Gold Marketplace Partner, ServiceNow Technology Partner and Shopify Partner. Our top priority is to create measurable value for the businesses of our customers through our applications. We achieve this through fostering competence and excellence in team performance, all while being a socially responsible company at the same time.
 - member: true
   sponsor:
   name: Corellium
@@ -1023,6 +1023,22 @@
   name: SOOS
   sortname: SOOS
   membertype: 3
-  image: /assets/images/corp-member-logo/SOOS_icon_dark.png
+  image: /assets/images/corp-member-logo/SOOS_Logo_Dark.png
   url: https://soos.io/
   description: SOOS is the affordable, easy to integrate Software Security Platform for your whole team. Scan your open source software for vulnerabilities, control the introduction of new dependencies, exclude unwanted license types, generate SBOMS, and fill out your compliance worksheets with confidence for one low monthly price. SOOS DAST gives your team a no limit dynamic application security test that integrates seamlessly into developer pipelines. Test all build branches automatically, find issues and assign remediation tasks directly into your workflow management systems. Flat fee pricing with no per seat licenses or pricing tiers.
+- member: true
+  sponsor: -1
+  name: Heyhack
+  sortname: Heyhack
+  membertype: 4
+  image: /assets/images/corp-member-logo/heyhacklogo.png
+  url: https://www.heyhack.com
+  description: Heyhack is an automated penetration testing service for web applications and APIs. Heyhack conducts penetration tests that match the depth and quality of expert human pentesters and can be set up to run at any schedule that suits your needs. When a vulnerability has been found, Heyhack helps you patch the issue by providing both comprehensive technical details as well as easy-to-follow remediation advice. Heyhack enables you to comply with criteria related to pentesting as required by SOC 2 and ISO 27001 and helps you generate the documentation you need for both auditors and customers.
+- member: true
+  sponsor: -1
+  name: oak9
+  sortname: oak9
+  membertype: 4
+  image: /assets/images/corp-member-logo/oak9logoblue.png
+  url: https://oak9.io/
+  description: oak9 natively secures cloud infrastructure for developers. oak9’s Security as Code platform automatically finds, analyzes, and remediates security and compliance gaps in real-time, detecting changes in Infrastructure as Code (IaC) and deployed cloud workloads. Headquartered in Chicago, oak9 is a Built In 2022 Start-up to Watch backed by key investors Menlo Ventures, HPA, Cisco Investments and Morgan Stanley. oak9 is a partner to AWS, Azure, HITRUST, and HashiCorp, natively supporting Terraform. Say hello on LinkedIn, Twitter, Youtube, and TikTok, or visit us at oak9.io.
