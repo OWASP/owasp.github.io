@@ -1638,20 +1638,6 @@
         "group_url": "https://owasp.org/www-chapter-hyderabad/"
     },
     {
-        "name": "Eugen Busoiu",
-        "email": "eugen.busoiu@owasp.org",
-        "group": "OWASP Iasi",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-iasi/"
-    },
-    {
-        "name": "Alexandru Coman",
-        "email": "alexandru.coman@owasp.org",
-        "group": "OWASP Iasi",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-iasi/"
-    },
-    {
         "name": "Dr. Somanath Tripathy",
         "email": "somanath.tripathy@owasp.org",
         "group": "OWASP IIT Patna - Student Chapter",
@@ -3185,27 +3171,6 @@
         "group_url": "https://owasp.org/www-chapter-portland/"
     },
     {
-        "name": "John Ellingsworth",
-        "email": "john.ellingsworth@owasp.org",
-        "group": "OWASP Portland, Maine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland-me/"
-    },
-    {
-        "name": "Scott Ellis",
-        "email": "scott.ellis@owasp.org",
-        "group": "OWASP Portland, Maine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland-me/"
-    },
-    {
-        "name": "Joe LeBeau",
-        "email": "joe.lebeau@owasp.org",
-        "group": "OWASP Portland, Maine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-portland-me/"
-    },
-    {
         "name": "Paulo Batalhao",
         "email": "paulo.batalhao@owasp.org",
         "group": "OWASP Porto",
@@ -3871,7 +3836,7 @@
         "group_url": "https://owasp.org/www-chapter-srm-institute-of-science-and-technology/"
     },
     {
-        "name": "Benjamin Lokling Randeberg",
+        "name": "Benjamin Løkling Randeberg",
         "email": "benjamin.randeberg@owasp.org",
         "group": "OWASP Stavanger",
         "group-type": "chapter",
@@ -5992,6 +5957,13 @@
         "group_url": "https://owasp.org/www-project-maryam/"
     },
     {
+        "name": "Jin Kiat Low",
+        "email": "jklow79@yahoo.com",
+        "group": "OWASP Mimosa",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mimosa/"
+    },
+    {
         "name": "Monica Pastor",
         "email": "pastorabanades@gmail.com",
         "group": "OWASP Mobile Audit",
@@ -6914,6 +6886,13 @@
         "group": "OWASP Top 10 Card Game",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-card-game/"
+    },
+    {
+        "name": "Ory Segal",
+        "email": "orysegal@gmail.com",
+        "group": "OWASP Top 10 CI-CD Security Risks",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-ci-cd-security-risks/"
     },
     {
         "name": "Ivan Tsarynny",
