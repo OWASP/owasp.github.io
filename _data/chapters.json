@@ -1337,7 +1337,7 @@
         "name": "Portland Me",
         "url": "https://owasp.org/www-chapter-portland-me/",
         "created": "2019-11-11",
-        "updated": "2021-05-03",
+        "updated": "2022-07-20",
         "build": "built",
         "title": "OWASP Portland, Maine",
         "level": "3",
@@ -2839,19 +2839,6 @@
         "meetings": 0
     },
     {
-        "name": "Stavanger",
-        "url": "https://owasp.org/www-chapter-stavanger/",
-        "created": "2022-07-19",
-        "updated": "2022-07-19",
-        "build": "built",
-        "title": "OWASP Stavanger",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Tehran",
         "url": "https://owasp.org/www-chapter-tehran/",
         "created": "2020-05-06",
@@ -3402,7 +3389,7 @@
         "name": "Iasi",
         "url": "https://owasp.org/www-chapter-iasi/",
         "created": "2020-08-17",
-        "updated": "2021-06-14",
+        "updated": "2022-07-20",
         "build": "built",
         "title": "OWASP Iasi",
         "level": "ayout: col-sidebar",
@@ -3812,6 +3799,19 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sofia-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Stavanger",
+        "url": "https://owasp.org/www-chapter-stavanger/",
+        "created": "2022-07-19",
+        "updated": "2022-07-20",
+        "build": "built",
+        "title": "OWASP Stavanger",
+        "level": "ayout: col-sidebar",
+        "type": "layout: col-sidebar",
+        "region": "Europe",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -5438,7 +5438,7 @@
         "url": "https://owasp.org/www-chapter-the-northcap-university/",
         "created": "2020-09-10",
         "updated": "2022-06-27",
-        "build": "built",
+        "build": "no pages",
         "title": "OWASP The NorthCap University - Student Chapter",
         "level": "layout: col-sidebar",
         "type": "",
