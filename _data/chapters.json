@@ -1338,7 +1338,7 @@
         "url": "https://owasp.org/www-chapter-portland-me/",
         "created": "2019-11-11",
         "updated": "2022-07-20",
-        "build": "built",
+        "build": "no pages",
         "title": "OWASP Portland, Maine",
         "level": "3",
         "type": "",
@@ -2076,20 +2076,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Detroit-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Dhule",
-        "url": "https://owasp.org/www-chapter-dhule/",
-        "created": "2022-06-01",
-        "updated": "2022-06-01",
-        "build": "built",
-        "title": "OWASP Dhule",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Dhule-Chapter",
         "meetings": 0
     },
     {
@@ -4345,6 +4331,20 @@
         "meetings": 0
     },
     {
+        "name": "Dhule",
+        "url": "https://owasp.org/www-chapter-dhule/",
+        "created": "2022-06-01",
+        "updated": "2022-06-01",
+        "build": "built",
+        "title": "OWASP Dhule",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Dhule-Chapter",
+        "meetings": 0
+    },
+    {
         "name": "Dindigul",
         "url": "https://owasp.org/www-chapter-dindigul/",
         "created": "2019-09-12",
@@ -5588,7 +5588,7 @@
         "name": "Vignan Institute Of Information Technology",
         "url": "https://owasp.org/www-chapter-vignan-institute-of-information-technology/",
         "created": "2022-07-07",
-        "updated": "2022-07-14",
+        "updated": "2022-07-21",
         "build": "built",
         "title": "OWASP Vignan Institute of Information and Technology",
         "level": "ayout: col-sidebar",
