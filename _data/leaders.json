@@ -1127,20 +1127,6 @@
         "group_url": "https://owasp.org/www-chapter-dhaka/"
     },
     {
-        "name": "Arun Kumar Sakithivel",
-        "email": "arun.sakthivel@owasp.org",
-        "group": "OWASP Dindigul",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dindigul/"
-    },
-    {
-        "name": "Prithiv",
-        "email": "prithiv.kumaravel@owasp.org",
-        "group": "OWASP Dindigul",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dindigul/"
-    },
-    {
         "name": "Sandipkumar C. Sagare",
         "email": "sandipkumar.sagare@owasp.org",
         "group": "OWASP DKTE SOC Textile and Engineering Institute - Student Chapter",
@@ -2002,6 +1988,20 @@
         "group_url": "https://owasp.org/www-chapter-karachi/"
     },
     {
+        "name": "Smaran Chand",
+        "email": "smaran.chand@owasp.org",
+        "group": "OWASP Kathmandu",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kathmandu/"
+    },
+    {
+        "name": "Kailash Bohara",
+        "email": "kailash.bohara@owasp.org",
+        "group": "OWASP Kathmandu",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kathmandu/"
+    },
+    {
         "name": "Rejah Rehim",
         "email": "rejah.rehim@owasp.org",
         "group": "OWASP Kerala",
@@ -2767,14 +2767,14 @@
     {
         "name": "Ramesh Kumar Mohapatra",
         "email": "ramesh.kumarmohapatra@owasp.org",
-        "group": "OWASP NIT Rourkela chapter - Student Chapter",
+        "group": "OWASP National Institute of Technology Rourkela",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-national-institute-of-technology-rourkela/"
     },
     {
         "name": "Akash Poudel",
         "email": "akash.poudel@owasp.org",
-        "group": "OWASP NIT Rourkela chapter - Student Chapter",
+        "group": "OWASP National Institute of Technology Rourkela",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-national-institute-of-technology-rourkela/"
     },
@@ -3428,20 +3428,6 @@
         "group": "OWASP Saitama",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-saitama/"
-    },
-    {
-        "name": "David Kingsly",
-        "email": "david.kingsly@owasp.org",
-        "group": "OWASP Salem",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-salem/"
-    },
-    {
-        "name": "Sathish Kumar",
-        "email": "sathish.kumar@owasp.org",
-        "group": "OWASP Salem",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-salem/"
     },
     {
         "name": "Seth Law",
@@ -5076,7 +5062,7 @@
     },
     {
         "name": "Sean Auriti",
-        "email": "sean.auritii@owasp.org",
+        "email": "sean.auriti@owasp.org",
         "group": "OWASP Bug Logging Tool",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-bug-logging-tool/"
@@ -6890,7 +6876,7 @@
     {
         "name": "Ory Segal",
         "email": "orysegal@gmail.com",
-        "group": "OWASP Top 10 CI-CD Security Risks",
+        "group": "OWASP Top 10 CI/CD Security Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-ci-cd-security-risks/"
     },
