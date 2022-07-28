@@ -672,20 +672,6 @@
         "group_url": "https://owasp.org/www-chapter-central-university-of-rajasthan/"
     },
     {
-        "name": "Arjun Chaudhary",
-        "email": "arjun.chaudhary@owasp.org",
-        "group": "OWASP Chandigarh",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-chandigarh/"
-    },
-    {
-        "name": "Yash Mishra",
-        "email": "yash.mishra@owasp.org",
-        "group": "OWASP Chandigarh",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-chandigarh/"
-    },
-    {
         "name": "Josh Jenkins",
         "email": "josh.jenkins@owasp.org",
         "group": "OWASP Charlotte",
@@ -989,6 +975,13 @@
     {
         "name": "David Alain Franco Ochoa",
         "email": "david.ochoa@owasp.org",
+        "group": "OWASP Cusco",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cusco/"
+    },
+    {
+        "name": "Rony Villafuerte Serna",
+        "email": "ronyvillafuerte.serna@owasp.org",
         "group": "OWASP Cusco",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cusco/"
@@ -5185,6 +5178,13 @@
         "group": "OWASP Container Security Verification Standard",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-container-security-verification-standard/"
+    },
+    {
+        "name": "Antonis Manaras",
+        "email": "antonis.manaras@owasp.org",
+        "group": "OWASP Continuous Penetration Testing Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-continuous-penetration-testing-framework/"
     },
     {
         "name": "Juan Pablo Tosso",
