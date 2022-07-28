@@ -25,7 +25,8 @@
   winners:
     - name: Izar Tarandach
       image: /assets/images/people/no-person.png
-      info:
+      info: >-
+          Izar Tarandach is the Principal Security Engineer at Squarespace, a published author and presenter on Threat Modeling. With past tenures in leadership security positions at Autodesk, in a major hedge fund, DellEMC, RSA, IBM and others, he was a core contributor to SAFECode and a founding contributor to the IEEE Center for Security Design. He holds a masters degree in Computer Science/Security from Boston University and has served as an instructor in Digital Forensics and in Secure Development in grad-level courses. He co-leads the development of pytm, a threat-modeling-with-code OWASP Incubator project.
 - title: Chapter Person of the Year
   type: award
   category: WASPY
