@@ -39,11 +39,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-     - name: OWASP New Zealand Day 2022
-       start-date: 2022-07-05
-       dates: July 5-8, 2022 GMT+12
-       url: https://appsec.org.nz/conference
-       optional-text: <strong>5-6 July - Pre-conference training, 7-8 Main Conference. Register today!</strong>
      - name: OWASP 2022 LASCON
        start-date: 2022-10-25
        dates: October 25-28, 2022
@@ -52,6 +47,10 @@
        start-date:
        dates: Postponed to March 2023
        url: https://snowfroc.com/
+     - name: AppSec Days Pacific Northwest
+       start-date: 2023-6-10
+       date: June 10, 2023
+       #url:
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
