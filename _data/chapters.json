@@ -2328,19 +2328,6 @@
         "meetings": 0
     },
     {
-        "name": "Kathmandu",
-        "url": "https://owasp.org/www-chapter-kathmandu/",
-        "created": "2022-07-25",
-        "updated": "2022-07-25",
-        "build": "built",
-        "title": "OWASP Kathmandu",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Kaunas",
         "url": "https://owasp.org/www-chapter-kaunas/",
         "created": "2021-12-06",
@@ -4793,6 +4780,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Karachi-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Kathmandu",
+        "url": "https://owasp.org/www-chapter-kathmandu/",
+        "created": "2022-07-25",
+        "updated": "2022-07-29",
+        "build": "built",
+        "title": "OWASP Kathmandu",
+        "level": "0",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
