@@ -1085,19 +1085,6 @@
         "meetings": 0
     },
     {
-        "name": "Mexico City",
-        "url": "https://owasp.org/www-chapter-mexico-city/",
-        "created": "2019-09-12",
-        "updated": "2022-07-28",
-        "build": "no pages",
-        "title": "OWASP Mexico City",
-        "level": "0",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Miami",
         "url": "https://owasp.org/www-chapter-miami/",
         "created": "2019-09-12",
@@ -2536,6 +2523,19 @@
         "updated": "2021-03-24",
         "build": "no pages",
         "title": "OWASP Mexicali",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
+        "name": "Mexico City",
+        "url": "https://owasp.org/www-chapter-mexico-city/",
+        "created": "2019-09-12",
+        "updated": "2022-07-28",
+        "build": "errored",
+        "title": "OWASP Mexico City",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -4151,7 +4151,7 @@
         "url": "https://owasp.org/www-chapter-babu-banarasi-das-nittm/",
         "created": "2021-08-03",
         "updated": "2022-02-07",
-        "build": "built",
+        "build": "no pages",
         "title": "OWASP Babu Banarasi Das Institute of Technology and Management - Student Chapter",
         "level": "layout: col-sidebar",
         "type": "",
