@@ -1052,3 +1052,11 @@
   description: >-
       Aeye Security Lab Inc. is a Tokyo based web application security company, whose mission is to provide products and services to solve shortage of skilled labor (especially in the field of vulnerability assessment) with cutting-edge technologies such as AI.
       Aeye Security Lab’s “AeyeScan”, a DAST-based web application testing SaaS, is a unique automated crawler and scanning that leverages AI and RPA for highly accurate testing. AeyeScan also provides API and supports CI/CD to achieve DevSecOps.
+- member: true
+  sponsor: -1
+  name: Datadog
+  sortname: Datadog
+  membertype: 3
+  image: /assets/images/corp-member-logo/Datadog_logo.png
+  url: https://www.datadoghq.com/
+  description: Datadog is the essential monitoring and security platform for cloud applications. We bring together end-to-end traces, metrics, and logs to make your applications, infrastructure, and third-party services entirely observable. These capabilities help businesses secure their systems, avoid downtime, and ensure customers are getting the best user experience.
