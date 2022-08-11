@@ -553,7 +553,7 @@
         "type": "",
         "region": "Oceania",
         "pitch": "More info soon...",
-        "meetup-group": "OWASP-New-Zealand-Chapter-Christchurch",
+        "meetup-group": "OWASP-New-Zealand-Chapter-Auckland",
         "meetings": 0
     },
     {
@@ -1088,7 +1088,7 @@
         "name": "Mexico City",
         "url": "https://owasp.org/www-chapter-mexico-city/",
         "created": "2019-09-12",
-        "updated": "2022-08-03",
+        "updated": "2022-08-10",
         "build": "built",
         "title": "OWASP Mexico City",
         "level": "layout: col-sidebar",
@@ -2332,7 +2332,7 @@
         "url": "https://owasp.org/www-chapter-kallakkurichi/",
         "created": "2022-03-11",
         "updated": "2022-03-11",
-        "build": "no pages",
+        "build": "built",
         "title": "OWASP Kallakkurichi",
         "level": "-1",
         "type": "",
@@ -2458,20 +2458,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Little-Rock-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Lome",
-        "url": "https://owasp.org/www-chapter-lome/",
-        "created": "2019-09-12",
-        "updated": "2021-04-07",
-        "build": "no pages",
-        "title": "OWASP Lome",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Lome-Chapter",
         "meetings": 0
     },
     {
@@ -4244,6 +4230,19 @@
         "meetings": 0
     },
     {
+        "name": "Bs Abdur Rahman Crescent Institute Of Science And Technology",
+        "url": "https://owasp.org/www-chapter-bs-abdur-rahman-crescent-institute-of-science-and-technology/",
+        "created": "2022-08-09",
+        "updated": "2022-08-09",
+        "build": "built",
+        "title": "OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology - Student Chapter",
+        "level": "ayout: col-sidebar",
+        "type": "layout: col-sidebar",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Central University Of Rajasthan",
         "url": "https://owasp.org/www-chapter-central-university-of-rajasthan/",
         "created": "2022-02-28",
@@ -4401,7 +4400,7 @@
         "url": "https://owasp.org/www-chapter-dindigul/",
         "created": "2019-09-12",
         "updated": "2022-07-05",
-        "build": "no pages",
+        "build": "built",
         "title": "OWASP Dindigul",
         "level": "0",
         "type": "",
@@ -4819,6 +4818,7 @@
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
+        "meetup-group": "owasp-kathmandu-chapter",
         "meetings": 0
     },
     {
@@ -5842,6 +5842,20 @@
         "region": "Africa",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Lagos-Meetup-Group",
+        "meetings": 0
+    },
+    {
+        "name": "Lome",
+        "url": "https://owasp.org/www-chapter-lome/",
+        "created": "2019-09-12",
+        "updated": "2022-08-09",
+        "build": "built",
+        "title": "OWASP Lome",
+        "level": "0",
+        "type": "",
+        "region": "Africa",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Lome-Chapter",
         "meetings": 0
     },
     {
