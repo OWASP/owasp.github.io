@@ -1060,3 +1060,12 @@
   image: /assets/images/corp-member-logo/Datadog_logo.png
   url: https://www.datadoghq.com/
   description: Datadog is the essential monitoring and security platform for cloud applications. We bring together end-to-end traces, metrics, and logs to make your applications, infrastructure, and third-party services entirely observable. These capabilities help businesses secure their systems, avoid downtime, and ensure customers are getting the best user experience.
+- member: true
+  sponsor: -1
+  name: Deepfactor
+  sortname: Deepfactor
+  membertype: 4
+  image: /assets/images/corp-member-logo/deepfactor_fulllogo_300x90.png
+  url: http://www.deepfactor.io
+  description: Deepfactor is a developer security platform that enables engineering teams to quickly discover and resolve security vulnerabilities, supply chain risks, and compliance violations early in development and testing. The platform requires zero code changes, agents, or privileged kernel code and is purpose-built to observe every thread and process of cloud native applications. This enables developers to seamlessly observe running workloads to identify, prioritize, and remediate insecure code and vulnerabilities. Deepfactor integrates into developers’ existing toolchains to deliver application-aware security insights with detailed information about application behavior, system calls, and stack traces that help pinpoint vulnerable code.
+  
