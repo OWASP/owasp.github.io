@@ -399,7 +399,7 @@
   sortname: Probely
   image: /assets/images/corp-member-logo/probely_logo_black.png
   url: https://probely.com
-  description: Probely finds vulnerabilities or security issues in web applications and provides guidance on how to fix those issues. It can be integrated into development processes (SDLC) and continuous integration pipelines (CI/CD), in order to automate security testing. Probely helps you narrow the gap between development, security and operations, by making security an intrinsic characteristic of the web development life-cycle and achieve fast time-to-market.
+  description: Probely is a Web & API vulnerability scanner for agile teams. It finds vulnerabilities or security issues in web applications & APIs and provides guidance on fixing them. It can be integrated into development processes (SDLC) and continuous integration pipelines (CI/CD) to automate and scale security testing. Probely empowers Security and Development teams working together towards releasing secure applications.
 - member: true
   sponsor: -1
   name: Prophaze Technologies Pvt Ltd
@@ -1060,3 +1060,12 @@
   image: /assets/images/corp-member-logo/Datadog_logo.png
   url: https://www.datadoghq.com/
   description: Datadog is the essential monitoring and security platform for cloud applications. We bring together end-to-end traces, metrics, and logs to make your applications, infrastructure, and third-party services entirely observable. These capabilities help businesses secure their systems, avoid downtime, and ensure customers are getting the best user experience.
+- member: true
+  sponsor: -1
+  name: Deepfactor
+  sortname: Deepfactor
+  membertype: 4
+  image: /assets/images/corp-member-logo/deepfactor_fulllogo_300x90.png
+  url: http://www.deepfactor.io
+  description: Deepfactor is a developer security platform that enables engineering teams to quickly discover and resolve security vulnerabilities, supply chain risks, and compliance violations early in development and testing. The platform requires zero code changes, agents, or privileged kernel code and is purpose-built to observe every thread and process of cloud native applications. This enables developers to seamlessly observe running workloads to identify, prioritize, and remediate insecure code and vulnerabilities. Deepfactor integrates into developers’ existing toolchains to deliver application-aware security insights with detailed information about application behavior, system calls, and stack traces that help pinpoint vulnerable code.
+  
