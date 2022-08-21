@@ -45,7 +45,7 @@
         "name": "Belo Horizonte",
         "url": "https://owasp.org/www-chapter-belo-horizonte/",
         "created": "2019-09-12",
-        "updated": "2022-04-07",
+        "updated": "2022-08-21",
         "build": "built",
         "title": "OWASP Belo Horizonte",
         "level": "0",
@@ -1682,6 +1682,20 @@
         "meetings": 0
     },
     {
+        "name": "Winnipeg",
+        "url": "https://owasp.org/www-chapter-winnipeg/",
+        "created": "2022-07-28",
+        "updated": "2022-07-28",
+        "build": "built",
+        "title": "OWASP Winnipeg",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-winnipeg-chapter",
+        "meetings": 0
+    },
+    {
         "name": "Zacatecas",
         "url": "https://owasp.org/www-chapter-zacatecas/",
         "created": "2020-09-29",
@@ -2751,7 +2765,7 @@
         "build": "built",
         "title": "OWASP San Salvador",
         "level": "-1",
-        "type": "",
+        "type": "layout: col-sidebar",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetings": 0
@@ -3002,19 +3016,6 @@
         "updated": "2020-11-24",
         "build": "no pages",
         "title": "OWASP West Delhi",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Winnipeg",
-        "url": "https://owasp.org/www-chapter-winnipeg/",
-        "created": "2022-07-28",
-        "updated": "2022-07-28",
-        "build": "built",
-        "title": "OWASP Winnipeg",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
