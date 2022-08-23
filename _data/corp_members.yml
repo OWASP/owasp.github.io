@@ -1083,5 +1083,6 @@
   membertype: 4
   image: /assets/images/corp-member-logo/RapidFort_logo.png
   url: https://www.rapidfort.com
-  description: RapidFort is the first Software Attack Surface Optimization Platform. Modern cloud workloads include a large number of unused components. Current products that are in the market can only identify & list vulnerabilities. It is the responsibility of the dev team to address these vulnerabilities. Since there are typically 1000s of vulnerabilities in a typical s/w, it is impossible to address all of them. However RapidFort's revolutionary product profiles the s/w during runtime, identifies packages/files that are unused and then automatically remove them.
+  description: >-
+      RapidFort is the first Software Attack Surface Optimization Platform. Modern cloud workloads include a large number of unused components. Current products that are in the market can only identify & list vulnerabilities. It is the responsibility of the dev team to address these vulnerabilities. Since there are typically 1000s of vulnerabilities in a typical s/w, it is impossible to address all of them. However RapidFort's revolutionary product profiles the s/w during runtime, identifies packages/files that are unused and then automatically remove them.
       Thus removing all the vulnerabilities associated with those files, thus making s/w secure as well as increasing productivity.
