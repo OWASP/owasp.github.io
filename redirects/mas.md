@@ -3,6 +3,7 @@
 title: Mobile Application Security (MAS) Redirect
 permalink: /mas
 redirect_from:
+  - /mas/
   - /mstg
   - /mstg/
   - /masvs
