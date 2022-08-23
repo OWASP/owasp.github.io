@@ -61,7 +61,7 @@ permalink: /sitemap/
   <li><a href="/www-project-cheat-sheets/">Cheat Sheets</a></li>
   <li><a href="/www-project-dependency-track/">Dependency Track</a></li>
   <li><a href="/www-project-juice-shop/">Juice Shop</a></li>
-  <li><a href="/www-project-mobile-security-testing-guide/">Mobile Security Testing Guide</a></li>
+  <li><a href="/www-project-mobile-app-security/">Mobile Application Security (MAS)</a></li>
   <li><a href="/www-project-modsecurity-core-rule-set/">ModSecurity Core Rule Set</a></li>
   <li><a href="/www-project-samm/">Software Assurance Maturity Model (SAMM)</a></li>
   <li><a href="/www-project-security-knowledge-framework/">Security Knowledge Framework</a></li>
