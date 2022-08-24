@@ -2159,19 +2159,6 @@
         "meetings": 0
     },
     {
-        "name": "Gla University Mathura",
-        "url": "https://owasp.org/www-chapter-gla-university-mathura/",
-        "created": "2022-08-22",
-        "updated": "2022-08-22",
-        "build": "built",
-        "title": "OWASP GLA University Mathura",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Guadalajara",
         "url": "https://owasp.org/www-chapter-guadalajara/",
         "created": "2020-05-07",
@@ -4518,6 +4505,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-gauhati-university-student-chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Gla University Mathura",
+        "url": "https://owasp.org/www-chapter-gla-university-mathura/",
+        "created": "2022-08-22",
+        "updated": "2022-08-23",
+        "build": "built",
+        "title": "OWASP GLA University Mathura",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
