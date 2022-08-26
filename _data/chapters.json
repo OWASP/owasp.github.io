@@ -849,6 +849,20 @@
         "meetings": 0
     },
     {
+        "name": "Edmonton",
+        "url": "https://owasp.org/www-chapter-edmonton/",
+        "created": "2019-09-12",
+        "updated": "2022-08-18",
+        "build": "built",
+        "title": "OWASP Edmonton",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Edmonton-Alberta-Meetup",
+        "meetings": 0
+    },
+    {
         "name": "Georgetown",
         "url": "https://owasp.org/www-chapter-georgetown/",
         "created": "2020-05-28",
@@ -1882,19 +1896,6 @@
         "meetings": 0
     },
     {
-        "name": "Bishkek",
-        "url": "https://owasp.org/www-chapter-bishkek/",
-        "created": "2022-08-01",
-        "updated": "2022-08-01",
-        "build": "built",
-        "title": "OWASP Bishkek",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Bochum",
         "url": "https://owasp.org/www-chapter-bochum/",
         "created": "2021-05-17",
@@ -2129,20 +2130,6 @@
         "type": "",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
-        "name": "Edmonton",
-        "url": "https://owasp.org/www-chapter-edmonton/",
-        "created": "2019-09-12",
-        "updated": "2022-08-18",
-        "build": "built",
-        "title": "OWASP Edmonton",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Edmonton-Alberta-Meetup",
         "meetings": 0
     },
     {
@@ -4215,6 +4202,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bhopal-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Bishkek",
+        "url": "https://owasp.org/www-chapter-bishkek/",
+        "created": "2022-08-01",
+        "updated": "2022-08-01",
+        "build": "built",
+        "title": "OWASP Bishkek",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
