@@ -3,3 +3,5 @@ plugins:
  - jekyll-include-cache-0.2.0
  - jekyll-remote-theme
  - jekyll-redirect-from
+include:
+ - .well-known
