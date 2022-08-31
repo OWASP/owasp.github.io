@@ -2146,6 +2146,19 @@
         "meetings": 0
     },
     {
+        "name": "Goiania",
+        "url": "https://owasp.org/www-chapter-goiania/",
+        "created": "2022-08-30",
+        "updated": "2022-08-30",
+        "build": "built",
+        "title": "OWASP Goiania",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Guadalajara",
         "url": "https://owasp.org/www-chapter-guadalajara/",
         "created": "2020-05-07",
@@ -2588,7 +2601,7 @@
         "url": "https://owasp.org/www-chapter-niagra-falls/",
         "created": "2021-11-23",
         "updated": "2021-11-23",
-        "build": "built",
+        "build": "no pages",
         "title": "OWASP Niagra Falls",
         "level": "-1",
         "type": "",
@@ -4634,7 +4647,7 @@
         "name": "Indian Institute Of Technology Patna",
         "url": "https://owasp.org/www-chapter-indian-institute-of-technology-patna/",
         "created": "2021-01-05",
-        "updated": "2021-08-08",
+        "updated": "2022-08-30",
         "build": "built",
         "title": "OWASP IIT Patna - Student Chapter",
         "level": "layout: col-sidebar",
@@ -5881,11 +5894,11 @@
         "updated": "2022-08-09",
         "build": "built",
         "title": "OWASP Lome",
-        "level": "layout: col-sidebar",
+        "level": "3",
         "type": "",
         "region": "Africa",
         "pitch": "More info soon...",
-        "meetup-group": "OWASP-Lome-Chapter",
+        "meetup-group": "owasp-lome",
         "meetings": 0
     },
     {
