@@ -17,4 +17,4 @@
 - [Why should you become an OWASP Member?](https://youtu.be/RrUQYkzdaos)
 - [20:20 The History and Future of OWASP presented by Co-Founder Mark Curphey](https://www.youtube.com/watch?v=5a7LM2PJffo)
 
-* Leaders can contact the [Chapter Committee](mailto:chapter-committee@owasp.org) for additional assistance.
+* Leaders can contact the [OWASP Chapter Committee](mailto:chapter-committee@owasp.org) for additional assistance.
