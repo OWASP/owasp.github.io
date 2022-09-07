@@ -1,21 +1,11 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-    - name: OWASP 2022 Global AppSec AsiaPac Virtual Event
-      optional-text: <strong>Exhibitor and Sponsorship Opportunities - NOW available! Call for Moderators - now accepting applications for individuals fluent in both English and Japanese. Discounted rates for OWASP Members.<strong>
-      start-date: 2022-08-29
-      dates: August 29 - September 1, 2022 Singapore Time (SGT)
-      url: https://whova.com/web/S01MAxzRa49H60XWA6U3vkikTxPUTwLpY4t6Ro00Hx0%3D/
     - name: OWASP End of Summer Training
       optional-text: Register now for some of the hottest training courses OWASP has to offer!
       start-date: 2022-09-13
-      dates: September 13 - 14, 2022 (BST)
+      dates: September 13-14, 2022 (BST)
       url: https://www.eventbrite.com/e/owasp-2022-end-of-summer-virtual-training-tickets-376362348917
-    - name: OWASP September Webinar
-      optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes September 20.<strong>
-      start-date: 2022-09-22
-      dates: September 22-23, 2022 Eastern Daylight Time (EDT)
-      url: https://www.eventbrite.com/e/247416939727
     - name: OWASP October Webinar
       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes October 7.<strong>
       start-date: 2022-10-11
@@ -26,6 +16,11 @@
       dates: November 14-18, 2022 Pacific Standard Time (PST)
       url: https://sf.globalappsec.org/
       optional-text: Join us in-person in San Francisco for three days of training followed by two conference days with multiple tracks and an exhibit hall. Call for Papers and Call for Trainers are now open. Exhibitor opportunities are available.
+    - name: OWASP December Webinar
+      optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes November 30.<strong>
+      start-date: 2022-12-05
+      dates: December 5-6, 2022 Eastern Standard Time (EST)
+      url: https://www.eventbrite.com/e/247416939727
     - name: Happy Holidays Training
       optional-text: OWASP is pleased to bring you our Happy Holiday's Training. Don't miss this multi-day virtual developer training to retool and level-up. More details coming soon!
       start-date: 2022-12-12
@@ -62,16 +57,6 @@
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
-    - name: Sikkerhets Festivalen 2022
-      start-date: 2022-08-29
-      dates:  August 29, 2022 - August 31, 2022
-      url:  https://sikkerhetsfestivalen.no
-      optional-text:  Norway
-    - name: DevOps India Summit 2022
-      start-date: 2022-08-26
-      dates:  August 28, 2022
-      url:  https://devopsindiasummit.com/
-      optional-text: India
     - name:  sec4dev Conference & Bootcamp
       start-date:  2022-09-06
       dates:  September 6, 2022 - September 9, 2022
