@@ -810,7 +810,7 @@
         "name": "Dallas",
         "url": "https://owasp.org/www-chapter-dallas/",
         "created": "2019-09-12",
-        "updated": "2022-08-16",
+        "updated": "2022-09-10",
         "build": "built",
         "title": "OWASP Dallas",
         "level": "0",
@@ -5562,10 +5562,11 @@
         "updated": "2022-05-16",
         "build": "built",
         "title": "OWASP Theni",
-        "level": "layout: col-sidebar",
+        "level": "4",
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
+        "meetup-group": "owasp-theni",
         "meetings": 0
     },
     {
