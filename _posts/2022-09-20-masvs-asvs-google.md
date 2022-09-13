@@ -1,6 +1,6 @@
 ---
 
-date: 2022-09-12 00:00:00-0700
+date: 2022-09-20 00:00:00-0700
 categories: blog
 author: Josh Grossman
 author_image: /assets/images/people/josh_grossman_headshot.jpg
