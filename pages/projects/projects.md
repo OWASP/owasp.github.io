@@ -42,6 +42,7 @@ Thanks to the OWASP Integration Standards Project for mapping OWASP projects in 
 All OWASP tools, document, and code library projects are organized into the following categories:
 
 <strong>Flagship Projects:</strong> The OWASP Flagship designation is given to projects that have demonstrated strategic value to OWASP and application security as a whole.<br>
+<strong>Production Projects:</strong> OWASP Production projects are production-ready projects.<br>
 <strong>Lab Projects:</strong> OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.<br>
 <strong>Incubator Projects:</strong> OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
 
@@ -49,6 +50,7 @@ All OWASP tools, document, and code library projects are organized into the foll
     <h3>List of Projects by <a id="projects-level" class='active'>Level</a> or <a id="projects-type" class='inactive'>Type</a></h3>
     <div id="project-list-level" class='project-list'>
         {% assign fs_projects = site.data.projects | where:'level', '4' | where_exp: "project", "project.build != 'no pages'" %}
+        {% assign p_projects = site.data.projects | where:'level', '3.5' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign l_projects = site.data.projects | where:'level', '3' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign i_projects = site.data.projects | where:'level', '2' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign u_projects = site.data.projects | where:'level', '-1' | where_exp: "project", "project.build != 'no pages'" %}
@@ -57,6 +59,16 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% for project in fs_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
+        </ul>
+        <h3>Production Projects <img src='https://owasp.org/assets/images/common/owasp_level_production.svg' width='45px' alt='Production'></h3>
+        <ul>
+        {% if p_projects.size > 0 %}
+        {% for project in p_projects %}
+        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        {% endfor %}
+        {% else %}
+        <li>No projects in this category</li>
+        {%endif%}
         </ul>
         <h3>Lab Projects <img src='https://owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h3>
         <ul>
