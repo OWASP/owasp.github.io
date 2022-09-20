@@ -204,6 +204,7 @@
         "type": "",
         "region": "South America",
         "pitch": "More info soon...",
+        "meetup-group": "owasp-goiania-chapter",
         "meetings": 0
     },
     {
@@ -2147,6 +2148,20 @@
         "meetings": 0
     },
     {
+        "name": "Frankfurt",
+        "url": "https://owasp.org/www-chapter-frankfurt/",
+        "created": "2022-09-19",
+        "updated": "2022-09-19",
+        "build": "errored",
+        "title": "OWASP Frankfurt",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-frankfurt",
+        "meetings": 0
+    },
+    {
         "name": "Gaborone",
         "url": "https://owasp.org/www-chapter-gaborone/",
         "created": "2021-11-04",
@@ -2756,19 +2771,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-San-Fernando-Valley-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "San Salvador",
-        "url": "https://owasp.org/www-chapter-san-salvador/",
-        "created": "2022-08-19",
-        "updated": "2022-09-13",
-        "build": "built",
-        "title": "OWASP San Salvador",
-        "level": "-1",
-        "type": "layout: col-sidebar",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -4038,6 +4040,19 @@
         "meetings": 0
     },
     {
+        "name": "San Salvador",
+        "url": "https://owasp.org/www-chapter-san-salvador/",
+        "created": "2022-08-19",
+        "updated": "2022-09-13",
+        "build": "built",
+        "title": "OWASP San Salvador",
+        "level": "ayout: col-sidebar",
+        "type": "layout: col-sidebar",
+        "region": "Central America",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Tegucigalpa",
         "url": "https://owasp.org/www-chapter-tegucigalpa/",
         "created": "2019-09-12",
@@ -4112,7 +4127,7 @@
         "created": "2022-05-10",
         "updated": "2022-05-22",
         "build": "built",
-        "title": "OWASP Amrita School of Engineering-Chennai - Student Chapter",
+        "title": "OWASP Amrita School of Engineering - Chennai - Student Chapter",
         "level": "layout: col-sidebar",
         "type": "",
         "region": "Asia",
