@@ -3,6 +3,8 @@
 layout: full-width
 title: OWASP Membership Information & Benefits
 permalink: /membership/
+maintenance: true
+maintenance_message: Due to a required update to our systems, we are currently experiencing issues with our Membership portal, renewals, and joining. Thank you for your patience as we work to resolve the issues.
 
 ---
 
@@ -23,7 +25,11 @@ permalink: /membership/
   background: lightgray;
 }
 </style>
-
+{% if page.maintenance %}
+<br><br><br>
+{{ page.maintenance_message }}
+<br><br><br>
+{% else %}
 {% raw %}
 <div id="membership-app" style="margin: 0px;" v-cloak>
 
@@ -428,3 +434,4 @@ window.addEventListener('load', function () {
   })
 }, false)
 </script>
+{% endif %}
