@@ -2148,20 +2148,6 @@
         "meetings": 0
     },
     {
-        "name": "Frankfurt",
-        "url": "https://owasp.org/www-chapter-frankfurt/",
-        "created": "2022-09-19",
-        "updated": "2022-09-19",
-        "build": "errored",
-        "title": "OWASP Frankfurt",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-frankfurt",
-        "meetings": 0
-    },
-    {
         "name": "Gaborone",
         "url": "https://owasp.org/www-chapter-gaborone/",
         "created": "2021-11-04",
@@ -3354,6 +3340,20 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
+        "meetings": 0
+    },
+    {
+        "name": "Frankfurt",
+        "url": "https://owasp.org/www-chapter-frankfurt/",
+        "created": "2022-09-19",
+        "updated": "2022-09-19",
+        "build": "errored",
+        "title": "OWASP Frankfurt Chapter",
+        "level": "1",
+        "type": "layout: col-sidebar",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Frankfurt",
         "meetings": 0
     },
     {
@@ -4815,7 +4815,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2022-09-14",
+        "updated": "2022-09-23",
         "build": "built",
         "title": "OWASP Japan",
         "level": "0",
