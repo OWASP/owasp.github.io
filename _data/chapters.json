@@ -1123,6 +1123,7 @@
         "type": "",
         "region": "North America",
         "pitch": "More info soon...",
+        "meetup-group": "owasp-mexico-city-chapter",
         "meetings": 0
     },
     {
@@ -3346,11 +3347,11 @@
         "name": "Frankfurt",
         "url": "https://owasp.org/www-chapter-frankfurt/",
         "created": "2022-09-19",
-        "updated": "2022-09-19",
-        "build": "errored",
+        "updated": "2022-09-24",
+        "build": "built",
         "title": "OWASP Frankfurt Chapter",
-        "level": "1",
-        "type": "layout: col-sidebar",
+        "level": "3",
+        "type": "",
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Frankfurt",
