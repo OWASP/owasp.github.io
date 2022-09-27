@@ -54,13 +54,18 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign l_projects = site.data.projects | where:'level', '3' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign i_projects = site.data.projects | where:'level', '2' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign u_projects = site.data.projects | where:'level', '-1' | where_exp: "project", "project.build != 'no pages'" %}
-        <h3>Flagship Projects <img src='https://owasp.org/assets/images/common/owasp_level_flagship.svg' width='45px' alt='Flagship'></h3>
+        <p>
+        </p>
+        <h3>Flagship Projects <span class="fa-stack fa-2x"><i class="fas fa-circle fa-stack-2x" style="color:#2ADA08"></i><i class="fas fa-flag fa-stack-1x fa-inverse"></i></span></h3>
         <ul>
         {% for project in fs_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
-        <h3>Production Projects <img src='https://owasp.org/assets/images/common/owasp_level_production.svg' width='45px' alt='Production'></h3>
+        <h3>Production Projects <span class="fa-stack fa-2x">
+        <i class="fas fa-circle fa-stack-2x" style="color:#800080"></i>
+        <i class="fas fa-cog fa-stack-1x fa-inverse"></i>
+        </span></h3>
         <ul>
         {% if p_projects.size > 0 %}
         {% for project in p_projects %}
@@ -70,13 +75,19 @@ All OWASP tools, document, and code library projects are organized into the foll
         <li>No projects in this category</li>
         {%endif%}
         </ul>
-        <h3>Lab Projects <img src='https://owasp.org/assets/images/common/owasp_level_labs.svg' width='45px' alt='Lab'></h3>
+        <h3>Lab Projects <span class="fa-stack fa-2x">
+        <i class="fas fa-circle fa-stack-2x" style="color:#FFA500"></i>
+        <i class="fas fa-flask fa-stack-1x fa-inverse"></i>
+        </span></h3>
         <ul>
         {% for project in l_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
-        <h3>Incubator Projects <img src='https://owasp.org/assets/images/common/owasp_level_incubator.svg' width='45px' alt='Incubator'></h3>
+        <h3>Incubator Projects <span class="fa-stack fa-2x">
+        <i class="fas fa-circle fa-stack-2x" style="color:#53AAE5"></i>
+        <i class="fas fa-egg fa-stack-1x fa-inverse"></i>
+        </span></h3>
         <ul>
         {% for project in i_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
