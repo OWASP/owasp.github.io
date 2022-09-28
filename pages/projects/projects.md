@@ -64,7 +64,7 @@ All OWASP tools, document, and code library projects are organized into the foll
         </ul>
         <h3>Production Projects <span class="fa-stack fa-2x">
         <i class="fas fa-circle fa-stack-2x" style="color:#800080"></i>
-        <i class="fas fa-cog fa-stack-1x fa-inverse"></i>
+        <i class="fas fa-city fa-stack-1x fa-inverse"></i>
         </span></h3>
         <ul>
         {% if p_projects.size > 0 %}
