@@ -1860,19 +1860,6 @@
         "meetings": 0
     },
     {
-        "name": "Berlin",
-        "url": "https://owasp.org/www-chapter-berlin/",
-        "created": "2022-01-26",
-        "updated": "2022-01-26",
-        "build": "built",
-        "title": "OWASP Berlin",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Bikaner",
         "url": "https://owasp.org/www-chapter-bikaner/",
         "created": "2019-09-12",
@@ -3132,6 +3119,20 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "belgium-owasp-meetup-group",
+        "meetings": 0
+    },
+    {
+        "name": "Berlin",
+        "url": "https://owasp.org/www-chapter-berlin/",
+        "created": "2022-01-26",
+        "updated": "2022-01-26",
+        "build": "built",
+        "title": "OWASP Berlin",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "de-DE/berlin-devsecops-meetup-group/",
         "meetings": 0
     },
     {
