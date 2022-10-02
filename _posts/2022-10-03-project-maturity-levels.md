@@ -67,4 +67,4 @@ A significant aspect of [the promotion checklist](https://owasp.org/www-committe
 
 ---
 
-> The Project Committee would love to hear your feedback and ideas for the maturity levels and good practices. Please reach out to us [via email](mailto:project-committee@owasp.org) or the [`#project-committtee`](https://owasp.slack.com/archives/C01930CGW23) Slack channel!  
+> The Project Committee would love to hear your feedback and ideas for the maturity levels and good practices. Please reach out to us [via email](mailto:project-committee@owasp.org) or the [`#project-committee`](https://owasp.slack.com/archives/C01930CGW23) Slack channel!  
