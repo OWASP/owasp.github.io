@@ -63,7 +63,7 @@ Strategic promotions to _Flagship_ level can be proposed to the Project Committe
 
 ## OWASP Project Good Practices
 
-A significant aspect of [the promotion checklist](https://owasp.org/www-committee-project/#div-promotions) is how well a project considers the recently published [OWASP Project Good Practices](https://owasp.org/www-committee-project/#div-practice). These currently include advise on vendor neutrality, community support, website upkeep, and usage of GitHub. This Good Practices checklist is supposed to be extended over time and as frequently as needed. The goal is to provide practical guidance and relevant practices for projects, rather than a high-level ruleset. Leaders should still assume, that an abstracted form of these practices will one day make their way into the [Project Policy](https://owasp.org/www-policy/operational/projects).
+A significant aspect of [the promotion checklist](https://owasp.org/www-committee-project/#div-promotions) is how well a project considers the recently published [OWASP Project Good Practices](https://owasp.org/www-committee-project/#div-practice). These currently include advice on vendor neutrality, community support, website upkeep, and usage of GitHub. This Good Practices checklist is supposed to be extended over time and as frequently as needed. The goal is to provide practical guidance and relevant practices for projects, rather than a high-level ruleset. Leaders should still assume, that an abstracted form of these practices will one day make their way into the [Project Policy](https://owasp.org/www-policy/operational/projects).
 
 ---
 
