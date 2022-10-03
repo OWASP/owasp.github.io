@@ -16,7 +16,7 @@ In order to distinguish [projects](https://owasp.org/projects/) more clearly ove
 
 ## OWASP Project Maturity Levels
 
-All new OWASP projects start at the _Incubator_ level, on which they are considered experimental, proof-of-concept, work-in-progress or sometimes just an idea. Once proven themselves with a stable release, introduction of good open source development & maintenance practices and being received positively by the community, projects would request promotion to _Lab_ level. Up until now, this was the end of the line for many projects, as the _Flagship_ level has been scarecely awared to projects of strategic value to the OWASP mission. Ending up on a level called _Lab_ felt somewhat unnatural for very mature and active projects. Entering: _Production_ level.
+All new OWASP projects start at the _Incubator_ level, on which they are considered experimental, proof-of-concept, work-in-progress, or sometimes just an idea. Once proven themselves with a stable release, introduction of good open source development & maintenance practices and being received positively by the community, projects would request promotion to _Lab_ level. Up until now, this was the end of the line for many projects, as the _Flagship_ level has been scarecely awared to projects of strategic value to the OWASP mission. Ending up on a level called _Lab_ felt somewhat unnatural for very mature and active projects. Entering: _Production_ level.
 
 <p>
     <span class="fa-stack fa-2x">
@@ -63,7 +63,7 @@ Strategic promotions to _Flagship_ level can be proposed to the Project Committe
 
 ## OWASP Project Good Practices
 
-A significant aspect of [the promotion checklist](https://owasp.org/www-committee-project/#div-promotions) is how well a project considers the recently published [OWASP Project Good Practices](https://owasp.org/www-committee-project/#div-practice). These currently include advise on vendor neutrality, community support, website upkeep and usage of GitHub. This Good Practices checklist is supposed to be extended over time and as frequently as needed. The goal is to provide practical guidance and relevant practices for projects, rather than a high-level ruleset. Leaders should still assume, that an abstracted form of these practices will one day make their way into the [Project Policy](https://owasp.org/www-policy/operational/projects).
+A significant aspect of [the promotion checklist](https://owasp.org/www-committee-project/#div-promotions) is how well a project considers the recently published [OWASP Project Good Practices](https://owasp.org/www-committee-project/#div-practice). These currently include advise on vendor neutrality, community support, website upkeep, and usage of GitHub. This Good Practices checklist is supposed to be extended over time and as frequently as needed. The goal is to provide practical guidance and relevant practices for projects, rather than a high-level ruleset. Leaders should still assume, that an abstracted form of these practices will one day make their way into the [Project Policy](https://owasp.org/www-policy/operational/projects).
 
 ---
 
