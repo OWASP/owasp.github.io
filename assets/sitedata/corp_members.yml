@@ -1007,7 +1007,7 @@
   name: CREST International
   sortname: CREST International
   membertype: 3
-  image: /assets/images/corp-member-logo/CRESTInternational.png
+  image: /assets/images/corp-member-logo/New_CREST_2022.jpeg
   url: https://www.crest-approved.org/
   description: CREST is an international not-for-profit, membership body representing the technical cyber security industry. Our vision is to build trust in the digital world by raising professional standards and delivering measurable quality assurance for the global cyber security industry. Our mission is to build capability, capacity, consistency and community in the global cyber security industry. We continually drive improvements in our accreditation and professional certification programmes for the benefit of stakeholders. CREST has almost 300 member companies internationally and engages and partners with governments, regulators, not-for-profit and corporate organizations around the world to help realise our vision.
 - member: true
@@ -1109,3 +1109,20 @@
   image:  /assets/images/corp-member-logo/cequence_logosm.svg
   url: 	https://www.cequence.ai
   description: Organizations that have fully embraced an API-first methodology or are just getting started, trust Cequence Security to protect their APIs and scale their business with the only solution that addresses all phases of the API protection lifecycle. The Cequence Unified API Protection (UAP) solution provides runtime API visibility, security risk monitoring, and patented behavioral fingerprinting technology to consistently detect and protect against ever evolving online attacks.
+- member: true
+  sponsor: -1
+  name: Check Point
+  sortname: Check Point
+  membertype: 4
+  image: /assets/images/corp-member-logo/Check_Point.png
+  url: http://www.checkpoint.com
+  description: Check Point Software Technologies Ltd. (www.checkpoint.com) is a leading provider of cyber security solutions to governments and corporate enterprises globally. Its solutions protect customers from 5th generation cyber-attacks with an industry leading catch rate of malware, ransomware and other types of attacks. Check Point offers multilevel security architecture, “Infinity” Total Protection with Gen V advanced threat prevention, which defends enterprises’ cloud, network and mobile device held information. Check Point provides the most comprehensive and intuitive one point of control security management system. Check Point protects over 100,000 organizations of all sizes.
+- member: true
+  sponsor: -1
+  name: Ubiq Security, Inc.
+  sortname: Ubiq Security, Inc.
+  membertype: 4
+  image: /assets/images/corp-member-logo/Ubiq_logo.png
+  url: http://ubiqsecurity.com
+  description: Ubiq is an API-based application-layer data encryption as code (SaaS) platform that enables development, security, and data protection teams to mitigate the risk of sensitive data theft and eliminate the gap left wide open by most at-rest encryption solutions, by enabling them to encrypt data directly inside of the application in a few lines of code and 2 API calls. Ubiq empowers teams to reduce the risk of data theft, free up precious resources, and build compliant and secure-by-design applications.
+  
