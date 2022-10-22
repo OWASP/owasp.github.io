@@ -2521,19 +2521,6 @@
         "meetings": 0
     },
     {
-        "name": "Maulana Azad National Institute Of Technology",
-        "url": "https://owasp.org/www-chapter-maulana-azad-national-institute-of-technology/",
-        "created": "2022-09-14",
-        "updated": "2022-09-28",
-        "build": "built",
-        "title": "OWASP Maulana Azad National Institute of Technology, Bhopal",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetings": 0
-    },
-    {
         "name": "Memphis",
         "url": "https://owasp.org/www-chapter-memphis/",
         "created": "2019-09-12",
@@ -5156,6 +5143,19 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-makaut",
+        "meetings": 0
+    },
+    {
+        "name": "Maulana Azad National Institute Of Technology",
+        "url": "https://owasp.org/www-chapter-maulana-azad-national-institute-of-technology/",
+        "created": "2022-09-14",
+        "updated": "2022-09-28",
+        "build": "built",
+        "title": "OWASP Maulana Azad National Institute of Technology, Bhopal",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
