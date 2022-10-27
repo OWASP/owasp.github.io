@@ -1021,7 +1021,7 @@
         "url": "https://owasp.org/www-chapter-kansas-city/",
         "created": "2019-09-12",
         "updated": "2022-06-30",
-        "build": "built",
+        "build": "errored",
         "title": "OWASP Kansas City",
         "level": "0",
         "type": "",
@@ -2719,6 +2719,19 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "owaspportlouis",
+        "meetings": 0
+    },
+    {
+        "name": "Queretaro",
+        "url": "https://owasp.org/www-chapter-queretaro/",
+        "created": "2022-10-26",
+        "updated": "2022-10-26",
+        "build": "built",
+        "title": "OWASP Queretaro",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
