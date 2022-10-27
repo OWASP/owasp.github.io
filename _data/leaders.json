@@ -287,6 +287,13 @@
         "group_url": "https://owasp.org/www-chapter-belgium/"
     },
     {
+        "name": "Stella Dineva",
+        "email": "",
+        "group": "OWASP Belgium",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-belgium/"
+    },
+    {
         "name": "David Mathy",
         "email": "david.mathy@owasp.org",
         "group": "OWASP Belgium",
@@ -3547,6 +3554,20 @@
         "group": "OWASP Quebec City",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-quebec-city/"
+    },
+    {
+        "name": "Victor Ruiz",
+        "email": "victor.ruiz@owasp.org",
+        "group": "OWASP Queretaro",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-queretaro/"
+    },
+    {
+        "name": "Aimee Ruiz",
+        "email": "aimee.ruiz@owasp.org",
+        "group": "OWASP Queretaro",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-queretaro/"
     },
     {
         "name": "Ramiro Pulgar",
@@ -7418,13 +7439,6 @@
         "group": "OWASP Vulnerable Container Hub",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-vulnerable-container-hub/"
-    },
-    {
-        "name": "Anil Yelken",
-        "email": "anilbaranyelken@gmail.com",
-        "group": "OWASP Vulnerable Flask App",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-vulnerable-flask-app/"
     },
     {
         "name": "Fatih Ã‡elik",
