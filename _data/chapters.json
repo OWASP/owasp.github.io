@@ -1489,20 +1489,6 @@
         "meetings": 0
     },
     {
-        "name": "San Antonio",
-        "url": "https://owasp.org/www-chapter-san-antonio/",
-        "created": "2019-09-12",
-        "updated": "2022-01-04",
-        "build": "no pages",
-        "title": "OWASP San Antonio",
-        "level": "3",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-San-Antonio",
-        "meetings": 0
-    },
-    {
         "name": "San Diego",
         "url": "https://owasp.org/www-chapter-san-diego/",
         "created": "2019-09-12",
@@ -2137,6 +2123,19 @@
         "meetings": 0
     },
     {
+        "name": "Dubai",
+        "url": "https://owasp.org/www-chapter-dubai/",
+        "created": "2020-06-16",
+        "updated": "2021-11-12",
+        "build": "built",
+        "title": "OWASP Dubai",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "East Sweden",
         "url": "https://owasp.org/www-chapter-east-sweden/",
         "created": "2019-09-12",
@@ -2695,6 +2694,19 @@
         "meetings": 0
     },
     {
+        "name": "Peterborough",
+        "url": "https://owasp.org/www-chapter-peterborough/",
+        "created": "2022-10-31",
+        "updated": "2022-10-31",
+        "build": "built",
+        "title": "OWASP Peterborough",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetings": 0
+    },
+    {
         "name": "Phoenix",
         "url": "https://owasp.org/www-chapter-phoenix/",
         "created": "2019-09-12",
@@ -2773,6 +2785,20 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "owasp-salem-chapter",
+        "meetings": 0
+    },
+    {
+        "name": "San Antonio",
+        "url": "https://owasp.org/www-chapter-san-antonio/",
+        "created": "2019-09-12",
+        "updated": "2022-10-31",
+        "build": "built",
+        "title": "OWASP San Antonio",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "meetup-group-cubhvbpi",
         "meetings": 0
     },
     {
@@ -4167,7 +4193,7 @@
         "name": "Ahmedabad",
         "url": "https://owasp.org/www-chapter-ahmedabad/",
         "created": "2020-01-28",
-        "updated": "2022-01-07",
+        "updated": "2022-10-31",
         "build": "built",
         "title": "OWASP Ahmedabad",
         "level": "layout: col-sidebar",
@@ -4537,19 +4563,6 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Doha-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Dubai",
-        "url": "https://owasp.org/www-chapter-dubai/",
-        "created": "2020-06-16",
-        "updated": "2021-11-12",
-        "build": "no pages",
-        "title": "OWASP Dubai",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "Asia",
-        "pitch": "More info soon...",
         "meetings": 0
     },
     {
