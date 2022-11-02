@@ -1489,6 +1489,20 @@
         "meetings": 0
     },
     {
+        "name": "San Antonio",
+        "url": "https://owasp.org/www-chapter-san-antonio/",
+        "created": "2019-09-12",
+        "updated": "2022-10-31",
+        "build": "built",
+        "title": "OWASP San Antonio",
+        "level": "0",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-sanantonio",
+        "meetings": 0
+    },
+    {
         "name": "San Diego",
         "url": "https://owasp.org/www-chapter-san-diego/",
         "created": "2019-09-12",
@@ -2107,6 +2121,19 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Detroit-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Dharma Samaj College",
+        "url": "https://owasp.org/www-chapter-dharma-samaj-college/",
+        "created": "2022-11-01",
+        "updated": "2022-11-01",
+        "build": "built",
+        "title": "OWASP Dharma Samaj College",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
         "meetings": 0
     },
     {
@@ -2785,20 +2812,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "owasp-salem-chapter",
-        "meetings": 0
-    },
-    {
-        "name": "San Antonio",
-        "url": "https://owasp.org/www-chapter-san-antonio/",
-        "created": "2019-09-12",
-        "updated": "2022-10-31",
-        "build": "built",
-        "title": "OWASP San Antonio",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "meetup-group-cubhvbpi",
         "meetings": 0
     },
     {
@@ -4306,7 +4319,7 @@
         "url": "https://owasp.org/www-chapter-berhampore/",
         "created": "2021-09-01",
         "updated": "2021-11-02",
-        "build": "built",
+        "build": "no pages",
         "title": "OWASP Berhampore",
         "level": "3",
         "type": "layout: col-sidebar",
@@ -4858,8 +4871,8 @@
         "name": "Jamshedpur",
         "url": "https://owasp.org/www-chapter-jamshedpur/",
         "created": "2021-08-23",
-        "updated": "2021-09-07",
-        "build": "built",
+        "updated": "2022-11-01",
+        "build": "no pages",
         "title": "OWASP Jamshedpur",
         "level": "layout: col-sidebar",
         "type": "",
