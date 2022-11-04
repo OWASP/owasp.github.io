@@ -754,17 +754,9 @@
   description: "cyllective AG is an independent consulting and engineering firm in the IT security sector. With a strong background in offensive security, technical security audits are a cornerstone of the company’s services. While the main practices lie in offensive security-testing, cyllective is a holistic security company - offering many high-quality security services to customers world wide. cyllective is a privately held 'security boutique' - with moderate size, exquisite quality, and supreme customer satisfaction as our primary goals."
 - member: true
   sponsor: -1
-  name: Oxeye
-  sortname: Oxeye
-  membertype:
-  image: /assets/images/corp-member-logo/oxeye_rgb_logo__light.png
-  url: 	https://www.oxeye.io/
-  description: Oxeye provides a cloud-native application security testing solution that is designed to overcome the challenges imposed by the complex nature of modern architectures. Oxeye disrupts traditional application security testing (AST) approaches by offering a contextual, effortless, and comprehensive solution to ensure no vulnerable code ever reaches production. Oxeye helps to shift-left security while accelerating development cycles, reducing friction, and eliminating risks. Leverage our advanced vulnerable-flow tracing technology to identify and resolve code vulnerabilities in your applications, services, APIs, and open-source libraries.
-- member: true
-  sponsor: -1
   name: Barracuda Networks
   sortname: Barracuda Networks
-  membertype:
+  membertype: 
   image: /assets/images/corp-member-logo/barracuda_primary_strapline_300x90.png
   url: https://www.barracuda.com/waf-as-a-service 
   description: 	We build enterprise-grade, cloud-ready security solutions. More than 200,000 global customers trust Barracuda to safeguard their employees, data, and applications from a wide range of threats. Barracuda provides easy, comprehensive and affordable solutions for email protection, application and cloud security, network security and data protection. We are continually innovating to deliver tomorrow’s security technology, today.
@@ -1125,4 +1117,27 @@
   image: /assets/images/corp-member-logo/Ubiq_logo.png
   url: http://ubiqsecurity.com
   description: Ubiq is an API-based application-layer data encryption as code (SaaS) platform that enables development, security, and data protection teams to mitigate the risk of sensitive data theft and eliminate the gap left wide open by most at-rest encryption solutions, by enabling them to encrypt data directly inside of the application in a few lines of code and 2 API calls. Ubiq empowers teams to reduce the risk of data theft, free up precious resources, and build compliant and secure-by-design applications.
-  
+- member: true
+  sponsor: -1
+  name: Oxeye
+  sortname: Oxeye
+  membertype: 4
+  image: /assets/images/corp-member-logo/oxeye_rgb_logo__light_1.png
+  url: http://www.oxeye.io
+  description: Noise Cancellation for Application Security. Our cloud-native application security solution eliminates noise so your team can focus on building.
+- member: true
+  sponsor: -1
+  name: 42Crunch
+  sortname: 42Crunch
+  membertype: 3
+  image: /assets/images/corp-member-logo/42Crunch.png
+  url: http://www.42crunch.com
+  description: 42Crunch provides continuous API security to protect the digital business. Our unique developer-first API security platform enables developers to build and automate security into their API development pipeline and gives security teams full visibility and control of security policy enforcement throughout the API lifecycle. Deployed by Global 2500 enterprises and over 500,000 developers worldwide, 42Crunch enables a seamless DevSecOps experience to reduce governance costs and accelerate the rollout of secure APIs. Visit https://42crunch.com to learn more and sign up to the industry’s #1 online API Security community newsletter at https://APIsecurity.io.
+- member: true
+  sponsor: -1
+  name:
+  sortname:
+  membertype:
+  image:
+  url:
+  description:
