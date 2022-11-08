@@ -2716,20 +2716,6 @@
         "group_url": "https://owasp.org/www-chapter-maulana-azad-national-institute-of-technology/"
     },
     {
-        "name": "Manoj Balasubramanian",
-        "email": "manoj.balasubramanian@owasp.org",
-        "group": "OWASP Mayiladuthurai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-mayiladuthurai/"
-    },
-    {
-        "name": "Priyanka Aachipillai",
-        "email": "priyanka.aachilai@owasp.org",
-        "group": "OWASP Mayiladuthurai",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-mayiladuthurai/"
-    },
-    {
         "name": "Darwin Algarin",
         "email": "darwin.algarin@owasp.org",
         "group": "OWASP Medellin",
@@ -3603,20 +3589,6 @@
         "group": "OWASP Quebec City",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-quebec-city/"
-    },
-    {
-        "name": "Victor Ruiz",
-        "email": "victor.ruiz@owasp.org",
-        "group": "OWASP Queretaro",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-queretaro/"
-    },
-    {
-        "name": "Aimee Ruiz",
-        "email": "aimee.ruiz@owasp.org",
-        "group": "OWASP Queretaro",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-queretaro/"
     },
     {
         "name": "Ramiro Pulgar",
@@ -4884,13 +4856,6 @@
         "group": "OWASP Vilnius",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-vilnius/"
-    },
-    {
-        "name": "Gustavo Nieves Arreaza",
-        "email": "gustavo.nievesarreaza@owasp.org",
-        "group": "OWASP Vina Del Mar",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-vina-del-mar/"
     },
     {
         "name": "Rakesh Rajendran",
@@ -7026,6 +6991,20 @@
         "group": "OWASP Seeker",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-seeker/"
+    },
+    {
+        "name": "Nikola Milosevic",
+        "email": "nikola.milosevic@owasp.org",
+        "group": "OWASP Seraphimdroid",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-seraphimdroid/"
+    },
+    {
+        "name": "Kartik Kohli",
+        "email": "kartik.kohli@owasp.org",
+        "group": "OWASP Seraphimdroid",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-seraphimdroid/"
     },
     {
         "name": "Tal Melamed",
