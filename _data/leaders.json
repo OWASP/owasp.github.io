@@ -518,34 +518,6 @@
         "group_url": "https://owasp.org/www-chapter-boulder/"
     },
     {
-        "name": "Soumik Pyne ",
-        "email": "soumik.pyne@owasp.org",
-        "group": "OWASP Brainware University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brainware-university/"
-    },
-    {
-        "name": "Akash Majumder ",
-        "email": "akash.majumder@owasp.org",
-        "group": "OWASP Brainware University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brainware-university/"
-    },
-    {
-        "name": "Suvankar Sen ",
-        "email": "suvankar.sen@owasp.org",
-        "group": "OWASP Brainware University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brainware-university/"
-    },
-    {
-        "name": "Mannu Priya",
-        "email": "mannu.priya@owasp.org",
-        "group": "OWASP Brainware University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brainware-university/"
-    },
-    {
         "name": "Titus Balan",
         "email": "titus.balan@owasp.org",
         "group": "OWASP Brasov",
@@ -2000,13 +1972,6 @@
         "group": "OWASP Italy",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-italy/"
-    },
-    {
-        "name": "Larry Franklin",
-        "email": "larry.franklin@owasp.org",
-        "group": "OWASP Jacksonville",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-jacksonville/"
     },
     {
         "name": "Mark King",
@@ -5257,6 +5222,13 @@
         "group_url": "https://owasp.org/www-project-application-security-hardening/"
     },
     {
+        "name": "Thomas Moore",
+        "email": "tmoore@signalhill.tech",
+        "group": "OWASP Application Security Monitoring Standard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-application-security-monitoring-standard/"
+    },
+    {
         "name": "Josh Wilson",
         "email": "josh.wilson@owasp.org",
         "group": "OWASP Application Security Playbook",
@@ -5871,6 +5843,13 @@
         "group": "OWASP Docker Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-docker-top-10/"
+    },
+    {
+        "name": "Paul Schwarzenberger",
+        "email": "paul@celidor.net",
+        "group": "OWASP Domain Protect",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-domain-protect/"
     },
     {
         "name": "Mohammad Hossein Golhassani",
@@ -7103,6 +7082,13 @@
         "group": "OWASP Software Composition Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-software-composition-security/"
+    },
+    {
+        "name": "Nadarajah Himasuthan",
+        "email": "nadarajah.himasuthan@owasp.org",
+        "group": "OWASP Software Pre-Execution Security Review",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-software-pre-execution-security-review/"
     },
     {
         "name": "Matteo Meucci",
