@@ -95,14 +95,17 @@ Jump to
 
 ### Inactive Chapters 
 <ul>
+{% assign inactive = 0 %}
 {% assign chapters = site.data.chapters | sort: 'title' %}
 {% for chapter in chapters %}
   {% if chapter.build == 'no pages' %}
     <li>{{ chapter.title }}</li>
+    {% assign inactive = inactive | plus: 1 %}
   {% endif %}
 {% endfor %}
 </ul>
-
+Total: {{ inactive }}
+    
 ---
 <section id='last-update'></section>
 
