@@ -2786,20 +2786,6 @@
         "group_url": "https://owasp.org/www-chapter-minneapolis-st-paul/"
     },
     {
-        "name": "Julien Richard",
-        "email": "julien.richard@owasp.org",
-        "group": "OWASP Moncton",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-moncton/"
-    },
-    {
-        "name": "Jason Sheehan",
-        "email": "jason.sheehan@owasp.org",
-        "group": "OWASP Moncton",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-moncton/"
-    },
-    {
         "name": "Ruben Fernandez",
         "email": "ruben.fernandez@owasp.org",
         "group": "OWASP Monterrey",
@@ -3739,14 +3725,14 @@
     },
     {
         "name": "Aadish Jain",
-        "email": "",
+        "email": "aadish.jain@owasp.org",
         "group": "OWASP Sagar Institute of Science and Technology (SISTec)-Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sagar-institute-of-science-and-technology/"
     },
     {
         "name": "Bhavana Gupta",
-        "email": "",
+        "email": "bhavana.gupta@owasp.org",
         "group": "OWASP Sagar Institute of Science and Technology (SISTec)-Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sagar-institute-of-science-and-technology/"
@@ -5168,6 +5154,13 @@
     {
         "name": "Inon Shkedy",
         "email": "inon.shkedy@owasp.org",
+        "group": "OWASP API Security Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-api-security/"
+    },
+    {
+        "name": "Paulo Silva",
+        "email": "paulo.silva@owasp.org",
         "group": "OWASP API Security Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-api-security/"
