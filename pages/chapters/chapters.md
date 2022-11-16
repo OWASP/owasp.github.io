@@ -55,7 +55,7 @@ Chapter pages on this site have general information and leader contact info. Loc
 {% for chapter in site.data.chapters %}
     {% assign in_region = false %}
     {% for region in site.data.supported_regions %}
-        {% if chapter.region == region.region and chapter.build %}
+        {% if chapter.region == region.region and chapter.build or chapter.region == 'Needs Website Update'%}
             {% assign in_region = true %}
         {% endif %}
     {% endfor %}
