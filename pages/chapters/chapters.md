@@ -53,13 +53,13 @@ Chapter pages on this site have general information and leader contact info. Loc
 
 ## Chapters in Unsupported Regions
 {% for chapter in site.data.chapters %}
-    {% assign in_region = False %}
+    {% assign in_region = false %}
     {% for region in site.data.supported_regions %}
         {% if chapter.region == region.region and chapter.build %}
-            {% assign in_region = True %}
+            {% assign in_region = true %}
         {% endif %}
     {% endfor %}
-    {%- if not in_region -%}
+    {%- if in_region == false -%}
         - [{{chapter.title}}]({{chapter.url}}) in {{ chapter.region }}
     {% endif %}
 {% endfor %}
