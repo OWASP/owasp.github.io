@@ -59,7 +59,7 @@ Chapter pages on this site have general information and leader contact info. Loc
             {% assign in_region = True %}
         {% endif %}
     {% endfor %}
-    {%- if in_region == False -%}
+    {%- if not in_region -%}
         - [{{chapter.title}}]({{chapter.url}}) in {{ chapter.region }}
     {% endif %}
 {% endfor %}
