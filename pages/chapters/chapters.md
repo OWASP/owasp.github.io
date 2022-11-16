@@ -61,5 +61,5 @@ Chapter pages on this site have general information and leader contact info. Loc
     {% endfor %}
     {%- if in_region == False -%}
 - [chapter.title](chapter.url)
-{% endfor %}
     {% endif %}
+{% endfor %}
