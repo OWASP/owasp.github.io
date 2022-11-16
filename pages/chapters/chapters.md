@@ -55,11 +55,11 @@ Chapter pages on this site have general information and leader contact info. Loc
 {% for chapter in site.data.chapters %}
     {% assign in_region = False %}
     {% for region in site.data.supported_regions %}
-        {% if chapter.region == region.region %}
+        {% if chapter.region == region.region and chapter.build %}
             {% assign in_region = True %}
         {% endif %}
     {% endfor %}
     {%- if in_region == False -%}
-- [chapter.title](chapter.url)
+        - [{{chapter.title}}]({{chapter.url}}) in {{ chapter.region {{
     {% endif %}
 {% endfor %}
