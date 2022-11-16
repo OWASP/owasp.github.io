@@ -34,18 +34,32 @@ Chapter pages on this site have general information and leader contact info. Loc
 <div class='chapters-list'>
     {% assign regions = site.data.supported_regions %}
     {% for region in regions %}
+        {% assign rcount = 0 %}
         <div class="region">
             <h4><a name="{{ region.region | remove: " " }}"></a>{{ region.region }}</h4>
             <ul>
             {% for chapter in site.data.chapters %}
                 {% if chapter.region == region.region and chapter.build != 'no pages'%}
+                {% assign rcount = rcount | plus: 1 %}
                     <li><a href='{{ chapter.url }}'>{{ chapter.title }}</a></li>
                 {% endif %}
             {% endfor %}
             </ul>
+            Total: {{rcount}}
         </div>
     {% endfor %}
 </div>
 
 
 ## Chapters in Unsupported Regions
+{% for chapter in site.data.chapters %}
+    {% assign in_region = False %}
+    {% for region in site.data.supported_regions %}
+        {% if chapter.region == region.region %}
+            {% assign in_region = True %}
+        {% endif %}
+    {% endfor %}
+    {%- if in_region == False -%}
+- [chapter.title](chapter.url)
+{% endfor %}
+    {% endif %}
