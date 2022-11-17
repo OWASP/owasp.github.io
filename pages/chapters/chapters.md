@@ -52,14 +52,16 @@ Chapter pages on this site have general information and leader contact info. Loc
 
 
 ## Chapters in Unsupported Regions
+<ul>
 {% for chapter in site.data.chapters %}
     {% assign in_region = false %}
     {% for region in site.data.supported_regions %}
-        {% if chapter.region == region.region and chapter.build or chapter.region == 'Needs Website Update'%}
+        {% if (chapter.region == region.region and chapter.build) or chapter.region == "Needs Website Update"%}
             {% assign in_region = true %}
         {% endif %}
     {% endfor %}
     {%- if in_region == false -%}
-        - [{{chapter.title}}]({{chapter.url}}) in {{ chapter.region }}
+    <li><a href={{chapter.url}}>{{chapter.title}}</a> in {{ chapter.region }}</li>
     {% endif %}
 {% endfor %}
+</ul>
