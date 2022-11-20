@@ -35,8 +35,8 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 
 ## Operations
 - [Foundational Staff](/corporate)
-- [Operating Plan for 2020](/www-staff/operating-plan/2020)
-- [Budget for 2020](/www-staff/budget/2020)
+- [Operating Plan for 2022](/www-staff/operating-plan/2022/)
+- [Budget for 2022](/www-staff/budget/2022)
 - [Staff Projects & Work plans](/www-staff)
 
 ## Code of Conduct
