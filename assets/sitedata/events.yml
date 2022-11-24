@@ -1,11 +1,6 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-    - name: OWASP 2022 Global AppSec San Francisco
-      start-date: 2022-11-14
-      dates: November 14-18, 2022 Pacific Standard Time (PST)
-      url: https://sf.globalappsec.org/
-      optional-text: Join us in-person in San Francisco for three days of training followed by two conference days with multiple tracks and an exhibit hall. Call for Papers and Call for Trainers are now open. Exhibitor opportunities are available.
     - name: OWASP December Webinar
       optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes November 30.<strong>
       start-date: 2022-12-05
@@ -19,14 +14,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP Italy Day
-      start-date: 2022-09-30
-      dates: September 30, 2022
-      url:
-    - name: OWASP 2022 LASCON
-      start-date: 2022-10-25
-      dates: October 25-28, 2022
-      url: https://lascon.org/
     - name: OWASP 2023 SnowFROC 
       start-date: 2023-03-02
       dates: March 2, 2023
@@ -35,10 +22,14 @@
       start-date: 2023-04-01
       dates: April 1, 2023
       url:
+    - name: AppSec Days Germany
+      start-date: 2023-06-05
+      dates: June 5-6, 2023
+      url: https://god.owasp.de/2023/
     - name: AppSec Days Pacific Northwest
       start-date: 2023-06-10
       dates: June 10, 2023
-      url: 
+      url: https://www.appsecpnw.org/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
