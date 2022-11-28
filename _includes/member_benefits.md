@@ -7,7 +7,8 @@
         <li>A vote in our OWASP Global Board elections</li>
 	     <li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
         <li>Free access to an application security posture platform with <a href="https://appsecphoenix.cloud/signup/owasp">AppSecPhoenix Community Edition</a></li>
-	<li>Get your Security Journey Belt Certification for OWASP® Core Concepts at <a href="https://owasp.securityjourney.com">Security Journey</a></li>
+	      <li>Get your Security Journey Belt Certification for OWASP® Core Concepts at <a href="https://owasp.securityjourney.com">Security Journey</a></li>
+        <li>Access the <a href="https://dashboard.ubiqsecurity.com/">Ubiq Platform</a>, an easy-to-use, developer-first encryption-as-code platform.</li>
       	<li>Networking and directory access</li>
         <li>Flexible online learning discounts</li>
         <li>Professional mentoring programs</li>
