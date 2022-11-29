@@ -60,7 +60,7 @@ Chapter pages on this site have general information and leader contact info. Loc
             {% assign in_region = true %}
         {% endif %}
     {% endfor %}
-    {%- if in_region == false -%}
+    {%- if in_region == false and chapter.build != 'no pages' -%}
     <li><a href="{{chapter.url}}">{{chapter.title}}</a> in {{ chapter.region }}</li>
     {% endif %}
 {% endfor %}
