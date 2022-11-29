@@ -175,6 +175,27 @@
         "group_url": "https://owasp.org/www-chapter-austin/"
     },
     {
+        "name": "Sabuhi Safarov",
+        "email": "sabuhi.safarov@owasp.org",
+        "group": "OWASP Baku",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-baku/"
+    },
+    {
+        "name": "Aghadadash Guliyev",
+        "email": "dadash.guliyev@owasp.org",
+        "group": "OWASP Baku",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-baku/"
+    },
+    {
+        "name": "Azar Alili",
+        "email": "azar.alili@owasp.org",
+        "group": "OWASP Baku",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-baku/"
+    },
+    {
         "name": "Vandana Verma",
         "email": "vandana.verma@owasp.org",
         "group": "OWASP Bangalore",
@@ -882,27 +903,6 @@
         "group_url": "https://owasp.org/www-chapter-copenhagen/"
     },
     {
-        "name": "Darren Fitzpatrick",
-        "email": "darren.fitzpatrick@owasp.org",
-        "group": "OWASP Cork",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cork/"
-    },
-    {
-        "name": "Darragh Duffy",
-        "email": "darragh.duffy@owasp.org",
-        "group": "OWASP Cork",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cork/"
-    },
-    {
-        "name": "John O'Riordan",
-        "email": "john.oriordan@owasp.org",
-        "group": "OWASP Cork",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-cork/"
-    },
-    {
         "name": "Emery Kouassi Assogba",
         "email": "emerykouassi.assogba@owasp.org",
         "group": "OWASP Cotonou",
@@ -1275,14 +1275,14 @@
     },
     {
         "name": "Mahmoud Hussein",
-        "email": "mahmoud.ike@gmail.com",
+        "email": "mahmoud.hussein@owasp.org",
         "group": "OWASP Dubai",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dubai/"
     },
     {
         "name": "Mohamed Ibrahim",
-        "email": "hema2003mi@gmail.com",
+        "email": "mohamed.ibrahim@owasp.org",
         "group": "OWASP Dubai",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dubai/"
@@ -6218,7 +6218,7 @@
     {
         "name": "Raushan Raj",
         "email": "raushan.raj@owasp.org",
-        "group": "OWASP Kubernetes Scanner",
+        "group": "OWASP KubeLight",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-kubernetes-scanner/"
     },
