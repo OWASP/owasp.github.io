@@ -18,7 +18,7 @@
         <li>Free access to an application security posture platform with <a href="https://appsecphoenix.cloud/signup/owasp">AppSecPhoenix Community Edition</a></li>
 	<li>Get your Security Journey Belt Certification for OWASP® Core Concepts at <a href="https://owasp.securityjourney.com">Security Journey</a></li>
         <li>Access the <a href="https://dashboard.ubiqsecurity.com/">Ubiq Platform</a>, an easy-to-use, developer-first encryption-as-code platform.</li>
-     </ul>	
-<p>If there are any issues on the vendor platforms. Please, reachout to the vendor directly for assistance.</p> 
+    <li>If there are any issues on the vendor platforms. Please, reachout to the vendor directly for assistance.</li> 
+  </ul>	
 <p>Membership benefits subject to change.</p>
 <p>Questions or problems for OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></h3></p>
