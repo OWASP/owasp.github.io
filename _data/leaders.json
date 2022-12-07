@@ -1183,34 +1183,6 @@
         "group_url": "https://owasp.org/www-chapter-dhaka/"
     },
     {
-        "name": "Om Singh",
-        "email": "om.singh@owasp.org",
-        "group": "OWASP Dharma Samaj College",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dharma-samaj-college/"
-    },
-    {
-        "name": "Narendra",
-        "email": "narendra.nishad@owasp.org",
-        "group": "OWASP Dharma Samaj College",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dharma-samaj-college/"
-    },
-    {
-        "name": "Shivam Yadav",
-        "email": "shivam.yadav@owasp.org",
-        "group": "OWASP Dharma Samaj College",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dharma-samaj-college/"
-    },
-    {
-        "name": "Pankaj Yadav",
-        "email": "pankaj.yadav@owasp.org",
-        "group": "OWASP Dharma Samaj College",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dharma-samaj-college/"
-    },
-    {
         "name": "Arun Kumar Sakithivel",
         "email": "arun.sakthivel@owasp.org",
         "group": "OWASP Dindigul",
@@ -3820,20 +3792,6 @@
         "group": "OWASP Saitama",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-saitama/"
-    },
-    {
-        "name": "Rhishinathvarma Marimuthu",
-        "email": "",
-        "group": "OWASP Salem",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-salem/"
-    },
-    {
-        "name": "Rahulraosharma Marimuthu",
-        "email": "",
-        "group": "OWASP Salem",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-salem/"
     },
     {
         "name": "Seth Law",
@@ -6819,7 +6777,14 @@
     },
     {
         "name": "Keith Turpin",
-        "email": "keith.turpin@owasp.org",
+        "email": "* [keith turpin][keith",
+        "group": "OWASP Secure Coding Practices-Quick Reference Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/"
+    },
+    {
+        "name": "Jon Gadsden",
+        "email": "* [jon gadsden][jon",
         "group": "OWASP Secure Coding Practices-Quick Reference Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/"
