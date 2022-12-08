@@ -22,5 +22,4 @@
   </ul>	
 <p>Membership benefits subject to change.</p>
 <p>Questions or problems for OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></p>
-
 <p>The office will be closed for the holidays starting December 23, 2022 and re-opens January 3, 2023.</p>
