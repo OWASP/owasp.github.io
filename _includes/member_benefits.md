@@ -21,4 +21,4 @@
     <li>If there are any issues on the vendor platforms. Please, reachout to the vendor directly for assistance.</li> 
   </ul>	
 <p>Membership benefits subject to change.</p>
-<p>Questions or problems for OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></h3></p>
+<p>Questions or problems for OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></p>
