@@ -2839,14 +2839,14 @@
         "url": "https://owasp.org/www-chapter-maine/",
         "created": "2019-09-12",
         "updated": "2022-07-28",
-        "build": "no pages",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Maine",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
-        "meetup-group": "OWASP-Maine",
+        "meetup-group": "owasp-maine",
         "meetings": 0
     },
     {
@@ -2887,6 +2887,21 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Mexicali",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "meetings": 0
+    },
+    {
+        "name": "Morelia",
+        "url": "https://owasp.org/www-chapter-morelia/",
+        "created": "2022-12-12",
+        "updated": "2022-12-12",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Morelia",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -3147,21 +3162,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-San-Fernando-Valley-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "San Juan",
-        "url": "https://owasp.org/www-chapter-san-juan/",
-        "created": "2022-12-07",
-        "updated": "2022-12-10",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP San Juan",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
         "meetings": 0
     },
     {
@@ -4572,6 +4572,21 @@
         "region": "Central America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-san-jose-cr",
+        "meetings": 0
+    },
+    {
+        "name": "San Juan",
+        "url": "https://owasp.org/www-chapter-san-juan/",
+        "created": "2022-12-07",
+        "updated": "2022-12-10",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-san-juan",
+        "title": "OWASP San Juan",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Central America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
         "meetings": 0
     },
     {
