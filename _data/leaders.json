@@ -2674,20 +2674,6 @@
         "group_url": "https://owasp.org/www-chapter-madurai/"
     },
     {
-        "name": "John Ellingsworth",
-        "email": "john.ellingsworth@owasp.org",
-        "group": "OWASP Maine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-maine/"
-    },
-    {
-        "name": "Tony Quadros",
-        "email": "tony.quadros@owasp.org",
-        "group": "OWASP Maine",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-maine/"
-    },
-    {
         "name": "Muhammad Haroon",
         "email": "muhammad.haroon@owasp.org",
         "group": "OWASP Manama",
@@ -3582,6 +3568,27 @@
         "group": "OWASP Portland",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-portland/"
+    },
+    {
+        "name": "John Ellingsworth",
+        "email": "john.ellingsworth@owasp.org",
+        "group": "OWASP Portland, Maine",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-portland-me/"
+    },
+    {
+        "name": "Tony Quadros",
+        "email": "tony.quadros@owasp.org",
+        "group": "OWASP Portland, Maine",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-portland-me/"
+    },
+    {
+        "name": "Scott Brown",
+        "email": "scott.brown@owasp.org",
+        "group": "OWASP Portland, Maine",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-portland-me/"
     },
     {
         "name": "Paulo Batalhao",
