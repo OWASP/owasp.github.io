@@ -2,13 +2,12 @@
 
 - [OWASP Policies and Procedures](https://owasp.org/www-policy/)
 - [All Chapter Leaders](/chapters/leaders/)
-- [List of All Chapters status](https://owasp.org/chapters/status/)
 - [Subscribe to OWASP New Mailing List](https://owasp.us17.list-manage.com/subscribe?u=a8012c9e2e384bf8ea8d7deb7&id=22be76c892)
 - [Unsubscribe from OWASP Mailing List](https://owasp.us17.list-manage.com/unsubscribe?u=a8012c9e2e384bf8ea8d7deb7&id=2b8a341014)
 
-### [Contact Us - Chapter Support Request Tickets](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
+### [Chapters Approved but Not Active yet.](https://owasp.org/chapters/status/)
+### [Closed Chapters](https://owasp.org/chapters/status)
 
-  
 ### OWASP Videos
 
 - [OWASP Global YouTube Channel with Chapters and Projects](https://www.youtube.com/OWASPGlobal)
