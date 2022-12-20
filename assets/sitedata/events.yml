@@ -1,16 +1,26 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-    - name: OWASP December Webinar
-      optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes November 30.<strong>
-      start-date: 2022-12-05
-      dates: December 5-6, 2022 Eastern Standard Time (EST)
-      url: https://www.eventbrite.com/e/247416939727
     - name: OWASP Global AppSec Dublin 2023
       start-date: 2023-02-13
       dates: February 13-16, 2023
       url: https://dublin.globalappsec.org/
       optional-text: Join us in-person in Dublin for two days of training followed by two conference days with multiple tracks.
+    - name: OWASP Global AppSec Washington DC 2023
+      start-date: Fall 2023
+      dates: Coming Soon!
+      #url:
+      #optional-text:
+    - name: OWASP Global AppSec San Francisco 2024
+      start-date: 2024-09-23
+      dates: September 23-27, 2024
+      #url:
+      #optional-text:
+    - name: OWASP Global AppSec San Francisco 2026
+      start-date: 2026-11-06
+      dates: November 2-6, 2026
+      #url:
+      #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
