@@ -1,16 +1,15 @@
-<p>There are many benefits to membership including:</p>
+<p>Membership benefits include the following:</p>
       <ul> 
-        <li>The <a href="https://members.owasp.org/">Membership Portal</a> can only be accessed with owasp.org email address.</li>
-        <li>Discounts at our global and participating regional conferences</li>
-        <li>Training discounts</li>
-        <li>OWASP email address and Google Workspace access</li>
-        <li>A vote in our OWASP Global Board elections</li>
-      	<li>Networking and directory access</li>
-        <li>Flexible online learning discounts</li>
-        <li>Mentor opportunites</li>
+	<li>Grow your network</li>
+        <li>OWASP chapter meetings, regional and global events
+        <li>Training and event discounts</li>
+        <li>OWASP chapter meetings, regional and global events</li>
+	<li>A vote in our OWASP Global Board elections</li>
+	<li>Employment opportunities</li>
         <li>Meaningful volunteer opportunities</li>
-        <li> Exclusive, industry-specific offers</li>
-        <li>And others...</li>
+        <li>Give back and advance software security with an OWASP project</li>
+	<li><a href="https://members.owasp.org/">Membership Portal</a> accessible only with owasp.org address.</li>
+        <li>Google Workspace account <strong> Welcome onboarding emails are automatically sent 24 hours after registration.<strong>
       </ul>
  <p>Vendor provided benefits to individual members:</p>
       <ul>
