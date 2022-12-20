@@ -9,8 +9,9 @@
         <li>Meaningful volunteer opportunities</li>
         <li>Give back and advance software security with an OWASP project</li>
 	<li><a href="https://members.owasp.org/">Membership Portal</a> accessible only with owasp.org address.</li>
-        <li>Google Workspace account <strong> Welcome onboarding emails are automatically sent 24 hours after registration.<strong>
-      </ul>
+        <li>Google Workspace account</l?
+<p><strong>New Member Welcome onboarding emails are sent within 24 hours after enrolling. Always check spam.<strong></p>
+      </ul>		
  <p>Vendor provided benefits to individual members:</p>
       <ul>
 	<li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
