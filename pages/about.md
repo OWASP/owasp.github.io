@@ -48,7 +48,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Most questions you might have about the OWASP Foundation can be found by searching this website. If you need to contact us directly with a request we use a ticketing system which can be accessed [here](https://owasporg.atlassian.net/servicedesk/customer/portals). Several other common contact points include:
 
-- [Membership Support](https://owasporg.atlassian.net/servicedesk/customer/portal/9) and if you don't mind waiting longer, you can also email membership@owasp.org.
+- [Membership Support](https://owasporg.atlassian.net/servicedesk/customer/portal/9)
 - [Chapter Support](https://owasporg.atlassian.net/servicedesk/customer/portal/8)
 - [Corporate Sponsorships or Support](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72)
 - [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83)
