@@ -5,8 +5,8 @@
 - [Subscribe to OWASP New Mailing List](https://owasp.us17.list-manage.com/subscribe?u=a8012c9e2e384bf8ea8d7deb7&id=22be76c892)
 - [Unsubscribe from OWASP Mailing List](https://owasp.us17.list-manage.com/unsubscribe?u=a8012c9e2e384bf8ea8d7deb7&id=2b8a341014)
 
-### [Approved chapter but NOT yet active.](https://owasp.org/chapters/status/)
-### [Closed Chapters](https://owasp.org/chapters/status)
+### [Approved chapters but not active.](https://owasp.org/chapters/status/)
+
 
 ### OWASP Videos
 
