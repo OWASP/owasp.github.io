@@ -11,7 +11,7 @@
 	<li><a href="https://members.owasp.org/">Membership Portal</a> accessible only with owasp.org address.</li>
         <li>Google Workspace account</li>
 <p><strong>New Member Welcome onboarding emails are sent within 24 hours after enrolling. Always check spam.</strong></p>
-      </ul>		
+      <ul>		
  <p>Vendor provided benefits to individual members:</p>
       <ul>
 	<li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
