@@ -10,7 +10,6 @@
         <li>Give back and advance software security with an OWASP project</li>
 	<li><a href="https://members.owasp.org/">Membership Portal</a> accessible only with owasp.org address.</li>
         <li>Google Workspace account</li>
-<p><strong>New Member Welcome onboarding emails are sent within 24 hours after enrolling. Always check spam.</strong></p>
       <ul>		
  <p>Vendor provided benefits to individual members:</p>
       <ul>
@@ -23,3 +22,4 @@
 <p>Membership benefits subject to change.</p>
 <p>Questions or problems for OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></p>
 
+<p><strong>New Member onboarding Welcome emails are sent within 24 hours after enrolling. Always check spam.</strong></p>
