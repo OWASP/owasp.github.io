@@ -2805,21 +2805,6 @@
         "meetings": 0
     },
     {
-        "name": "Ljubljana",
-        "url": "https://owasp.org/www-chapter-ljubljana/",
-        "created": "2022-12-07",
-        "updated": "2022-12-07",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Ljubljana",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
         "name": "Louisville",
         "url": "https://owasp.org/www-chapter-louisville/",
         "created": "2019-09-12",
@@ -2981,7 +2966,7 @@
         "type": "",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
-        "meetup-group": "OWASP New Delhi",
+        "meetup-group": "",
         "meetings": 0
     },
     {
@@ -3412,21 +3397,6 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Uw Bothell",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
-        "name": "Varanasi",
-        "url": "https://owasp.org/www-chapter-varanasi/",
-        "created": "2019-09-12",
-        "updated": "2022-12-14",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Varanasi",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -4095,6 +4065,21 @@
         "meetings": 0
     },
     {
+        "name": "Ljubljana",
+        "url": "https://owasp.org/www-chapter-ljubljana/",
+        "created": "2022-12-07",
+        "updated": "2022-12-07",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Ljubljana",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "Ljubljana-OWASP-Meetup-Group",
+        "meetings": 0
+    },
+    {
         "name": "London",
         "url": "https://owasp.org/www-chapter-london/",
         "created": "2019-09-12",
@@ -4398,7 +4383,7 @@
         "name": "Stavanger",
         "url": "https://owasp.org/www-chapter-stavanger/",
         "created": "2022-07-19",
-        "updated": "2022-07-20",
+        "updated": "2023-01-03",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Stavanger",
@@ -6477,6 +6462,21 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-vadodara-chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Varanasi",
+        "url": "https://owasp.org/www-chapter-varanasi/",
+        "created": "2019-09-12",
+        "updated": "2022-12-14",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Varanasi",
+        "level": "3",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-varanasi",
         "meetings": 0
     },
     {
