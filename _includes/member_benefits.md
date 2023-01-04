@@ -16,7 +16,7 @@
 	<li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
         <li>Free access to an application security posture platform with <a href="https://appsecphoenix.cloud/signup/owasp">AppSecPhoenix Community Edition</a></li>
 	<li>Get your Security Journey Belt Certification for OWASP® Core Concepts at <a href="https://owasp.securityjourney.com">Security Journey</a></li>
-        <li>Access the <a href="https://www.ubiqsecurity.com/owasp/">Ubiq Platform</a>, an easy-to-use, developer-first encryption-as-code platform.</li>
+        <li>Access the <a href="https://www.ubiqsecurity.com/owasp">Ubiq Platform</a>, an easy-to-use, developer-first encryption-as-code platform.</li>
     <li>If there are any issues on the vendor platforms. Please, reachout to the vendor directly for assistance.</li> 
   </ul>	
 <p>Membership benefits subject to change.</p>
