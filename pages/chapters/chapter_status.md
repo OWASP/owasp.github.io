@@ -32,9 +32,9 @@ Jump to
     {% assign cmonth = cmonth | plus: 0 %}
     {% assign testmonth = month | minus: cmonth %}
     {% assign testyear = year | minus: 1 %}
-    {% if cyear == year and testmonth  < 2 %} 
+    {% if cyear == year and testmonth  < 2 and chapter.build != 'no pages' %} 
         <li><a href='{{ chapter.url }}'>{{ chapter.created }}, {{ chapter.title }}</a></li>
-    {% elsif month <= 2 and cyear == testyear and cmonth >= 11 %}
+    {% elsif month <= 2 and cyear == testyear and cmonth >= 11 and chapter.build != 'no pages' %}
         <li><a href='{{ chapter.url }}'>{{ chapter.created }}, {{ chapter.title }}</a></li>
     {% endif %}
 {% endfor %}
