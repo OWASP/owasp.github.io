@@ -81,7 +81,7 @@ Jump to
 ----
 <section id='needs_update'></section>
 
-### Needs Website Update (has not been updated to remove default info)
+### Newly approved or Reactivated chapters that are not active. (Needs to update Website and/or remove default info.)
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 
