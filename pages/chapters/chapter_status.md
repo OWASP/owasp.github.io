@@ -81,7 +81,8 @@ Jump to
 ----
 <section id='needs_update'></section>
 
-### Newly approved or re-opened chapters but not active. (Needs to update Website and/or remove default info.)
+### Newly approved or re-opened chapters but not active. 
+ <strong> Leaders need to create their chapter page using GitHub username and make sure the template is removed for the system to move to the active chapter list.</strong>
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 
