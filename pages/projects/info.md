@@ -6,5 +6,5 @@
 * [All Project Leaders](/projects/leaders/)
 * [Project Status](/projects/status/)
 * [Project Committee](/www-committee-project)
-* [Google Summer of Code 2021](/gsoc/gsoc2021)
+* [Google Summer of Code 2022](/gsoc/gsoc2022)
 
