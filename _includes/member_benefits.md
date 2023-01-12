@@ -1,4 +1,4 @@
-<p>Membership benefits include the following:</p>
+<p>Membership benefits: (subject to change)</p>
       <ul> 
 	<li>Grow your network</li>
         <li>OWASP chapter meetings, regional and global events
@@ -19,7 +19,7 @@
         <li>Access the <a href="https://www.ubiqsecurity.com/owasp">Ubiq Platform</a>, an easy-to-use, developer-first encryption-as-code platform.</li>
     <li>If there are any issues on the vendor platforms. Please, reachout to the vendor directly for assistance.</li> 
   </ul>	
-<p>Membership benefits subject to change.</p>
-<p>Questions or problems for OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></p>
 
-<p><strong>New Member onboarding Welcome emails are sent within 24 hours after enrolling. Always check spam.</strong></p>
+<p>Questions or problems with OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></p>
+
+<h3>New Members will receive the first onboarding email within 24 hours registering. Please, check spam.</h3>
