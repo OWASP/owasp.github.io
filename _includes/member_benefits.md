@@ -22,4 +22,4 @@
 
 <p>Questions or problems with OWASP membership contact <a href="https://owasporg.atlassian.net/servicedesk/customer/portal/9">Membership Support</a></p>
 
-<h3>New Members will receive the first onboarding email within 24 hours registering. Please, check spam.</h3>
+<h3>New Members will receive the first onboarding email within 24 hours of registering. The first email will be to provision your OWASP account. Please, check spam.</h3>
