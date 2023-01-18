@@ -2055,21 +2055,6 @@
         "meetings": 0
     },
     {
-        "name": "Bhubaneswar",
-        "url": "https://owasp.org/www-chapter-bhubaneswar/",
-        "created": "2022-12-15",
-        "updated": "2022-12-16",
-        "build": "errored",
-        "codeurl": "",
-        "title": "OWASP Bhubaneswar",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
         "name": "Bikaner",
         "url": "https://owasp.org/www-chapter-bikaner/",
         "created": "2019-09-12",
@@ -2554,7 +2539,7 @@
         "url": "https://owasp.org/www-chapter-houston/",
         "created": "2019-09-12",
         "updated": "2022-11-09",
-        "build": "no pages",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Houston",
         "level": "-1",
@@ -2757,21 +2742,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Letterkenny-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "Limassol",
-        "url": "https://owasp.org/www-chapter-limassol/",
-        "created": "2023-01-02",
-        "updated": "2023-01-02",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Limassol",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
         "meetings": 0
     },
     {
@@ -3798,7 +3768,7 @@
         "name": "Dublin",
         "url": "https://owasp.org/www-chapter-dublin/",
         "created": "2019-09-12",
-        "updated": "2021-08-03",
+        "updated": "2023-01-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Dublin",
@@ -4065,6 +4035,21 @@
         "meetings": 0
     },
     {
+        "name": "Limassol",
+        "url": "https://owasp.org/www-chapter-limassol/",
+        "created": "2023-01-02",
+        "updated": "2023-01-17",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Limassol",
+        "level": "0",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "TBA",
+        "meetings": 0
+    },
+    {
         "name": "Lisboa",
         "url": "https://owasp.org/www-chapter-lisboa/",
         "created": "2022-05-24",
@@ -4203,7 +4188,7 @@
         "name": "Maribor",
         "url": "https://owasp.org/www-chapter-maribor/",
         "created": "2020-05-07",
-        "updated": "2022-12-05",
+        "updated": "2023-01-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Maribor",
@@ -4857,6 +4842,21 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bhopal-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Bhubaneswar",
+        "url": "https://owasp.org/www-chapter-bhubaneswar/",
+        "created": "2022-12-15",
+        "updated": "2023-01-17",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Bhubaneswar",
+        "level": "0",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
         "meetings": 0
     },
     {
