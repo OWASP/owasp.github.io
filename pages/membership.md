@@ -32,17 +32,13 @@ maintenance_message: Due to a required update to our systems, we are currently e
 {% else %}
 {% raw %}
 <div id="membership-app" style="margin: 0px;" v-cloak>
-
   <div class="col-sidebar">
     <div class="main-wrapper" style="padding: 0px;">
       <div>
-
       <!-- main membership form -->
-
       <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Membership</a></h1></div>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
-      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
-
+      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p>
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
 {% endraw %}
       {% include member_benefits.md %}
@@ -148,21 +144,16 @@ maintenance_message: Due to a required update to our systems, we are currently e
         <div class="submit-container">
           <button type="submit" class="membership-button" v-bind:disabled="loading"><div v-if="!loading">Submit</div><div class='spinner' v-if="loading"><div class='inner-spinner' v-if="loading"></div>
         </div></button>
-        </div>
-        
+        </div>        
       </form>
-
       <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership and agree to adhere to the OWASP Foundation <a href="/www-policy/operational/code-of-conduct">Code of Conduct</a>. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
-
       <!-- end membership form -->
-
       </div>
       <aside class="sidebar" role="complementary">
         <!-- reserved for future use -->
       </aside>
     </div>
   </div>
-
 </div>
 {% endraw %}
 
