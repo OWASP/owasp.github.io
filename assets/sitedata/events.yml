@@ -9,8 +9,8 @@
     - name: OWASP Global AppSec Washington DC 2023
       start-date: 2023-10-30
       dates: October 30 - November 3, 2023
-      #url:
-      optional-text: Join us in Washington, DC for two confernce days offering multiple tracks **followed** by three days of training courses.
+      url: https://dc.globalappsec.org/
+      optional-text: Join us in Washington, DC for two confernce days offering multiple tracks **followed** by three days of training courses. Call for Papers and Call for Trainers are now being accepted as well as Call for Volunteers.
     - name: OWASP Global AppSec San Francisco 2024
       start-date: 2024-09-23
       dates: September 23-27, 2024
@@ -41,9 +41,9 @@
       start-date: 2023-05-15
       dates: May 15-16, 2023
       url: https://appsecil.org/
-    - name: AppSec Days Germany
-      start-date: 2023-06-05
-      dates: June 5-6, 2023
+    - name: German OWASP Day (GOD) 2023
+      start-date: 2023-05-30
+      dates: May 30-31, 2023
       url: https://god.owasp.de/2023/
     - name: AppSec Days Pacific Northwest
       start-date: 2023-06-10
