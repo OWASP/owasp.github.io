@@ -1860,21 +1860,6 @@
         "meetings": 0
     },
     {
-        "name": "Waterloo",
-        "url": "https://owasp.org/www-chapter-waterloo/",
-        "created": "2019-09-12",
-        "updated": "2021-11-21",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Waterloo",
-        "level": "0",
-        "type": "layout: col-sidebar",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-waterloo-meetup-group",
-        "meetings": 0
-    },
-    {
         "name": "Winnipeg",
         "url": "https://owasp.org/www-chapter-winnipeg/",
         "created": "2022-07-28",
@@ -2032,21 +2017,6 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Bangued",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
-        "name": "Bbditm",
-        "url": "https://owasp.org/www-chapter-bbditm/",
-        "created": "2023-01-24",
-        "updated": "2023-01-24",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP BBDITM",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -3480,6 +3450,21 @@
         "meetings": 0
     },
     {
+        "name": "Waterloo",
+        "url": "https://owasp.org/www-chapter-waterloo/",
+        "created": "2019-09-12",
+        "updated": "2021-11-21",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Waterloo",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "meetings": 0
+    },
+    {
         "name": "West Delhi",
         "url": "https://owasp.org/www-chapter-west-delhi/",
         "created": "2019-09-12",
@@ -4827,6 +4812,21 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-bangalore-chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Bbditm",
+        "url": "https://owasp.org/www-chapter-bbditm/",
+        "created": "2023-01-24",
+        "updated": "2023-01-24",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Babu Banarasi Das Institute of Technology and Management (bbditm) - Student Chapter",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-bbditm",
         "meetings": 0
     },
     {
