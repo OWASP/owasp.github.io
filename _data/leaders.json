@@ -1414,6 +1414,13 @@
         "group_url": "https://owasp.org/www-chapter-dublin/"
     },
     {
+        "name": "Antonio Stano",
+        "email": "antonio.stano@owasp.org",
+        "group": "OWASP Dublin",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dublin/"
+    },
+    {
         "name": "Donald Ashdown",
         "email": "donald.ashdown@owasp.org",
         "group": "OWASP Edmonton",
@@ -5348,13 +5355,6 @@
         "group_url": "https://owasp.org/www-project-aegis4j/"
     },
     {
-        "name": "Rob van der Veer",
-        "email": "rob.vanderveer@owasp.org",
-        "group": "OWASP AI Security and Privacy Guide",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-ai-security-and-privacy-guide/"
-    },
-    {
         "name": "Jeff Foley",
         "email": "jeff.foley@owasp.org",
         "group": "OWASP Amass",
@@ -6581,8 +6581,15 @@
     },
     {
         "name": "Sagar Bhure",
-        "email": "sagarbhureaerospace@gmail.com",
-        "group": "OWASP MLSecOps Verification Standard",
+        "email": "sagar.bhure@owasp.org",
+        "group": "OWASP Machine Learning Security Verification Standard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mlsecops-verification-standard/"
+    },
+    {
+        "name": "Shain Singh",
+        "email": "shain.singh@owasp.org",
+        "group": "OWASP Machine Learning Security Verification Standard",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-mlsecops-verification-standard/"
     },
