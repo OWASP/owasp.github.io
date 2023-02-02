@@ -1149,3 +1149,11 @@
   image: /assets/images/corp-member-logo/KnowitSecureAB.png
   url: 	http://www.knowit.se
   description: Knowit Secure Penetration testing team are specialized in penetration testing in the Nordics. We offer a large array of tests including Web Application Penetration testing, network testing, IoT testing, Mobile application testing, and red teaming.
+- member: true
+  sponsor: -1
+  name: open-appsec
+  sortname: open-appsec
+  membertype: 3
+  image: /assets/images/corp-member-logo/openappsec_CheckPointlogo_owasp.png
+  url: https://www.openappsec.io
+  description: Open-appsec is an open-source initiative that builds on machine learning to provide pre-emptive web app & API threat protection against OWASP Top-10 and zero-day attacks.
