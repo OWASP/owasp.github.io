@@ -2280,21 +2280,6 @@
         "meetings": 0
     },
     {
-        "name": "Chennai Institute Of Technology",
-        "url": "https://owasp.org/www-chapter-chennai-institute-of-technology/",
-        "created": "2023-01-31",
-        "updated": "2023-02-04",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Chennai Institute of Technology",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
         "name": "Comsats University",
         "url": "https://owasp.org/www-chapter-comsats-university/",
         "created": "2023-01-12",
@@ -5022,6 +5007,21 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "Chennai-OWASP-Meetup-Group",
+        "meetings": 0
+    },
+    {
+        "name": "Chennai Institute Of Technology",
+        "url": "https://owasp.org/www-chapter-chennai-institute-of-technology/",
+        "created": "2023-01-31",
+        "updated": "2023-02-04",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Chennai Institute of Technology",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
         "meetings": 0
     },
     {
