@@ -31,6 +31,8 @@ Projects gives members an opportunity to freely test theories and ideas with the
 - Information Security Authors
 - Those who would like the support of a world wide professional community to develop or test an idea.
 
+## Project Guidance 
+You can find more information about project levels, promotion criteria, and best practices at the [Project Committee](/www-project-committee/) pages.
 ## OWASP Projects, the SDLC, and the Security Wayfinder
 Thanks to the OWASP Integration Standards Project for mapping OWASP projects in a diagram of the Software Development LifeCycle. This resource should help you determine which projects fit into your SDLC.
 
