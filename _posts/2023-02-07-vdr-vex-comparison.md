@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-I've been meaning to write this article for about six months, and honestly, should have done it sooner. But let's get on
+I've been meaning to write this article for about six months and, honestly should have done it sooner. But let's get on
 with it. With the rise of SBOM and software transparency, there is an equal push to be transparent about the vulnerabilities
 and their exploitability in the software we create and consume. These are all good things. In this article, I'll be 
 discussing two very different approaches, Vulnerability Disclosure Report (VDR) and Vulnerability Exploitability eXchange (VEX).
@@ -19,7 +19,7 @@ discussing two very different approaches, Vulnerability Disclosure Report (VDR) 
 <!--more-->
 
 While comparing and contrasting the approaches is useful, this article also serves to educate. Over the past 18 months,
-I've seen several security tools incorporate "VEX" capabilities, not realizing what they actually support is VDR.
+I've seen several security tools claiming to incorporate "VEX" capabilities, not realizing that what they actually support is VDR.
 Clearly defining what these approaches are, their purpose, and how they compete and complement each other, is required
 to level-set expectations between supplier and consumer.
 
@@ -27,14 +27,14 @@ __TL;DR__ Both VDR and VEX provide value to software consumers. Organizations sh
 an approach that meets the requirements of all parties in their supply chain.
 
 ### Neutrality Statement
-OWASP is known for its exceptionally high vendor neutrality standards, and while VDR and VEX are not vendors, they 
+OWASP is known for its' exceptionally high vendor neutrality standards, and while VDR and VEX are not vendors, they 
 are differing ideas, both of which have merit. Both VDR and VEX are supported in [OWASP CycloneDX](https://cyclonedx.org) 
 and [OWASP Dependency-Track](https://dependencytrack.org). I will not be taking a position, but it should be noted that 
 there are many people and organizations in the industry that have political capital invested in one approach or the other.
 
 ### VDR and VEX Support in OWASP Projects
 Two of the OWASP projects that I work on support both VDR and VEX. The rate of adoption of these projects is quite
-staggering, but it's also provided the team with a lot of feedback from the community. While we do not capture usage data, 
+staggering, but its' also provided the team with a lot of feedback from the community. While we do not capture usage data, 
 we do engage in hundreds of conversations with the community. As a result, our team likely has some unique perspectives
 on the real-world usage of VDR and VEX.
 
@@ -51,7 +51,7 @@ on the real-world usage of VDR and VEX.
 
 
 ### What is VDR?
-VDRs are an attestation of all vulnerabilities affecting a product, or its dependencies, along with an analysis of the impact. VDRs may 
+VDRs are an attestation of all vulnerabilities affecting a product, or its' dependencies, along with an analysis of the impact. VDRs may 
 come from a software supplier or a third party. [NIST SP 800-161: Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final) 
 defines VDR as:
 
@@ -65,7 +65,7 @@ defines VDR as:
 > key that includes a timestamp indicating the date and time of the VDR signature and associated VDR.
 
 In summary, a VDR should contain:
-- All vulnerabilities affecting a product or its dependencies
+- All vulnerabilities affecting a product or its' dependencies
 - Analysis describing the impact (or lack thereof) that a reported vulnerability has on a product or dependency
 - Plans to address the vulnerability
 - Signing the VDR with a trusted, verifiable, private key that includes a timestamp indicating the date and time of the VDR signature
