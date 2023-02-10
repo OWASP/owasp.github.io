@@ -1156,7 +1156,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/openappsec_CheckPointlogo_owasp.png
   url: https://www.openappsec.io
-  description: Open-appsec is an open-source initiative that builds on machine learning to provide pre-emptive web app & API threat protection against OWASP Top-10 and zero-day attacks.
+  description: open-appsec is an open-source initiative that builds on machine learning to provide pre-emptive web app & API threat protection against OWASP-Top-10 and zero-day attacks. It can be deployed as add-on to Kubernetes Ingress, NGINX, Envoy and API Gateways. open-oppsec simplifies maintenance as there is no threat signature upkeep and exception handling, like common in many WAF solutions.
 - member: true
   sponsor: -1
   name: mindsetters OG
