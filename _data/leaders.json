@@ -4578,13 +4578,6 @@
         "group_url": "https://owasp.org/www-chapter-sydney/"
     },
     {
-        "name": "Sherry Liu",
-        "email": "sherry.liu@owasp.org",
-        "group": "OWASP Sydney",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sydney/"
-    },
-    {
         "name": "Faan de Klerk",
         "email": "faan.deklerk@owasp.org",
         "group": "OWASP Sydney",
@@ -5675,6 +5668,13 @@
         "group": "OWASP Bug Logging Tool",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-bug-logging-tool/"
+    },
+    {
+        "name": "Ruben Mesquida",
+        "email": "ruben.mesquida@owasp.org",
+        "group": "OWASP Cervantes",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cervantes/"
     },
     {
         "name": "Mehmet Yilmaz",
@@ -7042,6 +7042,13 @@
         "group_url": "https://owasp.org/www-project-scan-it/"
     },
     {
+        "name": "Michael Rosenfeld",
+        "email": "michaeljrosenfeld22@gmail.com",
+        "group": "OWASP ScrapPy",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-scrappy/"
+    },
+    {
         "name": "Daniel Miessler",
         "email": "",
         "group": "OWASP Seclists",
@@ -7350,6 +7357,13 @@
         "group_url": "https://owasp.org/www-project-serverless-top-10/"
     },
     {
+        "name": "Jinson Varghese Behanan",
+        "email": "jinsonvb@gmail.com",
+        "group": "OWASP Smart Contract Security Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-smart-contract-security-top-10/"
+    },
+    {
         "name": "Katy Anton",
         "email": "katy.anton@owasp.org",
         "group": "OWASP Snakes And Ladders",
@@ -7607,6 +7621,13 @@
         "group": "OWASP Top 10 Privacy Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-privacy-risks/"
+    },
+    {
+        "name": "Lütfü Mert Ceylan",
+        "email": "info@lutfumertceylan.com.tr",
+        "group": "OWASP Top 25 Parameters",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-25-parameters/"
     },
     {
         "name": "Andrew van der Stock",
