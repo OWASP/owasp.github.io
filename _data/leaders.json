@@ -2989,27 +2989,6 @@
         "group_url": "https://owasp.org/www-chapter-montreal/"
     },
     {
-        "name": "Juan Jesus Ruiz ",
-        "email": "juan.ruiz@owasp.org",
-        "group": "OWASP Morelia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-morelia/"
-    },
-    {
-        "name": "Anastacio Antolino Hernandez",
-        "email": "anastacio.hernandez@owasp.org",
-        "group": "OWASP Morelia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-morelia/"
-    },
-    {
-        "name": "Heberto Ferreira Medina",
-        "email": "heberto.ferreira@owasp.org",
-        "group": "OWASP Morelia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-morelia/"
-    },
-    {
         "name": "Azzeddine RAMRAMI",
         "email": "azzeddine.ramrami@owasp.org",
         "group": "OWASP Morocco",
@@ -4223,13 +4202,6 @@
     {
         "name": "Alessandro de Oliveira Faria (Cabelo)",
         "email": "alessandro.faria@owasp.org",
-        "group": "OWASP Sao Paulo",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sao-paulo/"
-    },
-    {
-        "name": "Fernando Galves",
-        "email": "fernando.galves@owasp.org",
         "group": "OWASP Sao Paulo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sao-paulo/"
@@ -6046,6 +6018,20 @@
         "group": "OWASP Desktop App Security Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-desktop-app-security-top-10/"
+    },
+    {
+        "name": "Jon Gadsden",
+        "email": "jon.gadsden@owasp.org",
+        "group": "OWASP Developer Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-developer-guide/"
+    },
+    {
+        "name": "Harold Blankenship",
+        "email": "harold.blankenship@owasp.org",
+        "group": "OWASP Developer Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-developer-guide/"
     },
     {
         "name": "Vandana Verma",
