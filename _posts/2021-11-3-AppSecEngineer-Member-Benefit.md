@@ -30,7 +30,7 @@ As global leaders in enterprise security training, we specialize in Kubernetes s
 In 2021, we launched AppSecEngineer, an advanced security training suite. Using our signature hands-on labs to augment on-demand video lessons, we've released nearly 30 full courses in multiple disciplines of application security. we45 is looking to transform the face of AppSec as we know it, and make insecure software development a thing of the past.
 
 ### About OWASP. 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programs include:
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programs include:
 
 - Over 200+ Community-led open source software projects
 - Over 250+ local chapters worldwide

@@ -38,7 +38,7 @@ You can learn more about their solutions at: www.ubiqsecurity.com
 
 ### About OWASP
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programs include:
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programs include:
 
 - Over 200+ Community-led open-source software projects
 - Over 250+ local chapters worldwide
