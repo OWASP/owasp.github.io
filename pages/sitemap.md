@@ -35,8 +35,7 @@ permalink: /sitemap/
   <li><a href="/events/#regionalevents">Regional Events</a></li>
   <li><a href="/events/#globalpartnerevents">Global Partner Events</a></li>
   <li><a href="/corporate-sponsorships">Become a Corporate Event Sponsor</a></li>
-  <li><a href="https://dublin.globalappsec.org" target="_blank">Global AppSec Dublin</a></li>
-  <li><a href="https://sf.globalappsec.org" target="_blank">Global AppSec San Francisco</a></li>
+    <li><a href="https://dc.globalappsec.org" target="_blank">Global AppSec DC 2023</a></li>
 </ul> 
 
 <ul>
