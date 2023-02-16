@@ -16,8 +16,6 @@ Ever wanted to network and learn along with other AppSec professionals? We host 
 
 While some of our events have corporate sponsors, the content is vendor neutral, and speakers are carefully selected ensuring a good return on your investment of time and money. Often times are larger events also host Expositions, Capture the Flags, and Career Fairs. Often members get a discount on conference passes.
 
-[OWASP 2021 November Event Town Hall Slide Presentation](/assets/files/OWASP%20Event%20Town%20Hall%20November%202021.pdf)
-
 Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><strong>{{category.category}} Events</strong></a> {%unless forloop.last %},{%endunless%} {% endfor %}
 
 {% for category in site.data.events %}
