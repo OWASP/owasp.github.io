@@ -2715,21 +2715,6 @@
         "meetings": 0
     },
     {
-        "name": "Kuala Lumpur",
-        "url": "https://owasp.org/www-chapter-kuala-lumpur/",
-        "created": "2020-06-02",
-        "updated": "2023-02-07",
-        "build": "errored",
-        "codeurl": "",
-        "title": "OWASP Kuala Lumpur",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
         "name": "Kumaun Region",
         "url": "https://owasp.org/www-chapter-kumaun-region/",
         "created": "2019-09-12",
@@ -4650,6 +4635,21 @@
         "meetings": 0
     },
     {
+        "name": "San Juan",
+        "url": "https://owasp.org/www-chapter-san-juan/",
+        "created": "2022-12-07",
+        "updated": "2022-12-16",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP San Juan",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Central America",
+        "pitch": "More info soon...",
+        "meetup-group": "meetup-group-jhcesodi",
+        "meetings": 0
+    },
+    {
         "name": "San Pedro Sula",
         "url": "https://owasp.org/www-chapter-san-pedro-sula/",
         "created": "2019-09-12",
@@ -4692,21 +4692,6 @@
         "region": "Central America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Tegucigalpa-Chapter",
-        "meetings": 0
-    },
-    {
-        "name": "San Juan",
-        "url": "https://owasp.org/www-chapter-san-juan/",
-        "created": "2022-12-07",
-        "updated": "2022-12-16",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP San Juan",
-        "level": "layout: col-sidebar",
-        "type": "",
-        "region": "Caribbean",
-        "pitch": "More info soon...",
-        "meetup-group": "meetup-group-jhcesodi",
         "meetings": 0
     },
     {
@@ -5723,6 +5708,21 @@
         "codeurl": "",
         "title": "OWASP Krishnagiri",
         "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "meetings": 0
+    },
+    {
+        "name": "Kuala Lumpur",
+        "url": "https://owasp.org/www-chapter-kuala-lumpur/",
+        "created": "2020-06-02",
+        "updated": "2023-02-16",
+        "build": "errored",
+        "codeurl": "",
+        "title": "OWASP Kuala Lumpur",
+        "level": "6",
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
