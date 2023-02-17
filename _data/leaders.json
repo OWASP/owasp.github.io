@@ -3571,7 +3571,7 @@
     },
     {
         "name": "Melody Kelly",
-        "email": "melody@mello.moe",
+        "email": "melody.kelly@owasp.org",
         "group": "OWASP Ottawa",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-ottawa/"
@@ -6027,8 +6027,22 @@
         "group_url": "https://owasp.org/www-project-desktop-app-security-top-10/"
     },
     {
-        "name": "Jon Gadsden",
-        "email": "jon.gadsden@owasp.org",
+        "name": "Andra Lezza",
+        "email": "andra.lezza@owasp.org",
+        "group": "OWASP Developer Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-developer-guide/"
+    },
+    {
+        "name": "Shruti Kulkarni",
+        "email": "shruti.kulkarni@owasp.org",
+        "group": "OWASP Developer Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-developer-guide/"
+    },
+    {
+        "name": "Vandana Verma",
+        "email": "vandana.verma@owasp.org",
         "group": "OWASP Developer Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-developer-guide/"
@@ -6036,6 +6050,13 @@
     {
         "name": "Harold Blankenship",
         "email": "harold.blankenship@owasp.org",
+        "group": "OWASP Developer Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-developer-guide/"
+    },
+    {
+        "name": "Jon Gadsden",
+        "email": "jon.gadsden@owasp.org",
         "group": "OWASP Developer Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-developer-guide/"
