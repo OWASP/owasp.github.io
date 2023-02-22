@@ -2289,6 +2289,20 @@
         "group_url": "https://owasp.org/www-chapter-kannur/"
     },
     {
+        "name": "Harshit Shukla",
+        "email": "",
+        "group": "OWASP Kanpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanpur/"
+    },
+    {
+        "name": "Ahmad Shuja",
+        "email": "",
+        "group": "OWASP Kanpur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kanpur/"
+    },
+    {
         "name": "Tomohiko Morita",
         "email": "tomohiko.morita@owasp.org",
         "group": "OWASP Kansai",
@@ -2749,6 +2763,20 @@
         "group": "OWASP Lusaka",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-lusaka/"
+    },
+    {
+        "name": "Fernando Galves",
+        "email": "fernando.galves@owasp.org",
+        "group": "OWASP Luxembourg",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-luxembourg/"
+    },
+    {
+        "name": "Jose Amauri de Sousa Junior",
+        "email": "joseamauri.desousa-junior@owasp.org",
+        "group": "OWASP Luxembourg",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-luxembourg/"
     },
     {
         "name": "Igor Beliaiev",
@@ -3344,20 +3372,6 @@
         "group": "OWASP New Braunfels",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-new-braunfels/"
-    },
-    {
-        "name": "Gyan Prakash",
-        "email": "gyan.prakash@owasp.org",
-        "group": "OWASP New Delhi",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-new-delhi/"
-    },
-    {
-        "name": "Rohit Kumar",
-        "email": "rohit.kumar@owasp.org",
-        "group": "OWASP New Delhi",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-new-delhi/"
     },
     {
         "name": "Guy Osa",
@@ -4552,13 +4566,6 @@
     {
         "name": "Jack Gifford",
         "email": "jack.gifford@owasp.org",
-        "group": "OWASP Sydney",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-sydney/"
-    },
-    {
-        "name": "Faan de Klerk",
-        "email": "faan.deklerk@owasp.org",
         "group": "OWASP Sydney",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-sydney/"
@@ -5817,6 +5824,13 @@
         "group_url": "https://owasp.org/www-project-core-business-application-security/"
     },
     {
+        "name": "Martin Gallo",
+        "email": "(cbas@advisory.no-monkey.com",
+        "group": "OWASP Core Business Application Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-core-business-application-security/"
+    },
+    {
         "name": "Grant Ongers",
         "email": "grant.ongers@owasp.org",
         "group": "OWASP Cornucopia",
@@ -6571,13 +6585,6 @@
         "group": "OWASP Lock It",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-lock-it/"
-    },
-    {
-        "name": "Michael Bargury",
-        "email": "michaelb@zenity.io",
-        "group": "OWASP Low Code Security",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-low-code-security/"
     },
     {
         "name": "Abraham Kang",
