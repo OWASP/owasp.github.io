@@ -182,6 +182,13 @@
         "group_url": "https://owasp.org/www-chapter-austin/"
     },
     {
+        "name": "Azar Alili",
+        "email": "azar.alili@owasp.org",
+        "group": "OWASP Baku",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-baku/"
+    },
+    {
         "name": "Sabuhi Safarov",
         "email": "sabuhi.safarov@owasp.org",
         "group": "OWASP Baku",
@@ -196,8 +203,8 @@
         "group_url": "https://owasp.org/www-chapter-baku/"
     },
     {
-        "name": "Azar Alili",
-        "email": "azar.alili@owasp.org",
+        "name": "Sakhavat Suleymanli",
+        "email": "sakhavat.suleymanli@owasp.org",
         "group": "OWASP Baku",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-baku/"
@@ -5831,6 +5838,13 @@
         "group_url": "https://owasp.org/www-project-coraza-web-application-firewall/"
     },
     {
+        "name": "José Carlos Chávez",
+        "email": "jcchavezs@gmail.com",
+        "group": "OWASP Coraza Web Application Firewall",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-coraza-web-application-firewall/"
+    },
+    {
         "name": "Waseem Ajrab",
         "email": "ajrab.waseem@gmail.com",
         "group": "OWASP Core Business Application Security",
@@ -7086,7 +7100,7 @@
     {
         "name": "Michael Rosenfeld",
         "email": "rosesecurityconsulting@proton.me",
-        "group": "www-project-scrappy",
+        "group": "OWASP ScrapPy",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-scrappy/"
     },
@@ -7210,6 +7224,13 @@
         "group_url": "https://owasp.org/www-project-security-busters/"
     },
     {
+        "name": "Cheyenne Seur",
+        "email": "cheyenne.seur@gmail.com",
+        "group": "OWASP Security Champions Guidebook",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-security-champions-guidebook/"
+    },
+    {
         "name": "Irfaan Santoe",
         "email": "irfaan.santoe@owasp.org",
         "group": "OWASP Security Champions Guidebook",
@@ -7217,8 +7238,8 @@
         "group_url": "https://owasp.org/www-project-security-champions-guidebook/"
     },
     {
-        "name": "Cheyenne Seur",
-        "email": "cheyenne.seur@gmail.com",
+        "name": "Jaiya \"JP\" Preston",
+        "email": "jaiya.preston@owasp.org",
         "group": "OWASP Security Champions Guidebook",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-champions-guidebook/"
@@ -7233,13 +7254,6 @@
     {
         "name": "Sebastiaan van der Meer",
         "email": "sebastiaan.vandermeer@owasp.org",
-        "group": "OWASP Security Champions Guidebook",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-champions-guidebook/"
-    },
-    {
-        "name": "Jenna Preston",
-        "email": "jennacherise@gmail.com",
         "group": "OWASP Security Champions Guidebook",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-champions-guidebook/"
@@ -7443,7 +7457,7 @@
     {
         "name": "Nadarajah Himasuthan",
         "email": "nadarajah.himasuthan@owasp.org",
-        "group": "www-project-software-pre-execution-security-review",
+        "group": "OWASP Software Pre-Execution Security Review",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-software-pre-execution-security-review/"
     },
