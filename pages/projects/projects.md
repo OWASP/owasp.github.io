@@ -58,7 +58,9 @@ All OWASP tools, document, and code library projects are organized into the foll
         <h3>Flagship Projects <span class="fa-stack fa-2x"><i class="fas fa-circle fa-stack-2x" style="color:#38a047"></i><i class="fas fa-flag fa-stack-1x fa-inverse"></i></span></h3>
         <ul>
         {% for project in fs_projects %}
-        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a><br>
+        <p>{{project.pitch}}</p>
+        </li>
         {% endfor %}
         </ul>
         <h3>Production Projects <span class="fa-stack fa-2x">
