@@ -2025,21 +2025,6 @@
         "meetings": 0
     },
     {
-        "name": "Bangkok",
-        "url": "https://owasp.org/www-chapter-bangkok/",
-        "created": "2023-02-02",
-        "updated": "2023-02-03",
-        "build": "built",
-        "codeurl": "https://github.com/OWASP/www-chapter-bangkok\thttps://github.com/OWASP/www-chapter-bangkok",
-        "title": "OWASP Bangkok",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
         "name": "Bangued",
         "url": "https://owasp.org/www-chapter-bangued/",
         "created": "2021-08-03",
@@ -2287,21 +2272,6 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Chattanooga",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
-        "name": "Comsats University",
-        "url": "https://owasp.org/www-chapter-comsats-university/",
-        "created": "2023-01-12",
-        "updated": "2023-01-20",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Comsats University - Student Chapter",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -4830,6 +4800,21 @@
         "meetings": 0
     },
     {
+        "name": "Bangkok",
+        "url": "https://owasp.org/www-chapter-bangkok/",
+        "created": "2023-02-02",
+        "updated": "2023-02-28",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-bangkok\thttps://github.com/OWASP/www-chapter-bangkok",
+        "title": "OWASP Bangkok",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "meetings": 0
+    },
+    {
         "name": "Bbditm",
         "url": "https://owasp.org/www-chapter-bbditm/",
         "created": "2023-01-24",
@@ -5052,6 +5037,21 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Colombo-Chapter",
+        "meetings": 0
+    },
+    {
+        "name": "Comsats University",
+        "url": "https://owasp.org/www-chapter-comsats-university/",
+        "created": "2023-01-12",
+        "updated": "2023-01-20",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Comsats University - Student Chapter",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
         "meetings": 0
     },
     {
