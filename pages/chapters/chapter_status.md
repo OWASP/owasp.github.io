@@ -13,7 +13,7 @@ Jump to
 * [Last Update](#last-update)
 * [Inactive](#inactive)
 
-{% assign active_chapters = site.data.chapters | where_exp: "item", "item.built != 'no pages'" %}
+{% assign active_chapters = site.data.chapters | where_exp: "item", "item.build != 'no pages'" %}
 
 ### Total Active OWASP Chapters: {{ active_chapters.size }}
 
