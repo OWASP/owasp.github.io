@@ -13,8 +13,10 @@ Jump to
 * [Last Update](#last-update)
 * [Inactive](#inactive)
 
+{% assign active_chapters = site.data.chapters | where: 'build', 'built' %}
 
-### Total OWASP Chapters: {{ site.data.chapters.size }}
+### Total Active OWASP Chapters: {{ active_chapters.size }}
+
 
 ----
 <section id='new'></section>
