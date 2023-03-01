@@ -69,21 +69,11 @@ Our new Corporate Membership program implements improved rotation for Platinum a
 
 ### Social Media Recognition
 
-We will share your Corporate Membership regularly with our 300k+ followers:
-
-- Platinum 4/month
-- Gold 2/month
-- Silver 1/month
-
-We ask that Corporate Members do not market directly to our members but work with us to establish a partnership or member benefit instead.
+Your company will be recognized for supporting the OWASP Foundation as a Corporate Member on the OWASP social media platforms.
 
 ### Early access to Global AppSec Sponsorship
 
-Global AppSec Corporate Event Sponsorship packages are usually entirely sold out very quickly. You might miss out on your preferred location or desired [Corporate Sponsorship package](/corporate-sponsorships). This Platinum Corporate Membership benefit gives early access to the best packages, prime locations, and the best-sized booths. 
-
-### News article upon signing
-
-We will work with our Platinum and Gold Corporate Members to publish a short news article for the OWASP.org news content about your organization becoming an OWASP Corporate Member. We encourage you to turn the copy into a press release or put it in your marketing.
+Global AppSec Event Sponsorships are usually entirely sold out very quickly. You might miss out on your preferred location or desired package. The Platinum Corporate Membership benefit gives early access to the best packages, prime locations, and the best-sized booths. 
 
 ### Global AppSec Corporate Event Sponsorship Subsidy
 
