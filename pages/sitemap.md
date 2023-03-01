@@ -42,7 +42,8 @@ permalink: /sitemap/
   <li><h2>Who are we?</h2></li>
   <li><a href="/about/">About OWASP</a></li>
   <li><a href="/news/">News</a></li>
-  <li><a href="/corporate/">Board & Staff</a></li>
+  <li><a href="/www-board/#div-board">Board</a></li>
+  <li><a href="/corporate/">Staff</a></li>
   <li><a href="/www-staff/budget/2020">Budget for 2020</a></li>  
   <li><a href="/careers/">Careers</a></li>
   <li><a href="/finance/">Finance</a></li>
