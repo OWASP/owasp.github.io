@@ -3,13 +3,12 @@
 	<li>Grow your network</li>
         <li>OWASP chapter meetings, regional and global events</li>
         <li>Training and event discounts</li>
-        <li>OWASP chapter meetings, regional and global events</li>
-	<li>A vote in our OWASP Global Board elections</li>
+      	<li>A vote in our OWASP Global Board elections</li>
 	<li>Employment opportunities</li>
         <li>Meaningful volunteer opportunities</li>
         <li>Give back and advance software security with an OWASP project</li>
 	<li><a href="https://members.owasp.org/">Membership Portal</a> accessible only with owasp.org address.</li>
-        <li>Google Workspace account</li>
+        <li>Google Workspace account for term of membership. - OWASP.org account.</li>
       </ul>		
  <p>Vendor provided benefits to individual members:</p>
       <ul>
