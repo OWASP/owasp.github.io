@@ -4,14 +4,10 @@ layout: home
 title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
 tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vulnerability Assessment
+spnews: False
 
 ---
-{% assign spnews_exists = False %}
-{% for file in site.static_files %}
-{% if file.name contains '_includes/specialnews.md' %}
-{% assign spnews_exists = True %}
-{% endif %}
-{% endfor %}
+
 <!-- Rebuild Site Tag 183 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
@@ -34,6 +30,9 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 </section>
 
 <hr>
+{% if page.spnews %}
+{% include specialnews.md %}
+{% endif %}
 
 <section class="homepage-project">
  {% capture my_include %}{% include featured_project.md %}{% endcapture %}
@@ -60,4 +59,4 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 
 {% include news-events.html %}
 
-{% comment %}{% include specialnews.md %}{% endcomment %}
+
