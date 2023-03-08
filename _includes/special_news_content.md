@@ -10,7 +10,7 @@ Last year, Jim went above and beyond to continue his selfless support for the OW
 
 Training sessions were rotated around the globe to accommodate all time zones, and although it was a virtual training, it was presented live. Students could chat with each other and Jim and ask questions in real-time.
 
-On behalf of the OWASP Foundation,  thank you, Jim, for your continued support throughout the years, specifically in 2022.
+On behalf of the OWASP Foundation,  thank you, Jim, for your continued support throughout the years, especially in 2022.
 
 
 Watch for more OWASP Virtual Training courses coming to you in 2023.
