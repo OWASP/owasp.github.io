@@ -801,10 +801,10 @@
   sponsor: -1
   name: GitGuardian
   sortname: GitGuardian
-  membertype: 3
-  image: /assets/images/corp-member-logo/GitGuardian_Logo_Vertical.png
+  membertype: 4
+  image: /assets/images/corp-member-logo/GitGuardian.png
   url: http://gitguardian.com
-  description: 	GitGuardian is the code security platform for the DevOps generation. With automated secrets detection and remediation, our platform enables Dev, Sec, and Ops to advance together towards the Secure Software Development Lifecycle.
+  description: 	GitGuardian is a global cybersecurity startup focusing on code security solutions for the DevOps generation. A leader in the market of secrets detection and remediation, its solutions are already used by hundred thousands developers in all industries. GitGuardian helps developers, cloud operation, security and compliance professionals secure software development, define and enforce policies consistently and globally across all their systems. GitGuardian solutions monitor public and private repositories in real-time, detect secrets, sensitive files, IaC misconfigurations and alert to allow investigation and quick remediation.
 - member: true
   sponsor: -1
   name: Resurface Labs Inc.
