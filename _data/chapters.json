@@ -2044,7 +2044,7 @@
         "url": "https://owasp.org/www-chapter-belgrade/",
         "created": "2023-02-09",
         "updated": "2023-02-09",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Belgrade",
         "level": "-1",
@@ -2602,21 +2602,6 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Irbid",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
-        "name": "Jct College Of Engineering And Technology",
-        "url": "https://owasp.org/www-chapter-jct-college-of-engineering-and-technology/",
-        "created": "2023-03-07",
-        "updated": "2023-03-07",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP JCT College of Engineering and Technology",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -5550,6 +5535,21 @@
         "meetings": 0
     },
     {
+        "name": "Jct College Of Engineering And Technology",
+        "url": "https://owasp.org/www-chapter-jct-college-of-engineering-and-technology/",
+        "created": "2023-03-07",
+        "updated": "2023-03-07",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP JCT College of Engineering and Technology",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "meetings": 0
+    },
+    {
         "name": "Jeddah",
         "url": "https://owasp.org/www-chapter-jeddah/",
         "created": "2020-06-23",
@@ -6011,7 +6011,7 @@
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
-        "meetup-group": "OWASP-Mumbai-Chapter",
+        "meetup-group": "owasp-mumbai-chapter",
         "meetings": 0
     },
     {
