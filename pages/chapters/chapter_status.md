@@ -83,8 +83,8 @@ Jump to
 ----
 <section id='needs_update'></section>
 
-### Newly approved or re-opened chapters but not active. 
- <strong> Leaders need to create their chapter page using GitHub username and make sure the template is removed for the system to move to the active chapter list.</strong>
+### New and Reactivated chapters that MUST be activated within 30 days. 
+ <strong> Log in with GitHub user ID to create the OWASP chapter page. The index file template MUST be removed for the chapter to become active. </strong>
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 
