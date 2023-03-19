@@ -3060,21 +3060,6 @@
         "meetings": 0
     },
     {
-        "name": "Patna",
-        "url": "https://owasp.org/www-chapter-patna/",
-        "created": "2021-07-27",
-        "updated": "2023-03-15",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Patna",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "meetings": 0
-    },
-    {
         "name": "Perth",
         "url": "https://owasp.org/www-chapter-perth/",
         "created": "2019-09-12",
@@ -5118,7 +5103,7 @@
         "name": "Dhaka",
         "url": "https://owasp.org/www-chapter-dhaka/",
         "created": "2019-09-12",
-        "updated": "2022-08-03",
+        "updated": "2023-03-18",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Dhaka",
@@ -6162,6 +6147,21 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "",
+        "meetings": 0
+    },
+    {
+        "name": "Patna",
+        "url": "https://owasp.org/www-chapter-patna/",
+        "created": "2021-07-27",
+        "updated": "2023-03-15",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Patna",
+        "level": "layout: col-sidebar",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-patna",
         "meetings": 0
     },
     {
