@@ -13,7 +13,7 @@ permalink: /events/career_fair/
 
 Attendee Registration - Coming Soon!
 
-Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our two 2023 Career Fairs! 
+Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our two 2023 Career Fairs! September 28 6am-6pm EDT and October 11 6am-6pm SGT.
 <br><br>
 OWASP's next virtual Career Fair will deliver a highly interactive environment for you to engage with recruiters, many Fortune 500 computer software and information companies in the cybersecurity field. 
 <br><br>
