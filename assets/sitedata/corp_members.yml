@@ -578,13 +578,6 @@
   image: /assets/images/corp-member-logo/symantec.png
   url: https://www.symantec.com/	
   description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."
-- member: false	
-  sponsor: 4	
-  name: Synopsys	
-  sortname: Synopsys
-  image: /assets/images/corp-member-logo/synopsys.png	
-  url: https://www.synopsys.com/	
-  description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.	
 - member: false
   sponsor: 4 	
   name: Tala Security	
@@ -1218,3 +1211,27 @@
       anti-tamper techniques. Applications built using Digital.ai Application Security are thus protected from reverse-engineering, piracy, 
       and app-cloning. Digital.ai also provides a means to monitor the applications that enterprises create and a means to react to attacks on 
       apps with Runtime Application Self Protection (RASP).
+- member: true
+  sponsor: 1
+  name: Arnica
+  sortname: Arnica
+  membertype: 3
+  image: /assets/images/corp-member-logo/Arnica.png
+  url: https://www.arnica.io
+  description: Arnica integrates across your software supply chain and provides the necessary context, prioritization, ownership, and actionability to proactively mitigate risks. In addition to providing complete reports around code risk, excessive permissions, vulnerable dependencies, code repository misconfigurations, anomalous developer behavior, and more, Arnica’s pipelineless approach eliminates these risks in a blameless and shameless way by interacting directly with the developers in real-time to stop any new risks from entering your source code while also helping resolve your risks backlog. 
+- member: true
+  sponsor: -1
+  name: Cydrill
+  sortname: Cydrill
+  membertype: 4
+  image: /assets/images/corp-member-logo/Cydrill_logo_black_slogen.png
+  url: 	https://cydrill.com/
+  description: The biggest threat to corporate cybersecurity is your own developers' blind spots. Programmers tend to focus mainly on functionality and UX, causing the emphasis on secure development to be lost or become an afterthought. We believe that each line of code should be crafted with security in mind, naturally enhancing application resilience. Cydrill's award-winning training program and e-learning environment equip your developers with the secure code best practices to ensure they beat hackers at their own game. Cydrill’s blended learning journey combining instructor-led training, e-learning, hands-on labs, and gamification offers up-skilling from start-ups to Fortune 500 companies worldwide. Code responsibly!
+- member: true
+  sponsor: -1
+  name: Synopsys
+  sortname: Synopsys
+  membertype: 4
+  image: /assets/images/corp-member-logo/Synopsyslogocmky72_1.png
+  url: https://www.synopsys.com/software-integrity.html
+  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
