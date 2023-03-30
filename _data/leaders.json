@@ -1926,14 +1926,14 @@
     },
     {
         "name": "Ton Yeung",
-        "email": "tonyeung85@gmail.com",
+        "email": "ton.yeung@owasp.org",
         "group": "OWASP Houston",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-houston/"
     },
     {
         "name": "David Busby",
-        "email": "dbusby3@gmail.com",
+        "email": "david.busby@owasp.org",
         "group": "OWASP Houston",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-houston/"
@@ -7785,7 +7785,14 @@
     },
     {
         "name": "Lütfü Mert Ceylan",
-        "email": "info@lutfumertceylan.com.tr",
+        "email": "lutfu.mertceylan@owasp.org",
+        "group": "OWASP Top 25 Parameters",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-25-parameters/"
+    },
+    {
+        "name": "TR Bug Hunters Community",
+        "email": "https://twitter.com/trbughunters",
         "group": "OWASP Top 25 Parameters",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-25-parameters/"
