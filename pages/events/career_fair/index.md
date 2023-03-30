@@ -9,7 +9,7 @@ permalink: /events/career_fair/
 ![CareerFairLogo](/assets/images/CareerFair.png)
 
 
-[Exhibitor Opportunities](/assets/images/OWASP_CareerFair_2023.pdf)
+[Recruiter Opportunities](/assets/images/OWASP_CareerFair_2023.pdf)
 
 Attendee Registration - Coming Soon!
 <br><br>
