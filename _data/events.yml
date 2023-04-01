@@ -1,22 +1,22 @@
 - category: Global
   description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
   events:
-    - name: OWASP Global AppSec Dublin 2023
-      start-date: 2023-02-13
-      dates: February 13-16, 2023
-      url: https://dublin.globalappsec.org/
-      optional-text: Join us in-person in Dublin for two days of training followed by two conference days with multiple tracks.
-    - name: OWASP Global AppSec Washington DC 2023
-      start-date: 2023-10-29
-      dates: October 29 - November 2, 2023
+    - name: OWASP Global AppSec Singapore 2023
+      start-date: 2023-10-03
+      dates: October 4-5, 2023
       #url:
-      optional-text: Join us in Washington, DC for two confernce days offering multiple tracks followed by three days of training courses.
+      optional-text: Save the date! Join us in Singapore for one day of training and one conference day offering multiple tracks. More details coming soon!
+    - name: OWASP Global AppSec Washington DC 2023
+      start-date: 2023-10-30
+      dates: October 30 - November 3, 2023
+      url: https://dc.globalappsec.org/
+      optional-text: Join us at the Marriott Marquis Washington, DC for two conference days offering multiple tracks **followed** by three days of training courses. Call for Volunteers is open. Second round of Call for Papers is open until May 5. Exhibitor and Sponsorship opportunities are available.
     - name: OWASP Global AppSec San Francisco 2024
       start-date: 2024-09-23
       dates: September 23-27, 2024
       #url:
       #optional-text:
-    - name: OWASP Global AppSec Washignton DC 2025
+    - name: OWASP Global AppSec Washington DC 2025
       start-date: 2025-11-03
       dates: November 3-7, 2025
       #url:
@@ -29,32 +29,49 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP 2023 SnowFROC 
-      start-date: 2023-03-02
-      dates: March 2, 2023
-      url: https://snowfroc.com/
     - name: OWASP 2023 BASC
       start-date: 2023-04-01
       dates: April 1, 2023
-      url:
+      url: https://www.basconf.org/home
     - name: AppSec Israel 2023
-      start-date: 2023-05-15
-      dates: May 15-16, 2023
+      start-date: 2023-05-16
+      dates: May 16-17, 2023
       url: https://appsecil.org/
-    - name: AppSec Days Germany
-      start-date: 2023-06-05
-      dates: June 5-6, 2023
+    - name: German OWASP Day (GOD) 2023
+      start-date: 2023-05-30
+      dates: May 30-31, 2023
       url: https://god.owasp.de/2023/
     - name: AppSec Days Pacific Northwest
       start-date: 2023-06-10
       dates: June 10, 2023
       url: https://www.appsecpnw.org/
+    - name: OWASP Virtual Career Fair 6am-6pm EDT
+      start-date: 2023-09-28
+      dates: September 28, 2023
+      url: https://owasp.org/events/career_fair/
+    - name: OWASP Virtual Career Fair 6am-6pm SGT
+      start-date: 2023-10-11
+      dates: October 11, 2023
+      url: https://owasp.org/events/career_fair/
+    - name: OWASP LASCON
+      start-date: 2023-10-24
+      dates: October 24-27, 2023
+      url: https://lascon.org/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
+    - name:  DevOps Asia Summit 2023
+      start-date:  2023-07-28
+      dates:  July 28, 2023
+      url:  https://devopsasiasummit.com/
     - name:  Top Women in Security Asean Region Awards
       start-date:  2023-03-01
       dates:  March 2023
       url:  https://womeninsecurityaseanregion.com/
+    - name: RSA Conference 2023
+      start-date: 2023-04-24
+      dates: April 24-27, 2023
+      url: https://www.rsaconference.com/usa
+      optional-text: Discount code for $150 off Full Passes - 1U3OWASPFD
       
     

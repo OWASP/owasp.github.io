@@ -13,8 +13,10 @@ Jump to
 * [Last Update](#last-update)
 * [Inactive](#inactive)
 
+{% assign active_chapters = site.data.chapters | where_exp: "item", "item.build != 'no pages'" %}
 
-### Total OWASP Chapters: {{ site.data.chapters.size }}
+### Total Active OWASP Chapters: {{ active_chapters.size }}
+
 
 ----
 <section id='new'></section>
@@ -32,9 +34,9 @@ Jump to
     {% assign cmonth = cmonth | plus: 0 %}
     {% assign testmonth = month | minus: cmonth %}
     {% assign testyear = year | minus: 1 %}
-    {% if cyear == year and testmonth  < 2 %} 
+    {% if cyear == year and testmonth  < 2 and chapter.build != 'no pages' %} 
         <li><a href='{{ chapter.url }}'>{{ chapter.created }}, {{ chapter.title }}</a></li>
-    {% elsif month <= 2 and cyear == testyear and cmonth >= 11 %}
+    {% elsif month <= 2 and cyear == testyear and cmonth >= 11 and chapter.build != 'no pages' %}
         <li><a href='{{ chapter.url }}'>{{ chapter.created }}, {{ chapter.title }}</a></li>
     {% endif %}
 {% endfor %}
@@ -81,7 +83,8 @@ Jump to
 ----
 <section id='needs_update'></section>
 
-### Needs Website Update (has not been updated to remove default info)
+### New and Reactivated chapters that MUST be activated within 30 days. 
+ <strong> Log in with GitHub user ID to create the OWASP chapter page. The index file template MUST be removed for the chapter to become active. </strong>
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 

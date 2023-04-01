@@ -24,9 +24,9 @@ The CycloneDX Core Working Group which maintains the standard put out a call for
 
 ## About the OWASP Foundation
 
-The Open Web Application Security Project (OWASP) is a nonprofit organization that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. To learn more or to become a member, visit [https://owasp.org](https://owasp.org).
+The Open Worldwide Application Security Project (OWASP) is a nonprofit organization that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. To learn more or to become a member, visit [https://owasp.org](https://owasp.org).
 
-OWASP and the Open Web Application Security Project are trademarks of the OWASP Foundation.
+OWASP and the Open Worldwide Application Security Project are trademarks of the OWASP Foundation.
 
 ## About CycloneDX
 

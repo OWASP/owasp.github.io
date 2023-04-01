@@ -4,15 +4,11 @@ layout: home
 title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
 tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vulnerability Assessment
+spnews: True
 
 ---
-{% assign spnews_exists = False %}
-{% for file in site.static_files %}
-{% if file.name contains '_includes/specialnews.md' %}
-{% assign spnews_exists = True %}
-{% endif %}
-{% endfor %}
-<!-- Rebuild Site Tag 181 -->
+
+<!-- Rebuild Site Tag 183 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
   <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
@@ -22,7 +18,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 
 <section class="homepage-welcome">
   <h1>Who is the OWASP<sup>&reg;</sup> Foundation?</h1>
-  <p>The Open Web Application Security Project<sup>&reg;</sup> (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
+  <p>The Open Worldwide Application Security Project<sup>&reg;</sup> (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
 
 <ul>
 <li>Tools and Resources</li>
@@ -34,6 +30,9 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 </section>
 
 <hr>
+{% if page.spnews %}
+{% include specialnews.md %}
+{% endif %}
 
 <section class="homepage-project">
  {% capture my_include %}{% include featured_project.md %}{% endcapture %}
@@ -60,4 +59,4 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 
 {% include news-events.html %}
 
-{% comment %}{% include specialnews.md %}{% endcomment %}
+

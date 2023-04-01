@@ -7,7 +7,7 @@ title: Corporate Supporters
 
 ![Attendees at a Global AppSec Conference](/assets/images/web/global-conference.png)
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programming includes:
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. Our programming includes:
 
 - Community-led open source software projects
 - Over 200+ local chapters worldwide

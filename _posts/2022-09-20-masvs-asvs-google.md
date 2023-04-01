@@ -16,7 +16,7 @@ Over the years, Google has continually leveraged OWASP internally as well as ext
 
 ## Background to the OWASP ASVS and MASVS
 
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software by providing resources for developers and security professionals. This happens through free-to-access chapter meetups spread across the globe as well as a variety of volunteer-led, open source projects. As part of OWASP’s ethos of integrity, OWASP’s activities including projects are vendor-neutral and steered by the project leaders, independent of outside influences.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software by providing resources for developers and security professionals. This happens through free-to-access chapter meetups spread across the globe as well as a variety of volunteer-led, open source projects. As part of OWASP’s ethos of integrity, OWASP’s activities including projects are vendor-neutral and steered by the project leaders, independent of outside influences.
 
 The first versions of the OWASP ASVS and MASVS projects were released in 2009 and 2018, respectively, and aim to provide comprehensive standards for developing secure web applications and mobile applications.
 
