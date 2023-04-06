@@ -665,6 +665,27 @@
         "group_url": "https://owasp.org/www-chapter-brainware-university/"
     },
     {
+        "name": "Anderson Alves",
+        "email": "anderson.alves@owasp.org",
+        "group": "OWASP Brasilia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brasilia/"
+    },
+    {
+        "name": "Antony Leite",
+        "email": "antony.leite@owasp.org",
+        "group": "OWASP Brasilia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brasilia/"
+    },
+    {
+        "name": "Felipe Moraes",
+        "email": "felipe.moraes@owasp.org",
+        "group": "OWASP Brasilia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brasilia/"
+    },
+    {
         "name": "Titus Balan",
         "email": "titus.balan@owasp.org",
         "group": "OWASP Brasov",
@@ -1519,8 +1540,8 @@
         "group_url": "https://owasp.org/www-chapter-erode/"
     },
     {
-        "name": "Monish Kumar R",
-        "email": "monish.kumar@owasp.org",
+        "name": "Nandhini Vadivel",
+        "email": "nandhini.vadivel@owsp.org",
         "group": "OWASP Erode",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-erode/"
@@ -6020,6 +6041,13 @@
         "group_url": "https://owasp.org/www-project-ctf/"
     },
     {
+        "name": "Christoph Niehoff",
+        "email": "christoph.niehoff@tngtech.com",
+        "group": "OWASP Cumulus",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cumulus/"
+    },
+    {
         "name": "Liran Tal",
         "email": "liran.tal@gmail.com",
         "group": "OWASP CWE Toolkit",
@@ -6102,6 +6130,13 @@
         "group": "OWASP Damn Vulnerable Web Sockets",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-damn-vulnerable-web-sockets/"
+    },
+    {
+        "name": "Brian Glas",
+        "email": "brian.glas@owasp.org",
+        "group": "OWASP Data Analysis Visualization and Ingestion Domain",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-data-analysis-visualization-and-ingestion-domain/"
     },
     {
         "name": "Ovidiu Cical",
@@ -6783,6 +6818,13 @@
         "group_url": "https://owasp.org/www-project-lock-it/"
     },
     {
+        "name": "Sagar Bhure",
+        "email": "sagar.bhure@owasp.org",
+        "group": "OWASP Machine Learning Minefield",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-machine-learning-minefield/"
+    },
+    {
         "name": "Abraham Kang",
         "email": "abraham.kang@owasp.org",
         "group": "OWASP Machine Learning Security Top Ten",
@@ -6865,6 +6907,13 @@
         "group": "OWASP Mobile Application Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-mobile-app-security/"
+    },
+    {
+        "name": "Yoshiaki Yasuda",
+        "email": "yoshiaki.yasuda@lac.co.jp",
+        "group": "OWASP Mobile Application Security Design Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mobile-application-security-design-guide/"
     },
     {
         "name": "Monica Pastor",
