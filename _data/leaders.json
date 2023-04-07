@@ -1841,6 +1841,27 @@
         "group_url": "https://owasp.org/www-chapter-gwalior/"
     },
     {
+        "name": "Kashyap Patel",
+        "email": "kashyap.patel@owasp.org",
+        "group": "OWASP Halifax",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-halifax/"
+    },
+    {
+        "name": "Abhishek Kumar",
+        "email": "abhishek.kumar@owasp.org",
+        "group": "OWASP Halifax",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-halifax/"
+    },
+    {
+        "name": "Heta Thakor",
+        "email": "heta.thakor@owasp.org",
+        "group": "OWASP Halifax",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-halifax/"
+    },
+    {
         "name": "Pete Dayok",
         "email": "pete.dayok@owasp.org",
         "group": "OWASP Harrisburg PA",
@@ -6561,7 +6582,7 @@
     {
         "name": "Swaroop Yermalkar",
         "email": "swaroop.yermalker@owasp.org",
-        "group": "OWASP Igoat Tool",
+        "group": "OWASP iGoat Tool",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-igoat-tool/"
     },
@@ -6734,13 +6755,6 @@
         "group_url": "https://owasp.org/www-project-jupiter/"
     },
     {
-        "name": "Milton Smith",
-        "email": "milton.smith@owasp.org",
-        "group": "OWASP jvmxray",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-jvmxray/"
-    },
-    {
         "name": "Bev Corwin",
         "email": "bev.corwin@owasp.org",
         "group": "OWASP Knowledge Based Authentication Performance Metrics",
@@ -6846,6 +6860,13 @@
         "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
     },
     {
+        "name": "Sagar Bhure",
+        "email": "sagar.bhure@owasp.org",
+        "group": "OWASP Machine Learning Security Top Ten",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
+    },
+    {
         "name": "Saeed Dehghan",
         "email": "saeed.dehghan@owasp.org",
         "group": "OWASP Maryam",
@@ -6907,13 +6928,6 @@
         "group": "OWASP Mobile Application Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-mobile-app-security/"
-    },
-    {
-        "name": "Yoshiaki Yasuda",
-        "email": "yoshiaki.yasuda@lac.co.jp",
-        "group": "OWASP Mobile Application Security Design Guide",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-mobile-application-security-design-guide/"
     },
     {
         "name": "Monica Pastor",
@@ -7082,13 +7096,6 @@
         "group": "OWASP OWTF",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-owtf/"
-    },
-    {
-        "name": "Cam Morris",
-        "email": "cam.morris@owasp.org",
-        "group": "OWASP Passfault",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-passfault/"
     },
     {
         "name": "Daniel Garcia (cr0hn)",
