@@ -26,7 +26,7 @@ Our new packages contain many new benefits for organizations of all sizes. We wi
 - Improved: Social Media Recognition
 - Improved: News article upon signing
 - Improved: Early access to Global AppSec Sponsorship
-- Improved: Regional and Startup Corporate Members now have access to the discounted Corporate Event Sponsorship
+- Improved: Regional and Start-up Corporate Supporters now have access to the discounted Corporate Event Sponsorship
   
 ### What's staying the same
 

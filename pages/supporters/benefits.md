@@ -14,7 +14,7 @@ Our updated Corporate Supporter packages are available to anyone, with price poi
 
 ### Corporate Supporter Logo
 
-Corporate members can use our new Corporate Supporter logos on your website and marketing to demonstrate their support for OWASP. 
+Corporate Supporters can use our new Corporate Supporter logos on your website and marketing to demonstrate their support for OWASP. 
 
 ### OWASP Trademark License
 
@@ -34,7 +34,7 @@ NB: Not all chapters or projects participate in this benefit. Please get in touc
 
 ### Corporate Sponsorship of participating AppSec Days events
 
-Corporate Members can obtain early access to sponsor participating AppSec Day regional events. AppSec Days sponsorship fees vary from event to event, so please contact us for details. 
+Corporate Supporters can obtain early access to sponsor participating AppSec Day regional events. AppSec Days sponsorship fees vary from event to event, so please contact us for details. 
 
 NB: Not all AppSec Day regional events participate in this benefit. Please get in touch with us to connect you with the relevant Event Leadership team.
 
