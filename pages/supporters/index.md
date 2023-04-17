@@ -12,7 +12,7 @@ Quick Links:
 - [Packages and prices](https://owasp.org/supporters/packages)
 - [Benefits](https://owasp.org/supporters/benefits)
 - [Thank you to all our Corporate Supporters and Corporate Sponsors!](https://owasp.org/supporters/list)
-- [Become an Event Exhibitor/Sponsor](events@owasp.com)
+- [Become an Event Exhibitor/Sponsor](emailto:events@owasp.com)
 - [Make a charitable gift](https://owasp.org/donate/?reponame=owasp.github.io)
 
 ## Why become an OWASP Corporate Supporter
