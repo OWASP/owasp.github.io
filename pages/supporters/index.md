@@ -12,7 +12,7 @@ Learn about:
 - [Packages and prices](/supporters/packages)
 - [Benefits](/supporters/benefits)
 - [Corporate Supporter Migration](/supporters/migration)
-- [Thank you to all our Corporate Members and Corporate Sponsors!](/supporters/list)
+- [Thank you to all our Corporate Supporters and Corporate Sponsors!](/supporters/list)
 - [Become a Corporate Event Sponsor](../corporate-sponsorships)
 - [Make a charitable gift](/donate)
 
