@@ -13,7 +13,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
 
 {% assign supporters = site.data.corp_members | sort: 'sortname' %}
 
-<h2>Diamond Corporate Event Sponsors</h2>
+<h2>Diamond Corporate Supporters and Event Sponsors</h2>
 <ul style='list-style-type:none;     padding-inline-start: 0px;'>
 
 {% assign level = site.data.sponsor_levels | where: 'level', -1 | first %}
@@ -49,7 +49,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
 {% endfor %}
 </ul>
 
-<h2>Platinum Corporate Supporters and Sponsors</h2>
+<h2>Platinum Corporate Supporters and Event Sponsors</h2>
 
 <ul style='list-style-type:none;     padding-inline-start: 0px;'>
 {% assign level = site.data.sponsor_levels | where: 'level', -1 | first %}
@@ -102,7 +102,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
 {% endfor %}
 </ul>
 
-<h2>Gold Corporate Supporters and Sponsors</h2>
+<h2>Gold Corporate Supporters and Event Sponsors</h2>
 
 <ul style='list-style-type:none;     padding-inline-start: 0px;'>
 {% assign level = site.data.sponsor_levels | where: 'level', -1 | first %}
@@ -154,7 +154,7 @@ _Disclaimer:_ The following information is not an endorsement for any particular
     {% endif %}
 {% endfor %}
 </ul>
-<h2>Silver Corporate Supporters and Sponsors</h2>
+<h2>Silver Corporate Supporters and Event Sponsors</h2>
 
 <ul style='list-style-type:none;     padding-inline-start: 0px;'>
 {% assign level = site.data.sponsor_levels | where: 'level', -1 | first %}
