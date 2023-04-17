@@ -108,7 +108,7 @@ I think this is fairly clear and supports the above result.
 
 Basically if we take the previous three results and create a free "Leadership" membership class, Leaders cannot lead. Therefore, it doesn't make sense.
 
-### Corporate Membership results
+### Corporate Supporter results
 
 Please see the charts, but essentially, out current settings are well supported with 80.4% support.
 
