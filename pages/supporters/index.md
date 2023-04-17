@@ -7,18 +7,8 @@ site_side: true
 tags: corp-membership
 
 ---
-
-## 20th Anniversary Celebrations!
-
-We have completely refreshed our Corporate Membership program to celebrate our 20th Anniversary with some exciting new benefits and options. Here's how you can get involved.
-
-September 24, 2021 marked the OWASP's 20th Anniversary. To add to and continue with the celebration, we are running a Corporate Membership drive.
-
-Help support OWASP's mission, by becoming an [OWASP Corporate Member](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
-
 Learn about:
 
-- [What's New](/supporters/whatsnew)
 - [Packages and prices](/supporters/packages)
 - [Benefits](/supporters/benefits)
 - [Corporate Member Migration](/supporters/migration)
@@ -29,6 +19,8 @@ Learn about:
 ## Why become an OWASP Corporate Member
 
 Corporate members can show their support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
+
+Through Corporate Sponsorship, funds collected direclty support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided from corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel as well as providing for project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters. 
 
 Many of our most well-known organizations have grown their business dramatically due to being an OWASP Corporate Member and partnering with us. Our new Corporate Membership program helps you get involved with our community. 
 
