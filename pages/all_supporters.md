@@ -23,13 +23,13 @@ We are an open community dedicated to enabling organizations to conceive, develo
 There are many ways to participate and support the mission of OWASP.
 
 - Employees can participate in our [Projects](/projects) and [Local Chapters](/chapters)
-- Become a Corporate Member
+- Become a Corporate Supporter
 - Sponsor the Foundation and our Events
 - Make a [charitable gift](/donate) to the Foundation to support our ongoing work.
 
 ## Corporate Supporters
 
-Becoming a Corporate Member of the OWASP Foundation demonstrates your organization’s commitment to information security. We have Corporate Supporters plans from $800 on up, including regional discounts, startup discounts, and various tiers with increasing benefits.
+Becoming a Corporate Supporter of the OWASP Foundation demonstrates your organization’s commitment to information security. We have Corporate Supporters plans from $800 on up, including regional discounts, startup discounts, and various tiers with increasing benefits.
 
 All memberships include:
 
@@ -48,7 +48,7 @@ Organizations wishing to make contact with developers and appsec professionals, 
 
 All our [Event Sponsorship packages can be found here](https://owasp.org/corporate-sponsorships) or please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today to learn more!
 
-## Corporate Members, Sponsors & Supporters
+## Corporate Supporters & Sponsors
 
 _Disclaimer:_ The following information is not an endorsement for any particular entity and reflects the messaging of the supporter only.
 
