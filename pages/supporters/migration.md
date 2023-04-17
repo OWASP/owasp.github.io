@@ -14,7 +14,7 @@ First things first - you don't have to do anything. Depending on your current Co
 
 Simply [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) with your request, and someone will get back to you within three business days.
 
-### OWASP Corporate Membership Logo for your website
+### OWASP Corporate Supporter Logo for your website
 
 Please [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) for a OWASP Corporate Membership logo for your website. Soon, we will be branding these with metadata to indicate who they were issued with and for what period, so if you need to have the image resized or similar, please work with us to obtain the correct size with your metadata embedded.
 
