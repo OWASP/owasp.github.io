@@ -7,7 +7,7 @@ site_side: true
 tags: corp-membership
 
 ---
-Learn about:
+Quick Links:
 
 - [Packages and prices](https://owasp.org/supporters/packages)
 - [Benefits](https://owasp.org/supporters/benefits)
