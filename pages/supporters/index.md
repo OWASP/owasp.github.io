@@ -41,5 +41,5 @@ We are an open community dedicated to enabling organizations to conceive, develo
 There are many ways to participate and support the mission of OWASP
 
 - Employees can participate in our [Projects](/projects) and [Local Chapters](/chapters)
-- [Sponsor our Global Events and participating AppSec Days events](../corporate-sponsorships)
+- [Exhibit/Sponsor our Global AppSec Events and participating AppSec Days events](events@owasp.com)
 - Make a [charitable gift](/donate) to the Foundation to support our ongoing work.
