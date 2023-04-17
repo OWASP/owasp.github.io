@@ -1,24 +1,14 @@
 ---
 
 layout: col-sidebar
-title: Corporate Member Migration
+title: Corporate Supporter Migration
 permalink: /supporters/migration
 site_side: true
 tags: corp-membership
 
 ---
 
-First things first - you don't have to do anything. Depending on your current Corporate Membership package level, you will automatically receive technical improvements, such as more frequent logo display and more prominent listing in the supporters page, and more social media exposure. We have carefully designed our improved packages to continue delivering your existing benefits, or improve on them:
-
-Our previous Sponsorship agreement provided the following benefits:
-
-- Listing in rotation as Corporate Supporter site-wide on owasp.org (Improved)
-- Public acknowledgment on various other channels (Improved)
-- Up to $2,500 of your package fee can be applied towards a Global AppSec sponsorship (No change for current Corporate Members)
-- Vote in the Global Board of Directors election (No change for current Corporate Members)
-- Discounted sponsorship rates at participating events (No change for current Corporate Members)
-
-In addition to your current benefits, you are now eligible to receive the new Corporate Membership benefits at your discretion.
+First things first - you don't have to do anything. Depending on your current Corporate Supporter package level, you will automatically receive any technical improvements, such as more frequent logo display and more prominent listing in the supporters page, and more social media exposure. We have carefully designed our improved packages to continue delivering your existing benefits, or improve on them.
 
 ## I want these new benefits, what do I do?
 
@@ -44,23 +34,20 @@ Please visit [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/po
 
 ### Early access to Global AppSec Sponsorship
 
-Current Corporate Members can obtain Corporate Event Sponsorships for:
+Current Corporate Supporters can obtain Corporate Event Sponsorships for:
 
-- [OWASP's 20th Anniversary Celebrations](https://20thanniversary.owasp.org/sponsors/)
-- [Global AppSec Virtual 2021](https://usa.globalappsec.org/)
-- Opening August 15, 2021: Global AppSec Dublin (June 2022)
-- Opening October 2021: Global AppSec San Francisco (September 2022)
+- [OWASP's Global AppSec Events](https://20thanniversary.owasp.org/sponsors/](https://owasp.org/events/)
 
 Please visit our [Corporate Event Sponsorship page](/corporate-sponsorships) for more details or [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72). 
 
 ### Discounted Global AppSec Sponsorship
 
-In our previous Corporate Membership benefits package, sponsors could obtain a $2,500 discount towards Global AppSec Sponsorships. To avoid a contract variation, this will remain valid for the residual period of your membership. Please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) to obtain your Corporate Event Sponsorship package discount today.
+In our previous Corporate Supporter benefits package, sponsors could obtain a $2,500 discount towards Global AppSec Sponsorships. To avoid a contract variation, this will remain valid for the residual period of your membership. Please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) to obtain your Corporate Event Sponsorship package discount today.
 
 ### Early bird Global AppSec Registration
 
-As we open early bird registration for 2022 Global AppSec events, we will automatically send all current Corporate Members the relevant number of discount codes to your nominated address. Please distribute these codes to your staff to obtain the OWASP Member discount for the participating event. The discount codes only apply to the nominated participating event and are not valid once the early bird registration period closes. 
+As we open early bird registration for our Global AppSec events, we will automatically send all current Corporate Supporters the relevant number of discount codes to your nominated address. Please distribute these codes to your staff to obtain the OWASP Member discount for the participating event. The discount codes only apply to the nominated participating event and are not valid once the early bird registration period closes. 
 
 ### Ambassdor to vote in Global Board Elections
 
-This is an existing benefit that will continue. If you wish to participate in the election, please [submit a request to appoint your nominated ambassador](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) by no later than September 30 each year. They should use their work email address for this request to avoid confusion between your staff members who might also be individual members, and the Corporate Membership vote.
+This is an existing benefit that will continue. If you wish to participate in the election, please [submit a request to appoint your nominated ambassador](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) by no later than September 30 each year. They should use their work email address for this request to avoid confusion between your staff members who might also be individual members, and the Corporate Supporter vote.
