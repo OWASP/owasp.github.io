@@ -12,7 +12,7 @@ OWASP's updated Corporate Supporter packages now contain more benefits than ever
 
 ## Become a Corporate Supporter Today
 
-To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+To learn more please [Contact Us](mailto:events@owasp.com)today!
 
 ## Packages
 
