@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Corporate Members, Sponsors, & Supporters
+title: Corporate Supporters & Sponsors
 permalink: /supporters/list
 site_side: true
 tags: corp-membership
