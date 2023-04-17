@@ -50,7 +50,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
       <!--<div class='alert'>Lifetime Memberships are now 10% off as part of the <a href="https://20thanniversary.owasp.org">OWASP 20th Anniversary Celebration</a></div>-->
       <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
-      <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
+      <p>Would your business like to become a <a href="/supporters">Corporate Supporter</a>? </p>
       <h2>Join or Renew Now</h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
