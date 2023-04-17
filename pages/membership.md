@@ -39,7 +39,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
 
       <!-- main membership form -->
 
-      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Membership</a></h1></div>
+      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Supporter</a></h1></div>
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
       <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
 
