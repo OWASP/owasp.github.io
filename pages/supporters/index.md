@@ -34,7 +34,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 <p class="callout-mono right">Corporate support accelerates our impact. Become a Corporate Supporter today.</p>
 
-We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that individuals and organizations can trust. Our projects, tools, documents, groups, and chapters are free and open to anyone interested in improving application security. For oover two decades, corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
+We are an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that individuals and organizations can trust. Our projects, tools, documents, groups, and chapters are free and open to anyone interested in improving application security. For over two decades, corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. 
 
 ## Supporting the Foundation
 
