@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: Corporate Membership
+title: Corporate Supporter
 permalink: /supporters/
 site_side: true
-tags: corp-membership
+tags: corp-supporter
 
 ---
 Quick Links:
