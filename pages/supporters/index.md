@@ -12,7 +12,7 @@ Learn about:
 - [Packages and prices](/supporters/packages)
 - [Benefits](/supporters/benefits)
 - [Thank you to all our Corporate Supporters and Corporate Sponsors!](/supporters/list)
-- [Become a Corporate Event Sponsor](../corporate-sponsorships)
+- [Become an Event Exhibitor/Sponsor](events@owasp.com)
 - [Make a charitable gift](/donate)
 
 ## Why become an OWASP Corporate Supporter
