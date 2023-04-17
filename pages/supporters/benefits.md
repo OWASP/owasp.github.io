@@ -82,10 +82,8 @@ Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global 
 | Package | Standard | Regional | Startup | Regional Startup |
 | -- | :--: | :--: | :--: | :--: |
 | Platinum | 2,500 | 1,000 | 1,000 | 400 |
-| Gold | 2,500 | 600 | 600 | 240 |
-| Silver | 2,500 | 200 | 200 | 80 |
-
-We will honor all existing signed contracts for this benefit. After September 24 2021, the Standard discount will change to 10% of the overall package price.
+| Gold | 1,500 | 600 | 600 | 240 |
+| Silver | 500 | 200 | 200 | 8 |
 
 ### Ambassador for OWASP Board of Directors election vote
 
