@@ -62,11 +62,11 @@ OWASP has three Corporate Supporter packages:
 
 ### What are Regional Corporate Supporters?
 
-One of OWASP's core values, which drives our mission, is that "anyone around the world is encouraged to participate in the OWASP community." The financial burden of standard Corporate Membership pricing in countries with emerging or developing economies can be a barrier to participation. OWASP offers affordable Regional Corporate Memberships to companies headquartered in emerging and developing economies.
+One of OWASP's core values, which drives our mission, is that "anyone around the world is encouraged to participate in the OWASP community." The financial burden of standard Corporate Supporter pricing in countries with emerging or developing economies can be a barrier to participation. OWASP offers affordable Regional Corporate Supporter rates for companies headquartered in emerging and developing economies.
 
-Companies whose headquarters are based in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate membership.
+Companies whose headquarters are based in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate supporter packages.
 
-The OWASP Foundation may grant Regional Corporate Membership at its sole discretion after obtaining additional information.
+The OWASP Foundation may grant a Regional Corporate Supporter at its sole discretion after obtaining additional information.
 
 ### What are Start-up Corporate Supporters?
 

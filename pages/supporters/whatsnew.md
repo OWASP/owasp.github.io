@@ -8,7 +8,7 @@ tags: corp-membership
 
 ---
 
-Our new packages contain many new benefits for organizations of all sizes. We will work with you to understand your requirements to determine the best Corporate Membership package that meets your needs. [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today to learn more or become a Corporate Member!
+Our new packages contain many new benefits for organizations of all sizes. We will work with you to understand your requirements to determine the best Corporate Supporter package that meets your needs. [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today to learn more or become a Corporate Member!
 
 ## New benefits
 
@@ -30,13 +30,13 @@ Our new packages contain many new benefits for organizations of all sizes. We wi
   
 ### What's staying the same
 
-All of our prior benefits are available unchanged or improved without any action required by current Corporate Members.
+All of our prior benefits are available unchanged or improved without any action required by current Corporate Supporters.
 
 - Ambassador for OWASP Board of Directors election vote
 
 ### Migration plan
 
-Current Corporate Members do not need to take any action or adopt any of these new benefits. However, we are making the new benefits available to Existing members. For more details, please see the [detailed migration page](/supporters/migration).
+Current Corporate Supporters do not need to take any action or adopt any of these new benefits. However, we are making the new benefits available to existing members. For more details, please see the [detailed migration page](/supporters/migration).
 
 
 

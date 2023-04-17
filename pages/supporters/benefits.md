@@ -14,7 +14,7 @@ Our updated Corporate Supporter packages are available to anyone, with price poi
 
 ### Corporate Supporter Logo
 
-Corporate members can use our new Corporate Membership logos on your website and marketing to demonstrate their support for OWASP. 
+Corporate members can use our new Corporate Supporter logos on your website and marketing to demonstrate their support for OWASP. 
 
 ### OWASP Trademark License
 
