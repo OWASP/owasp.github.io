@@ -34,11 +34,11 @@ Please visit [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/po
 
 ### Early access to Global AppSec Sponsorship
 
-Current Corporate Supporters can obtain Corporate Event Sponsorships for:
+Current Corporate Supporters can obtain discounted Corporate Event exhibitor packages for:
 
-- [OWASP's Global AppSec Events](https://20thanniversary.owasp.org/sponsors/](https://owasp.org/events/)
+- All Global AppSec events as well as selected AppSec Day events
 
-Please visit our [Corporate Event Sponsorship page](/corporate-sponsorships) for more details or [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72). 
+Please visit our [OWASP Events](https://owasp.org/events/) page for a complete listing of our upcoming events. 
 
 ### Discounted Global AppSec Sponsorship
 
