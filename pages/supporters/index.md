@@ -17,7 +17,7 @@ Quick Links:
 
 ## Why become an OWASP Corporate Supporter
 
-Corporate Supporters can show their support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
+Corporate Supporters can show their support for our mission and programs, reaching an audience of over 500,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to thousands of OWASP financial members. 
 
 Through Corporate Sponsorship, funds collected direclty support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided from corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel as well as providing for project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters. 
 
@@ -28,8 +28,8 @@ Many of our most well-known organizations have grown their business dramatically
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve software security. Our programming includes:
 
 - Community-led open source software projects
-- Over 250+ local chapters worldwide
-- Tens of thousands of participants, 4500+ financial members
+- Hundreds of local chapters worldwide
+- Tens of thousands of participants, thousands of financial members
 - Industry-leading educational and training conferences
 
 <p class="callout-mono right">Corporate support accelerates our impact. Become a Corporate Supporter today.</p>
