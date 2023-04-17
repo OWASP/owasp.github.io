@@ -19,7 +19,7 @@ Quick Links:
 
 ## Why become an OWASP Corporate Supporter
 
-Through Corporate Sponsorship, funds collected direclty support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided from corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel as well as providing for project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters, etc.
+Through Corporate Sponsorship, funds collected directly support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided from corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel as well as providing for project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters, etc.
 
 Many of our most well-known organizations have grown their business dramatically due to being an OWASP Corporate Supporters and partnering with us. Our updated Corporate Supporter packages provide you the opportunity to get involved with the OWASP community. 
 
