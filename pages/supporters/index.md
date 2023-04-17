@@ -16,9 +16,9 @@ Learn about:
 - [Become a Corporate Event Sponsor](../corporate-sponsorships)
 - [Make a charitable gift](/donate)
 
-## Why become an OWASP Corporate Member
+## Why become an OWASP Corporate Supporter
 
-Corporate members can show their support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
+Corporate Supporters can show their support for our mission and programs, reaching an audience of over 300,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to over 4500 OWASP financial members. 
 
 Through Corporate Sponsorship, funds collected direclty support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided from corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel as well as providing for project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters. 
 
