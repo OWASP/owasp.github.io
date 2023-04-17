@@ -7,7 +7,7 @@ site_side: true
 tags: corp-supporter
 
 ---
-Corporate Supporters can show their support for our mission and programs, reaching an audience of over 500,000 participants on social media, millions of monthly site visits, and optionally, provide member benefits to thousands of OWASP financial members. 
+Corporate Supporters can show their support for our mission and programs, reaching an audience of over 500,000 participants on social media, millions of monthly site visits, and optionally providing member benefits to thousands of OWASP financial members. 
 
 Quick Links:
 
@@ -19,9 +19,9 @@ Quick Links:
 
 ## Why become an OWASP Corporate Supporter
 
-Through Corporate Sponsorship, funds collected directly support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided from corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel as well as providing for project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters, etc.
+Through Corporate Sponsorship, funds collected directly support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided by corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel, as well as providing project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters,d allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters, etc.
 
-Many of our most well-known organizations have grown their business dramatically due to being an OWASP Corporate Supporters and partnering with us. Our updated Corporate Supporter packages provide you the opportunity to get involved with the OWASP community. 
+Many of our most well-known organizations have grown their business dramatically by being an OWASP Corporate Supporter and partnering with us. Our updated Corporate Supporter packages provide you the opportunity to get involved with the OWASP community. 
 
 ![Attendees at a Global AppSec Conference](/assets/images/web/global-conference.png)
 
