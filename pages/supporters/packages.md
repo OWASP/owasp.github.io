@@ -46,7 +46,7 @@ OWASP has three Corporate Supporter packages:
 
 | ![Gold](/assets/images/corp-membership-icons/OWASP_Tier_icons_Gold.svg) | Gold Price |
 | ----------------------------------------------------------------------- | :--------: |
-| Gold                                                                    |  \$15,000  |
+| Gold Standard                                                           |  \$15,000  |
 | Gold Regional                                                           |  \$6,000   |
 | Gold Startup                                                            |  \$6,000   |
 | Gold Regional Startup                                                   |  \$2,400   |
@@ -55,7 +55,7 @@ OWASP has three Corporate Supporter packages:
 
 | ![Silver](/assets/images/corp-membership-icons/OWASP_Tier_icons_Silver.svg) | Silver Price |
 | --------------------------------------------------------------------------- | :----------: |
-| Silver                                                                      |   \$5,000    |
+| Silver Standard                                                             |   \$5,000    |
 | Silver Regional                                                             |   \$2,000    |
 | Silver Startup                                                              |   \$2,000    |
 | Silver Regional Startup                                                     |    \$800     |
