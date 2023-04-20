@@ -238,6 +238,27 @@
         "group_url": "https://owasp.org/www-chapter-bangkok/"
     },
     {
+        "name": "Sharib Ahmad",
+        "email": "sharib.ahmad@owasp.org",
+        "group": "OWASP Barasat",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-barasat/"
+    },
+    {
+        "name": "Debmalya Dey",
+        "email": "debmalya.dey@owasp.org",
+        "group": "OWASP Barasat",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-barasat/"
+    },
+    {
+        "name": "Nishan Mondal",
+        "email": "nishan.mondal@owasp.org",
+        "group": "OWASP Barasat",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-barasat/"
+    },
+    {
         "name": "Prashant KV",
         "email": "kvprashant@owasp.org",
         "group": "OWASP Bay Area",
@@ -2989,6 +3010,20 @@
         "group_url": "https://owasp.org/www-chapter-maribor/"
     },
     {
+        "name": "Shereen Gustad",
+        "email": "shereen.gustad@owasp.org",
+        "group": "OWASP Maui",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-maui/"
+    },
+    {
+        "name": "Kinnaird McQuade",
+        "email": "kinnaird.mcquade@owasp.org",
+        "group": "OWASP Maui",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-maui/"
+    },
+    {
         "name": "Ritam Ghosh",
         "email": "ritam.ghosh@owasp.org",
         "group": "OWASP Maulana Abul Kalam Azad University of Technology",
@@ -4529,6 +4564,27 @@
         "group_url": "https://owasp.org/www-chapter-sevilla/"
     },
     {
+        "name": "Md Adnan Alam",
+        "email": "adnan.alam@owasp.org",
+        "group": "OWASP Sharda University Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sharda-university-student-chapter/"
+    },
+    {
+        "name": "Prateek Gupta",
+        "email": "prateek.gupta@owasp.org",
+        "group": "OWASP Sharda University Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sharda-university-student-chapter/"
+    },
+    {
+        "name": "Bharat Bhushan",
+        "email": "bharat.bhushan@owasp.org",
+        "group": "OWASP Sharda University Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-sharda-university-student-chapter/"
+    },
+    {
         "name": "Wong Onn Chee",
         "email": "ocwong@owasp.org",
         "group": "OWASP Singapore",
@@ -5845,13 +5901,6 @@
         "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
     },
     {
-        "name": "Erez Yalon",
-        "email": "erez.yalon@owasp.org",
-        "group": "OWASP Cloud-Native Security Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cloud-native-security-project/"
-    },
-    {
         "name": "Fraser Scott",
         "email": "fraser.scott@owasp.org",
         "group": "OWASP cloud security",
@@ -6053,13 +6102,6 @@
         "group": "OWASP CWE Toolkit",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cwe-toolkit/"
-    },
-    {
-        "name": "Sounil Yu",
-        "email": "sounil.yu@owasp.org",
-        "group": "OWASP Cyber Defense Matrix",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cyber-defense-matrix/"
     },
     {
         "name": "Arthur Kay",
@@ -6825,27 +6867,6 @@
         "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
     },
     {
-        "name": "Shain Singh",
-        "email": "shain.singh@owasp.org",
-        "group": "OWASP Machine Learning Security Top Ten",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
-    },
-    {
-        "name": "Rob van der Veer",
-        "email": "rob.vanderveer@owasp.org",
-        "group": "OWASP Machine Learning Security Top Ten",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
-    },
-    {
-        "name": "Sagar Bhure",
-        "email": "sagar.bhure@owasp.org",
-        "group": "OWASP Machine Learning Security Top Ten",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
-    },
-    {
         "name": "Saeed Dehghan",
         "email": "saeed.dehghan@owasp.org",
         "group": "OWASP Maryam",
@@ -6918,6 +6939,27 @@
     {
         "name": "Milan Singh Thakur",
         "email": "milan@owasp.org",
+        "group": "OWASP Mobile Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mobile-top-10/"
+    },
+    {
+        "name": "Alaeddine MESBAHI",
+        "email": "https://www.linkedin.com/in/alaeddine-mesbahi-2608681a/",
+        "group": "OWASP Mobile Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mobile-top-10/"
+    },
+    {
+        "name": "Kunwar Atul",
+        "email": "https://www.linkedin.com/in/kunwaratulhax0r/",
+        "group": "OWASP Mobile Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-mobile-top-10/"
+    },
+    {
+        "name": "Mohamed Benchikh",
+        "email": "https://www.linkedin.com/in/mohamedbenchikh/",
         "group": "OWASP Mobile Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-mobile-top-10/"
