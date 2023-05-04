@@ -5012,15 +5012,15 @@
         "group_url": "https://owasp.org/www-chapter-tegucigalpa/"
     },
     {
-        "name": "Jossue Amador",
-        "email": "jossue.amador@owasp.org",
+        "name": "Alex Arias",
+        "email": "alex.arias@owasp.org",
         "group": "OWASP Tegucigalpa",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tegucigalpa/"
     },
     {
-        "name": "Alex Arias",
-        "email": "alex.arias@owasp.org",
+        "name": "Estefany Villamil",
+        "email": "estefany.villamil@owasp.org",
         "group": "OWASP Tegucigalpa",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tegucigalpa/"
@@ -5866,13 +5866,6 @@
         "group_url": "https://owasp.org/www-project-attack-surface-detector/"
     },
     {
-        "name": "Abbas Naderi",
-        "email": "abiusx@owasp.org",
-        "group": "OWASP Auth",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-auth/"
-    },
-    {
         "name": "Tin Zaw",
         "email": "tin.zaw@owasp.org",
         "group": "OWASP Automated Threats to Web Applications",
@@ -5915,13 +5908,6 @@
         "group_url": "https://owasp.org/www-project-benchmark/"
     },
     {
-        "name": "Deborah Chang",
-        "email": "",
-        "group": "OWASP Best Practices In Vulnerability Disclosure And Bug Bounty Programs",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-best-practices-in-vulnerability-disclosure-and-bug-bounty-programs/"
-    },
-    {
         "name": "Rodrigo Araujo",
         "email": "rodrigowpa@gmail.com",
         "group": "OWASP Big Data Security Verification Standard",
@@ -5941,20 +5927,6 @@
         "group": "OWASP BlockChain AppSec Standard",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-blockchain-appsec-standard/"
-    },
-    {
-        "name": "Everton Melo",
-        "email": "everton.win32@gmail.com",
-        "group": "OWASP Blockchain Distributed Infrastructure",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-blockchain-distributed-infrastructure/"
-    },
-    {
-        "name": "Chuck Willis",
-        "email": "",
-        "group": "OWASP Broken Web Applications",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-broken-web-applications/"
     },
     {
         "name": "DonnieBLT on slack",
@@ -6020,13 +5992,6 @@
         "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
     },
     {
-        "name": "Fraser Scott",
-        "email": "fraser.scott@owasp.org",
-        "group": "OWASP cloud security",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cloud-security/"
-    },
-    {
         "name": "Ashish Kurmi",
         "email": "",
         "group": "OWASP Cloud Security Mentor",
@@ -6046,13 +6011,6 @@
         "group": "OWASP Cloud Tenant Isolation",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cloud-tenant-isolation/"
-    },
-    {
-        "name": "Stefano DiPaola",
-        "email": "stefano@owasp.org",
-        "group": "OWASP Cloud Testing Guide",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cloud-testing-guide/"
     },
     {
         "name": "Erez Yalon",
@@ -6202,13 +6160,6 @@
         "group_url": "https://owasp.org/www-project-csrfprotector/"
     },
     {
-        "name": "Steven Van der Baan",
-        "email": "steven.van.der.baan@owasp.org",
-        "group": "OWASP Ctf",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-ctf/"
-    },
-    {
         "name": "Christoph Niehoff",
         "email": "christoph.niehoff@tngtech.com",
         "group": "OWASP Cumulus",
@@ -6277,13 +6228,6 @@
         "group": "OWASP D4N155",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-d4n155/"
-    },
-    {
-        "name": "Walter Riveros",
-        "email": "",
-        "group": "OWASP Damn Vulnerable Crypto Wallet",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-damn-vulnerable-crypto-wallet/"
     },
     {
         "name": "Srinivasarao Kotipalli",
@@ -6629,13 +6573,6 @@
         "group_url": "https://owasp.org/www-project-g0rking/"
     },
     {
-        "name": "Daniel Miessler",
-        "email": "",
-        "group": "OWASP Game Security Framework",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-game-security-framework/"
-    },
-    {
         "name": "Omer Levi Hevroni",
         "email": "omer.levihevroni@owasp.org",
         "group": "OWASP Glue Tool",
@@ -6970,13 +6907,6 @@
         "group": "OWASP Learning Gateway",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-learning-gateway/"
-    },
-    {
-        "name": "Alessandro Fiori",
-        "email": "",
-        "group": "OWASP little web application firewall",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-little-web-application-firewall/"
     },
     {
         "name": "Srirama Dheeraj",
@@ -7357,34 +7287,6 @@
         "group_url": "https://owasp.org/www-project-pygoat/"
     },
     {
-        "name": "Ehsan Nezami",
-        "email": "ehsan.nezami@owasp.org",
-        "group": "OWASP Python Honeypot",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-python-honeypot/"
-    },
-    {
-        "name": "Ali Razmjoo Qalaei",
-        "email": "ali.razmjoo@owasp.org",
-        "group": "OWASP Python Honeypot",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-python-honeypot/"
-    },
-    {
-        "name": "Enrico Branca",
-        "email": "",
-        "group": "OWASP Python Security",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-python-security/"
-    },
-    {
-        "name": "Enrico Branca",
-        "email": "",
-        "group": "OWASP Python Security",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-python-security/"
-    },
-    {
         "name": "Izar Tarandach",
         "email": "",
         "group": "OWASP pytm",
@@ -7684,27 +7586,6 @@
         "group": "OWASP Security Knowledge Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-knowledge-framework/"
-    },
-    {
-        "name": "Sytze Van Koningsveld",
-        "email": "sytze.vankoningsveld@owasp.org",
-        "group": "OWASP Security Logging",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-logging/"
-    },
-    {
-        "name": "August Detlefsen",
-        "email": "",
-        "group": "OWASP Security Logging",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-logging/"
-    },
-    {
-        "name": "Sytze Van Koningsveld",
-        "email": "sytze.vankoningsveld@owasp.org",
-        "group": "OWASP Security Logging",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-logging/"
     },
     {
         "name": "Timo Pagel",
@@ -8300,6 +8181,13 @@
         "group": "OWASP Web Application Firewall Evaluation Criteria Project (WAFEC)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-wafec/"
+    },
+    {
+        "name": "Vaishno Chaitanya",
+        "email": "vaishno.chaitanya@owasp.org",
+        "group": "OWASP Watchman",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-watchman/"
     },
     {
         "name": "Carlos  Ganoza Plasencia",
