@@ -4,7 +4,7 @@ layout: home
 title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
 tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vulnerability Assessment
-spnews: True
+spnews: False
 
 ---
 
