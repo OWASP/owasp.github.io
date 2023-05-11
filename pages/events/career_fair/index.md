@@ -11,7 +11,7 @@ permalink: /events/career_fair/
 
 [Recruiter Opportunities](/assets/images/OWASP_CareerFair_2023.pdf)
 
-Attendee Registration -(https://app.brazenconnect.com/a/the-open-web-application-security-project/e/p7n8n)
+[Attendee Registration](https://app.brazenconnect.com/a/the-open-web-application-security-project/e/p7n8n)
 <br><br>
 <br><br>
 Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our two 2023 Career Fairs! September 28 6am-6pm EDT and October 11 6am-6pm SGT.
