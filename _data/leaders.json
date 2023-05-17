@@ -3710,6 +3710,20 @@
         "group_url": "https://owasp.org/www-chapter-new-zealand/"
     },
     {
+        "name": "Adam Pickering",
+        "email": "adam.pickering@owasp.org",
+        "group": "OWASP Newcastle (UK)",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
+    },
+    {
+        "name": "Ade Wheldon",
+        "email": "adrian.wheldon@owasp.org",
+        "group": "OWASP Newcastle (UK)",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
+    },
+    {
         "name": "Andi Pannell",
         "email": "andrew.pannell@owasp.org",
         "group": "OWASP Newcastle (UK)",
@@ -3719,13 +3733,6 @@
     {
         "name": "Dan Mullen",
         "email": "dan.mullen@owasp.org",
-        "group": "OWASP Newcastle (UK)",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
-    },
-    {
-        "name": "Ade Wheldon",
-        "email": "adrian.wheldon@owasp.org",
         "group": "OWASP Newcastle (UK)",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
@@ -4240,6 +4247,20 @@
         "group": "OWASP Rio De Janeiro",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-rio-de-janeiro/"
+    },
+    {
+        "name": "Paulino Calderon",
+        "email": "paulino.calderonpale@owasp.org",
+        "group": "OWASP Riviera Maya",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-riviera-maya/"
+    },
+    {
+        "name": "Ismael Jimenez",
+        "email": "ismael.jimenez@owaps.org",
+        "group": "OWASP Riviera Maya",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-riviera-maya/"
     },
     {
         "name": "Aatif Khan",
@@ -4802,15 +4823,15 @@
         "group_url": "https://owasp.org/www-chapter-srm-institute-of-science-and-technology/"
     },
     {
-        "name": "Nihal Twari",
-        "email": "nihal.tiwari@owasp.org",
+        "name": "Dr. Arun Saxena",
+        "email": "arun.saxena@owasp.org",
         "group": "OWASP St. John College of Engineering and Management",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-st.-john-college-of-engineering-and-management/"
     },
     {
-        "name": "Arun Saxena",
-        "email": "arun.saxena@owasp.org",
+        "name": "Nihal Twari",
+        "email": "nihal.tiwari@owasp.org",
         "group": "OWASP St. John College of Engineering and Management",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-st.-john-college-of-engineering-and-management/"
@@ -7754,6 +7775,13 @@
         "group": "OWASP Top 10 Client-Side Security Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-client-side-security-risks/"
+    },
+    {
+        "name": "Steve Wilson",
+        "email": "steve.wilson@owasp.org",
+        "group": "OWASP Top 10 for Large Language Model Applications",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
     },
     {
         "name": "Michael Bargury",
