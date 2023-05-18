@@ -5740,27 +5740,6 @@
         "group_url": "https://owasp.org/www-project-amass/"
     },
     {
-        "name": "Satish Patnayak",
-        "email": "satishkumarpatnayak@live.com",
-        "group": "OWASP AndroGoat",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-androgoat/"
-    },
-    {
-        "name": "Mauricio Urizar",
-        "email": "mauricio.urizar@deepsecurity.pe",
-        "group": "OWASP Android Security Inspector Toolkit",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-android-security-inspector-toolkit/"
-    },
-    {
-        "name": "Camilo Galdos",
-        "email": "camilo.galdos@deepsecurity.pe",
-        "group": "OWASP Android Security Inspector Toolkit",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-android-security-inspector-toolkit/"
-    },
-    {
         "name": "Dave Wichers",
         "email": "dave.wichers@owasp.org",
         "group": "OWASP AntiSamy",
@@ -5971,13 +5950,6 @@
         "group_url": "https://owasp.org/www-project-benchmark/"
     },
     {
-        "name": "Rodrigo Araujo",
-        "email": "rodrigowpa@gmail.com",
-        "group": "OWASP Big Data Security Verification Standard",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-big-data/"
-    },
-    {
         "name": "Mark Deen",
         "email": "md@markdeen.io",
         "group": "OWASP Blend",
@@ -6055,13 +6027,6 @@
         "group_url": "https://owasp.org/www-project-cloud-native-application-security-top-10/"
     },
     {
-        "name": "Jamieson O'Reilly",
-        "email": "jamieson@dvuln.com",
-        "group": "OWASP Cloud Security Testing Guide",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cloud-security-testing-guide/"
-    },
-    {
         "name": "Amitai Cohen",
         "email": "amitai.cohen@wiz.io",
         "group": "OWASP Cloud Tenant Isolation",
@@ -6102,13 +6067,6 @@
         "group": "OWASP Cognito Catastrophe",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cognito-catastrophe/"
-    },
-    {
-        "name": "Sven Vetsch",
-        "email": "sven.vetsch@owasp.org",
-        "group": "OWASP Container Security Verification Standard",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-container-security-verification-standard/"
     },
     {
         "name": "Antonis Manaras",
@@ -6209,13 +6167,6 @@
         "group_url": "https://owasp.org/www-project-csrfguard/"
     },
     {
-        "name": "Minhaz A V",
-        "email": "https://minhazav.dev",
-        "group": "OWASP CSRFProtector Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-csrfprotector/"
-    },
-    {
         "name": "Christoph Niehoff",
         "email": "christoph.niehoff@tngtech.com",
         "group": "OWASP Cumulus",
@@ -6244,13 +6195,6 @@
         "group_url": "https://owasp.org/www-project-cyber-scavenger-hunt/"
     },
     {
-        "name": "Matthew Wilkinson",
-        "email": "m.j.wilkin85@gmail.com",
-        "group": "OWASP Cyber Security Enterprise Operations Architecture",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cyber-security-enterprise-operations-architecture/"
-    },
-    {
         "name": "Güler Okay",
         "email": "o.gueler@cloudyrion.com",
         "group": "OWASP Cybersecurity Risk Register",
@@ -6277,13 +6221,6 @@
         "group": "OWASP CycloneDX",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cyclonedx/"
-    },
-    {
-        "name": "Srinivasarao Kotipalli",
-        "email": "cnuhackz@gmail.com",
-        "group": "OWASP Damn Vulnerable Thick Client Application",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-damn-vulnerable-thick-client-application/"
     },
     {
         "name": "Abhineet Jayaraj",
@@ -6832,13 +6769,6 @@
         "group_url": "https://owasp.org/www-project-javascript-security/"
     },
     {
-        "name": "Ali Razmjoo",
-        "email": "ali.razmjoo@owasp.org",
-        "group": "OWASP Joomscan",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-joomscan/"
-    },
-    {
         "name": "Bjoern Kimminich",
         "email": "bjoern.kimminich@owasp.org",
         "group": "OWASP Juice Shop",
@@ -6879,20 +6809,6 @@
         "group": "OWASP Kubernetes Top Ten",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-kubernetes-top-ten/"
-    },
-    {
-        "name": "Paras Malhotra",
-        "email": "paras@laravel-enlightn.com",
-        "group": "OWASP Laravel Goat",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-laravel-goat/"
-    },
-    {
-        "name": "Srirama Dheeraj",
-        "email": "",
-        "group": "OWASP Lock It",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-lock-it/"
     },
     {
         "name": "Sagar Bhure",
@@ -7371,13 +7287,6 @@
         "group_url": "https://owasp.org/www-project-securecodebox/"
     },
     {
-        "name": "Andrea Scaduto",
-        "email": "andrea@secureflag.com",
-        "group": "OWASP SecureFlag Open Platform",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-secureflag-open-platform/"
-    },
-    {
         "name": "Ade Yoseman",
         "email": "edikdoank@gmail.com",
         "group": "OWASP SecureTea Project",
@@ -7390,13 +7299,6 @@
         "group": "OWASP SecureTea Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-securetea/"
-    },
-    {
-        "name": "Stefano Belloro",
-        "email": "",
-        "group": "OWASP Security Busters",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-busters/"
     },
     {
         "name": "Cheyenne Seur",
@@ -7483,13 +7385,6 @@
         "group_url": "https://owasp.org/www-project-security-qualitative-metrics/"
     },
     {
-        "name": "Greg Anderson",
-        "email": "greg.anderson@owasp.org",
-        "group": "OWASP Security Resource Framework",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-security-resource-framework/"
-    },
-    {
         "name": "Mark Denihan",
         "email": "mark.denihan@owasp.org",
         "group": "OWASP Security Shepherd",
@@ -7504,20 +7399,6 @@
         "group_url": "https://owasp.org/www-project-security-shepherd/"
     },
     {
-        "name": "Daniel Kefer",
-        "email": "dan.kefer@gmail.com",
-        "group": "OWASP SecurityRAT",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-securityrat/"
-    },
-    {
-        "name": "René Reuter",
-        "email": "reuter.rene@gmail.com",
-        "group": "OWASP SecurityRAT",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-securityrat/"
-    },
-    {
         "name": "Simeon Cloutier",
         "email": "https://www.linkedin.com/in/simeon-cloutier-7956a856/",
         "group": "OWASP SEDATED®",
@@ -7530,13 +7411,6 @@
         "group": "OWASP SEDATED®",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-sedated/"
-    },
-    {
-        "name": "Igor Bakalo",
-        "email": "",
-        "group": "OWASP Seeker",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-seeker/"
     },
     {
         "name": "Nikola Milosevic",
@@ -7623,13 +7497,6 @@
         "group_url": "https://owasp.org/www-project-spotlight-series/"
     },
     {
-        "name": "@JamesCullum",
-        "email": "https://mailhide.io/e/wno7k",
-        "group": "OWASP Single Sign-On",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-sso/"
-    },
-    {
         "name": "John DiLeo",
         "email": "john.dileo@owasp.org",
         "group": "OWASP State of AppSec Survey",
@@ -7712,20 +7579,6 @@
         "group": "OWASP Threat Modeling Playbook (OTMP)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-modeling-playbook/"
-    },
-    {
-        "name": "Fraser Scott",
-        "email": "fraser.scott@owasp.org",
-        "group": "OWASP Threatspec",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threatspec/"
-    },
-    {
-        "name": "Abhi M Balakrishnan",
-        "email": "abhi.balakrishnan@owasp.org",
-        "group": "OWASP TimeGap Theory",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-timegap-theory/"
     },
     {
         "name": "Abhi M Balakrishnan",
