@@ -74,6 +74,7 @@ Chapter pages on this site have general information and leader contact info. Loc
 <script type='text/javascript'>
     var all = "{{ site.data.chapters | jsonify | replace: '"', '\"' | replace: '\t', ' ' }}";
     var chapters = JSON.parse(all);
+    var default_chapters = "";
     chapters = chapters.sort(function (a, b) {
       if(a.region > b.region) 
         return 1;
@@ -99,21 +100,32 @@ Chapter pages on this site have general information and leader contact info. Loc
     
     $("#chapters-filter").keyup(function(e) {
         var code = e.keyCode ? e.keyCode : e.which;
-      
         if (code == 13) {  // Enter keycode
+            if(default_chapters == "") {
+              default_chapters = $('#chapters-list').html();
+            }
             var filter = $('#chapters-filter').val();
             filter = filter.toLowerCase();
+
+            if ( filter.trim() == "") {
+              $("#chapters-list").html(default_chapters);
+              return; 
+            }
             var fchapters = []; 
             
-              for(i = 0; i < chapters.length; i++){
-                var region = chapters[i].region.toLowerCase();
-                var title = chapters[i].title.toLowerCase();
-                //var country = chapters[i].country.toLowerCase();//
-                if(chapters[i].build != 'no pages' && (filter == '' || region.indexOf(filter) > -1 || title.indexOf(filter) > -1))
-                {
-                  fchapters.push(chapters[i]);
-                }
+            for(i = 0; i < chapters.length; i++){
+              var region = chapters[i].region.toLowerCase();
+              var title = chapters[i].title.toLowerCase();
+              var country = "";
+              if(chapters[i].country) {
+                country = chapters[i].country.toLowerCase();
               }
+              //var country = chapters[i].country.toLowerCase();//
+              if(chapters[i].build != 'no pages' && (filter == '' || region.indexOf(filter) > -1 || title.indexOf(filter) > -1 || country.indexOf(filter) > -1))
+              {
+                fchapters.push(chapters[i]);
+              }
+            }
             var html = "<ul>";
             
             for(i = 0; i < fchapters.length; i++){
