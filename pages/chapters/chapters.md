@@ -19,11 +19,6 @@ OWASP Local Chapters build community for application security professionals arou
 Chapter pages on this site have general information and leader contact info. Local meeting RSVPs are handled through [https://meetup.com/pro/owasp](https://meetup.com/pro/owasp).
 
 
-<div>
-<label for='chapters-filter'>Filter List:</label>
-<input type='text' id='chapters-filter'>
-</div>
-
 ## Local Chapters by Region
 {% assign regions = site.data.supported_regions %}
 <ul>
@@ -34,15 +29,19 @@ Chapter pages on this site have general information and leader contact info. Loc
 
 <a href="https://meetup.com/pro/owasp" target="_blank" rel="noopener"><button class="cta-button grey">Search using Map</button></a>
 
+<div>
+<label for='chapters-filter'>Filter List:</label>
+<input type='text' id='chapters-filter'>
+</div>
 
 ## Chapter Listing
 
-<div class='chapters-list'>
+<div class='chapters-list' id='chapters-list'>
     {% assign regions = site.data.supported_regions %}
     {% for region in regions %}
         {% assign rcount = 0 %}
         <div class="region">
-            <h4><a name="{{ region.region | remove: " " }}"></a>{{ region.region }}</h4>
+            <h4><a name="{{ region.region | remove: ' ' }}"></a>{{ region.region }}</h4>
             <ul>
             {% for chapter in site.data.chapters %}
                 {% if chapter.region == region.region and chapter.build != 'no pages'%}
@@ -72,30 +71,8 @@ Chapter pages on this site have general information and leader contact info. Loc
 {% endfor %}
 </ul>
 
-<section id='leaders-list'>
-<ul>
-  {% assign group = '' %}
-  {% for leader in allleaders %}
-    {% if group != leader.group %}
-      {% if group != '' %}
-      </ul>
-      {% endif %}
-      {% assign group = leader.group %}
-      {% assign leaders = site.data.leaders | where: 'group', leader.group %}
-      {% capture leader_emails %}{% for leader in leaders %} {% assign email = leader.email | replace: 'mailto:','' | replace: '//', ''%}{{ email }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-      <li><a href="{{leader.group_url}}">{{group}}</a><a href='mailto:{{leader_emails | strip}}' style='padding-left:1em;' title='Mail the leaders'><i class="fa fa-envelope" style='color:lightblue;'></i></a></li>
-      <ul>
-    {% endif %}
-    <li><a href='mailto:{{ leader.email | replace: "mailto://", "mailto:" }}' target="_blank">{{ leader.name }}</a></li>
-    {% if forloop.last %}
-    </ul>
-    {% endif %}
-  {% endfor %}
-</ul>
-</section>
-
 <script type='text/javascript'>
-    var all = "{{ site.data.chapters | jsonify | replace: '"', '\"' | replace: '\\"', "'" }}";
+    var all = "{{ site.data.chapters | jsonify | replace: '"', '\"' | replace: '\t', ' ' }}";
     var chapters = JSON.parse(all);
     chapters = chapters.sort(function (a, b) {
       if(a.region > b.region) 
@@ -105,7 +82,6 @@ Chapter pages on this site have general information and leader contact info. Loc
       else
         return 0; 
     });
-    alert(chapters);
 
     function getLeaderEmailsForGroup(inleaders, group_name){
         var emails = 'mailto:';
@@ -127,39 +103,28 @@ Chapter pages on this site have general information and leader contact info. Loc
         if (code == 13) {  // Enter keycode
             var filter = $('#chapters-filter').val();
             filter = filter.toLowerCase();
-            var fleaders = []; 
+            var fchapters = []; 
             
-              for(i = 0; i < leaders.length; i++){
-                var group = leaders[i].group.toLowerCase();
-                var email = leaders[i].email.toLowerCase();
-                var name = leaders[i].name.toLowerCase();
-                if(filter == '' || group.indexOf(filter) > -1 || email.indexOf(filter) > -1 || name.indexOf(filter) > -1)
+              for(i = 0; i < chapters.length; i++){
+                var region = chapters[i].region.toLowerCase();
+                var title = chapters[i].title.toLowerCase();
+                //var country = chapters[i].country.toLowerCase();//
+                if(chapters[i].build != 'no pages' && (filter == '' || region.indexOf(filter) > -1 || title.indexOf(filter) > -1))
                 {
-                  fleaders.push(leaders[i]);
+                  fchapters.push(chapters[i]);
                 }
               }
             var html = "<ul>";
-            var group = '';
-            for(i = 0; i < fleaders.length; i++){
-                email = fleaders[i].email;
-                name = fleaders[i].name;
-                if(group != fleaders[i].group)
-                {
-                  if(group != '')
-                    html += "</ul>";
+            
+            for(i = 0; i < fchapters.length; i++){
 
-                  group = fleaders[i].group;
-                  group_url = fleaders[i].group_url;
-                  emails = getLeaderEmailsForGroup(fleaders, group);
-                  html += "<li><a href='" + group_url + "'>";
-                  html += group + "</a><a href='" + emails;
-                  html += "' style='padding-left:1em;' title='Mail the leaders'><i class='fa fa-envelope' style='color:lightblue;'></i></a></li>";
-                  html += '<ul>';
+                  region = fchapters[i].region;
+                  html += "<li><a href='" + fchapters[i].url + "'>";
+                  html += region + ":" + fchapters[i].title + "</a></li>";
                 }
-                html += "<li><a href='mailto:" + email + "' target=\"_blank\">" + name + "</a></li>";
-            }
+            
             html += "</ul>";
-            $('#leaders-list').html(html);
+            $('#chapters-list').html(html);
           }
       });
 </script>
