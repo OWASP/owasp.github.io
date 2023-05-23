@@ -16,7 +16,7 @@ Jump to
 
 {% for project in site.data.projects %}
 {% if project.build != 'no pages' %}
-{% assign psize = psize | add: 1 %}
+{% assign psize = psize | plus: 1 %}
 {% endif %}
 {% endfor %}
 ### Total OWASP Projects: {{ psize }}
