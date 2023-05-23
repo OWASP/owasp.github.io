@@ -19,7 +19,7 @@ Jump to
 {% assign psize = psize | add: 1 %}
 {% endif %}
 {% endfor %}
-### Total OWASP Projects: {{ site.data.projects.size }}
+### Total OWASP Projects: {{ psize }}
 
 ----
 <section id='new'></section>
