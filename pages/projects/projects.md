@@ -70,7 +70,8 @@ All OWASP tools, document, and code library projects are organized into the foll
         <ul>
         {% if p_projects.size > 0 %}
         {% for project in p_projects %}
-        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a><br>
+        <p>{{project.pitch}}</p></li>
         {% endfor %}
         {% else %}
         <li>No projects in this category</li>
