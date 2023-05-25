@@ -47,7 +47,13 @@ maintenance_message: Due to a required update to our systems, we are currently e
 {% endraw %}
       {% include member_benefits.md %}
 {% raw %}
-      <!--<div class='alert'>Lifetime Memberships are now 10% off as part of the <a href="https://20thanniversary.owasp.org">OWASP 20th Anniversary Celebration</a></div>-->
+      <div class='alert'><h2>15% off two year memberships!</h2> 
+          Your contributions help support OWASP's mission by:
+          <ul><li>Funding chapters, events, and projects</li>
+          <li>Sustaining OWASP's operations</li>
+          <li>Helping out with scholarships to our Global AppSec events</li>
+          </ul>
+      </div>
       <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
       <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
       <p>Would your business like to become a <a href="/supporters">Corporate Supporter</a>? </p>
@@ -223,7 +229,7 @@ window.addEventListener('load', function () {
         } else {
           return [
             { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$95', discount: false },
+            { name: 'Two Year', amount: '$80', discount: false },//95 normally
             { name: 'Lifetime', amount: '$500', discount: false}
           ];
 	  }
@@ -235,7 +241,7 @@ window.addEventListener('load', function () {
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true }, 
-            { name: 'Two Year', amount: '$35', discount: true }, 
+            { name: 'Two Year', amount: '$30', discount: true },//35 normally
             { name: 'Lifetime', amount: '$200', discount: true} 
           ]
 	  }
