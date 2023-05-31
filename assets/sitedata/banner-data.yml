@@ -3,6 +3,6 @@
   end: 2023-06-30 23:59:59-0500
   text: >-
     <h2>Membership Discount: 15% off two year memberships!</h2> 
-    &nbsp;&nbsp;<a href="/membership/"><h2>Join Now</h2></a>
+    &nbsp;&nbsp;<a href="/membership/"><h2><div style="width:120px;">Join Now</div></h2></a>
 - type: notice
   text: "<p>Please support the OWASP mission to improve software security through Open Source initiatives and community education. <a href='https://owasp.org/donate/'>Donate Now!</a></p>"
