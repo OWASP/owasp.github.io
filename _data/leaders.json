@@ -1526,13 +1526,6 @@
         "group_url": "https://owasp.org/www-chapter-doha/"
     },
     {
-        "name": "Mark Davison",
-        "email": "mark.davison@owasp.org",
-        "group": "OWASP Dorset",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dorset/"
-    },
-    {
         "name": "Alexios Mylonas",
         "email": "alexios.mylonas@owasp.org",
         "group": "OWASP Dorset",
@@ -1549,6 +1542,13 @@
     {
         "name": "Mike Warner",
         "email": "michael.warner@owasp.org",
+        "group": "OWASP Dorset",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dorset/"
+    },
+    {
+        "name": "Oliver Ide",
+        "email": "oliver.ide@owasp.org",
         "group": "OWASP Dorset",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dorset/"
@@ -1619,6 +1619,20 @@
     {
         "name": "Brad Ballard",
         "email": "brad.ballard@owasp.org",
+        "group": "OWASP Edmonton",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-edmonton/"
+    },
+    {
+        "name": "Harvinder Dhami",
+        "email": "harvinder.dhami@owasp.org",
+        "group": "OWASP Edmonton",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-edmonton/"
+    },
+    {
+        "name": "John Robbins",
+        "email": "john.robbins@owasp.org",
         "group": "OWASP Edmonton",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-edmonton/"
@@ -2396,6 +2410,20 @@
     {
         "name": "Kishor R",
         "email": "kishor.ravi@owasp.org",
+        "group": "OWASP JCT College of Engineering and Technology",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jct-college-of-engineering-and-technology/"
+    },
+    {
+        "name": "Amal Gopakumar",
+        "email": "amal.gopakumar@owasp.org",
+        "group": "OWASP JCT College of Engineering and Technology",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jct-college-of-engineering-and-technology/"
+    },
+    {
+        "name": "Rajkumar Kumaresan, Faculty Advisor",
+        "email": "rajkumar.kumaresan@owasp.org",
         "group": "OWASP JCT College of Engineering and Technology",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-jct-college-of-engineering-and-technology/"
