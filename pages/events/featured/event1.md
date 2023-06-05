@@ -8,4 +8,3 @@
 
 Designed for private and public sector infosec professionals, the two-day OWASP conference followed by three days of training equips developers, defenders, and advocates to build a more secure web. Join us for leading application security technologies, speakers, prospects, and the community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
 
-[Read more..](/events/spotlight/)

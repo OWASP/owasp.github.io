@@ -30,21 +30,20 @@ spnews: False
 </section>
 
 <hr>
+
 {% if page.spnews %}
 {% include specialnews.md %}
 {% endif %}
 
-<section class="homepage-project">
- {% capture my_include %}{% include featured_project.md %}{% endcapture %}
-  {{ my_include | markdownify }}
-</section>
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+  {% include flagships.html %}
+</div>
 
 <hr class="mobile">
 
-<section class="homepage-chapter">
-  {% capture my_include %}{% include featured_chapter.md %}{% endcapture %}
-  {{ my_include | markdownify }}
-</section>
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+  {% include featured_events.html %}
+</div>
 
 <hr>
 

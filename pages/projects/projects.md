@@ -11,6 +11,7 @@ tags: projects
 <!-- rebuild 4 -->
 ![Projects](/assets/images/web/juice-shop.png)
 
+
 ## Projects for Good
 
 We are a community of developers, technologists and evangelists improving the security of software. The OWASP Foundation gives aspiring open source projects a platform to improve the security of software with:
@@ -55,7 +56,8 @@ All OWASP tools, document, and code library projects are organized into the foll
         
         <p>
         </p>
-        <h3>Flagship Projects <span class="fa-stack fa-2x"><i class="fas fa-circle fa-stack-2x" style="color:#38a047"></i><i class="fas fa-flag fa-stack-1x fa-inverse"></i></span></h3>
+        <section id="flagship-projects">
+        <h3>Flagship Projects <span class="fa-stack fa-2x"><i class="fas fa-circle fa-stack-2x" style="color:#38a047"></i><i class="fas fa-flag fa-stack-1x fa-inverse"></i></span></h3></section>
         <ul>
         {% for project in fs_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a><br>
