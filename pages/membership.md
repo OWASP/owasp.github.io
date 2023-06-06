@@ -43,6 +43,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
       <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
       <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
 
+    <h3>Already a member? <a href="/members/">Check out what is available to you</a></h3>
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
 {% endraw %}
       {% include member_benefits.md %}
