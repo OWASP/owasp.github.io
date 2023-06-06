@@ -11,7 +11,7 @@ permalink: /members/
 
 
 ## Already a member?
-- [Request an OWASP email address](/manage/membership/) with your membership email address (this is the email address you signed up with)
+- [Request an OWASP email address](/manage-membership/) with your membership email address (this is the email address you signed up with)
 - [Manage your billing and subscription](/manage-membership/) with your membership email address (this is the email address you signed up with)
 - Access the [Membership Portal](https://members.owasp.org) using your **OWASP email address** for subscriber benefits and to manage your personal information
 
