@@ -1,6 +1,4 @@
-## [OWASP 2023 Global AppSec Singapore](https://singapore.globalappsec.org/)
-
-![OWASP 2023 Global AppSec Singapore](/assets/images/events/SingaporeLogo.png){:width="100%" height="auto"}
+[![OWASP 2023 Global AppSec Singapore](/assets/images/events/SingaporeLogo.png){:width="100%" height="auto"}](https://singapore.globalappsec.org/)
 
 ### Registration Open!
 
