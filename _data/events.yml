@@ -1,6 +1,6 @@
 - category: Global
   description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
-  Events:
+  events:
     - name: OWASP Global AppSec Singapore 2023
       start-date: 2023-10-03
       dates: October 4-5, 2023
@@ -28,7 +28,7 @@
       #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  Events:
+  events:
     - name: OWASP Virtual Career Fair 6 am-6 pm EDT
       start-date: 2023-09-28
       dates: September 28, 2023
@@ -47,7 +47,7 @@
       url: https://www.owaspbenelux.eu/
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
-  Events:
+  events:
     - name: DevOps Asia Summit 2023
       start-date: 2023-07-28
       dates: July 28, 2023
