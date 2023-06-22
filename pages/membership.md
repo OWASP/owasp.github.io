@@ -230,7 +230,7 @@ window.addEventListener('load', function () {
         } else {
           return [
             { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$80', discount: false },//95 normally
+            { name: 'Two Year', amount: '$80.75', discount: false },//95 normally
             { name: 'Lifetime', amount: '$500', discount: false}
           ];
 	  }
@@ -242,7 +242,7 @@ window.addEventListener('load', function () {
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true }, 
-            { name: 'Two Year', amount: '$30', discount: true },//35 normally
+            { name: 'Two Year', amount: '$29.75', discount: true },//35 normally
             { name: 'Lifetime', amount: '$200', discount: true} 
           ]
 	  }
