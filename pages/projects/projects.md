@@ -11,6 +11,7 @@ tags: projects
 <!-- rebuild 4 -->
 ![Projects](/assets/images/web/juice-shop.png)
 
+
 ## Projects for Good
 
 We are a community of developers, technologists and evangelists improving the security of software. The OWASP Foundation gives aspiring open source projects a platform to improve the security of software with:
@@ -55,7 +56,8 @@ All OWASP tools, document, and code library projects are organized into the foll
         
         <p>
         </p>
-        <h3>Flagship Projects <span class="fa-stack fa-2x"><i class="fas fa-circle fa-stack-2x" style="color:#38a047"></i><i class="fas fa-flag fa-stack-1x fa-inverse"></i></span></h3>
+        <section id="flagship-projects">
+        <h3>Flagship Projects <span class="fa-stack fa-2x"><i class="fas fa-circle fa-stack-2x" style="color:#38a047"></i><i class="fas fa-flag fa-stack-1x fa-inverse"></i></span></h3></section>
         <ul>
         {% for project in fs_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a><br>
@@ -70,7 +72,8 @@ All OWASP tools, document, and code library projects are organized into the foll
         <ul>
         {% if p_projects.size > 0 %}
         {% for project in p_projects %}
-        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+        <li><a href="{{ project.url }}">{{ project.title }}</a><br>
+        <p>{{project.pitch}}</p></li>
         {% endfor %}
         {% else %}
         <li>No projects in this category</li>
@@ -83,15 +86,12 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% assign code_projects = site.data.projects | where:'type', 'code' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign stan_projects = site.data.project | where: 'type', 'standards' | where_exp: "project", "project.build != 'no pages'" %}
         {% assign other_projects = site.data.projects | where:'type', 'other' | where_exp: "project", "project.build != 'no pages'" %}
-        <h2>Standards Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
+        {% assign code_tool_projects = code_projects | concat: tool_projects | sort: 'title' %}
+
+        <!-- removed standards projects for now as they are not official -->
+        <h2>Code Projects<i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i></h2>
         <ul>
-        {% for project in stan_projects %}
-        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-        {% endfor %}
-        </ul>
-        <h2>Tool Projects<i style="margin-left:12px;" class="fa fa-tools fa-lg"></i></h2>
-        <ul>
-        {% for project in tool_projects %}
+        {% for project in code_tool_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
         </ul>
@@ -100,13 +100,7 @@ All OWASP tools, document, and code library projects are organized into the foll
         {% for project in documentation_projects %}
         <li><a href="{{ project.url }}">{{ project.title }}</a></li>
         {% endfor %}
-        </ul>
-        <h2>Code Projects<i style="margin-left:12px;" class="fa fa-file-code fa-lg"></i></h2>
-        <ul>
-        {% for project in code_projects %}
-        <li><a href="{{ project.url }}">{{ project.title }}</a></li>
-        {% endfor %}
-        </ul>
+        </ul>        
         <h2>Other Projects</h2>
         <ul>
         {% for project in other_projects %}

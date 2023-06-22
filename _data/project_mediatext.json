@@ -1,0 +1,104 @@
+[
+    {
+      "name": "Amass",
+      "repo": "www-project-amass",
+      "shortname": "Amass",
+      "mediablurb": "Visualize your network attack surfaces and external assets"
+    },
+    {
+      "name": "Application Security Verification Standard",
+      "repo": "www-project-application-security-verification-standard",
+      "shortname": "ASVS",
+      "mediablurb": "The industry standard for web application security verification"
+    },
+    {
+      "name": "Cheat Sheets",
+      "repo": "www-project-cheat-sheets",
+      "shortname": "Cheat Sheets",
+      "mediablurb": "List of crucial app security information"
+    },
+    {
+      "name": "CycloneDX",
+      "repo": "www-project-cyclonedx",
+      "shortname": "CycloneDX",
+      "mediablurb": "BOM standard for advanced supply chain cybersecurity risk mitigation"
+    },
+    {
+      "name": "DefectDojo",
+      "repo": "www-project-defectdojo",
+      "shortname": "DefectDojo",
+      "mediablurb": "Leading vulnerability management platform for DevSecOps"
+    },
+    {
+      "name": "Dependency Check",
+      "repo": "www-project-dependency-check",
+      "shortname": "Dependency Check",
+      "mediablurb": "SCA tool suite to check for dependency vulnerabilities"
+    },
+    {
+      "name": "Dependency Track",
+      "repo": "www-project-dependency-track",
+      "shortname": "Dependency Track",
+      "mediablurb": "Component analysis platform to identify risks in the supply chain"
+    },
+    {
+      "name": "Juice Shop",
+      "repo": "www-project-juice-shop",
+      "shortname": "Juice Shop",
+      "mediablurb": "Modern and sophisticated intentionally non-secure web application"
+    },
+    {
+      "name": "Mobile App Security",
+      "repo": "www-project-mobile-app-security",
+      "shortname": "MAS",
+      "mediablurb": "The industry standard for mobile application security verification"
+    },
+    {
+      "name": "Modsecurity Core Rule Set",
+      "repo": "www-project-modsecurity-core-rule-set",
+      "shortname": "CRS",
+      "mediablurb": "Dominant Web Application Firewall rule set for ModSecurity and compatible WAFs"
+    },
+    {
+      "name": "Owtf",
+      "repo": "www-project-owtf",
+      "shortname": "OWTF",
+      "mediablurb": "Web testing framework for pentesters"
+    },
+    {
+      "name": "Samm",
+      "repo": "www-project-samm",
+      "shortname": "SAMM",
+      "mediablurb": "Software assurance maturity model to improve security posture"
+    },
+    {
+      "name": "Security Knowledge Framework",
+      "repo": "www-project-security-knowledge-framework",
+      "shortname": "SKF",
+      "mediablurb": "Security knowledge framework of secure coding principles"
+    },
+    {
+      "name": "Security Shepherd",
+      "repo": "www-project-security-shepherd",
+      "shortname": "Security Shepherd",
+      "mediablurb": "Web and mobile application training platform"
+    },
+    {
+      "name": "Top Ten",
+      "repo": "www-project-top-ten",
+      "shortname": "Top10",
+      "mediablurb": "Most critical security risks in web applications"
+    },
+    {
+      "name": "Web Security Testing Guide",
+      "repo": "www-project-web-security-testing-guide",
+      "shortname": "WSTG",
+      "mediablurb": "Testing resource for web application and security professionals"
+    },
+    {
+      "name": "ZAP",
+      "repo": "www-project-zap",
+      "shortname": "ZAP",
+      "mediablurb": "Highly popular web application security scanning tool"
+    }
+]

@@ -820,8 +820,8 @@
   sortname: Invicti Security
   membertype: 3
   image: /assets/images/corp-member-logo/invicti_logo_300x90_black.png
-  url: https://www.invicti.com/?utm_medium=events&amp;utm_source=tradeshow&amp;utm_campaign=i-owaspcorporatemembership2022&amp;utm_content=220000-websitevisit-event&amp;utm_term=brand
-  description: Invicti Security is changing the way web applications are secured. Invicti’s dynamic and interactive application security products, Netsparker and Acunetix, help organizations in every industry scale their overall security operations, make the best use of their security resources, and engage developers in helping to improve their overall security posture.
+  url: https://www.invicti.com/
+  description: Invicti Security is transforming the way web applications are secured. An AppSec leader for more than 15 years, Invicti enables organizations in every industry to continuously scan and secure all of their web applications and APIs at the speed of innovation. Through industry-leading Asset Discovery, Dynamic Application Security Testing (DAST), Interactive Application Security Testing (IAST), and Software Composition Analysis (SCA), Invicti provides a comprehensive view of an organization’s entire web application portfolio. Invicti’s proprietary Proof-Based Scanning technology is the first to deliver automatic verification of vulnerabilities and proof of exploit with 99.98% accuracy.
 - member: true
   sponsor: -1
   name: Bionic
@@ -1141,7 +1141,7 @@
   membertype: 4
   image: /assets/images/corp-member-logo/KnowitSecureAB.png
   url: https://www.knowit.eu/services/insight/cybersecurity-law/
-  description: Knowit Secure Penetration testing team are specialized in penetration testing in the Nordics. We offer a large array of tests including Web Application Penetration testing, network testing, IoT testing, Mobile application testing, and red teaming.
+  description: The penetration testing team at Knowit Cybersecurity & Law are specialized in performing security tests and penetration tests in the Nordics. We offer a large array of tests including web application penetration testing, network testing, IoT testing, mobile application testing and red teaming.
 - member: true
   sponsor: -1
   name: open-appsec
@@ -1235,3 +1235,43 @@
   image: /assets/images/corp-member-logo/Synopsyslogocmky72_1.png
   url: https://www.synopsys.com/software-integrity.html
   description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
+- member: true
+  sponsor: -1
+  name: Trend Micro
+  sortname: Trend Micro
+  membertype: 4
+  image: /assets/images/corp-member-logo/TrendMicro.png
+  url: https://www.trendmicro.com/en_ca/business.html
+  description: Trend Micro is a global cloud security leader that specializes in meeting the needs of businesses building on the cloud. Trend Cloud One security platform is designed to protect your digital transformation and cloud-native applications.
+- member: true
+  sponsor: -1
+  name: "Scitum S.A de C.V:"
+  sortname: "Scitum S.A de C.V:"
+  membertype: 3
+  image: /assets/images/corp-member-logo/Scitum.png
+  url: https://www.scitum.com.mx/
+  description: Scitum is the leading cybersecurity company in Mexico, Latin America, the United States, and some European countries. Scitum’s primary focus is to fulfill all of our client’s needs with services that fully cover the cycle of cybersecurity, among which consultancy and provided services stand out. We are part of Telmex and Grupo Carso, providing great support and financial capability to deal with complex, large-scale projects.
+- member: true
+  sponsor: -1
+  name: Backslash
+  sortname: Backslash
+  membertype: 3
+  image: /assets/images/corp-member-logo/Backslash-logo.png
+  url: https://www.backslash.security/?utm_campaign=Launch&utm_source=owasp-sponsorship&utm_medium=banner&utm_content=homepage 
+  description: Backslash is the first Cloud-Native Application Security solution for enterprise AppSec teams to provide unified security and business context to cloud-native code risk, coupled with automated threat modeling, code risk prioritization, and simplified remediation across applications and teams. With Backslash, AppSec teams can see and easily act upon the critical toxic code flows in their cloud-native applications; quickly prioritize code risks based on the relevant cloud context; and significantly cut MTTR (mean time to recovery) by enabling developers with the evidence they need to take ownership of the process.
+- member: true
+  sponsor: -1
+  name: BLST Security
+  sortname: BLST Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/BLST_Logo.png
+  url: 	https://blstsecurity.com/
+  description: BLST understands its client’s API posture in the context that matters – Business goals, user journey, and IT KPIs. It can provide discovery in less than an hour (touchless), including a clear map of your API sprawl. It can detect attack vectors and sort them according to business impact. BLST’s advanced platform provides broad visibility, API posture management, ongoing monitoring, and notifications. It quickly integrates with your existing dev tools, gives you what you need to keep your APIs healthy, and spares you unnecessary noise. It’s a to-the-point, tailored, and effective API security solution.
+- member: true
+  sponsor: -1
+  name: Nedap N.V.
+  sortname: Nedap N.V.
+  membertype: 4
+  image: /assets/images/corp-member-logo/nedap_logo_hero_digital_blue.png
+  url: https://nedap.com
+  description: We are passionate about technology and how it can help people become happier and more successful in their professional lives. Life teaches us a lot about people and that’s what inspires us to create high impact, hard and software solutions that have true value. That’s what we call, Technology for Life. It is our purpose and drives us in everything we do. To apply technology in a way that it has a tangible positive impact on people’s professional lives, requires a people-centred approach that respects people and our planet.

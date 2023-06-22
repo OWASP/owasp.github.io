@@ -4,24 +4,24 @@ layout: col-sidebar
 title: Packages and Prices
 permalink: /supporters/packages
 site_side: true
-tags: corp-membership
+tags: corp-supporter
 
 ---
 
-OWASP's new corporate membership packages now contain more benefits than ever. New benefits include Corporate Membership logos for your website, OWASP trademark licensing, including registration discounts, early access to our events, and more. There's a package with affordable prices for all. We have steep discounts for emerging or developing economies or are a startup or both. Corporate Membership is valid for 365 days from the date payment is received. 
+OWASP's updated Corporate Supporter packages now contain more benefits than ever. Updated benefits include Corporate Supporter logos for your website, OWASP trademark licensing, including registration discounts, early access to our events, and more. There's a package with affordable prices for all. We have steep discounts for emerging or developing economies or are a startup or both. Corporate Supporter packages are valid for 365 days from the date payment is received. 
 
-## Become a Corporate Member Today
+## Become a Corporate Supporter Today
 
-To learn more please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72){:rel="noopener sponsored" target="_blank"} today!
+To learn more please [Contact Us](mailto:events@owasp.com) today!
 
 ## Packages
 
-OWASP has three Corporate Membership packages:
+OWASP has three Corporate Supporter packages:
 
-| Feature                                                                                                                       | [Platinum](#platinum-corporate-membership) | [Gold](#gold-corporate-membership) | [Silver](#silver-corporate-membership) |
+| Feature                                                                                                                       | [Platinum](#platinum-corporate-supporter) | [Gold](#gold-corporate-supporter) | [Silver](#silver-corporate-supporter) |
 | ----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :------------------------------------: |
 | [Availability](/supporters/benefits#packages-available-to-all)                                                                |                     ✅                      |                 ✅                  |                   ✅                    |
-| [Corporate Member Supporter Logo](/supporters/benefits#corporate-member-logo)                                                 |                  Platinum                  |                Gold                |                 Silver                 |
+| [Corporate Supporter Logo](/supporters/benefits#corporate-member-logo)                                                 |                  Platinum                  |                Gold                |                 Silver                 |
 | [OWASP Trademark license](/supporters/benefits#owasp-trademark-license)                                                       |                 Unlimited                  |                 5                  |                   1                    |
 | [Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) |                     10                     |                 5                  |                   1                    |
 | [Sponsor Participating AppSec Days](/supporters/benefits#corporate-sponsorship-of-participating-appsec-days-events)           |                     ✅                      |                 ✅                  |                   ✅                    |
@@ -33,7 +33,7 @@ OWASP has three Corporate Membership packages:
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Ambassador for global election vote](/supporters/benefits#ambassador-for-owasp-board-of-directors-election-vote)             |                     ✅                      |                 ✅                  |                   ✅                    |
 
-### Platinum Corporate Membership
+### Platinum Corporate Suppoter
 
 | ![Platinum](/assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg) | Platinum |
 | ------------------------------------------------------------------------- | :------: |
@@ -42,32 +42,32 @@ OWASP has three Corporate Membership packages:
 | Platinum Startup                                                          | \$10,000 |
 | Platinum Regional Startup                                                 | \$4,000  |
 
-### Gold Corporate Membership
+### Gold Corporate Supporter
 
 | ![Gold](/assets/images/corp-membership-icons/OWASP_Tier_icons_Gold.svg) | Gold Price |
 | ----------------------------------------------------------------------- | :--------: |
-| Gold                                                                    |  \$15,000  |
+| Gold Standard                                                           |  \$15,000  |
 | Gold Regional                                                           |  \$6,000   |
 | Gold Startup                                                            |  \$6,000   |
 | Gold Regional Startup                                                   |  \$2,400   |
 
-### Silver Corporate Membership
+### Silver Corporate Supporter
 
 | ![Silver](/assets/images/corp-membership-icons/OWASP_Tier_icons_Silver.svg) | Silver Price |
 | --------------------------------------------------------------------------- | :----------: |
-| Silver                                                                      |   \$5,000    |
+| Silver Standard                                                             |   \$5,000    |
 | Silver Regional                                                             |   \$2,000    |
 | Silver Startup                                                              |   \$2,000    |
 | Silver Regional Startup                                                     |    \$800     |
 
-### What are Regional Corporate Members?
+### What are Regional Corporate Supporters?
 
-One of OWASP's core values, which drives our mission, is that "anyone around the world is encouraged to participate in the OWASP community." The financial burden of standard Corporate Membership pricing in countries with emerging or developing economies can be a barrier to participation. OWASP offers affordable Regional Corporate Memberships to companies headquartered in emerging and developing economies.
+One of OWASP's core values, which drives our mission, is that "anyone around the world is encouraged to participate in the OWASP community." The financial burden of standard Corporate Supporter pricing in countries with emerging or developing economies can be a barrier to participation. OWASP offers affordable Regional Corporate Supporter rates for companies headquartered in emerging and developing economies.
 
-Companies whose headquarters are based in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate membership.
+Companies whose headquarters are based in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate supporter packages.
 
-The OWASP Foundation may grant Regional Corporate Membership at its sole discretion after obtaining additional information.
+The OWASP Foundation may grant a Regional Corporate Supporter at its sole discretion after obtaining additional information.
 
-### What are Startup Corporate Members?
+### What are Start-up Corporate Supporters?
 
-Startups founded for less than 24 months at the time of joining or renewal are eligible to access the Corporate Membership Startup discount. Evidence such as a company registration record will be required.
+Start-ups founded for less than 24 months at the time of joining or renewal are eligible to access the Corporate Supporter Start-up discount. Evidence such as a company registration record will be required.

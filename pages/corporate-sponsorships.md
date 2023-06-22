@@ -1,7 +1,7 @@
 ---
 
 layout: col-generic
-title: Corporate Event Sponsorship
+title: Corporate Event Sponsorship - CURRENTLY NOT AVAILABLE AT THIS TIME
 permalink: /corporate-sponsorships
 
 ---

@@ -4,11 +4,11 @@ layout: home
 title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
 tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vulnerability Assessment
-spnews: True
+spnews: False
 
 ---
 
-<!-- Rebuild Site Tag 183 -->
+<!-- Rebuild Site Tag 186 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
   <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
@@ -17,34 +17,23 @@ spnews: True
  <hr class="mobile">
 
 <section class="homepage-welcome">
-  <h1>Who is the OWASP<sup>&reg;</sup> Foundation?</h1>
-  <p>The Open Worldwide Application Security Project<sup>&reg;</sup> (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.</p>
-
-<ul>
-<li>Tools and Resources</li>
-<li>Community and Networking</li>
-<li>Education & Training</li>
-</ul>
-
-<p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="/donate/">Donate</a>, <a href="/membership/">Join</a>, or become a <a href="/supporters">Corporate Member</a> today.</p>
 </section>
 
 <hr>
+
 {% if page.spnews %}
 {% include specialnews.md %}
 {% endif %}
 
-<section class="homepage-project">
- {% capture my_include %}{% include featured_project.md %}{% endcapture %}
-  {{ my_include | markdownify }}
-</section>
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+  {% include flagships.html %}
+</div>
 
 <hr class="mobile">
 
-<section class="homepage-chapter">
-  {% capture my_include %}{% include featured_chapter.md %}{% endcapture %}
-  {{ my_include | markdownify }}
-</section>
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+  {% include featured_events.html %}
+</div>
 
 <hr>
 
