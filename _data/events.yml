@@ -1,60 +1,71 @@
 - category: Global
-  description: Our premier events bringing together our multifaceted communities to engage in a variety of education events, trainings, and entertainment based gatherings to enhance your skills, increase your connections, and bring balance to your daily AppSec world.
+  description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
   events:
-    - name: OWASP End of Summer Training
-      optional-text: Register now for some of the hottest training courses OWASP has to offer!
-      start-date: 2022-09-13
-      dates: September 13-14, 2022 (BST)
-      url: https://www.eventbrite.com/e/owasp-2022-end-of-summer-virtual-training-tickets-376362348917
-    - name: OWASP October Webinar
-      optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes October 7.<strong>
-      start-date: 2022-10-11
-      dates: October 11-12, 2022 Australian Western Standard Time (AWST)
-      url: https://www.eventbrite.com/e/247450760887
-    - name: OWASP 2022 Global AppSec San Francisco
-      start-date: 2022-11-14
-      dates: November 14-18, 2022 Pacific Standard Time (PST)
-      url: https://sf.globalappsec.org/
-      optional-text: Join us in-person in San Francisco for three days of training followed by two conference days with multiple tracks and an exhibit hall. Call for Papers and Call for Trainers are now open. Exhibitor opportunities are available.
-    - name: OWASP December Webinar
-      optional-text: Designed for the software developer, this 2-day webinar will further educate developers to write more secure code using the OWASP Top 10 as a guide. The webinar will include a mix of lectures, demonstrations, and labs. Join us for a fun, relaxed, virtual environment to level-up your skills. <strong>Registration closes November 30.<strong>
-      start-date: 2022-12-05
-      dates: December 5-6, 2022 Eastern Standard Time (EST)
-      url: https://www.eventbrite.com/e/247416939727
-    - name: Happy Holidays Training
-      optional-text: OWASP is pleased to bring you our Happy Holiday's Training. Don't miss this multi-day virtual developer training to retool and level-up. More details coming soon!
-      start-date: 2022-12-12
-      dates: December 12-13, 2022 Eastern Standard Time (EST)
-      url:
-    - name: OWASP Global AppSec Dublin 2023
-      start-date: 2023-02-13
-      dates: February 13-16, 2023
-      url:
-      optional-text: Join us in-person in Dublin for two days of training followed by two conference days with multiple tracks.
+    - name: OWASP Global AppSec Singapore 2023
+      start-date: 2023-10-03
+      dates: October 4-5, 2023
+      url: https://singapore.globalappsec.org/
+      optional-text: Save the date! Join us in Singapore for one day of training and one conference day, offering multiple tracks. Exhibitor and Sponsorship opportunities are available. More details are coming soon!
+    - name: OWASP Global AppSec Washington DC 2023
+      start-date: 2023-10-30
+      dates: October 30 - November 3, 2023
+      url: https://dc.globalappsec.org/
+      optional-text: Join us at the Marriott Marquis Washington, DC, for two conference days offering multiple tracks **followed** by three days of training courses. Call for Volunteers is open. Exhibitor and Sponsorship opportunities are available.
+    - name: OWASP Global AppSec San Francisco 2024
+      start-date: 2024-09-23
+      dates: September 23-27, 2024
+      #url:
+      #optional-text:
+    - name: OWASP Global AppSec Washington DC 2025
+      start-date: 2025-11-03
+      dates: November 3-7, 2025
+      #url:
+      #optional-text:
+    - name: OWASP Global AppSec San Francisco 2026
+      start-date: 2026-11-02
+      dates: November 2-6, 2026
+      #url:
+      #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
     - name: OWASP Italy Day
-      start-date: 2022-09-30
-      dates: September 30, 2022
-      url:
-    - name: OWASP 2022 LASCON
-      start-date: 2022-10-25
-      dates: October 25-28, 2022
+      start-date: 2023-09-12
+      dates: September 12, 2023
+      url: https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023
+    - name: OWASP Virtual Career Fair 6 am-6 pm EDT
+      start-date: 2023-09-28
+      dates: September 28, 2023
+      url: https://owasp.org/events/career_fair/
+    - name: OWASP Virtual Career Fair 6 am-6 pm SGT
+      start-date: 2023-10-11
+      dates: October 11, 2023
+      url: https://owasp.org/events/career_fair/
+    - name: OWASP LASCON
+      start-date: 2023-10-24
+      dates: October 24-27, 2023
       url: https://lascon.org/
-    - name: OWASP 2023 SnowFROC 
-      start-date: 2023-03-02
-      dates: March 2, 2023
-      url: https://snowfroc.com/
-    - name: OWASP 2023 BASC
-      start-date: 2023-04-01
-      dates: April 1, 2023
-      url:
-    - name: AppSec Days Pacific Northwest
-      start-date: 2023-06-10
-      dates: June 10, 2023
-      url: 
+    - name: OWASP BeNeLux
+      start-date: 2023-11-24
+      dates: November 24-25, 2023
+      url: https://www.owaspbenelux.eu/
 - category: Partner
-  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us please contact [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
+  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
-    
+    - name: DevOps Asia Summit 2023
+      start-date: 2023-07-28
+      dates: July 28, 2023
+      url: https://devopsasiasummit.com/
+    - name: OWASP New Zealand Day 2023
+      start-date: 2023-07-05
+      dates: July 5-8, 2023
+      url: https://appsec.org.nz/conference/
+    - name: Top Women in Security Asean Region Awards
+      start-date: 2023-03-01
+      dates: 2023
+      url: https://womeninsecurityaseanregion.com/
+    - name: Black Hat USA 2023
+      start-date: 2023-08-05
+      dates: August 5 -10, 2023
+      url: https://blackhat.com/us-23
+      optional-text:  $200 discount code for in-person registrations OWASP2023

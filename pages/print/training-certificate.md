@@ -46,7 +46,7 @@
   </div>
   <div class="certificate-footer noprint">
       <p class="disclaimer">
-      Open Web Application Security Project and OWASP are registered trademarks and Global AppSec, AppSec Days, AppSec California, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc.  
+      Open Worldwide Application Security Project and OWASP are registered trademarks and Global AppSec, AppSec Days, AppSec California, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc.  
       </p>
   </div>
 </div>

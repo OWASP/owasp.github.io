@@ -28,7 +28,7 @@ As part of policy reform, I had the bylaws reviewed by our new lawyers. They poi
 
 When the OWASP Foundation was founded in 2004, the Certificate of Incorporation did not bestow the power to replace or amend the bylaws upon any Member class. Under Delaware General Corporate Law (DGCL), by default, this right remains with the Members and cannot be removed.
 
-For the first two years, the only Members were the initial Directors. The 2004 bylaws had no Membership provisions, so it's unclear if anyone was a Member or Director until 2011 other than the founding Directors, despite taking paid memberships since 2006 for individuals, education institutions, and corporate memberships.
+For the first two years, the only Members were the initial Directors. The 2004 bylaws had no Membership provisions, so it's unclear if anyone was a Member or Director until 2011 other than the founding Directors, despite taking paid memberships since 2006 for individuals, education institutions, and corporate supporters.
 
 The 2011 Board replaced the 2004 bylaws, which they did not have a right to do.
 

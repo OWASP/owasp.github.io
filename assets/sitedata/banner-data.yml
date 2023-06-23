@@ -1,6 +1,8 @@
 - type: alert
-  start: 2021-11-29 10:00:00-0500
-  end: 2021-12-01 01:00:00-0500
-  text: "<p>It's #GivingTuesday! OWASP is fundraising $25,000 for 2022 Diversity Scholarships. 100% of your donation made today will go to the 2022 Scholarships Budget. We are a 501 (c) 3 non-profit, so donations may be tax deductible. <a href='https://owasp.org/donate/'>Donate Today</a></p>"
+  start: 2023-05-26 00:00:00-0500
+  end: 2023-06-30 23:59:59-0500
+  text: >-
+    <h2>Membership Discount: 15% off two year memberships!</h2> 
+    &nbsp;&nbsp;<a href="/membership/"><h2><div style="width:120px;">Join Now</div></h2></a>
 - type: notice
   text: "<p>Please support the OWASP mission to improve software security through Open Source initiatives and community education. <a href='https://owasp.org/donate/'>Donate Now!</a></p>"

@@ -13,7 +13,7 @@
             var email = $('#emailaddr').val();
             $.ajax({
                 type: "POST",
-                url: "https://owaspadmin.azurewebsites.net/api/owasp_slack_add_user?code=aaanp3ICdjlaVHHoAnmO06EiDh9dgrCZfkjdTeoOQLVvdesivNWUjA==&email=" + email,
+                url: "https://owaspadmin.azurewebsites.net/api/owasp_slack_add_user?code=aaanp3ICdjlaVHHoAnmO06EiDh9dgrCZfkjdTeoOQLVvdesivNWUjA==&email=" + encodeURIComponent(email),
                 dataType: "json",
                 success: function (result, status, xhr) {
                    if(result['ok']){

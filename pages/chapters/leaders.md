@@ -35,7 +35,7 @@ permalink: /chapters/leaders/
 </section>
 
 <script type='text/javascript'>
-    var all = "{{ allleaders | jsonify | replace: '"', '\"' }}";
+    var all = "{{ allleaders | jsonify | replace: '"', '\"' | replace: '\\"', "'" }}";
     var leaders = JSON.parse(all);
     leaders = leaders.sort(function (a, b) {
       if(a.group > b.group) 
@@ -62,7 +62,7 @@ permalink: /chapters/leaders/
     
     $("#leaders-filter").keyup(function(e) {
         var code = e.keyCode ? e.keyCode : e.which;
-      
+
         if (code == 13) {  // Enter keycode
             var filter = $('#leaders-filter').val();
             filter = filter.toLowerCase();
