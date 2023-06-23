@@ -201,6 +201,7 @@ window.addEventListener('load', function () {
       mailing_list: false,
       free_leader: false,
       free_leader_agreement: false,
+      owasp_staff: {{ site.data.staff | jsonify }}
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
@@ -392,6 +393,14 @@ window.addEventListener('load', function () {
         this.membership_discount = discount;
         this.$forceUpdate();
       },
+      not_on_staff: function (email) {
+        for( item in this.owasp_staff) {
+          if ( email == this.owasp_staff[item].email ){
+            return false;
+          }
+        }
+        return true;
+      },
       validateForm: function () {
         let errors = {};        
 
@@ -405,6 +414,12 @@ window.addEventListener('load', function () {
 
         if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
           errors.email = ['Please enter a valid email address'];
+        }
+
+        if (this.email.endsWith('owasp.com')) {
+          if (this.not_on_staff(this.email)){
+            errors.email = ['Your email address does not end in owasp.com unless you are on the staff of the OWASP Foundation'];
+          }
         }
 
         if (this.email_confirm !== this.email) {
