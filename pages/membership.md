@@ -40,25 +40,19 @@ maintenance_message: Due to a required update to our systems, we are currently e
       <!-- main membership form -->
 
       <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Supporter</a></h1></div>
-      <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
-      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
-
-    <h3>Already a member? <a href="/members/">Check out what is available to you</a></h3>
+    <h3>Already a member? <a href="https://members.owasp.org/">Sign in to the Membership Portal</a></h3>
+    <h3><a href="#member_benefits">What you get as a member</a></h3>
+    
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
-{% endraw %}
-      {% include member_benefits.md %}
-{% raw %}
+
       <div class='alert'><h2>15% off two year memberships!</h2> 
           Your contributions help support OWASP's mission by:
           <ul><li>Funding chapters, events, and projects</li>
           <li>Sustaining OWASP's operations</li>
           <li>Helping out with scholarships to our Global AppSec events</li>
           </ul>
-      </div>
-      <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
-      <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
-      <p>Would your business like to become a <a href="/supporters">Corporate Supporter</a>? </p>
-      <h2>Join or Renew Now</h2>
+      </div>      
+      <h2>Join Now <span style="font-size:smaller"><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p></span></h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
@@ -168,6 +162,11 @@ maintenance_message: Due to a required update to our systems, we are currently e
         <!-- reserved for future use -->
       </aside>
     </div>
+    <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
+    <h3 id="member_benefits">Member Benefits</h3>
+{% endraw %}
+      {% include member_benefits.md %}
+{% raw %}
   </div>
 
 </div>
@@ -201,6 +200,7 @@ window.addEventListener('load', function () {
       mailing_list: false,
       free_leader: false,
       free_leader_agreement: false,
+      owasp_staff: {{ site.data.staff | jsonify }}
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
@@ -392,6 +392,14 @@ window.addEventListener('load', function () {
         this.membership_discount = discount;
         this.$forceUpdate();
       },
+      not_on_staff: function (email) {
+        for( item in this.owasp_staff) {
+          if ( email == this.owasp_staff[item].email ){
+            return false;
+          }
+        }
+        return true;
+      },
       validateForm: function () {
         let errors = {};        
 
@@ -405,6 +413,12 @@ window.addEventListener('load', function () {
 
         if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
           errors.email = ['Please enter a valid email address'];
+        }
+
+        if (this.email.endsWith('owasp.com')) {
+          if (this.not_on_staff(this.email)){
+            errors.email = ['Your email address does not end in owasp.com unless you are on the staff of the OWASP Foundation'];
+          }
         }
 
         if (this.email_confirm !== this.email) {

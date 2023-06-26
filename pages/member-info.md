@@ -33,12 +33,7 @@ permalink: /members/
 
 <section markdown="1" class="first-section">
 ## Already a member?
-If you have an OWASP email address, Access the [Membership Portal](https://members.owasp.org) using your **OWASP email address** for subscriber benefits and to manage your personal information
-
-Otherwise, [request an OWASP email address](/manage-membership/) with your membership email address (this is the email address you signed up with)
-
-Or [manage your billing and subscription](/manage-membership/) with your membership email address (this is the email address you signed up with)
-
+Access the [Membership Portal](https://members.owasp.org) for subscriber benefits and to manage your personal information and subscription details
 </section>
 
 <section markdown="1" class="second-section">

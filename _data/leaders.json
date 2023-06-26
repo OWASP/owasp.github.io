@@ -1400,13 +1400,6 @@
         "group_url": "https://owasp.org/www-chapter-dallas/"
     },
     {
-        "name": "Dawn Aitken",
-        "email": "dawn.aitken@owasp.com",
-        "group": "OWASP Dawn Quilting Group",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dawn-quilting-group/"
-    },
-    {
         "name": "David Rhoades",
         "email": "david.rhoades@owasp.org",
         "group": "OWASP Delaware",
@@ -2662,6 +2655,13 @@
     {
         "name": "Souvik Roy",
         "email": "souvik.roy@owasp.org",
+        "group": "OWASP Kolkata",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kolkata/"
+    },
+    {
+        "name": "Arindam Halder",
+        "email": "arindam.halder@owasp.org",
         "group": "OWASP Kolkata",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-kolkata/"
@@ -7096,6 +7096,20 @@
         "group": "OWASP Raider",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-raider/"
+    },
+    {
+        "name": "Jonathan Carter",
+        "email": "jonathan.carter@owasp.org",
+        "group": "OWASP Reverse Engineering And Code Modification Prevention",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-reverse-engineering-and-code-modification-prevention/"
+    },
+    {
+        "name": "Jonathan Carter",
+        "email": "jonathan.carter@owasp.org",
+        "group": "OWASP Reverse Engineering And Code Modification Prevention",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-reverse-engineering-and-code-modification-prevention/"
     },
     {
         "name": "Ade Yoseman Putra",
