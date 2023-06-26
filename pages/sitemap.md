@@ -35,15 +35,15 @@ permalink: /sitemap/
   <li><a href="/events/#regionalevents">Regional Events</a></li>
   <li><a href="/events/#globalpartnerevents">Global Partner Events</a></li>
   <li><a href="/corporate-sponsorships">Become a Corporate Event Sponsor</a></li>
-  <li><a href="https://dublin.globalappsec.org" target="_blank">Global AppSec Dublin</a></li>
-  <li><a href="https://sf.globalappsec.org" target="_blank">Global AppSec San Francisco</a></li>
+    <li><a href="https://dc.globalappsec.org" target="_blank">Global AppSec DC 2023</a></li>
 </ul> 
 
 <ul>
   <li><h2>Who are we?</h2></li>
   <li><a href="/about/">About OWASP</a></li>
   <li><a href="/news/">News</a></li>
-  <li><a href="/corporate/">Board & Staff</a></li>
+  <li><a href="/www-board/#div-board">Board</a></li>
+  <li><a href="/corporate/">Staff</a></li>
   <li><a href="/www-staff/budget/2020">Budget for 2020</a></li>  
   <li><a href="/careers/">Careers</a></li>
   <li><a href="/finance/">Finance</a></li>

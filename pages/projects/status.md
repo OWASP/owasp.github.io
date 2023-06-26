@@ -12,7 +12,14 @@ Jump to
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
 
-### Total OWASP Projects: {{ site.data.projects.size }}
+{% assign psize = 0 %}
+
+{% for project in site.data.projects %}
+{% if project.build != 'no pages' %}
+{% assign psize = psize | plus: 1 %}
+{% endif %}
+{% endfor %}
+### Total OWASP Projects: {{ psize }}
 
 ----
 <section id='new'></section>

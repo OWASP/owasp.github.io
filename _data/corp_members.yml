@@ -578,13 +578,6 @@
   image: /assets/images/corp-member-logo/symantec.png
   url: https://www.symantec.com/	
   description: "Symantec Corporation (NASDAQ: SYMC), the world’s leading cybersecurity company, helps organizations, governments, and people secure their most important data wherever it lives. Organizations across the world look to Symantec for strategic, integrated solutions to defend against sophisticated attacks across endpoints, cloud, and infrastructure. Likewise, a global community of more than 50 million people and families rely on Symantec’s Norton and LifeLock product suites to protect their digital lives at home and across their devices. Symantec operates one of the world’s largest civilian cyber intelligence networks, allowing it to see and protect against the most advanced threats."
-- member: false	
-  sponsor: 4	
-  name: Synopsys	
-  sortname: Synopsys
-  image: /assets/images/corp-member-logo/synopsys.png	
-  url: https://www.synopsys.com/	
-  description: Synopsys technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything―where devices are getting smarter, everything’s connected, and everything must be secure. Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. Synopsys is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, IP integration, and application security testing. Our technology helps customers innovate from Silicon to Software, so they can deliver Smart, Secure Everything.	
 - member: false
   sponsor: 4 	
   name: Tala Security	
@@ -657,11 +650,11 @@
   description: "The Waratek ARMR Platform provides unique protection in the applications runtime environment. This unique security layer provides fast and accurate security in the compilation pipeline, providing protection that becomes part of your application – but never requires changes to source code."
 - member: true	
   sponsor: 4	
-  name: WhiteSource Software	
-  sortname: WhiteSource Software
-  image: /assets/images/corp-member-logo/whitesource.png
-  url:  https://www.whitesourcesoftware.com/ 	
-  description: The leading solution for agile open source security and license compliance management, WhiteSource integrates with the DevOps pipeline to detect vulnerable open source libraries in real-time.  It provides remediation paths and policy automation to speed up time-to-fix. It also prioritizes vulnerability alerts based on usage analysis.  We support over 200 programming languages and offer the widest vulnerability database aggregating information from dozens of peer-reviewed, respected sources. 	
+  name: Mend	
+  sortname: Mend
+  image: /assets/images/corp-member-logo/mend.png
+  url:  https://mend.io/ 	
+  description: The leading solution for agile open source security and license compliance management, Mend integrates with the DevOps pipeline to detect vulnerable open source libraries in real-time.  It provides remediation paths and policy automation to speed up time-to-fix. It also prioritizes vulnerability alerts based on usage analysis.  We support over 200 programming languages and offer the widest vulnerability database aggregating information from dozens of peer-reviewed, respected sources. 	
 - member: true
   sponsor: -1
   name: Tech Coordinator Cyber Insurance Solutions
@@ -754,17 +747,9 @@
   description: "cyllective AG is an independent consulting and engineering firm in the IT security sector. With a strong background in offensive security, technical security audits are a cornerstone of the company’s services. While the main practices lie in offensive security-testing, cyllective is a holistic security company - offering many high-quality security services to customers world wide. cyllective is a privately held 'security boutique' - with moderate size, exquisite quality, and supreme customer satisfaction as our primary goals."
 - member: true
   sponsor: -1
-  name: Oxeye
-  sortname: Oxeye
-  membertype:
-  image: /assets/images/corp-member-logo/oxeye_rgb_logo__light.png
-  url: 	https://www.oxeye.io/
-  description: Oxeye provides a cloud-native application security testing solution that is designed to overcome the challenges imposed by the complex nature of modern architectures. Oxeye disrupts traditional application security testing (AST) approaches by offering a contextual, effortless, and comprehensive solution to ensure no vulnerable code ever reaches production. Oxeye helps to shift-left security while accelerating development cycles, reducing friction, and eliminating risks. Leverage our advanced vulnerable-flow tracing technology to identify and resolve code vulnerabilities in your applications, services, APIs, and open-source libraries.
-- member: true
-  sponsor: -1
   name: Barracuda Networks
   sortname: Barracuda Networks
-  membertype:
+  membertype: 
   image: /assets/images/corp-member-logo/barracuda_primary_strapline_300x90.png
   url: https://www.barracuda.com/waf-as-a-service 
   description: 	We build enterprise-grade, cloud-ready security solutions. More than 200,000 global customers trust Barracuda to safeguard their employees, data, and applications from a wide range of threats. Barracuda provides easy, comprehensive and affordable solutions for email protection, application and cloud security, network security and data protection. We are continually innovating to deliver tomorrow’s security technology, today.
@@ -809,10 +794,10 @@
   sponsor: -1
   name: GitGuardian
   sortname: GitGuardian
-  membertype: 3
-  image: /assets/images/corp-member-logo/GitGuardian_Logo_Vertical.png
+  membertype: 4
+  image: /assets/images/corp-member-logo/GitGuardian.png
   url: http://gitguardian.com
-  description: 	GitGuardian is the code security platform for the DevOps generation. With automated secrets detection and remediation, our platform enables Dev, Sec, and Ops to advance together towards the Secure Software Development Lifecycle.
+  description: 	GitGuardian is a global cybersecurity startup focusing on code security solutions for the DevOps generation. A leader in the market of secrets detection and remediation, its solutions are already used by hundred thousands developers in all industries. GitGuardian helps developers, cloud operation, security and compliance professionals secure software development, define and enforce policies consistently and globally across all their systems. GitGuardian solutions monitor public and private repositories in real-time, detect secrets, sensitive files, IaC misconfigurations and alert to allow investigation and quick remediation.
 - member: true
   sponsor: -1
   name: Resurface Labs Inc.
@@ -835,8 +820,8 @@
   sortname: Invicti Security
   membertype: 3
   image: /assets/images/corp-member-logo/invicti_logo_300x90_black.png
-  url: https://www.invicti.com/?utm_medium=events&amp;utm_source=tradeshow&amp;utm_campaign=i-owaspcorporatemembership2022&amp;utm_content=220000-websitevisit-event&amp;utm_term=brand
-  description: Invicti Security is changing the way web applications are secured. Invicti’s dynamic and interactive application security products, Netsparker and Acunetix, help organizations in every industry scale their overall security operations, make the best use of their security resources, and engage developers in helping to improve their overall security posture.
+  url: https://www.invicti.com/
+  description: Invicti Security is transforming the way web applications are secured. An AppSec leader for more than 15 years, Invicti enables organizations in every industry to continuously scan and secure all of their web applications and APIs at the speed of innovation. Through industry-leading Asset Discovery, Dynamic Application Security Testing (DAST), Interactive Application Security Testing (IAST), and Software Composition Analysis (SCA), Invicti provides a comprehensive view of an organization’s entire web application portfolio. Invicti’s proprietary Proof-Based Scanning technology is the first to deliver automatic verification of vulnerabilities and proof of exploit with 99.98% accuracy.
 - member: true
   sponsor: -1
   name: Bionic
@@ -1007,7 +992,7 @@
   name: CREST International
   sortname: CREST International
   membertype: 3
-  image: /assets/images/corp-member-logo/CRESTInternational.png
+  image: /assets/images/corp-member-logo/New_CREST_2022.jpeg
   url: https://www.crest-approved.org/
   description: CREST is an international not-for-profit, membership body representing the technical cyber security industry. Our vision is to build trust in the digital world by raising professional standards and delivering measurable quality assurance for the global cyber security industry. Our mission is to build capability, capacity, consistency and community in the global cyber security industry. We continually drive improvements in our accreditation and professional certification programmes for the benefit of stakeholders. CREST has almost 300 member companies internationally and engages and partners with governments, regulators, not-for-profit and corporate organizations around the world to help realise our vision.
 - member: true
@@ -1093,3 +1078,200 @@
   image: /assets/images/corp-member-logo/Masterfully_logo.png
   url: https://masterfully.com/
   description: As an enterprise-level eLearning system, Masterfully optimizes the hiring and training of specialized cybersecurity professionals. Our learning management system, Advisor Plus, is equipped for in-house course authoring, learning management, and data analytics to seamlessly create cybersecurity testing, training and onboarding programs specific to each company's unique tech stack. Masterfully offers web app security courses written by subject matter experts to start training immediately with Advisor Plus. With decades of eLearning experience, Masterfully understands the complexities of maintaining quality training while continually adapting to new skill sets. Together, we can build a more secure cyberspace.
+- member: true
+  sponsor: -1
+  name: Security Journey
+  sortname: Security Journey
+  membertype: 4
+  image: /assets/images/corp-member-logo/securityjourney_logo_color_vert.png
+  url: https://www.securityjourney.com/
+  description: HackEDU’s spring 2022 acquisition of Security Journey brings together two powerful platforms to provide application security education for developers and the entire SDLC team. The two officially became one in August 2022 and are now Security Journey. Two platforms, one path to build a security-first development culture.
+- member: true
+  sponsor: -1
+  name: Cequence Security
+  sortname: Cequence Security
+  membertype: 4
+  image:  /assets/images/corp-member-logo/cequence_logosm.svg
+  url: 	https://www.cequence.ai
+  description: Organizations that have fully embraced an API-first methodology or are just getting started, trust Cequence Security to protect their APIs and scale their business with the only solution that addresses all phases of the API protection lifecycle. The Cequence Unified API Protection (UAP) solution provides runtime API visibility, security risk monitoring, and patented behavioral fingerprinting technology to consistently detect and protect against ever evolving online attacks.
+- member: true
+  sponsor: -1
+  name: Check Point
+  sortname: Check Point
+  membertype: 4
+  image: /assets/images/corp-member-logo/Check_Point.png
+  url: http://www.checkpoint.com
+  description: Check Point Software Technologies Ltd. (www.checkpoint.com) is a leading provider of cyber security solutions to governments and corporate enterprises globally. Its solutions protect customers from 5th generation cyber-attacks with an industry leading catch rate of malware, ransomware and other types of attacks. Check Point offers multilevel security architecture, “Infinity” Total Protection with Gen V advanced threat prevention, which defends enterprises’ cloud, network and mobile device held information. Check Point provides the most comprehensive and intuitive one point of control security management system. Check Point protects over 100,000 organizations of all sizes.
+- member: true
+  sponsor: -1
+  name: Ubiq Security, Inc.
+  sortname: Ubiq Security, Inc.
+  membertype: 4
+  image: /assets/images/corp-member-logo/Ubiq_logo.png
+  url: http://ubiqsecurity.com
+  description: Ubiq is an API-based application-layer data encryption as code (SaaS) platform that enables development, security, and data protection teams to mitigate the risk of sensitive data theft and eliminate the gap left wide open by most at-rest encryption solutions, by enabling them to encrypt data directly inside of the application in a few lines of code and 2 API calls. Ubiq empowers teams to reduce the risk of data theft, free up precious resources, and build compliant and secure-by-design applications.
+- member: true
+  sponsor: -1
+  name: Oxeye
+  sortname: Oxeye
+  membertype: 4
+  image: /assets/images/corp-member-logo/oxeye_rgb_logo__light_1.png
+  url: http://www.oxeye.io
+  description: Noise Cancellation for Application Security. Our cloud-native application security solution eliminates noise so your team can focus on building.
+- member: true
+  sponsor: -1
+  name: 42Crunch
+  sortname: 42Crunch
+  membertype: 3
+  image: /assets/images/corp-member-logo/42Crunch.png
+  url: http://www.42crunch.com
+  description: 42Crunch provides continuous API security to protect the digital business. Our unique developer-first API security platform enables developers to build and automate security into their API development pipeline and gives security teams full visibility and control of security policy enforcement throughout the API lifecycle. Deployed by Global 2500 enterprises and over 500,000 developers worldwide, 42Crunch enables a seamless DevSecOps experience to reduce governance costs and accelerate the rollout of secure APIs. Visit https://42crunch.com to learn more and sign up to the industry’s #1 online API Security community newsletter at https://APIsecurity.io.
+- member: true
+  sponsor: -1
+  name: Tenable, Inc
+  sortname: Tenable, Inc
+  membertype: 2
+  image: /assets/images/corp-member-logo/tenable_logo.png
+  url: https://www.tenable.com
+  description:  Tenable® is the Exposure Management company. Approximately 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. As the creator of Nessus®, Tenable extended its expertise in vulnerabilities to deliver the world’s first platform to see and secure any digital asset on any computing platform. Tenable customers include approximately 60 percent of the Fortune 500, approximately 40 percent of the Global 2000, and large government agencies. Learn more at tenable.com
+- member: true
+  sponsor: -1
+  name: Knowit Secure AB
+  sortname: Knowit Secure AB
+  membertype: 4
+  image: /assets/images/corp-member-logo/KnowitSecureAB.png
+  url: https://www.knowit.eu/services/insight/cybersecurity-law/
+  description: The penetration testing team at Knowit Cybersecurity & Law are specialized in performing security tests and penetration tests in the Nordics. We offer a large array of tests including web application penetration testing, network testing, IoT testing, mobile application testing and red teaming.
+- member: true
+  sponsor: -1
+  name: open-appsec
+  sortname: open-appsec
+  membertype: 3
+  image: /assets/images/corp-member-logo/openappsec_CheckPointlogo_owasp.png
+  url: https://www.openappsec.io
+  description: open-appsec is an open-source initiative that builds on machine learning to provide pre-emptive web app & API threat protection against OWASP-Top-10 and zero-day attacks. It can be deployed as add-on to Kubernetes Ingress, NGINX, Envoy and API Gateways. open-oppsec simplifies maintenance as there is no threat signature upkeep and exception handling, like common in many WAF solutions.
+- member: true
+  sponsor: -1
+  name: mindsetters OG
+  sortname: mindsetters OG
+  membertype: 4
+  image: /assets/images/corp-member-logo/mindsetters_logo_transparent_web_owasp.png
+  url: 	http://www.mindsetters.com
+  description: Two IT security experts from the province of Salzburg. We work with companies of all sizes that want to protect themselves sustainably against cyber threats. Our tools are not based solely on technlology but more on the right mindset. With the right mindset, you get awareness. With good awareness you reduce risk, and that is exactly what we strive for along with our customers.
+- member: true
+  sponsor: -1
+  name: Cybozu Inc.
+  sortname: Cybozu Inc.
+  membertype: 4
+  image: /assets/images/corp-member-logo/Cybozu_logo.png
+  url: https://cybozu.co.jp/en/company/
+  description: At Cybozu, our mission is to build a society brimming with teamwork. Since 1997, we've been providing groupware solutions to thousands of teams around the world, driven by a vision of a happier and more connected society. Our flagship product, Kintone, is a customizable digital workplace platform that allows you to manage your data, tasks, and communication in one central place, no coding required.
+- member: true
+  sponsor: -1
+  name: ThreatSpike Labs
+  sortname: ThreatSpike Labs
+  membertype: 4
+  image: /assets/images/corp-member-logo/ThreatSpikeLabsLogo.png
+  url: https://www.threatspike.com
+  description: ThreatSpike's mission is to make great security available to every company, regardless of their size or budget. This is achieved through innovative technology solutions wrapped in easy to consume, fixed price managed services. ThreatSpike provides two core services - ThreatSpike Blue, a managed detection and response SOC service running on an in-house developed technology platform; and ThreatSpike Red, the first managed service for penetration testing which provides affordable, all year round testing by experts.
+- member: true
+  sponsor: -1
+  name: EPAM Systems
+  sortname: EPAM Systems
+  membertype: 4
+  image: /assets/images/corp-member-logo/EPAMSystemsLogo.jpeg
+  url: http://www.epam.com
+  description: We can help you reimagine your business through a digital lens. Our software engineering heritage, combined with our strategic business and innovation consulting, design thinking, and physical-digital capabilities, provide real business value to our customers through human-centric innovation.
+- member: true
+  sponsor: -1
+  name: GuidePoint Security
+  sortname: GuidePoint Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/GuidePointSecurity.png
+  url: 	https://www.guidepointsecurity.com/
+  description: 	GuidePoint Security provides cybersecurity expertise, solutions, and services that help organizations make better decisions and minimize risk. We act as your trusted advisor to understand your business and challenges, helping you through an evaluation of your cybersecurity posture and ecosystem to expose risks, optimize resources and implement best-fit solutions.
+- member: true
+  sponsor: -1
+  name: Impart Security
+  sortname: Impart Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/ImpartSecurity.png
+  url: http://www.impart.security
+  description: Impart helps discover API endpoints, analyzes API traffic and specifications, and protects APIs from attacks automatically. It installs in minutes and is built for modern teams.
+- member: true
+  sponsor: -1
+  name: Digital.ai
+  sortname: Digital.ai
+  membertype: 3
+  image: /assets/images/corp-member-logo/digitalai-logo@1x.png
+  url: http://Digital.ai
+  description: >-
+      Digital.ai Application Security (formerly Arxan Technologies, Inc.) has been the leading provider of security for mobile, web, and desktop 
+      applications for over 20 years. Enterprises depend on Digital.ai to help them build secure software by obfuscating code and providing 
+      anti-tamper techniques. Applications built using Digital.ai Application Security are thus protected from reverse-engineering, piracy, 
+      and app-cloning. Digital.ai also provides a means to monitor the applications that enterprises create and a means to react to attacks on 
+      apps with Runtime Application Self Protection (RASP).
+- member: true
+  sponsor: 1
+  name: Arnica
+  sortname: Arnica
+  membertype: 3
+  image: /assets/images/corp-member-logo/Arnica.png
+  url: https://www.arnica.io
+  description: Arnica integrates across your software supply chain and provides the necessary context, prioritization, ownership, and actionability to proactively mitigate risks. In addition to providing complete reports around code risk, excessive permissions, vulnerable dependencies, code repository misconfigurations, anomalous developer behavior, and more, Arnica’s pipelineless approach eliminates these risks in a blameless and shameless way by interacting directly with the developers in real-time to stop any new risks from entering your source code while also helping resolve your risks backlog. 
+- member: true
+  sponsor: -1
+  name: Cydrill
+  sortname: Cydrill
+  membertype: 4
+  image: /assets/images/corp-member-logo/cydrill_logo_300x90-01.png
+  url: 	https://cydrill.com/
+  description: The biggest threat to corporate cybersecurity is your own developers' blind spots. Programmers tend to focus mainly on functionality and UX, causing the emphasis on secure development to be lost or become an afterthought. We believe that each line of code should be crafted with security in mind, naturally enhancing application resilience. Cydrill's award-winning training program and e-learning environment equip your developers with the secure code best practices to ensure they beat hackers at their own game. Cydrill’s blended learning journey combining instructor-led training, e-learning, hands-on labs, and gamification offers up-skilling from start-ups to Fortune 500 companies worldwide. Code responsibly!
+- member: true
+  sponsor: -1
+  name: Synopsys
+  sortname: Synopsys
+  membertype: 4
+  image: /assets/images/corp-member-logo/Synopsyslogocmky72_1.png
+  url: https://www.synopsys.com/software-integrity.html
+  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
+- member: true
+  sponsor: -1
+  name: Trend Micro
+  sortname: Trend Micro
+  membertype: 4
+  image: /assets/images/corp-member-logo/TrendMicro.png
+  url: https://www.trendmicro.com/en_ca/business.html
+  description: Trend Micro is a global cloud security leader that specializes in meeting the needs of businesses building on the cloud. Trend Cloud One security platform is designed to protect your digital transformation and cloud-native applications.
+- member: true
+  sponsor: -1
+  name: "Scitum S.A de C.V:"
+  sortname: "Scitum S.A de C.V:"
+  membertype: 3
+  image: /assets/images/corp-member-logo/Scitum.png
+  url: https://www.scitum.com.mx/
+  description: Scitum is the leading cybersecurity company in Mexico, Latin America, the United States, and some European countries. Scitum’s primary focus is to fulfill all of our client’s needs with services that fully cover the cycle of cybersecurity, among which consultancy and provided services stand out. We are part of Telmex and Grupo Carso, providing great support and financial capability to deal with complex, large-scale projects.
+- member: true
+  sponsor: -1
+  name: Backslash
+  sortname: Backslash
+  membertype: 3
+  image: /assets/images/corp-member-logo/Backslash-logo.png
+  url: https://www.backslash.security/?utm_campaign=Launch&utm_source=owasp-sponsorship&utm_medium=banner&utm_content=homepage 
+  description: Backslash is the first Cloud-Native Application Security solution for enterprise AppSec teams to provide unified security and business context to cloud-native code risk, coupled with automated threat modeling, code risk prioritization, and simplified remediation across applications and teams. With Backslash, AppSec teams can see and easily act upon the critical toxic code flows in their cloud-native applications; quickly prioritize code risks based on the relevant cloud context; and significantly cut MTTR (mean time to recovery) by enabling developers with the evidence they need to take ownership of the process.
+- member: true
+  sponsor: -1
+  name: BLST Security
+  sortname: BLST Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/BLST_Logo.png
+  url: 	https://blstsecurity.com/
+  description: BLST understands its client’s API posture in the context that matters – Business goals, user journey, and IT KPIs. It can provide discovery in less than an hour (touchless), including a clear map of your API sprawl. It can detect attack vectors and sort them according to business impact. BLST’s advanced platform provides broad visibility, API posture management, ongoing monitoring, and notifications. It quickly integrates with your existing dev tools, gives you what you need to keep your APIs healthy, and spares you unnecessary noise. It’s a to-the-point, tailored, and effective API security solution.
+- member: true
+  sponsor: -1
+  name: Nedap N.V.
+  sortname: Nedap N.V.
+  membertype: 4
+  image: /assets/images/corp-member-logo/nedap_logo_hero_digital_blue.png
+  url: https://nedap.com
+  description: We are passionate about technology and how it can help people become happier and more successful in their professional lives. Life teaches us a lot about people and that’s what inspires us to create high impact, hard and software solutions that have true value. That’s what we call, Technology for Life. It is our purpose and drives us in everything we do. To apply technology in a way that it has a tangible positive impact on people’s professional lives, requires a people-centred approach that respects people and our planet.

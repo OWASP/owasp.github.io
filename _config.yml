@@ -1,7 +1,12 @@
 remote_theme: owasp/www--site-theme@main
 plugins:
- - jekyll-include-cache-0.2.0
- - jekyll-remote-theme
- - jekyll-redirect-from
+  - jekyll-include-cache-0.2.0
+  - jekyll-remote-theme
+  - jekyll-redirect-from
 include:
- - .well-known
+  - .well-known
+defaults:
+  - scope:
+      path: "pages/events/featured"
+    values:
+      event: true  

@@ -4,6 +4,6 @@
 - [Packages and Prices](/supporters/packages)
 - [Benefits](/supporters/benefits)
 - [Member Migration](/supporters/migration)
-- [OWASP Corporate Members](/supporters/list)
+- [OWASP Corporate Supporter](/supporters/list)
 - [Corporate Event Sponsorship](../corporate-sponsorships)
 - [Make a charitable gift](/donate)
