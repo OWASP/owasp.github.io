@@ -39,9 +39,11 @@ CycloneDX is introducing the ability to generate SBOMs for Low Code Application 
 Generating a CycloneDX SBOM allows developers writing Low Code Applications to assure their users that their data is secure. In addition, Low Code Platform vendors can now enable SBOM generation from their respective platforms, enabling users who create applications or processes on a Low Code Platform to dynamically receive SBOMs of their own application.
 
 ### Kubernetes Bill of Materials (KBOM)
-Following the release of CycloneDX v1.5, users of AquaSecurity's [Trivy](https://aquasecurity.github.io/trivy) tool will be able to generate a new type of xBOM: Kubernetes Bill of Materials (KBOM).
+Following the release of CycloneDX v1.5, users of Aqua [Trivy](https://aquasecurity.github.io/trivy) tool will be able to generate a new type of xBOM: Kubernetes Bill of Materials (KBOM).
 
-KBOM documents the composition of a Kubernetes cluster, creating a manifest of the components, versions, and images within. This affords transparency to software teams who have used a third-party tool or provider to set up and configure their Kubernetes cluster, providing a comprehensive inventory of a cluster's control plane components, node components, add-ons, and storage types. With this information in hand, software teams can conduct a vulnerability assessment of the components within a Kubernetes cluster, revealing potential threats to the underlying infrastructure of an organization’s software stack. KBOMs can be generated for an existing cluster or as part of the installation and configuration process, using the Kubernetes API to discover the cluster.
+KBOM documents the composition of a Kubernetes cluster, creating a manifest of the components, versions, and images within. This affords transparency to software teams who have used a third-party tool or provider to set up and configure their Kubernetes cluster, providing a comprehensive inventory of a cluster's control plane components, node components, and add-ons. With this information in hand, security and engineering teams can conduct a vulnerability assessment of the components within a Kubernetes cluster, revealing potential threats to the underlying infrastructure of an organization’s software stack.
+
+Ideally the tools that install and configure Kubernetes for you would record their actions as KBOM, but in the meantime you can generate KBOM for existing clusters with Trivy by leveraging the Kubernetes API to discover cluster components.
 
 ## CycloneDX Creates a Foundation of Trust with Enhanced SDLC and SAM Support
 CycloneDX v1.5 adds new fields related to Software Development Lifecycle (SLDC) and Software Asset Management (SAM), which provide further context to how the SBOM was generated, the accuracy of the data contained within an SBOM, and the nature of an organization’s dependencies on third-party software components. Data in these fields can be used to increase stakeholder confidence in the product security communicated by the SBOM.
@@ -50,6 +52,8 @@ CycloneDX v1.5 adds new fields related to Software Development Lifecycle (SLDC) 
 In addition to the comprehensive open-source license support conferred by previous versions, CycloneDX v1.5 adds **commercial license support**, which enables users to document the license, licensee, licensor, license number, license type, purchase order, renewal date, and expiration date for any dependent component in their project. With a CycloneDX SBOM, users have one central place to see all the licenses they use, where licenses may be missing, and when to renew or replace licenses to keep their product distribution up and running.
 
 As a product’s lifecycle matures and third-party components transition from planned integrations into actual integrations, CycloneDX users can leverage new fields introduced by version 1.5 to support Software Asset Management (SAM). While the Software Development Lifecycle (SLDC) typically uses tools for open-source license compliance, SAM is more focused on commercial license support and procurement. Documentation of SAM lifecycles is frequently required for enterprise solution adoption among Fortune 500 companies. In addition, storing license data in a CycloneDX SBOM normalizes data for licensing, configurations, renewals, and deployments for software and hardware assets, providing a springboard for organizations to digitally transform their procurement and SAM processes.
+
+To learn more about how commercial licensing support confers risk detection and time savings, visit the License Compliance section of the [CycloneDX Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom).
 
 ### OWASP Introduces Comprehensive SBOM Quality Indicators in CycloneDX
 CycloneDX v1.5 lifecycle and evidence fields not only indicate the quality of a product, but also trustworthiness of the product’s SBOM itself. OWASP recommends five dimensions of SBOM quality:
@@ -74,6 +78,8 @@ These add to CycloneDX’s existing benefits to SDLC planning by:
 - Assisting in the discovery stage of the lifecycle by helping teams discover projects already in operation and the software/hardware assets they utilize.
 - Assisting in the decommission stage of the lifecycle by providing a list of all components that need to be taken offline with a product, reducing unexpected cost and risk for the organization.
 
+To learn more about support for SDLC and user-defined lifecycles, visit the Lifecycle Phases section of the [CycloneDX Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom).
+
 ## CycloneDX Reduces Time to Action on Vulnerability Investigation and Software Composition Analysis
 There are three things that can soften the impact of unexpected work: advance preparation, early detection, and the ability to take immediate action. Fortunately, CycloneDX v1.5 introduces a diverse new array of fields to assist with this.
 
@@ -88,3 +94,10 @@ CycloneDX v1.5 adds 3 capabilities which are critical time-savers to investigati
 - **Call Stack** - similar to a stack trace, this identifies if a vulnerable component was called by the application and shows where it was invoked in a nested function call, indicating the reachability of the vulnerable component and what data or functionality may have been impacted. (This field is particularly useful for IAST vendors.)
 
 Version 1.5 also adds support for **proof of concept data** on vulnerabilities, which enables software teams to document and demonstrate how a vulnerability could theoretically be exploited. This may include proof of the exploit happening, payloads to trigger the exploit, code for remediation, and additional details on remediation plans. CycloneDX documentation of vulnerability proof-of-concepts saves time on explanation, investigation, and execution when it is time for a vulnerability to be patched, and can serve as documentation of when and why the vulnerability will be patched. This is commonly used for responsible disclosure, which is a transparency and trust measure to make stakeholders aware of existing vulnerabilities when adopting a product.
+
+## How to start using CycloneDX v1.5
+- CycloneDX has a rich community of contributors and supporters ready to help you generate your first SBOM or learn how to utilize these new features. [It is quick and easy to join](https://cyclonedx.org/about/participate/), and all new participants are welcome.
+- The [CycloneDX Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom) is a comprehensive manual for those looking to adopt or optimize use of CycloneDX.
+- CycloneDX is compatible with over 200 tools supporting 20+ programming languages, including Java, Python, Go, and many others. [Explore our tool center](https://cyclonedx.org/tool-center/) to find the right one for you.
+- Read our [CycloneDX v1.5 documentation](https://cyclonedx.org/docs/1.5/json/) for more details about newly-supported fields and functionality.
+
