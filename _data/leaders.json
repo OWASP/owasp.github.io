@@ -791,6 +791,13 @@
         "group_url": "https://owasp.org/www-chapter-bristol-uk/"
     },
     {
+        "name": "Jon Gadsden",
+        "email": "jon.gadsden@owasp.org",
+        "group": "OWASP Bristol, UK",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-bristol-uk/"
+    },
+    {
         "name": "Syed Mohamed",
         "email": "syed.mohamed@owasp.org",
         "group": "OWASP B.S. Abdur Rahman Crescent Institute of Science and Technology - Student Chapter",
@@ -5551,13 +5558,6 @@
         "group_url": "https://owasp.org/www-chapter-visakhapatnam/"
     },
     {
-        "name": "Rakesh Rajendran",
-        "email": "rakesh.rajendran@owasp.org",
-        "group": "OWASP VIT Bhopal University - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-vit-bhopal-university/"
-    },
-    {
         "name": "Priya Sharma",
         "email": "priya.sharma@owasp.org",
         "group": "OWASP VIT Bhopal University - Student Chapter",
@@ -7320,6 +7320,20 @@
         "group": "OWASP Security Shepherd",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-security-shepherd/"
+    },
+    {
+        "name": "Daniel Kefer",
+        "email": "dan.kefer@gmail.com",
+        "group": "OWASP SecurityRAT",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-securityrat/"
+    },
+    {
+        "name": "René Reuter",
+        "email": "reuter.rene@gmail.com",
+        "group": "OWASP SecurityRAT",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-securityrat/"
     },
     {
         "name": "Simeon Cloutier",
