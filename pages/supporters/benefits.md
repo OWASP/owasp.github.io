@@ -74,7 +74,7 @@ Global AppSec Event Sponsorships are usually entirely sold out very quickly. You
 Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor/sponsorship package.
 
 | Package | Standard | Regional | Startup |
-| -- | :--: | :--: | :--: | :--: |
+| -- | :--: | :--: | :--: |
 | Platinum | 2,500 | 1,000 |
 | Gold | 1,500 | 600 |  
 | Silver | 500 | 200 | 200 | 
