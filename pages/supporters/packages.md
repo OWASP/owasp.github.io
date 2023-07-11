@@ -8,11 +8,11 @@ tags: corp-supporter
 
 ---
 
-OWASP's updated Corporate Supporter packages now contain more benefits than ever. Updated benefits include Corporate Supporter logos for your website, OWASP trademark licensing, including registration discounts, early access to our events, and more. There's a package with affordable prices for all. We have steep discounts for emerging or developing economies or are a startup or both. Corporate Supporter packages are valid for 365 days from the date payment is received. 
+OWASP's updated Corporate Supporter packages now contain more benefits than ever. Updated benefits include Corporate Supporter logos for your website, registration discounts, early access to our events, and more. There's a package with affordable prices for all. We have steep discounts for emerging or developing economies or are a startup or both. Corporate Supporter packages are valid for 365 days from the date payment is received. 
 
 ## Become a Corporate Supporter Today
 
-To learn more please [Contact Us](mailto:events@owasp.com) today!
+To learn more, please [Contact Us](mailto:events@owasp.com) today!
 
 ## Packages
 
@@ -22,7 +22,7 @@ OWASP has three Corporate Supporter packages:
 | ----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :------------------------------------: |
 | [Availability](/supporters/benefits#packages-available-to-all)                                                                |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Corporate Supporter Logo](/supporters/benefits#corporate-member-logo)                                                 |                  Platinum                  |                Gold                |                 Silver                 |
-| [OWASP Trademark license](/supporters/benefits#owasp-trademark-license)                                                       |                 Unlimited                  |                 5                  |                   1                    |
+#| [OWASP Trademark license](/supporters/benefits#owasp-trademark-license)                                                       |                 Unlimited                  |               #  5                  |                   1                    |
 | [Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) |                     10                     |                 5                  |                   1                    |
 | [Sponsor Participating AppSec Days](/supporters/benefits#corporate-sponsorship-of-participating-appsec-days-events)           |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Global AppSec early bird registration discounts](/supporters/benefits#early-bird-global-appsec-registrations)                |                     20                     |                 10                 |                   2                    |
@@ -33,7 +33,7 @@ OWASP has three Corporate Supporter packages:
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Ambassador for global election vote](/supporters/benefits#ambassador-for-owasp-board-of-directors-election-vote)             |                     ✅                      |                 ✅                  |                   ✅                    |
 
-### Platinum Corporate Suppoter
+### Platinum Corporate Supporter
 
 | ![Platinum](/assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg) | Platinum |
 | ------------------------------------------------------------------------- | :------: |
@@ -58,13 +58,13 @@ OWASP has three Corporate Supporter packages:
 | Silver Standard                                                             |   \$5,000    |
 | Silver Regional                                                             |   \$2,000    |
 | Silver Startup                                                              |   \$2,000    |
-| Silver Regional Startup                                                     |    \$800     |
+#| Silver Regional Startup                                                     |    \$800     |
 
 ### What are Regional Corporate Supporters?
 
 One of OWASP's core values, which drives our mission, is that "anyone around the world is encouraged to participate in the OWASP community." The financial burden of standard Corporate Supporter pricing in countries with emerging or developing economies can be a barrier to participation. OWASP offers affordable Regional Corporate Supporter rates for companies headquartered in emerging and developing economies.
 
-Companies whose headquarters are based in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate supporter packages.
+Companies headquartered in [these locations](https://owasp.org/membership/discounts/) are eligible for discounted corporate supporter packages.
 
 The OWASP Foundation may grant a Regional Corporate Supporter at its sole discretion after obtaining additional information.
 
