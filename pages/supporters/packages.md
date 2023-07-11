@@ -70,4 +70,4 @@ The OWASP Foundation may grant a Regional Corporate Supporter at its sole discre
 
 ### What are Start-up Corporate Supporters?
 
-Start-ups founded for less than 24 months at the time of joining or renewal are eligible to access the Corporate Supporter Start-up discount. Evidence such as a company registration record will be required.
+Start-ups founded for less than 36 months at the time of joining or renewal are eligible to access the Corporate Supporter Start-up discount. Evidence such as a company registration record will be required.
