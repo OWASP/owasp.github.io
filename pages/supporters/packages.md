@@ -22,8 +22,7 @@ OWASP has three Corporate Supporter packages:
 | ----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :------------------------------------: |
 | [Availability](/supporters/benefits#packages-available-to-all)                                                                |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Corporate Supporter Logo](/supporters/benefits#corporate-member-logo)                                                 |                  Platinum                  |                Gold                |                 Silver                 |
-#| [OWASP Trademark license](/supporters/benefits#owasp-trademark-license)                                                       |                 Unlimited                  |               #  5                  |                   1                    |
-| [Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) |                     10                     |                 5                  |                   1                    |
+|[Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) |                     10                     |                 5                  |                   1                    |
 | [Sponsor Participating AppSec Days](/supporters/benefits#corporate-sponsorship-of-participating-appsec-days-events)           |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Global AppSec early bird registration discounts](/supporters/benefits#early-bird-global-appsec-registrations)                |                     20                     |                 10                 |                   2                    |
 | [Your brand on OWASP.org](/supporters/benefits#your-logo-on-owasporg)                                                         |                   Large                    |               Medium               |                Standard                |
@@ -58,7 +57,6 @@ OWASP has three Corporate Supporter packages:
 | Silver Standard                                                             |   \$5,000    |
 | Silver Regional                                                             |   \$2,000    |
 | Silver Startup                                                              |   \$2,000    |
-#| Silver Regional Startup                                                     |    \$800     |
 
 ### What are Regional Corporate Supporters?
 
