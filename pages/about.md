@@ -23,7 +23,7 @@ For two decades corporations, foundations, developers, and volunteers have suppo
 
 <p class="callout-mono right">No more insecure software.</p>
 
-## Our Vision
+## Our Mission
 
 <p class="callout-mono right">To be the global open community that powers secure software through education, tools, and collaboration.</p>
 
