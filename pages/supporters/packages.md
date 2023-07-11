@@ -14,7 +14,7 @@ OWASP's updated Corporate Supporter packages now contain more benefits than ever
 
 To learn more, please [Contact Us](mailto:events@owasp.com) today!
 
-## Packages
+## Corporate Supporter Packages
 
 OWASP has three Corporate Supporter packages:
 
