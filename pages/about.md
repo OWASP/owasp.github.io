@@ -19,9 +19,13 @@ We are an open community dedicated to enabling organizations to conceive, develo
 
 For two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. [Donate](/donate), [Become a Member](/membership), or become a [Corporate Supporter](/supporters) today.
 
-## Our Mission
+## Our Vision
 
 <p class="callout-mono right">No more insecure software.</p>
+
+## Our Vision
+
+<p class="callout-mono right">To be the global open community that powers secure software through education, tools, and collaboration.</p>
 
 As the world’s largest non-profit organization concerned with software security, OWASP:
 
