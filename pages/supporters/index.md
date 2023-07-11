@@ -13,7 +13,7 @@ Quick Links:
 
 - [Packages and prices](https://owasp.org/supporters/packages)
 - [Benefits](https://owasp.org/supporters/benefits)
-- [Thank you to all our Corporate Supporters and Corporate Sponsors!](https://owasp.org/supporters/list)
+- [Thank you to all our Corporate Supporters and Event Exhibitors/Sponsors!](https://owasp.org/supporters/list)
 - [Become a Corporate Supporter](mailto:events@owasp.com)
 - [Make a charitable gift](https://owasp.org/donate/?reponame=owasp.github.io)
 
