@@ -16,7 +16,6 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 
 ## Corporate Supporter Packages
 
-OWASP has three Corporate Supporter packages:
 
 | Feature                                                                                                                       | [Platinum](#platinum-corporate-supporter) | [Gold](#gold-corporate-supporter) | [Silver](#silver-corporate-supporter) |
 | ----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :------------------------------------: |
