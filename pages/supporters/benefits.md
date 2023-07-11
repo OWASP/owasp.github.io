@@ -65,7 +65,7 @@ Our updated Corporate Supporter program implements improved rotation for Platinu
 
 Your company will be recognized for supporting the OWASP Foundation as a Corporate Supporter on the OWASP social media platforms.
 
-### Early access to Global AppSec Exhibitor/Sponsorship Opportunities
+### Early access to Global AppSec Exhibitor/Sponsorship Packages
 
 Global AppSec Event Sponsorships are usually entirely sold out very quickly. You might miss out on your preferred location or desired package. The Platinum Corporate Supporter benefit gives early access to the best packages, prime locations, and the best-sized booths!
 
