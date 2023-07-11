@@ -16,7 +16,7 @@ Our updated Corporate Supporter packages are available to anyone, with price poi
 
 Corporate Supporters can use our new Corporate Supporter logos on your website and marketing to demonstrate their support for OWASP. 
 
-### Corporate Sponsorship of participating projects or chapters
+### Corporate Sponsorship of participating Projects or Chapters
 
 Corporate Supporters can contribute 10% of their Corporate Supporter fee to participating chapters or projects. OWASP will add this contribution to the Expenses pool with no administrative fee to benefit all Chapters and Projects. In return, participating Chapters or Projects may add your logo to their home page and are encouraged to recognize your contribution at the start of meetings or in the project's deliverable, where possible.
 
