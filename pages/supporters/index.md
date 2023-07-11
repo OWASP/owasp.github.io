@@ -17,9 +17,9 @@ Quick Links:
 - [Become a Corporate Supporter](mailto:events@owasp.com)
 - [Make a charitable gift](https://owasp.org/donate/?reponame=owasp.github.io)
 
-## Why become an OWASP Corporate Supporter
+## Why Become an OWASP Corporate Supporter
 
-Through Corporate Sponsorship, funds collected directly support OWASP's mission, helping to fund scholarships, our projects, chapters, and more! Funds provided by corporate supporters assist projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel, as well as providing project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters,d allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters, etc.
+Corporate Supporter funds collected directly support OWASP's mission, helping to fund scholarships, our Projects, Chapters, and more! Funds provided by Corporate Supporters assist Projects with hiring graphical designers, user experience experts, contract development, document writers, and other hourly support personnel, as well as providing project-related pamphlets, brochures, stickers, and similar project-identifying material. They contribute to our Chapters, allowing them to secure venue space for Chapter meetings, promotional material to help promote the OWASP mission, assist in travel expenses for incoming speakers/presenters, etc.
 
 Many of our most well-known organizations have grown their business dramatically by being an OWASP Corporate Supporter and partnering with us. Our updated Corporate Supporter packages provide you the opportunity to get involved with the OWASP community. 
 
@@ -27,8 +27,8 @@ Many of our most well-known organizations have grown their business dramatically
 
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve software security. Our programming includes:
 
-- Community-led open-source software projects
-- Hundreds of local chapters worldwide
+- Community-led open-source software Projects
+- Hundreds of local Chapters worldwide
 - Tens of thousands of participants, thousands of financial members
 - Industry-leading educational and training conferences
 
