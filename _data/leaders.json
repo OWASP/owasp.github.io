@@ -5749,14 +5749,14 @@
     {
         "name": "Elizabeth Leonard",
         "email": "elizabeth.leonard@owasp.org",
-        "group": "www-chapter-washington-dc",
+        "group": "OWASP Washington-DC",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-washington-dc/"
     },
     {
         "name": "Leslie Mata",
         "email": "leslie.mata@owasp.org",
-        "group": "www-chapter-washington-dc",
+        "group": "OWASP Washington-DC",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-washington-dc/"
     },
@@ -6365,7 +6365,14 @@
     {
         "name": "Brian Glas",
         "email": "brian.glas@owasp.org",
-        "group": "OWASP Data Analysis Visualization and Ingestion Domain",
+        "group": "OWASP Data Analysis Visualization and Ingestion Domain (DAVID)",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-data-analysis-visualization-and-ingestion-domain/"
+    },
+    {
+        "name": "Daniel Ting",
+        "email": "daniel.ting@owasp.org",
+        "group": "OWASP Data Analysis Visualization and Ingestion Domain (DAVID)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-data-analysis-visualization-and-ingestion-domain/"
     },
