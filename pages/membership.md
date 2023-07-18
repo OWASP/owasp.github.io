@@ -45,13 +45,13 @@ maintenance_message: Due to a required update to our systems, we are currently e
     
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
 
-      <div class='alert'><h2>15% off two year memberships!</h2> 
+      <!-- <div class='alert'><h2>15% off two year memberships!</h2> 
           Your contributions help support OWASP's mission by:
           <ul><li>Funding chapters, events, and projects</li>
           <li>Sustaining OWASP's operations</li>
           <li>Helping out with scholarships to our Global AppSec events</li>
           </ul>
-      </div>      
+      </div> -->      
       <h2>Join Now <span style="font-size:smaller"><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p></span></h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
