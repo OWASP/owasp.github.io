@@ -11,7 +11,6 @@ Jump to
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
-* [Inactive](#inactive)
 
 {% assign active_chapters = site.data.chapters | where_exp: "item", "item.build != 'no pages'" %}
 
@@ -83,8 +82,7 @@ Jump to
 ----
 <section id='needs_update'></section>
 
-### New and Reactivated chapters that MUST be activated within 30 days. 
- <strong> Log in with GitHub user ID to create the OWASP chapter page. The index file template MUST be removed for the chapter to become active. </strong>
+### Needs Update 
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 
@@ -123,4 +121,3 @@ Jump to
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
-* [Inactive](#inactive)
