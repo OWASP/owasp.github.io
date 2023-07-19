@@ -216,14 +216,6 @@
   image: /assets/images/corp-member-logo/FluidAttacks.png
   url: 	https://fluidattacks.com/
   description: Since 2001, Fluid Attacks has been developing cybersecurity products and providing solutions for clients from different industries. Our comprehensive continuous hacking solution offers the perfect combination of effective automation and human intelligence to find and close all vulnerabilities in our clients' systems. Find more information at www.fluidattacks.com
-- member: true
-  sponsor: 3
-  name: Fortify
-  sortname: Fortify
-  membertype: 2
-  image: /assets/images/corp-member-logo/fortify_logo_owasp.png
-  url: https://www.microfocus.com/en-us/cyberres/application-security
-  description: Fortify lets you build secure software fast with an application security platform that automates testing throughout the CI/CD pipeline to enable developers to quickly resolve issues. Fortify static, dynamic, interactive, and runtime security testing technologies are available on premises or as a service, offering organizations the flexibility needed to build an end-to-end software security assurance program.
 - member: true	
   sponsor: -1	
   name: GitLab
@@ -1283,3 +1275,20 @@
   image: /assets/images/corp-member-logo/cryptosoft_logo.png
   url: http://www.cryptosoft.com
   description: Cryptosoft offers a hosted OWASP Dependency-Track service with the flexibility to run the capability behind your firewall if required. We also include SBOM creation assets and toolchain integrations to help accelerate your productivity. Our service lets you spend less time on infrastructure management and more time on your DevSecOps and security strategy. It’s a cost-effective, proven SBOM analysis capability, used by over 10,000 companies, that allows you to quickly augment your existing security strategy to cover SBOM risks and provide everything you need to address the US Government’s Executive Order 14028.
+- member: true
+  sponsor: -1
+  name: OpenText
+  sortname: OpenText
+  membertype: 2
+  image: /assets/images/corp-member-logo/fortify__logo__normal2x_1.png
+  url: https://www.microfocus.com/en-us/cyberres/application-security
+  description: Fortify Application Security provides your team with solutions to promote DevSecOps best practices, enable cloud transformation, and secure your software supply chain. As the sole code security solution with over two decades of expertise and acknowledged as a market leader by all major analysts, Fortify delivers the most adaptable, precise, and scalable AppSec platform available, supporting the breadth of tech you use while integrating into your preferred toolchain. With Fortify, go beyond check the box security because your great code demands great security.
+- member: true
+  sponsor: -1
+  name: Red Hat
+  sortname: Red Hat
+  membertype: 4
+  image: /assets/images/corp-member-logo/RedHatLogo.png
+  url: http://redhat.com
+  description: Red Hat is the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge.
+  
