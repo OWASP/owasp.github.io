@@ -3094,20 +3094,6 @@
         "group_url": "https://owasp.org/www-chapter-lusaka/"
     },
     {
-        "name": "Fernando Galves",
-        "email": "fernando.galves@owasp.org",
-        "group": "OWASP Luxembourg",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-luxembourg/"
-    },
-    {
-        "name": "Jose Amauri de Sousa Junior",
-        "email": "joseamauri.desousa-junior@owasp.org",
-        "group": "OWASP Luxembourg",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-luxembourg/"
-    },
-    {
         "name": "Igor Beliaiev",
         "email": "igor.beliaiev@owasp.org",
         "group": "OWASP Lviv",
@@ -6907,6 +6893,13 @@
         "group": "OWASP Kubernetes Top Ten",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-kubernetes-top-ten/"
+    },
+    {
+        "name": "Chetan Karande",
+        "email": "chetan.karande@owasp.org",
+        "group": "OWASP LLM Prompt Hacking",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-llm-prompt-hacking/"
     },
     {
         "name": "Sagar Bhure",
