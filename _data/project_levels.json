@@ -142,7 +142,7 @@
   {
     "name": "Coraza Web Application Firewall",
     "repo": "www-project-coraza-web-application-firewall",
-    "level": "3"
+    "level": "3.5"
   },
   {
     "name": "Cornucopia",
@@ -307,6 +307,11 @@
   {
     "name": "Android Security Inspector Toolkit",
     "repo": "www-project-android-security-inspector-toolkit",
+    "level": "2"
+  },
+  {
+    "name": "API Governance",
+    "repo": "www-project-api-governance",
     "level": "2"
   },
   {
@@ -572,6 +577,11 @@
   {
     "name": "Kubernetes Scanner",
     "repo": "www-project-kubernetes-scanner",
+    "level": "2"
+  },
+  {
+    "name": "Ksecurity",
+    "repo": "www-project-ksecurity",
     "level": "2"
   },
   {
@@ -1193,7 +1203,7 @@
     "name": "Knowledge Based Authentication Performance Metrics",
     "repo": "www-project-knowledge-based-authentication-performance-metrics",
     "level": "-1"
-  },
+  },  
   {
     "name": "Laravel Goat",
     "repo": "www-project-laravel-goat",
