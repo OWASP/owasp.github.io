@@ -3,7 +3,7 @@
 date: 2023-08-01 00:00:00-0700
 categories: blog
 author: Grant Ongers
-author_image: /assets/images/people/grant-ongers.jpg
+author_image: /assets/images/people/board_grant.png
 layout: blogpost
 title: ZAP Core Team Leaves OWASP
 excerpt_separator: <!--more-->
