@@ -3,7 +3,7 @@
 date: 2023-08-02 00:00:00-0700
 categories: blog
 author: Grant Ongers
-author_image: /assets/images/people/board_grant.png
+author_image: /assets/images/people/board-grant.png
 layout: blogpost
 title: ZAP Core Team to move to Linux Foundation
 excerpt_separator: <!--more-->
