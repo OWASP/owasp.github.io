@@ -685,7 +685,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Application-Security-OWASP-Melbourne",
         "country": "Australia",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "New Zealand",
@@ -3264,22 +3264,6 @@
         "meetings": 30
     },
     {
-        "name": "New Delhi",
-        "url": "https://owasp.org/www-chapter-new-delhi/",
-        "created": "2022-12-15",
-        "updated": "2023-03-27",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP New Delhi",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 30
-    },
-    {
         "name": "New Jersey North",
         "url": "https://owasp.org/www-chapter-new-jersey-north/",
         "created": "2019-09-12",
@@ -3591,6 +3575,22 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP St. Cloud State University-Student Chapter",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 30
+    },
+    {
+        "name": "Swabi",
+        "url": "https://owasp.org/www-chapter-swabi/",
+        "created": "2023-08-02",
+        "updated": "2023-08-02",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Swabi",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -6045,7 +6045,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jakarta-Chapter",
         "country": "Indonesia",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Jalpaiguri Government Engineering College",
@@ -6355,7 +6355,7 @@
         "name": "Kuwait City",
         "url": "https://owasp.org/www-chapter-kuwait-city/",
         "created": "2019-09-12",
-        "updated": "2023-07-11",
+        "updated": "2023-08-02",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Kuwait",
@@ -6750,6 +6750,22 @@
         "meetup-group": "owasp-nepal-meetup-group",
         "country": "",
         "meetings": 0
+    },
+    {
+        "name": "New Delhi",
+        "url": "https://owasp.org/www-chapter-new-delhi/",
+        "created": "2022-12-15",
+        "updated": "2023-03-27",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP New Delhi",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 30
     },
     {
         "name": "Noida",
