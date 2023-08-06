@@ -3155,7 +3155,7 @@
         "name": "Mef University",
         "url": "https://owasp.org/www-chapter-mef-university/",
         "created": "2023-08-03",
-        "updated": "2023-08-03",
+        "updated": "2023-08-05",
         "build": "built",
         "codeurl": "",
         "title": "OWASP MEF University",
@@ -3597,22 +3597,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
-    },
-    {
-        "name": "Swabi",
-        "url": "https://owasp.org/www-chapter-swabi/",
-        "created": "2023-08-02",
-        "updated": "2023-08-03",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Swabi",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-swabi-chapter",
-        "country": "Pakistan",
         "meetings": 30
     },
     {
@@ -5613,7 +5597,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Cuddalore-Chapter",
         "country": "India",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Cuttack",
@@ -7774,5 +7758,21 @@
         "meetup-group": "owasp-yola-chapter",
         "country": "",
         "meetings": 5
+    },
+    {
+        "name": "Swabi",
+        "url": "https://owasp.org/www-chapter-swabi/",
+        "created": "2023-08-02",
+        "updated": "2023-08-03",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-swabi",
+        "title": "\"OWASP Swabi\"",
+        "level": "-1",
+        "type": "",
+        "region": "\"Asia\"",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-swabi-chapter",
+        "country": "\"Pakistan\"",
+        "meetings": 30
     }
 ]
