@@ -1051,9 +1051,9 @@
         "type": "",
         "region": "North America",
         "pitch": "More info soon...",
-        "meetup-group": "",
+        "meetup-group": "owasp-des-plaines-chapter",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Edmonton",
@@ -7152,6 +7152,22 @@
         "meetings": 30
     },
     {
+        "name": "Swabi",
+        "url": "https://owasp.org/www-chapter-swabi/",
+        "created": "2023-08-02",
+        "updated": "2023-08-03",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-swabi",
+        "title": "OWASP Swabi",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-swabi-chapter",
+        "country": "Pakistan",
+        "meetings": 30
+    },
+    {
         "name": "Taiwan",
         "url": "https://owasp.org/www-chapter-taiwan/",
         "created": "2020-08-14",
@@ -7758,21 +7774,5 @@
         "meetup-group": "owasp-yola-chapter",
         "country": "",
         "meetings": 5
-    },
-    {
-        "name": "Swabi",
-        "url": "https://owasp.org/www-chapter-swabi/",
-        "created": "2023-08-02",
-        "updated": "2023-08-03",
-        "build": "built",
-        "codeurl": "https://github.com/OWASP/www-chapter-swabi",
-        "title": "\"OWASP Swabi\"",
-        "level": "-1",
-        "type": "",
-        "region": "\"Asia\"",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-swabi-chapter",
-        "country": "\"Pakistan\"",
-        "meetings": 30
     }
 ]
