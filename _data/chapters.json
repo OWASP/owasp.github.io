@@ -1229,7 +1229,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jacksonville-Chapter",
         "country": "USA",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Kansas City",
@@ -2823,6 +2823,22 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Hokushinetsu",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 30
+    },
+    {
+        "name": "Hosur",
+        "url": "https://owasp.org/www-chapter-hosur/",
+        "created": "2023-08-07",
+        "updated": "2023-08-07",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Hosur",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
