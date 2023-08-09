@@ -8,7 +8,7 @@ spnews: False
 
 ---
 
-<!-- Rebuild Site Tag 188 -->
+<!-- Rebuild Site Tag 189 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
   <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
