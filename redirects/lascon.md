@@ -5,6 +5,6 @@ permalink: /lascon/
 sitemap: false
 redirect_from: 
     - /lascon
-redirect_to: lascon.org
+redirect_to: https://lascon.org
 
 ---
