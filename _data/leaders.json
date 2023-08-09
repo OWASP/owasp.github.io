@@ -6804,6 +6804,13 @@
         "group_url": "https://owasp.org/www-project-find-security-bugs/"
     },
     {
+        "name": "Vaishno Chaitanya",
+        "email": "vaishno.chaitanya@owasp.org",
+        "group": "OWASP Watchman",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-four-clover/"
+    },
+    {
         "name": "Omer Levi Hevroni",
         "email": "omer.levihevroni@owasp.org",
         "group": "OWASP Glue Tool",
@@ -7054,6 +7061,13 @@
         "group": "OWASP LLM Prompt Hacking",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-llm-prompt-hacking/"
+    },
+    {
+        "name": "Vandana Verma Sehgal",
+        "email": "vandana.verma@owasp.org",
+        "group": "OWASP LLM Verification Standard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-llm-verification-standard/"
     },
     {
         "name": "Sagar Bhure",
@@ -7868,6 +7882,13 @@
         "group_url": "https://owasp.org/www-project-top-10-client-side-security-risks/"
     },
     {
+        "name": "Steve Wilson",
+        "email": "steve.wilson@owasp.org",
+        "group": "OWASP Top 10 for Large Language Model Applications",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
+    },
+    {
         "name": "Michael Bargury",
         "email": "michael.bargury@owasp.org",
         "group": "OWASP Low-Code/No-Code Top 10",
@@ -8020,13 +8041,6 @@
         "group": "OWASP Web Application Firewall Evaluation Criteria Project (WAFEC)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-wafec/"
-    },
-    {
-        "name": "Vaishno Chaitanya",
-        "email": "vaishno.chaitanya@owasp.org",
-        "group": "OWASP Watchman",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-watchman/"
     },
     {
         "name": "Carlos  Ganoza Plasencia",
