@@ -75,7 +75,7 @@ permalink: /sitemap/
   <li><a href="/donate/">Make a Donation</a></li>
   <li><a href="/manage-membership/">Cancel a Recurring Gift</a></li>  
   <li><a href="/finance/">Tax Information</a></li>
-  <li><a href="/member/">Become a Member</a></li>
+  <li><a href="/membership/">Become a Member</a></li>
   <li><a href="/manage-membership/">Update your Billing Information</a></li>  
   <li><a href="/www-policy/operational/general-disclaimer">General Disclaimer</a></li>
   <li><a href="/www-policy/operational/privacy">Privacy Policy</a></li>
