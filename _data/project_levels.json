@@ -470,6 +470,11 @@
     "level": "2"
   },
   {
+    "name": "dep-scan",
+    "repo": "www-project-dep-scan",
+    "level": 2
+  },
+  {
     "name": "Desktop App Security Top 10",
     "repo": "www-project-desktop-app-security-top-10",
     "level": "2"
@@ -568,6 +573,11 @@
     "name": "Intelligent Intrusion Detection System",
     "repo": "www-project-intelligent-intrusion-detection-system",
     "level": "2"
+  },
+  {
+    "name": "IoT Security Testing Guide",
+    "repo": "www-project-iot-security-testing-guide",
+    "level": 2
   },
   {
     "name": "Iot Security Verification Standard",
@@ -852,6 +862,11 @@
   {
     "name": "Top 25 Parameters",
     "repo": "www-project-top-25-parameters",
+    "level": "2"
+  },
+  {
+    "name": "untrust",
+    "repo": "www-project-untrust",
     "level": "2"
   },
   {
