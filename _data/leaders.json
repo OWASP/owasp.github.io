@@ -2730,13 +2730,6 @@
         "group_url": "https://owasp.org/www-chapter-kharkiv/"
     },
     {
-        "name": "Tanmay Bhattacharjee",
-        "email": "tanmay.bhattacharjee@owasp.org",
-        "group": "OWASP Kolkata",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kolkata/"
-    },
-    {
         "name": "Souvik Roy",
         "email": "souvik.roy@owasp.org",
         "group": "OWASP Kolkata",
@@ -6981,6 +6974,13 @@
     {
         "name": "Aaron Guzman",
         "email": "aaron.guzman@owasp.org",
+        "group": "OWASP IoT Security Testing Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-iot-security-testing-guide/"
+    },
+    {
+        "name": "Aaron Guzman",
+        "email": "aaron.guzman@owasp.org",
         "group": "OWASP IoT Security Verification Standard",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-iot-security-verification-standard/"
@@ -7091,8 +7091,8 @@
         "group_url": "https://owasp.org/www-project-machine-learning-minefield/"
     },
     {
-        "name": "Abraham Kang",
-        "email": "abraham.kang@owasp.org",
+        "name": "Shain Singh",
+        "email": "shain.singh@owasp.org",
         "group": "OWASP Machine Learning Security Top Ten",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-machine-learning-security-top-10/"
