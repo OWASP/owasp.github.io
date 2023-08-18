@@ -429,7 +429,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Porto-Alegre-Chapter",
         "country": "Brazil",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Queretaro City",
@@ -749,7 +749,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Atlanta",
         "country": "",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Austin",
@@ -781,7 +781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 14
+        "meetings": 15
     },
     {
         "name": "Bellingham",
@@ -1139,7 +1139,7 @@
         "name": "Hartford",
         "url": "https://owasp.org/www-chapter-hartford/",
         "created": "2019-09-12",
-        "updated": "2023-05-31",
+        "updated": "2023-08-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Hartford, CT",
@@ -1517,7 +1517,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Northern-Virginia-Chapter",
         "country": "USA",
-        "meetings": 11
+        "meetings": 12
     },
     {
         "name": "Oakland County",
@@ -1981,7 +1981,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Toronto",
         "country": "Canada",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Triangle Nc",
@@ -2045,7 +2045,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Vancouver-Chapter",
         "country": "Canada",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Victoria",
@@ -2276,7 +2276,7 @@
         "url": "https://owasp.org/www-chapter-barasat/",
         "created": "2023-04-19",
         "updated": "2023-04-19",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Barasat",
         "level": "-1",
@@ -2672,22 +2672,6 @@
         "meetings": 30
     },
     {
-        "name": "Dy Patil International University",
-        "url": "https://owasp.org/www-chapter-dy-patil-international-university/",
-        "created": "2023-04-26",
-        "updated": "2023-04-26",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP DY Patil International University",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 30
-    },
-    {
         "name": "East Sweden",
         "url": "https://owasp.org/www-chapter-east-sweden/",
         "created": "2019-09-12",
@@ -2724,7 +2708,7 @@
         "url": "https://owasp.org/www-chapter-gautam-buddha-university/",
         "created": "2023-04-25",
         "updated": "2023-06-20",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Gautam Buddha University",
         "level": "-1",
@@ -5555,7 +5539,7 @@
         "name": "Coimbatore",
         "url": "https://owasp.org/www-chapter-coimbatore/",
         "created": "2019-09-12",
-        "updated": "2023-03-08",
+        "updated": "2023-08-17",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-coimbatore",
         "title": "OWASP Coimbatore",
@@ -5742,6 +5726,22 @@
         "meetup-group": "meetup-group-svgchist",
         "country": "",
         "meetings": 5
+    },
+    {
+        "name": "Dy Patil International University",
+        "url": "https://owasp.org/www-chapter-dy-patil-international-university/",
+        "created": "2023-04-26",
+        "updated": "2023-04-26",
+        "build": "no pages",
+        "codeurl": "",
+        "title": "OWASP DY Patil International University",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 30
     },
     {
         "name": "Elazig",
@@ -7181,7 +7181,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-swabi-chapter",
         "country": "Pakistan",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Taiwan",
