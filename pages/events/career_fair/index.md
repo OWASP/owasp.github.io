@@ -9,6 +9,7 @@ permalink: /events/career_fair/
 ![CareerFairLogo](/assets/images/CareerFair.png)
 
 
+
 [Recruiter Opportunities](/assets/images/OWASP_CareerFair_2023.pdf)
 
 [Complimentary Attendee Registration For September 28th Career Fair](https://app.brazenconnect.com/a/the-open-web-application-security-project/e/p7n8n)<br><br>
