@@ -1632,7 +1632,7 @@
     },
     {
         "name": "Dorian Maldonado",
-        "email": "* [dorian maldonado]dorian.maldonadod@owasp.org",
+        "email": "dorian.maldonadod@owasp.org",
         "group": "OWASP Edmonton",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-edmonton/"
@@ -3045,20 +3045,6 @@
         "group_url": "https://owasp.org/www-chapter-long-island/"
     },
     {
-        "name": "Richard Greenberg",
-        "email": "richard.greenberg@owasp.org",
-        "group": "OWASP Los Angeles",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-los-angeles/"
-    },
-    {
-        "name": "Dave Wettenstein",
-        "email": "dave.wettenstein@owasp.org",
-        "group": "OWASP Los Angeles",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-los-angeles/"
-    },
-    {
         "name": "Edmond Momartin",
         "email": "edmond.momartin@owasp.org",
         "group": "OWASP Los Angeles",
@@ -3075,6 +3061,13 @@
     {
         "name": "Michelle Wilner",
         "email": "michelle.wilner@owasp.org",
+        "group": "OWASP Los Angeles",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-los-angeles/"
+    },
+    {
+        "name": "Ron Shelton",
+        "email": "ron.shelton@owasp.org",
         "group": "OWASP Los Angeles",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-los-angeles/"
@@ -3999,13 +3992,6 @@
     {
         "name": "Craig Hai",
         "email": "craig.hai@owasp.org",
-        "group": "OWASP Orange County",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-orange-county/"
-    },
-    {
-        "name": "Haral Tsitsivas",
-        "email": "haral.tsitsivas@owasp.org",
         "group": "OWASP Orange County",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-orange-county/"
@@ -5194,6 +5180,13 @@
         "group_url": "https://owasp.org/www-chapter-swabi/"
     },
     {
+        "name": "Salman Kazim",
+        "email": "salman.kazim@owasp.org",
+        "group": "OWASP Swabi",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-swabi/"
+    },
+    {
         "name": "Patrick Steger",
         "email": "padi.steger@owasp.org",
         "group": "OWASP Switzerland",
@@ -5964,13 +5957,6 @@
         "group_url": "https://owasp.org/www-committee-chapter/"
     },
     {
-        "name": "Haral Tsitsivas",
-        "email": "haral.tsitsivas@owasp.org",
-        "group": "OWASP Chapter Committee",
-        "group-type": "committee",
-        "group_url": "https://owasp.org/www-committee-chapter/"
-    },
-    {
         "name": "Kyle Smith",
         "email": "kyle.smith@owasp.org",
         "group": "OWASP Chapter Committee",
@@ -6477,6 +6463,13 @@
     {
         "name": "Jeffry Hesse",
         "email": "jeffry.hesse@owasp.org",
+        "group": "OWASP CycloneDX",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cyclonedx/"
+    },
+    {
+        "name": "Jan Kowalleck",
+        "email": "jan.kowalleck@googlemail.com",
         "group": "OWASP CycloneDX",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cyclonedx/"
