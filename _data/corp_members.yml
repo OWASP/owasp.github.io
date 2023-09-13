@@ -1291,4 +1291,11 @@
   image: /assets/images/corp-member-logo/RedHatLogo.png
   url: http://redhat.com
   description: Red Hat is the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge.
-  
+- member: true
+  sponsor: 3
+  name: Riscosity
+  sortname: Riscosity
+  membertype: 4
+  image: /assets/images/corp-member-logo/Riscosity.png
+  url: https://www.riscosity.com/
+  description: Riscosity is the data flow security platform that empowers teams to have full visibility of data in transit and automate the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements.
