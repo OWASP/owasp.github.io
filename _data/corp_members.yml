@@ -1292,10 +1292,19 @@
   url: http://redhat.com
   description: Red Hat is the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge.
 - member: true
-  sponsor: 3
+  sponsor: -1
   name: Riscosity
   sortname: Riscosity
   membertype: 4
   image: /assets/images/corp-member-logo/Riscosity.png
   url: https://www.riscosity.com/
   description: Riscosity is the data flow security platform that empowers teams to have full visibility of data in transit and automate the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements.
+- member: true
+  sponsor: 3
+  name: Zimperium
+  sortname: Zimperium
+  membertype: 4
+  image: /assets/images/corp-member-logo/Zimperiumlogo_300x90px.jpeg
+  url: https://www.zimperium.com/
+  description: Zimperium, Inc. is a global leader in mobile device and app security, offering real-time, on-device protection against both known and unknown threats on Android, iOS, and Chromebook endpoints. Built for the demands of mobile business, Zimperium’s Mobile-First Security Platform™ delivers unmatched security across both applications and devices. Only Zimperium delivers autonomous mobile security that dynamically adapts to changing environments so companies can capitalize on the new world of mobile-powered opportunities, securely.
+
