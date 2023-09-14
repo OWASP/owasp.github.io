@@ -96,7 +96,7 @@ Chapter pages on this site have general information and leader contact info. Loc
                           <h5><a name="{{country_title}}"></a>{{country_title}}</h5>                        
                           <hr>
                         {% endif %}
-                          <li class="chapterli">&bull;<a href='{{ chapter.url }}'>{{ chapter.name }}</a></li>
+                          <li class="chapterli">&bull;<a href='{{ chapter.url }}'>{{ chapter.title | remove_first: "OWASP " }}</a></li>
                       {% endif %}                                                                                               
                   {%endfor%}
                 {% endfor %}                                 
