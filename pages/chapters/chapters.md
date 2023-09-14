@@ -24,6 +24,13 @@ tags: chapters
   background-color: lightgray;
   margin-bottom: 6px;
 }
+
+@media (max-width: 1024px) {
+  .chapterli {
+    display: block;
+    padding: 0px;
+    width: 100%;
+  }
 </style>
 <img src="/assets/images/web/chaper-wide.jpg" alt="Bay Area Chapter Meeting">
 
