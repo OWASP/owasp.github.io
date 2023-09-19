@@ -301,7 +301,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Joao-Pessoa-Chapter",
         "country": "Brazil",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Lima",
@@ -1421,7 +1421,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-MSP-Meetup",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Moncton",
@@ -2452,8 +2452,8 @@
         "url": "https://owasp.org/www-chapter-bursa-technical-university/",
         "created": "2023-09-11",
         "updated": "2023-09-12",
-        "build": "errored",
-        "codeurl": "https://github.com/OWASP/www-chapter-bursa-technical-university",
+        "build": "built",
+        "codeurl": "",
         "title": "OWASP Bursa Technical University",
         "level": "-1",
         "type": "",
@@ -4957,7 +4957,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASPSwitzerland",
         "country": "Switzerland",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Tallinn",
@@ -5316,7 +5316,7 @@
         "url": "https://owasp.org/www-chapter-astana/",
         "created": "2023-02-22",
         "updated": "2023-02-22",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Astana",
         "level": "-1",
@@ -6356,7 +6356,7 @@
         "url": "https://owasp.org/www-chapter-kathmandu/",
         "created": "2022-07-25",
         "updated": "2023-07-06",
-        "build": "built",
+        "build": "errored",
         "codeurl": "",
         "title": "OWASP Kathmandu",
         "level": "-1",
@@ -7644,7 +7644,7 @@
         "region": "Africa",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Cairo-Chapter",
-        "country": "",
+        "country": "Egypt",
         "meetings": 11
     },
     {
@@ -7684,7 +7684,7 @@
         "url": "https://owasp.org/www-chapter-dakar/",
         "created": "2022-06-01",
         "updated": "2022-06-01",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Dakar",
         "level": "-1",
