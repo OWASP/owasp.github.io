@@ -1,21 +1,5 @@
 [
     {
-        "name": "Albuquerque",
-        "url": "https://owasp.org/www-chapter-albuquerque/",
-        "created": "2019-09-12",
-        "updated": "2023-06-05",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Albuquerque",
-        "level": "-1",
-        "type": "",
-        "region": "United States",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 30
-    },
-    {
         "name": "Asuncion",
         "url": "https://owasp.org/www-chapter-asuncion/",
         "created": "2019-09-12",
@@ -141,7 +125,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cartagena",
@@ -189,7 +173,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Curitiba",
@@ -381,7 +365,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Paraiba",
@@ -573,7 +557,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Uruguay",
@@ -652,7 +636,7 @@
         "region": "Oceania",
         "pitch": "More info soon...",
         "meetup-group": "Brisbane-OWASP-Meetup-Group",
-        "country": "",
+        "country": "Australia",
         "meetings": 11
     },
     {
@@ -732,8 +716,24 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-aguascalientes-meetup-group",
-        "country": "",
+        "country": "Mexico",
         "meetings": 2
+    },
+    {
+        "name": "Albuquerque",
+        "url": "https://owasp.org/www-chapter-albuquerque/",
+        "created": "2019-09-12",
+        "updated": "2023-06-05",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Albuquerque",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "USA",
+        "meetings": 0
     },
     {
         "name": "Atlanta",
@@ -781,7 +781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 14
+        "meetings": 15
     },
     {
         "name": "Bellingham",
@@ -796,7 +796,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-bellingham-chapter",
-        "country": "",
+        "country": "USA",
         "meetings": 2
     },
     {
@@ -925,7 +925,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cleveland",
@@ -973,7 +973,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Columbus",
@@ -1068,7 +1068,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-opbybwve",
-        "country": "",
+        "country": "Canada",
         "meetings": 12
     },
     {
@@ -1116,7 +1116,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP Halifax Chapter",
-        "country": "",
+        "country": "Canada",
         "meetings": 30
     },
     {
@@ -1181,7 +1181,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "USA",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Indianapolis",
@@ -1261,7 +1261,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Las Vegas",
@@ -1324,7 +1324,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-madison",
-        "country": "",
+        "country": "USA",
         "meetings": 8
     },
     {
@@ -1357,7 +1357,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "United States",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Maui",
@@ -1388,7 +1388,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-mexico-city-chapter",
-        "country": "",
+        "country": "Mexico",
         "meetings": 2
     },
     {
@@ -1453,7 +1453,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "Canada",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Nashville",
@@ -1581,7 +1581,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 16
+        "meetings": 15
     },
     {
         "name": "Orlando",
@@ -1613,7 +1613,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 12
+        "meetings": 13
     },
     {
         "name": "Philadelphia",
@@ -1692,7 +1692,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "https://www.meetup.com/owasp-princeton-chapter/",
-        "country": "",
+        "country": "USA",
         "meetings": 30
     },
     {
@@ -1724,8 +1724,8 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "",
-        "country": "",
-        "meetings": 30
+        "country": "Mexico",
+        "meetings": 0
     },
     {
         "name": "Riviera Maya",
@@ -1740,7 +1740,7 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-riviera-maya",
-        "country": "",
+        "country": "Mexico",
         "meetings": 2
     },
     {
@@ -1773,7 +1773,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sacramento-Chapter",
         "country": "USA",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Saint Louis",
@@ -1805,7 +1805,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-slc",
         "country": "USA",
-        "meetings": 10
+        "meetings": 11
     },
     {
         "name": "San Antonio",
@@ -1917,7 +1917,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "USA",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "St. George",
@@ -1997,7 +1997,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasptriangle",
         "country": "USA",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Tulsa",
@@ -2141,7 +2141,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Almeria",
@@ -2157,7 +2157,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Amaravathi",
@@ -2173,7 +2173,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Amman",
@@ -2221,7 +2221,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Baghdad",
@@ -2237,7 +2237,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Baltimore",
@@ -2269,7 +2269,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Barasat",
@@ -2285,7 +2285,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Belgrade",
@@ -2301,7 +2301,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Belleville",
@@ -2317,7 +2317,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Bikaner",
@@ -2333,7 +2333,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Biloxi Gulfport",
@@ -2349,7 +2349,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Birmingham Al",
@@ -2365,7 +2365,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Bochum",
@@ -2381,7 +2381,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Bournemouth University",
@@ -2413,7 +2413,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Bulawayo",
@@ -2429,7 +2429,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Burkina Faso",
@@ -2445,7 +2445,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Bursa Technical University",
@@ -2461,7 +2461,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cali",
@@ -2477,7 +2477,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Canary Islands",
@@ -2493,7 +2493,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cape Coast",
@@ -2509,7 +2509,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Central Pennsylvania",
@@ -2525,7 +2525,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Chania",
@@ -2541,7 +2541,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Chattanooga",
@@ -2557,7 +2557,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cork",
@@ -2573,7 +2573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Costa Rica",
@@ -2589,7 +2589,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cyprus",
@@ -2605,7 +2605,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Da Nang",
@@ -2621,7 +2621,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Des Moines",
@@ -2669,7 +2669,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Dominican Republic",
@@ -2685,7 +2685,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "East Sweden",
@@ -2701,7 +2701,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Gaborone",
@@ -2717,7 +2717,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Gautam Buddha University",
@@ -2733,7 +2733,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Georgetown Penang",
@@ -2749,7 +2749,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Guadalajara",
@@ -2765,7 +2765,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Hampton Roads",
@@ -2781,7 +2781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "USA",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Hanoi",
@@ -2797,7 +2797,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Hereford",
@@ -2813,7 +2813,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Hodor",
@@ -2829,7 +2829,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Hokushinetsu",
@@ -2845,7 +2845,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Hosur",
@@ -2861,7 +2861,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Huntington",
@@ -2893,7 +2893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Iran",
@@ -2909,7 +2909,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Irbid",
@@ -2925,23 +2925,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
-    },
-    {
-        "name": "Jecrc University",
-        "url": "https://owasp.org/www-chapter-jecrc-university/",
-        "created": "2023-09-12",
-        "updated": "2023-09-12",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP JECRC University",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Jodhpur",
@@ -2957,7 +2941,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kakinada",
@@ -2989,7 +2973,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kigali",
@@ -3005,7 +2989,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kumaun Region",
@@ -3021,7 +3005,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kyushu",
@@ -3037,7 +3021,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Latvia",
@@ -3053,7 +3037,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Letterkenny",
@@ -3101,7 +3085,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Little Rock",
@@ -3149,7 +3133,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Macedonia",
@@ -3197,7 +3181,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Memphis",
@@ -3229,7 +3213,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Montgomery",
@@ -3245,7 +3229,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Morelia",
@@ -3261,7 +3245,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Mysuru",
@@ -3277,7 +3261,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Nainital",
@@ -3309,7 +3293,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "New Jersey North",
@@ -3325,7 +3309,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Niagara Falls",
@@ -3341,7 +3325,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Nigeria",
@@ -3357,7 +3341,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Nit Tiruchirapalli",
@@ -3389,7 +3373,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Odessa",
@@ -3405,7 +3389,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Ouagadougou",
@@ -3421,7 +3405,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Owasp Chandigarh Chapter",
@@ -3437,7 +3421,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Phoenix",
@@ -3453,7 +3437,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Port Louis",
@@ -3485,7 +3469,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Richmond",
@@ -3517,7 +3501,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "San Fernando Valley",
@@ -3581,7 +3565,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Southern Maryland",
@@ -3597,7 +3581,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Space Coast",
@@ -3629,7 +3613,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "St. Cloud State University",
@@ -3645,7 +3629,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Tehran",
@@ -3661,7 +3645,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Thailand",
@@ -3677,7 +3661,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Tiruppur",
@@ -3693,7 +3677,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Trinidad And Tobago",
@@ -3709,7 +3693,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Tripoli",
@@ -3725,7 +3709,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Turkey",
@@ -3741,7 +3725,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Ukraine",
@@ -3757,7 +3741,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Uttaranchal School Of Computing Sciences",
@@ -3773,7 +3757,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Uw Bothell",
@@ -3789,7 +3773,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Vadlamudi",
@@ -3805,7 +3789,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Venezuela",
@@ -3821,7 +3805,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Warwick",
@@ -3853,7 +3837,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Wilmington Nc",
@@ -3869,7 +3853,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Xalapa",
@@ -3885,7 +3869,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Zaragoza",
@@ -3933,7 +3917,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Barcelona",
@@ -3965,7 +3949,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Belfast",
@@ -3996,7 +3980,7 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "belgium-owasp-meetup-group",
-        "country": "",
+        "country": "Belgium",
         "meetings": 3
     },
     {
@@ -4157,7 +4141,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Copenhagen-Chapter",
         "country": "Denmark",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Croatia",
@@ -4173,7 +4157,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Croatia-Meetup-Group",
         "country": "",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Czech Republic",
@@ -4205,7 +4189,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Dorset",
@@ -4237,7 +4221,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Dublin",
         "country": "Ireland",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "France",
@@ -4269,7 +4253,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Frankfurt",
         "country": "Germany",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Geneva",
@@ -4301,7 +4285,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Hamburg-Stammtisch",
         "country": "Germany",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Gothenburg",
@@ -4316,7 +4300,7 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "owasp-gothenburg-meetup-group",
-        "country": "",
+        "country": "Sweden",
         "meetings": 7
     },
     {
@@ -4428,7 +4412,7 @@
         "region": "Europe",
         "pitch": "More info soon...",
         "meetup-group": "owasp-italy-meetup-group",
-        "country": "",
+        "country": "Italy",
         "meetings": 4
     },
     {
@@ -4461,7 +4445,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kristiansand",
@@ -4621,7 +4605,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Malmo",
@@ -4653,7 +4637,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-manchester-uk-chapter",
         "country": "",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Maribor",
@@ -4685,7 +4669,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Moscow",
@@ -4717,7 +4701,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Chapter-Netherlands-Meetup",
         "country": "",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Newcastle Uk",
@@ -4733,7 +4717,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Newcastle-Chapter",
         "country": "United Kingdom",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Oslo",
@@ -4845,7 +4829,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Sevilla",
@@ -4861,7 +4845,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "Spain",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Sibiu",
@@ -4909,7 +4893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Stockholm",
@@ -4973,7 +4957,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Timisoara",
@@ -5165,7 +5149,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "El Salvador",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Tegucigalpa",
@@ -5325,7 +5309,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Babu Banarasi Das Nittm",
@@ -5389,7 +5373,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Bbditm",
@@ -5485,7 +5469,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Brainware University",
@@ -5533,7 +5517,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "India",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Chandigarh",
@@ -5597,7 +5581,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "China Mainland",
@@ -5661,7 +5645,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Cuddalore",
@@ -5821,7 +5805,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Elazig",
@@ -5869,7 +5853,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Fukushima",
@@ -5885,7 +5869,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Gauhati University",
@@ -5933,7 +5917,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Gujarat Technological University",
@@ -5949,7 +5933,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Guwahati",
@@ -6109,7 +6093,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Jaipur",
@@ -6208,6 +6192,22 @@
         "meetings": 0
     },
     {
+        "name": "Jecrc University",
+        "url": "https://owasp.org/www-chapter-jecrc-university/",
+        "created": "2023-09-12",
+        "updated": "2023-09-12",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP JECRC University",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 0
+    },
+    {
         "name": "Jeddah",
         "url": "https://owasp.org/www-chapter-jeddah/",
         "created": "2020-06-23",
@@ -6253,7 +6253,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kanchipuram",
@@ -6269,7 +6269,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kannur",
@@ -6317,7 +6317,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kanyakumari",
@@ -6333,7 +6333,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "India",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Karachi",
@@ -6429,7 +6429,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kuala Lumpur",
@@ -6445,7 +6445,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Kuwait City",
@@ -6557,7 +6557,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Malaysia",
@@ -6573,7 +6573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "Malaysia",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Manama",
@@ -6685,7 +6685,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Mugla University",
@@ -6765,7 +6765,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Nagpur",
@@ -6861,7 +6861,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Noida",
@@ -6893,7 +6893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "Japan",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Patna",
@@ -7005,7 +7005,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "Pakistan",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Riyadh",
@@ -7053,7 +7053,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Salem",
@@ -7117,7 +7117,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "India",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Sendai",
@@ -7133,7 +7133,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Seoul",
@@ -7165,7 +7165,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Singapore",
@@ -7213,7 +7213,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Surabaya",
@@ -7245,7 +7245,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Swabi",
@@ -7309,7 +7309,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Thapar Institute Of Engineering And Technology",
@@ -7389,7 +7389,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Tirunelveli",
@@ -7485,7 +7485,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Vellore",
@@ -7565,7 +7565,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Vit Bhopal University",
@@ -7693,7 +7693,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Ghana",
@@ -7805,7 +7805,7 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 30
+        "meetings": 0
     },
     {
         "name": "Morocco",
