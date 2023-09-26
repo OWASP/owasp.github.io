@@ -2448,22 +2448,6 @@
         "meetings": 0
     },
     {
-        "name": "Bursa Technical University",
-        "url": "https://owasp.org/www-chapter-bursa-technical-university/",
-        "created": "2023-09-11",
-        "updated": "2023-09-12",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Bursa Technical University",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Cali",
         "url": "https://owasp.org/www-chapter-cali/",
         "created": "2019-09-12",
@@ -4096,6 +4080,22 @@
         "meetings": 16
     },
     {
+        "name": "Bursa Technical University",
+        "url": "https://owasp.org/www-chapter-bursa-technical-university/",
+        "created": "2023-09-11",
+        "updated": "2023-09-12",
+        "build": "errored",
+        "codeurl": "",
+        "title": "OWASP Bursa Technical University",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Turkey",
+        "meetings": 0
+    },
+    {
         "name": "Cambridge",
         "url": "https://owasp.org/www-chapter-cambridge/",
         "created": "2019-09-12",
@@ -4403,7 +4403,7 @@
         "name": "Italy",
         "url": "https://owasp.org/www-chapter-italy/",
         "created": "2019-09-12",
-        "updated": "2023-07-19",
+        "updated": "2023-09-25",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-italy",
         "title": "OWASP Italy",
@@ -5244,7 +5244,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Aligarh-Meetup-Group",
-        "country": "",
+        "country": "India",
         "meetings": 6
     },
     {
@@ -5260,7 +5260,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-amrita-school-of-engineering-chennai-chapter",
-        "country": "",
+        "country": "India",
         "meetings": 3
     },
     {
@@ -5284,7 +5284,7 @@
         "url": "https://owasp.org/www-chapter-arunai-engineering-college/",
         "created": "2021-09-17",
         "updated": "2021-10-09",
-        "build": "building",
+        "build": "errored",
         "codeurl": "",
         "title": "OWASP Arunai Engineering College - Student Chapter",
         "level": "-1",
@@ -5292,7 +5292,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "OWASP Arunai Engineering College Chapter",
-        "country": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -5340,7 +5340,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "owasp-baku-chapter",
-        "country": "",
+        "country": "Azerbaijan",
         "meetings": 1
     },
     {
@@ -5564,7 +5564,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "Chennai-OWASP-Meetup-Group",
-        "country": "",
+        "country": "India",
         "meetings": 5
     },
     {
@@ -5580,7 +5580,7 @@
         "region": "Asia",
         "pitch": "More info soon...",
         "meetup-group": "",
-        "country": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -7581,7 +7581,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-vit-bhopal-student-chapter",
         "country": "India",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Warangal",
