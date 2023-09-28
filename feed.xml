@@ -1,0 +1,28 @@
+---
+layout: null
+# https://validator.w3.org/feed/docs/atom.html
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title type="text" xml:lang="en">{{ site.title | xml_escape }}</title>
+  <subtitle type="text" xml:lang="en">{{ site.description | xml_escape }}</subtitle>
+  <link type="application/atom+xml" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" rel="self"/>
+  <link type="text" href="{{ site.url }}{{ site.baseurl }}" rel="alternate"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <generator>Jekyll v{{ jekyll.version }}</generator>
+  <icon>https://avatars.githubusercontent.com/u/155815</icon>
+  <id>{{ site.title | xml_escape }}</id>
+  <rights>CC-BY 4.0</rights>
+
+  {% for post in site.posts limit:20 %}
+  <entry>
+    <author>{{ post.author | xml_escape }}</author>
+    <title>{{ post.title | xml_escape }}</title>
+    <link rel="alternate" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"/>
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
+    <content type="html">{{ post.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
