@@ -573,7 +573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
         "country": "Uruguay",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Vina Del Mar",
@@ -781,7 +781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 15
+        "meetings": 14
     },
     {
         "name": "Bellingham",
@@ -1309,7 +1309,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 17
+        "meetings": 18
     },
     {
         "name": "Madison",
@@ -1683,7 +1683,7 @@
         "name": "Princeton",
         "url": "https://owasp.org/www-chapter-princeton/",
         "created": "2021-10-28",
-        "updated": "2023-09-16",
+        "updated": "2023-09-28",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Princeton",
@@ -2094,6 +2094,22 @@
         "meetup-group": "owasp-waterloo-meetup-group",
         "country": "Canada",
         "meetings": 4
+    },
+    {
+        "name": "Wilmington Nc",
+        "url": "https://owasp.org/www-chapter-wilmington-nc/",
+        "created": "2023-09-11",
+        "updated": "2023-09-11",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Wilmington NC",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 0
     },
     {
         "name": "Winnipeg",
@@ -3840,22 +3856,6 @@
         "meetings": 0
     },
     {
-        "name": "Wilmington Nc",
-        "url": "https://owasp.org/www-chapter-wilmington-nc/",
-        "created": "2023-09-11",
-        "updated": "2023-09-11",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Wilmington NC",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Xalapa",
         "url": "https://owasp.org/www-chapter-xalapa/",
         "created": "2021-11-02",
@@ -3901,7 +3901,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Aarhus-Chapter",
         "country": "Denmark",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Armenia",
@@ -3965,7 +3965,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Belfast",
         "country": "United Kingdom",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Belgium",
@@ -4141,7 +4141,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cluj-napoca-chapter",
         "country": "",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Copenhagen",
@@ -4765,7 +4765,7 @@
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-nsrmjush",
         "country": "",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Poland",
@@ -4925,7 +4925,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-stockholm",
         "country": "",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Suffolk",
