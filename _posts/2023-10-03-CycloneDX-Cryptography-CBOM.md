@@ -1,6 +1,6 @@
 ---
 
-date: 2023-10-03 00:00:00-0700
+date: 2023-10-03 00:09:00-0700
 categories: blog
 author: Basil Hess and Nicklas Koertge
 author_image: /assets/images/people/Basil-Hess-and-Nicklas Koertge.jpg
