@@ -29,14 +29,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP Italy Day
-      start-date: 2023-09-11
-      dates: September 11, 2023
-      url: https://owasp.org/www-chapter-italy/events/OWASPItalyDay2023
-    - name: OWASP Virtual Career Fair 6 am-6 pm EDT
-      start-date: 2023-09-28
-      dates: September 28, 2023
-      url: https://owasp.org/events/career_fair/
     - name: OWASP Poland Day
       start-date: 2023-10-04
       dates: October 4, 2023
@@ -53,6 +45,10 @@
       start-date: 2023-11-24
       dates: November 23-24, 2023
       url: https://www.owaspbenelux.eu/
+    - name: OWASP AppSec Days Pacific Northwest 2024
+      start-date: 2024-06-15
+      dates: June 15-16, 2024
+      url: https://www.appsecpnw.org/
 #- category: Partner
 #  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
 #  events:
