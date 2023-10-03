@@ -1,8 +1,8 @@
 ---
-date: 2023-09-30
+date: 2023-10-12
 categories: blog
 author: Franklin Pezzuti Dyer
-author_image: /assets/images/people/prabhu-s.jpg
+author_image: /assets/images/people/Franklin_Pezzuti_Dyer.jpg
 layout: blogpost
 title: Doing remote computations with WebSockets
 ---
