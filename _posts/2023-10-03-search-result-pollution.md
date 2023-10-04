@@ -23,11 +23,11 @@ Let's say you have a web site that lets users search your pages using Google. Yo
 
 This is innocuous when the search term pertains to your web site (e.g., "where can I adopt a puppy" or "where can I find cancer treatment"). 
 
-<img width="420" alt="search term looking for cancer treatment, results blurred" src="https://github.com/pzzd/pzzd.github.io/assets/5471867/340b5fcd-dc39-49af-9d30-06fd00718bce">
+<img width="400" alt="search term looking for cancer treatment, results blurred" src="https://github.com/pzzd/pzzd.github.io/assets/5471867/7484411c-e094-478b-9982-478e13065bef">
 
 But it is nefarious when the search term has explicit information that a bad actor means to have indexed by Google. To a Google bot, it appears that your site is hosting this nefarious content, and your site will show as the source of this information in Google search results.
 
-<img width="419" alt="search term offering to sell drugs" src="https://github.com/pzzd/pzzd.github.io/assets/5471867/98b46d3b-6459-4a9d-a534-124c8cceb08d">
+<img width="400" alt="search term offering to sell drugs" src="https://github.com/pzzd/pzzd.github.io/assets/5471867/98b46d3b-6459-4a9d-a534-124c8cceb08d">
 
 Note that the indexable content is the search term. The search itself does not have to be successful or return any results.
 
