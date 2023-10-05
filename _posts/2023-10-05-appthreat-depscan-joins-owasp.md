@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-We are super excited to announce that [AppThreat](https://appthreat.com) dep-scan, a free open-source dependency audit tool, is now an official OWASP [project](https://owasp.org/www-project-dep-scan/). The project enables auditing the software supply-chain dependencies, container images, and operating system for known vulnerabilities, and advisories.
+We are super excited to announce a free open-source dependency audit tool, [OWASP dep-scan](https://owasp.org/www-project-dep-scan/). The project enables auditing the software supply-chain dependencies, container images, and operating system for known vulnerabilities, and advisories. Special thanks to [AppThreat](https://appthreat.com) for donating the project.
 
 <!--more-->
 
