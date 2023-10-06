@@ -8,6 +8,11 @@ spnews: False
 
 ---
 
+<!-- Discoverable Feeds -->
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+<link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}"/>
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/rss.xml" | prepend: site.baseurl | prepend: site.url }}">
+
 <!-- Rebuild Site Tag 189 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>

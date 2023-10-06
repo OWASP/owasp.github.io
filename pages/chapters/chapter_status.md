@@ -94,11 +94,12 @@ Jump to
 ---
 
 <section id='last-update'></section>
-
-### All Chapters and Most Recent Update
+<!-- update this to only be active chapters per DA -->
+### Last Updated and By Number of Meetings
 <ul>
 {% assign chapters = site.data.chapters | sort: 'meetings' | reverse %}
 {% for chapter in chapters %}
+  {% if chapter.build !=  'no pages' %}
     {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
     {% assign status_color = 'black' %}
     {% assign meeting_color = 'black' %}
@@ -112,6 +113,7 @@ Jump to
       <div style='float:left;padding-right:24px;'>Last Updated: {{ custr }}</div>
       <div style='display:block;'><span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></div>
       <div style='display:block;'><span style='color:{{meeting_color}};'>Meetings last 365 days: {{chapter.meetings}}</span></div></li>
+  {% endif %}
 {% endfor %}
 </ul>
 

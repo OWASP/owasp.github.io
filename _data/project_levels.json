@@ -97,7 +97,7 @@
   {
     "name": "Wrongsecrets",
     "repo": "www-project-wrongsecrets",
-    "level": "3"
+    "level": "3.5"
   },
   {
     "name": "Zap",
@@ -112,7 +112,7 @@
   {
     "name": "Api Security",
     "repo": "www-project-api-security",
-    "level": "3"
+    "level": "3.5"
   },
   {
     "name": "Attack Surface Detector",
@@ -378,6 +378,11 @@
     "name": "Bug Logging Tool",
     "repo": "www-project-bug-logging-tool",
     "level": "3.5"
+  },
+  {
+    "name": "Bullet-proof React",
+    "repo": "www-project-bullet-proof-react",
+    "level": "2"
   },
   {
     "name": "Cervantes",
@@ -660,6 +665,11 @@
     "level": "2"
   },
   {
+    "name": "Offensive API Tester",
+    "repo": "www-project-offensive-api-tester",
+    "level": "2"
+  },
+  {
     "name": "Ontology Driven Threat Modeling Framework",
     "repo": "www-project-ontology-driven-threat-modeling-framework",
     "level": "2"
@@ -712,6 +722,11 @@
   {
     "name": "Safetypes",
     "repo": "www-project-safetypes",
+    "level": "2"
+  },
+  {
+    "name": "SBOM Forum",
+    "repo": "www-project-sbom-forum",
     "level": "2"
   },
   {
@@ -867,7 +882,7 @@
   {
     "name": "Top 10 For Large Language Model Applications",
     "repo": "www-project-top-10-for-large-language-model-applications",
-    "level": "2"
+    "level": "3"
   },
   {
     "name": "Top 10 Insider Threats",
