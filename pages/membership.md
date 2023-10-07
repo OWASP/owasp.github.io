@@ -21,6 +21,10 @@ maintenance_message: Due to a required update to our systems, we are currently e
   margin-right: 6px;
 }
 
+.address {
+  margin-bottom: 2px;
+}
+
 .unselected {
   background: lightgray;
 }
@@ -39,25 +43,25 @@ maintenance_message: Due to a required update to our systems, we are currently e
 
       <!-- main membership form -->
 
-      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Membership</a></h1></div>
-      <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
-      <p>One of many ways you can get involved in the OWASP Foundation is to become a member. It is through our global membership that we move forward on our mission to secure the web. We encourage and support diversity in AppSec and hope you will join us. <strong>Please note we also offer regional pricing to make OWASP accessible to everyone.</strong></p> 
-
+      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Supporter</a></h1></div>
+    <h3>Already a member? <a href="https://members.owasp.org/">Sign in to the Membership Portal</a></h3>
+    <h3><a href="#member_benefits">What you get as a member</a></h3>
+    
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
-{% endraw %}
-      {% include member_benefits.md %}
-{% raw %}
-      <!--<div class='alert'>Lifetime Memberships are now 10% off as part of the <a href="https://20thanniversary.owasp.org">OWASP 20th Anniversary Celebration</a></div>-->
-      <p>Membership starts at $50 USD (or <a href="/membership?student=yes">$20 for students</a>) and, as noted above, there are discounts depending on your region.</p>
-      <p>You can also <a href="/manage-membership">Manage your Membership</a> to provision an OWASP email address, check your renewal date or, for recurring donations and memberships, update billing details or cancel the recurring bill.</p>
-      <p>Would your business like to become a <a href="/supporters">Corporate Member</a>? </p>
-      <h2>Join or Renew Now</h2>
+
+      <!-- <div class='alert'><h2>15% off two year memberships!</h2> 
+          Your contributions help support OWASP's mission by:
+          <ul><li>Funding chapters, events, and projects</li>
+          <li>Sustaining OWASP's operations</li>
+          <li>Helping out with scholarships to our Global AppSec events</li>
+          </ul>
+      </div> -->      
+      <h2>Join Now <span style="font-size:smaller"><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p></span></h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
         </div>
         <div class="form-row" style="margin-bottom: 25px;">
-          <div class="three-fourths">
             <select v-model="country">
               <option value="null">Country of Residence</option>
               <option v-for="item in countries" v-bind:value="item">
@@ -66,15 +70,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
             </select>
             <div class="error-text" v-if="errors.country">
               {{ errors.country[0] }}
-            </div>
-          </div>
-          <div class="quarter">
-            <input type="text" v-model="postal_code" aria-label="Postal Code"
-            placeholder="Postal Code" />
-            <div class="error-text" v-if="errors.postal_code">
-              {{ errors.postal_code[0] }}
-            </div>
-          </div>
+            </div>                    
         </div>
         <div class="form-row" style="margin-bottom: 8px;" v-if="!free_leader">
           <div class="membership-option" v-for="membership in membershipOptions" v-on:click="updateMembership(membership.name, membership.discount)" v-bind:class="membership_type === membership.name ? 'selected' : ''">
@@ -111,7 +107,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
         </div>
         <div class="membership-fields">
           <h3>Your Information</h3>
-	  <h4>If renewing, please use the same email address you used originally when joining</h4>
+	  <h4>If renewing, please use the same email address you used originally when joining. Not sure? Log into the <a href="https://members.owasp.org/">Membership Portal</a></h4>
           <div>
             <input type="text" v-model="email" aria-label="Email Address"
             placeholder="Member Email Address" />
@@ -126,22 +122,32 @@ maintenance_message: Due to a required update to our systems, we are currently e
               {{ errors.email_confirm[0] }}
             </div>
           </div>
+          <div>
+            <input type="text" v-model="name_on_card" aria-label="Name" placeholder="Member Name" />
+            <div class="error-text" v-if="errors.name_on_card">
+              {{ errors.name_on_card[0] }}
+            </div>
+          </div>
           <div v-if="student">
             <input type="text" v-model="university" aria-label="University" placeholder="University" />
             <div class="error-text" v-if="errors.university">
               {{ errors.university[0] }}
             </div>
-          </div>
+          </div>                    
           <div v-else>
             <input type="text" v-model="company_name" aria-label="Company Name" placeholder="Company Name" />
             <div class="error-text" v-if="errors.company_name">
               {{ errors.company_name[0] }}
             </div>
-          </div>
+          </div>          
           <div>
-            <input type="text" v-model="name_on_card" aria-label="Name" placeholder="Member Name" />
-            <div class="error-text" v-if="errors.name_on_card">
-              {{ errors.name_on_card[0] }}
+            <input class="address" v-model="address" type="text" aria-label="Postal Address" placeholder="Postal Address">
+            <input class="address" v-model="address2" type="text" aria-label="Postal Address 2" placeholder="Postal Address 2">
+            <input class="address" v-model="city" type="text" aria-label="City" placeholder="City">
+            <input class="address" type="text" v-model="state" aria-label="State" placeholder="State">
+            <input type="text" v-model="postal_code" aria-label="Postal Code" placeholder="Postal Code" />                     
+            <div class="error-text" v-if="errors.address">
+              {{ errors.address[0] }}
             </div>
           </div>
         </div>
@@ -161,6 +167,11 @@ maintenance_message: Due to a required update to our systems, we are currently e
         <!-- reserved for future use -->
       </aside>
     </div>
+    <img src="/assets/images/web//members-header.png" alt="Attendees at a Global AppSec Conference">
+    <h3 id="member_benefits">Member Benefits</h3>
+{% endraw %}
+      {% include member_benefits.md %}
+{% raw %}
   </div>
 
 </div>
@@ -189,11 +200,16 @@ window.addEventListener('load', function () {
       name_on_card: null,
       company_name: null,
       university: null,
+      address: null,
+      address2: null,
+      city: null,
+      state: null,
       auto_renew: false,
       student: false,
       mailing_list: false,
       free_leader: false,
       free_leader_agreement: false,
+      owasp_staff: {{ site.data.staff | jsonify }}
     },
     created: function () {
       const queryParams = new URLSearchParams(window.location.search);
@@ -223,7 +239,7 @@ window.addEventListener('load', function () {
         } else {
           return [
             { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$95', discount: false },
+            { name: 'Two Year', amount: '$95', discount: false },//95 normally
             { name: 'Lifetime', amount: '$500', discount: false}
           ];
 	  }
@@ -235,7 +251,7 @@ window.addEventListener('load', function () {
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true }, 
-            { name: 'Two Year', amount: '$35', discount: true }, 
+            { name: 'Two Year', amount: '$35', discount: true },//35 normally
             { name: 'Lifetime', amount: '$200', discount: true} 
           ]
 	  }
@@ -287,6 +303,10 @@ window.addEventListener('load', function () {
             name: this.name_on_card,
             company: this.company_name,
             university: this.university,
+            address: this.address,
+            address2: this.address2,
+            city: this.city,
+            state: this.state,
             mailing_list: this.mailing_list,
             free_leader: this.free_leader,
             student: this.student,
@@ -385,6 +405,14 @@ window.addEventListener('load', function () {
         this.membership_discount = discount;
         this.$forceUpdate();
       },
+      not_on_staff: function (email) {
+        for( item in this.owasp_staff) {
+          if ( email == this.owasp_staff[item].email ){
+            return false;
+          }
+        }
+        return true;
+      },
       validateForm: function () {
         let errors = {};        
 
@@ -396,8 +424,14 @@ window.addEventListener('load', function () {
           errors.free_leader_agreement = ['You must accept the leader agreement.']
         }
 
-        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email) || !this.email) {
           errors.email = ['Please enter a valid email address'];
+        }
+
+        if (this.email && this.email.endsWith('owasp.com')) {
+          if (this.not_on_staff(this.email)){
+            errors.email = ['Your email address does not end in owasp.com unless you are on the staff of the OWASP Foundation'];
+          }
         }
 
         if (this.email_confirm !== this.email) {
@@ -405,7 +439,7 @@ window.addEventListener('load', function () {
         }
 
         if(!this.name_on_card) {
-          errors.name_on_card = ['Please enter you first and last name.'];
+          errors.name_on_card = ['Please enter your first and last name.'];
         }
         else {
           fname = this.name_on_card.substr(0, this.name_on_card.indexOf(' '));
@@ -422,10 +456,22 @@ window.addEventListener('load', function () {
 
         if (!this.country) {
           errors.country = ['Please select your country.'];
-        }
+        }        
 
         if (!this.postal_code) {
-          errors.postal_code = ['Please enter your postal code.'];
+          errors.address = ['Postal code is required.'];
+        }
+
+        if(!this.state) {
+          errors.address = ['State is required.'];
+        }
+
+        if (!this.city) {
+          errors.address = ['City is required.'];
+        }
+
+        if (!this.address){
+          errors.address = ['Address is required.'];
         }
 
         this.errors = errors;

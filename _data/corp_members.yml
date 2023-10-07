@@ -216,14 +216,6 @@
   image: /assets/images/corp-member-logo/FluidAttacks.png
   url: 	https://fluidattacks.com/
   description: Since 2001, Fluid Attacks has been developing cybersecurity products and providing solutions for clients from different industries. Our comprehensive continuous hacking solution offers the perfect combination of effective automation and human intelligence to find and close all vulnerabilities in our clients' systems. Find more information at www.fluidattacks.com
-- member: true
-  sponsor: 3
-  name: Fortify
-  sortname: Fortify
-  membertype: 2
-  image: /assets/images/corp-member-logo/fortify_logo_owasp.png
-  url: https://www.microfocus.com/en-us/cyberres/application-security
-  description: Fortify lets you build secure software fast with an application security platform that automates testing throughout the CI/CD pipeline to enable developers to quickly resolve issues. Fortify static, dynamic, interactive, and runtime security testing technologies are available on premises or as a service, offering organizations the flexibility needed to build an end-to-end software security assurance program.
 - member: true	
   sponsor: -1	
   name: GitLab
@@ -293,8 +285,8 @@
   name: IriusRisk
   sortname: IriusRisk
   image: /assets/images/corp-member-logo/IriusRiskNEWlogo.png
-  url: https://iriusrisk.com
-  description: When it comes to application development, security is paramount. With IriusRisk’s automated, scalable and easy-to-use threat modeling platform, your engineers can iron out architectural security flaws before writing code, helping you avoid costly re-design and get to market faster with secure products your customers can rely on.
+  url: 	http://iriusrisk.com
+  description: 	We are IriusRisk, the industry leader in automated threat modeling and secure software design, working with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform automates the threat modeling process, enabling developers to design and build secure software. At scale.
 - member: true
   sponsor: -1
   name: Kovert
@@ -533,9 +525,9 @@
   sponsor: -1 
   name: Specialist Data Solutions
   sortname: Specialist Data Solutions
-  image: /assets/images/corp-member-logo/SpecialistDataSolutionsLogo.png
+  image: /assets/images/corp-member-logo/SpecialistDataSolutions.png
   url: https://www.specialistdata.com/
-  description: SDS is a leading provider of Optical Practice Management Systems to very large optical retail chains.
+  description: Architects and Developers of a world-leading, top-tier Optical Practice Management System. Formed in 1989, SDS is a strategic software supplier to many 'Top 10'​ Optical Retailers in North America. We have a comprehensive and fully flexible solution which allows our clients to operate successfully in their unique environments. SDS also offers custom development to handle any client-specific requirements.
 - member: true	
   sponsor: 4 	
   name: Signal Sciences	
@@ -820,8 +812,8 @@
   sortname: Invicti Security
   membertype: 3
   image: /assets/images/corp-member-logo/invicti_logo_300x90_black.png
-  url: https://www.invicti.com/?utm_medium=events&amp;utm_source=tradeshow&amp;utm_campaign=i-owaspcorporatemembership2022&amp;utm_content=220000-websitevisit-event&amp;utm_term=brand
-  description: Invicti Security is changing the way web applications are secured. Invicti’s dynamic and interactive application security products, Netsparker and Acunetix, help organizations in every industry scale their overall security operations, make the best use of their security resources, and engage developers in helping to improve their overall security posture.
+  url: https://www.invicti.com/
+  description: Invicti Security is transforming the way web applications are secured. An AppSec leader for more than 15 years, Invicti enables organizations in every industry to continuously scan and secure all of their web applications and APIs at the speed of innovation. Through industry-leading Asset Discovery, Dynamic Application Security Testing (DAST), Interactive Application Security Testing (IAST), and Software Composition Analysis (SCA), Invicti provides a comprehensive view of an organization’s entire web application portfolio. Invicti’s proprietary Proof-Based Scanning technology is the first to deliver automatic verification of vulnerabilities and proof of exploit with 99.98% accuracy.
 - member: true
   sponsor: -1
   name: Bionic
@@ -1058,7 +1050,7 @@
   name: Kondukto
   sortname: Kondukto
   membertype: 4
-  image: /assets/images/corp-member-logo/kondukto_logo_300x90_1.png
+  image: /assets/images/corp-member-logo/Kondukto.png
   url: https://kondukto.io
   description: Kondukto is an AppSec orchestration platform that helps to centralize vulnerability management, automate manual work across scanning tools and streamline remediation with risk-based metrics and security guardrails. It comes with built-in integrations with 40+ commercial and open-source security tools which can be orchestrated by Kondukto in a single platform. While offering a vendor-agnostic DevOps integration with its open-source CLI, Kondukto also automates processes such as ticket creation on issue trackers, sending notifications or running security checks in CI/CD so that security becomes an integral part of the organization’s workflows with the least human intervention possible.
 - member: true
@@ -1141,7 +1133,7 @@
   membertype: 4
   image: /assets/images/corp-member-logo/KnowitSecureAB.png
   url: https://www.knowit.eu/services/insight/cybersecurity-law/
-  description: Knowit Secure Penetration testing team are specialized in penetration testing in the Nordics. We offer a large array of tests including Web Application Penetration testing, network testing, IoT testing, Mobile application testing, and red teaming.
+  description: The penetration testing team at Knowit Cybersecurity & Law are specialized in performing security tests and penetration tests in the Nordics. We offer a large array of tests including web application penetration testing, network testing, IoT testing, mobile application testing and red teaming.
 - member: true
   sponsor: -1
   name: open-appsec
@@ -1195,7 +1187,7 @@
   name: Impart Security
   sortname: Impart Security
   membertype: 4
-  image: /assets/images/corp-member-logo/ImpartSecurity.png
+  image: /assets/images/corp-member-logo/ImpartLogo.png
   url: http://www.impart.security
   description: Impart helps discover API endpoints, analyzes API traffic and specifications, and protects APIs from attacks automatically. It installs in minutes and is built for modern teams.
 - member: true
@@ -1235,3 +1227,99 @@
   image: /assets/images/corp-member-logo/Synopsyslogocmky72_1.png
   url: https://www.synopsys.com/software-integrity.html
   description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
+- member: true
+  sponsor: -1
+  name: Trend Micro
+  sortname: Trend Micro
+  membertype: 4
+  image: /assets/images/corp-member-logo/TrendMicro.png
+  url: https://www.trendmicro.com/en_ca/business.html
+  description: Trend Micro is a global cloud security leader that specializes in meeting the needs of businesses building on the cloud. Trend Cloud One security platform is designed to protect your digital transformation and cloud-native applications.
+- member: true
+  sponsor: -1
+  name: "Scitum S.A de C.V:"
+  sortname: "Scitum S.A de C.V:"
+  membertype: 3
+  image: /assets/images/corp-member-logo/Scitum.png
+  url: https://www.scitum.com.mx/
+  description: Scitum is the leading cybersecurity company in Mexico, Latin America, the United States, and some European countries. Scitum’s primary focus is to fulfill all of our client’s needs with services that fully cover the cycle of cybersecurity, among which consultancy and provided services stand out. We are part of Telmex and Grupo Carso, providing great support and financial capability to deal with complex, large-scale projects.
+- member: true
+  sponsor: -1
+  name: Backslash
+  sortname: Backslash
+  membertype: 3
+  image: /assets/images/corp-member-logo/Backslash-logo.png
+  url: https://www.backslash.security/?utm_campaign=Launch&utm_source=owasp-sponsorship&utm_medium=banner&utm_content=homepage 
+  description: Backslash is the first Cloud-Native Application Security solution for enterprise AppSec teams to provide unified security and business context to cloud-native code risk, coupled with automated threat modeling, code risk prioritization, and simplified remediation across applications and teams. With Backslash, AppSec teams can see and easily act upon the critical toxic code flows in their cloud-native applications; quickly prioritize code risks based on the relevant cloud context; and significantly cut MTTR (mean time to recovery) by enabling developers with the evidence they need to take ownership of the process.
+- member: true
+  sponsor: -1
+  name: BLST Security
+  sortname: BLST Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/BLST_Logo.png
+  url: 	https://blstsecurity.com/
+  description: BLST understands its client’s API posture in the context that matters – Business goals, user journey, and IT KPIs. It can provide discovery in less than an hour (touchless), including a clear map of your API sprawl. It can detect attack vectors and sort them according to business impact. BLST’s advanced platform provides broad visibility, API posture management, ongoing monitoring, and notifications. It quickly integrates with your existing dev tools, gives you what you need to keep your APIs healthy, and spares you unnecessary noise. It’s a to-the-point, tailored, and effective API security solution.
+- member: true
+  sponsor: -1
+  name: Nedap N.V.
+  sortname: Nedap N.V.
+  membertype: 4
+  image: /assets/images/corp-member-logo/nedap_logo_hero_digital_blue.png
+  url: https://nedap.com
+  description: We are passionate about technology and how it can help people become happier and more successful in their professional lives. Life teaches us a lot about people and that’s what inspires us to create high impact, hard and software solutions that have true value. That’s what we call, Technology for Life. It is our purpose and drives us in everything we do. To apply technology in a way that it has a tangible positive impact on people’s professional lives, requires a people-centred approach that respects people and our planet.
+- member: true
+  sponsor: -1
+  name: Cryptosoft
+  sortname: Cryptosoft
+  membertype: 4
+  image: /assets/images/corp-member-logo/cryptosoft_logo.png
+  url: http://www.cryptosoft.com
+  description: Cryptosoft offers a hosted OWASP Dependency-Track service with the flexibility to run the capability behind your firewall if required. We also include SBOM creation assets and toolchain integrations to help accelerate your productivity. Our service lets you spend less time on infrastructure management and more time on your DevSecOps and security strategy. It’s a cost-effective, proven SBOM analysis capability, used by over 10,000 companies, that allows you to quickly augment your existing security strategy to cover SBOM risks and provide everything you need to address the US Government’s Executive Order 14028.
+- member: true
+  sponsor: -1
+  name: OpenText
+  sortname: OpenText
+  membertype: 2
+  image: /assets/images/corp-member-logo/fortify__logo__normal2x_1.png
+  url: https://www.microfocus.com/en-us/cyberres/application-security
+  description: Fortify Application Security provides your team with solutions to promote DevSecOps best practices, enable cloud transformation, and secure your software supply chain. As the sole code security solution with over two decades of expertise and acknowledged as a market leader by all major analysts, Fortify delivers the most adaptable, precise, and scalable AppSec platform available, supporting the breadth of tech you use while integrating into your preferred toolchain. With Fortify, go beyond check the box security because your great code demands great security.
+- member: true
+  sponsor: -1
+  name: Red Hat
+  sortname: Red Hat
+  membertype: 4
+  image: /assets/images/corp-member-logo/RedHatLogo.png
+  url: http://redhat.com
+  description: Red Hat is the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge.
+- member: true
+  sponsor: -1
+  name: Riscosity
+  sortname: Riscosity
+  membertype: 4
+  image: /assets/images/corp-member-logo/Riscosity.png
+  url: https://www.riscosity.com/
+  description: Riscosity is the data flow security platform that empowers teams to have full visibility of data in transit and automate the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements.
+- member: true
+  sponsor: 3
+  name: Zimperium
+  sortname: Zimperium
+  membertype: 4
+  image: /assets/images/corp-member-logo/Zimperiumlogo_300x90px.jpeg
+  url: https://www.zimperium.com/
+  description: Zimperium, Inc. is a global leader in mobile device and app security, offering real-time, on-device protection against both known and unknown threats on Android, iOS, and Chromebook endpoints. Built for the demands of mobile business, Zimperium’s Mobile-First Security Platform™ delivers unmatched security across both applications and devices. Only Zimperium delivers autonomous mobile security that dynamically adapts to changing environments so companies can capitalize on the new world of mobile-powered opportunities, securely.
+- member: true
+  sponsor: 4
+  name: eShard
+  sortname: eShard
+  membertype: 4
+  image: /assets/images/corp-member-logo/eShard_Logo.png
+  url: https://eshard.com/eschecker
+  description: Amidst evolving hacking techniques, eShard stands at the forefront of cutting-edge security testing solutions. With expertise in Chip, System, and Mobile App Security, our comprehensive offerings include full testing services (pentest, training, diagnosis), software tools, and expert consultations, aimed at vulnerability assessments and framework evaluations. We're renowned for pioneering automated MAST/DASP with our tool esChecker, reshaping Mobile App Security by seamlessly integrating dynamic and static tests, UX recording and video replay, aligning with the highest OWASP MASVS security standards.
+- member: true
+  sponsor:
+  name: DefectDojo Inc.
+  sortname: DefectDojo Inc.
+  membertype: 4
+  image: /assets/images/corp-member-logo/defectdojo_logo.png
+  url: https://www.defectdojo.com/
+  description: DefectDojo is the company and the product that powers DevSecOps. Our open platform transforms security information management, connecting security strategy and informed execution for intelligent risk management. Security and DevSecOps teams can aggregate, automate, and integrate data from more than 160 security tools for a unified view of security posture and compliance, streamlined workflows, and improved decision-making. DefectDojo was created by security pros for security pros. To learn more, visit defectdojo.com.

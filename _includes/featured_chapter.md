@@ -1,6 +1,6 @@
 ## [OWASP 2023 Global AppSec DC](https://dc.globalappsec.org/)
 
-![OWASP 2023 Global AppSec DC](/assets/images/AppSec_DC_2023_Banner_1200x300_V01.jpeg){:class="featured-proj-image" width="360px"}
+![OWASP 2023 Global AppSec DC](/assets/images/AppSec_DC_2023_Banner_1200x300_V01.jpeg){:width="100%" height="auto"}
 
 ### Registration Open!
 

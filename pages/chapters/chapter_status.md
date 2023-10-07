@@ -11,7 +11,6 @@ Jump to
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
-* [Inactive](#inactive)
 
 {% assign active_chapters = site.data.chapters | where_exp: "item", "item.build != 'no pages'" %}
 
@@ -83,8 +82,7 @@ Jump to
 ----
 <section id='needs_update'></section>
 
-### New and Reactivated chapters that MUST be activated within 30 days. 
- <strong> Log in with GitHub user ID to create the OWASP chapter page. The index file template MUST be removed for the chapter to become active. </strong>
+### Needs Update 
 <ul>
 {% for chapter in site.data.chapters %}
     {% if chapter.build != 'no pages' and chapter.region contains 'Website Update' %} 
@@ -93,29 +91,15 @@ Jump to
 {% endfor %}
 </ul>
 
-----
-<section id='inactive'></section>
-
-### Inactive Chapters 
-<ul>
-{% assign inactive = 0 %}
-{% assign chapters = site.data.chapters | sort: 'title' %}
-{% for chapter in chapters %}
-  {% if chapter.build == 'no pages' %}
-    <li>{{ chapter.title }}</li>
-    {% assign inactive = inactive | plus: 1 %}
-  {% endif %}
-{% endfor %}
-</ul>
-Total: {{ inactive }}
-    
 ---
-<section id='last-update'></section>
 
-### All Chapters and Most Recent Update
+<section id='last-update'></section>
+<!-- update this to only be active chapters per DA -->
+### Last Updated and By Number of Meetings
 <ul>
 {% assign chapters = site.data.chapters | sort: 'meetings' | reverse %}
 {% for chapter in chapters %}
+  {% if chapter.build !=  'no pages' %}
     {% assign custr = chapter.updated | date: "%Y-%m-%d" %}
     {% assign status_color = 'black' %}
     {% assign meeting_color = 'black' %}
@@ -129,6 +113,7 @@ Total: {{ inactive }}
       <div style='float:left;padding-right:24px;'>Last Updated: {{ custr }}</div>
       <div style='display:block;'><span style='color:{{status_color}};'>Build Status: {{ chapter.build }} </span></div>
       <div style='display:block;'><span style='color:{{meeting_color}};'>Meetings last 365 days: {{chapter.meetings}}</span></div></li>
+  {% endif %}
 {% endfor %}
 </ul>
 
@@ -138,4 +123,3 @@ Jump to
 * [Recently Updated](#updated)
 * [Needs Update](#needs_update)
 * [Last Update](#last-update)
-* [Inactive](#inactive)

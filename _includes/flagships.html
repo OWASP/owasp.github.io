@@ -1,0 +1,359 @@
+<style>
+.outer {
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    margin-bottom: 12px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 180px 180px;
+    gap: 4px;
+    color: white;
+}
+    
+.box1 {
+grid-column: 1;
+grid-row: 1 / 3;
+background: linear-gradient(145deg, black, blue);
+border-radius: 8px;
+padding: 12px;
+}
+
+.box2 {
+grid-column: 2;
+grid-row: 1;
+background: linear-gradient(145deg, black, gray);
+border-radius: 8px;
+padding: 12px;
+}
+
+.box3 {
+grid-column: 2;
+grid-row: 2;
+background: linear-gradient(145deg, black, gray);
+border-radius: 8px;
+padding: 12px;
+}
+
+.proj-spotlight {
+display: grid;
+grid-template-columns: 1fr 2fr 1fr;
+grid-template-rows: 100px 50px 50px 100px;
+gap: 4px;
+}
+
+.proj-nonspot {
+display: grid;
+grid-template-columns: 1fr 2fr 1fr;
+grid-template-rows: 70px 10px 70px;
+gap: 4px;
+}
+
+.pstype {
+    grid-column: 1;
+    grid-row: 1;
+    font-size: smaller;
+    border: 2px solid white;
+    border-radius: 8px;
+    max-height: 40px;
+    line-height: 40px;
+    margin: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.pstitle {
+    grid-row: 4;
+    grid-column: 1;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.pstitle2 {
+    grid-row: 3;
+    grid-column: 1;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.psdesc {
+    grid-row: 4;
+    grid-column: 2;
+}
+
+.psdesc2 {
+    grid-row: 3;
+    grid-column: 2;
+}
+
+.psnav {
+    grid-row: 4;
+    grid-column: 3;
+    vertical-align: middle;
+    margin-left: 50%;
+}
+
+.psnav2 {
+    grid-row: 3;
+    grid-column: 3;
+    vertical-align: middle;
+    margin-left: 50%;
+}
+
+.navbox {
+    background-color:#369505;
+    color: white;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 8px;
+    width: 45px;
+    height: 45px;
+    text-align:center;
+    line-height: 45px;
+}
+
+.buffer {
+    padding: 12px;
+}
+
+.idea-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: .25fr 1fr 1.5fr .5fr;
+    grid-template-rows: 200px 50px 50;
+    gap: 12px;
+}
+
+.lightbulb {
+    grid-column: 1;
+    grid-row: 1;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.idea {
+    grid-column: 2;
+    grid-row: 1;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.grow {
+    grid-column: 3;
+    grid-row: 1;
+    font-size: smaller;
+    text-align:center;
+}
+
+.start {
+    grid-column: 4;
+    grid-row: 1;
+}
+
+.hr {
+    grid-column: 1/5;
+    grid-row: 2;
+    border: 2px solid gray;
+}
+
+.seeall {
+    float: right;
+}
+
+@media (max-width: 768px) {
+    .container {
+        grid-template-rows: 315px 315px 315px;
+    }
+
+    .seeall {
+        float: none;
+    }
+
+    .box1 {
+        grid-row: 1;
+        grid-column: 1/3;
+    }
+
+    .box2 {
+        grid-column: 1/3;
+        grid-row: 2;
+    }
+
+    .box3 {
+        grid-column: 1/3;
+        grid-row: 3;
+    }
+
+    .pstype {
+        grid-column: 1/3;
+    }
+
+    .proj-spotlight {
+        grid-template-rows: 70px 10px 70px;
+    }
+
+    .pstitle {
+        grid-row: 3;
+        grid-column: 1/3;
+    }
+    .psdesc {
+        grid-row: 4;
+    }
+
+    .pstitle2 {
+        grid-column: 1 / 3;
+    }
+
+    .psdesc2 {
+        grid-row: 4;
+    }
+
+    .start {
+        grid-row: 3;
+        grid-column: 1/4;
+    }
+}
+
+</style>
+
+{% assign fships = site.data.projects | where: 'level', '4' %}
+{% assign mediatext = site.data.project_mediatext %}
+<div class="outer">
+    <div class="buffer">Quick access to our highlighted <br><strong><i class="fas fa-flag fa-1x" style="color:#38a047;padding-right:4px;"></i>flagship</strong> resources<div class="seeall">See all <a href="/projects/#flagship-projects">flagship resources</a>({{fships.size}})</div></div>
+    <div class="container">
+        <div class="box1">
+            <div class="proj-spotlight">
+                <div class="pstype">Documentation</div>
+                <div class="pstitle">Top Ten</div>
+                <div class="psdesc">The reference standard for the most critical web application security risks</div>
+                <div class="psnav">
+                    <a href="/www-project-top-ten/"><div class="navbox">&#8594;</div></a>
+                </div>
+            </div>
+        </div>
+        <div class="box2">
+            <div class="proj-nonspot">
+                <div class="pstype">Documentation</div>
+                <div class="pstitle2">ASVS</div>
+                <div class="psdesc2">Application security verification standard</div>
+                <div class="psnav2">
+                    <a href="/www-project-application-security-verification-standard/"><div class="navbox">&#8594;</div></a>
+                </div>
+            </div>
+        </div>
+        <div class="box3">
+            <div class="proj-nonspot">
+                <div class="pstype">Documentation</div>
+                <div class="pstitle2">Cheat Sheets</div>
+                <div class="psdesc2">List of crucial app security information</div>
+                <div class="psnav2">
+                    <a href="/www-project-cheat-sheets/"><div class="navbox">&#8594;</div></a>
+                </div>
+            </div>
+        </div>    
+    </div>
+</div>
+
+<div class="idea-container">
+<div class="lightbulb"><i class="fa fa-lightbulb-o" aria-hidden="true"></i></div><div class="idea">Have an <span style="color:blue;">idea</span> for a project?</div>
+<div class="grow">Take advantage of our resources and<br>let it grow with OWASP.</div>
+<div class="start"><a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/70" class="cta-button">Start a project</a></div>
+<hr class="hr">
+</div>
+
+
+<script type="text/javascript">
+var mtxt = "{{ mediatext | jsonify | replace: '"', '\"'}}";
+var gMedia = JSON.parse(mtxt);
+
+$(function(){
+       var allprj = "{{ fships | jsonify | replace: '"', '\"' | replace: '\\"', "'" | replace: '\t', ' ' }}";
+       var projects = JSON.parse(allprj);
+
+       bigpick = Math.floor(Math.random() * projects.length);
+       pick2 = bigpick;
+       pick3 = bigpick;
+       do {
+        pick2 = Math.floor(Math.random() * projects.length);
+       }while(pick2 == bigpick);
+       do {
+        pick3 = Math.floor(Math.random() * projects.length);
+       }while(pick3 == bigpick || pick3 == pick2);
+
+       html = '<div class="buffer">Quick access to our highlighted <br><strong><i class="fas fa-flag fa-1x" style="color:#38a047;padding-right:4px;"></i>flagship</strong> resources<div class="seeall">See all <a href="/projects/#flagship-projects">flagship resources</a>({{fships.size}})</div></div>';
+       html += '<div class="container">';
+       
+       html += getBoxContent(projects[bigpick], "box1");
+       html += getBoxContent(projects[pick2], "box2");
+       html += getBoxContent(projects[pick3], "box3");
+       html += '</div>';
+       $('.outer').html(html);
+    });
+
+function getProjectMediaText(project) {
+    mediaret = ["unknown","unknown"]
+    
+    for(ndx in gMedia){
+        if(project.url.indexOf(gMedia[ndx].repo) > -1){
+            mediaret[0] = gMedia[ndx].shortname;
+            mediaret[1] = gMedia[ndx].mediablurb;
+            break;
+        }
+    }
+    if(mediaret[0] == "unknown"){
+        alert(project.url);
+    }
+    return mediaret;
+}
+
+function getProjectContent(project, boxtype) { 
+    pstitle = 'pstitle';
+    psdesc = 'psdesc';
+    psnav = 'psnav';
+    if(boxtype != 1){
+            pstitle += '2';
+            psdesc += '2';
+            psnav += '2';
+    }
+
+    media = getProjectMediaText(project)
+
+    var html = '<div class="pstype">' + project.type + '</div>';
+    html += '<div class="' + pstitle + '">' + media[0] + '</div>'; // this needs to change to shortname
+    html += '<div class="' + psdesc + '">' + media[1] + '</div>'; // this needs to change to shorttext once it exists
+    html += '<div class="' + psnav + '">';
+    html += '<a href="' + project.url + '"><div class="navbox">&#8594;</div></a>';
+    html += '</div>';
+    return html;
+}
+
+function getBoxContent(project, box) {
+    var html = '<div class="' + box + '">';
+    boxtype = 1;
+    if(box == "box1"){
+        html +=  '<div class="proj-spotlight">'; 
+        boxtype = 1;
+    } else {
+        html += '<div class="proj-nonspot">';
+        if (box == "box2"){
+            boxtype = 2;
+        } else {
+            boxtype = 3;
+        }
+        
+    }
+    html += getProjectContent(project, boxtype);
+    html += '</div>';
+    html += '</div>';
+    return html;
+}
+</script>

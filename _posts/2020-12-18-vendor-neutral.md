@@ -42,11 +42,11 @@ In the coming months, we will be working with the community to clarify rules aro
 
 ### Corporate supporters and sponsors
 
-Suppose you are a corporate member, supporter, or sponsor of an event. In that case, the OWASP community should be friendly, welcoming, and easy to deal with. I know this hasn't always been true. Still, our community and vendors need to get along by having the same expectations regarding vendor neutrality and how our community engages with vendors. I will encourage you to reach out to me or Kelly Santalucia if you're having issues in the past or think the OWASP Foundation is not being vendor-neutral. I've already had meetings with a few vendors, and I'm happy to take more.
+Suppose you are a corporate supporter or sponsor of an event. In that case, the OWASP community should be friendly, welcoming, and easy to deal with. I know this hasn't always been true. Still, our community and vendors need to get along by having the same expectations regarding vendor neutrality and how our community engages with vendors. I will encourage you to reach out to me or Kelly Santalucia if you're having issues in the past or think the OWASP Foundation is not being vendor-neutral. I've already had meetings with a few vendors, and I'm happy to take more.
 
-One of the easiest ways to get involved with us is to become a corporate member. We have Corporate Member startup pricing, regional pricing, regular pricing, with monthly, quarterly, and annual payment options. It has never been easier to be a part of our community.
+One of the easiest ways to get involved with us is to become a corporate supporter. We have Corporate Supporter start-up pricing, regional pricing, regular pricing, with monthly, quarterly, and annual payment options. It has never been easier to be a part of our community.
 
-I will be starting a Corporate Advisory Committee shortly. I encourage our existing corporate members to form that committee to help OWASP improve our commercial relationships and value.
+I will be starting a Corporate Advisory Committee shortly. I encourage our existing corporate supporters to form that committee to help OWASP improve our commercial relationships and value.
 
 Please join here:
 
@@ -82,8 +82,8 @@ We use several shared services that help run OWASP, notably Google, GitHub, Meet
 
 ## Trademarks and fair use
 
-OWASP&reg; has several registered trademarks, and to keep them, we must enforce their fair use. Folks can always use OWASP about us as fair use. We will be working with firms to become either a licensee of our trademarks, or preferably joining as a corporate supporter when our marks become a regular commercial endeavor or line of business. Corporate members will have a license to use OWASP&reg; in their marketing materials and commercial purposes for as long as they are members, and they don't imply that OWASP supports or warrants their product or service.
+OWASP&reg; has several registered trademarks, and to keep them, we must enforce their fair use. Folks can always use OWASP about us as fair use. We will be working with firms to become either a licensee of our trademarks, or preferably joining as a corporate supporter when our marks become a regular commercial endeavor or line of business. Corporate Supporters will have a license to use OWASP&reg; in their marketing materials and commercial purposes for as long as they are members, and they don't imply that OWASP supports or warrants their product or service.
 
-OWASP Projects and Chapters are not their own legal entities, but the primary lifeblood of OWASP. As such, any official OWASP project, chapter, event, committee, or meeting is always free to use our name. OWASP members are free to promote OWASP as they see fit. Still, if they are regularly using our trademarks for commercial purposes, they should become a corporate member.
+OWASP Projects and Chapters are not their own legal entities, but the primary lifeblood of OWASP. As such, any official OWASP project, chapter, event, committee, or meeting is always free to use our name. OWASP members are free to promote OWASP as they see fit. Still, if they are regularly using our trademarks for commercial purposes, they should become a corporate supporter.
 
 We have not worked out the full details of the trademark licensing program as yet. I would love to have security consulting firms, large enterprises, and those using our marks for commercial training to discuss how best to make this work for them and us. I am loathed to become litigious over this. I like the [Linux Foundation's approach](https://www.linuxfoundation.org/trademark-usage/) to their trademarks. Still, just like the Linux Foundation, Mozilla, and Gnome Foundation, we also have to protect OWASP's marks. I would prefer a consistent approach amongst many open source communities to this challenging topic. 

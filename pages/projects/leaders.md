@@ -35,7 +35,10 @@ permalink: /projects/leaders/
 </section>
 
 <script type='text/javascript'>
-    var all = "{{ allleaders | jsonify | replace: '"', '\"' }}";
+
+    // this is producing a case where a person used initials in quotes within their name. Hmm....problematic....
+    var all = "{{ allleaders | jsonify | replace: '"', '\"' | replace: '\\"', "'" }}";
+  
     var leaders = JSON.parse(all);
     leaders = leaders.sort(function (a, b) {
       if(a.group > b.group) 
@@ -61,8 +64,9 @@ permalink: /projects/leaders/
     }
 
     $("#leaders-filter").keyup(function(e) {
+         
      var code = e.keyCode ? e.keyCode : e.which;
-     
+
      if (code == 13) {  // Enter keycode
          var filter = $('#leaders-filter').val();
          filter = filter.toLowerCase();

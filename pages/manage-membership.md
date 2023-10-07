@@ -67,14 +67,18 @@ input[type='radio'] {
       <h1>Manage Your Information</h1>
 
       <div v-if="state === 'unsubmitted'">
-        <p>If you have an existing OWASP membership or recurring gift, enter your address (case sensitive) below and you will receive an email response that includes an URL which you can visit to update your billing information, see your membership data, and provision your owasp email address.</p>
+       <p>From this page, you will receive a URL from which you can:</p>
+       <ul><li>Update your billing information,</li>
+           <li>See your membership data, and</li>
+           <li>Provision your OWASP email address</li></ul>
+        <p>If you have an existing OWASP membership or recurring gift, enter your <strong>membership email address*</strong> (case sensitive) below.</p>
         <form v-on:submit.prevent="handleSubmit" class="form-container">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
         </div>
         <div style="margin-bottom: 18px;">
         <input type="text" v-model="email" v-on:input="updateErrors" aria-label="Email Address"
-        placeholder="Email Address (case sensitive)" />
+        placeholder="Membership Email Address (case sensitive)" />
         <div class="error-text" v-if="errors.email">
         {{ errors.email[0] }}
         </div>
@@ -82,6 +86,7 @@ input[type='radio'] {
         <div>
         <button type="submit" class="submit-button" v-bind:disabled="loading">Request Account Information</button>
         </div>
+        <div style="font-size:smaller;"><i>* Your member email address is the email address with which you initially signed up for membership. If you do not remember your membership email address, <a href="https://contact.owasp.org/">contact us.</a></i></div>
         </form>
       </div>
       <div v-else-if="state === 'submitted'">
