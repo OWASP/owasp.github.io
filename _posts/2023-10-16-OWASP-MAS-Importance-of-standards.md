@@ -53,7 +53,7 @@ The OWASP MASVS is intricately intertwined with various industry standards, unde
 
 Additionally, the incorporation of [NIST OSCAL](https://pages.nist.gov/OSCAL/) further enhances the OWASP MASVS ecosystem. It standardizes the testing process, allowing the selection of specific standards and profiles for compliance, and providing a structured approach to express compliance evidence and testing results. This streamlines the testing methodology and facilitates transparency and understanding among all stakeholders. This integration not only ensures consistency but also future-proofs the standard's adaptability and relevance, making it an invaluable resource for mobile app security.
 
-## OWASP MAS Standards Industry Adoption
+### OWASP MAS Standards Industry Adoption
 
 The OWASP MAS project has received significant industry support and recognition from a wide range of stakeholders. In particular, Google, as the provider of the Android mobile platform, has demonstrated its commitment to the project since 2021. Google is actively contributing feedback to the MASVS refactoring process through the App Defense Alliance (ADA) and its Mobile Application Security Assessment (MASA) program. By supporting the use of MASVS Level 1 requirements and promoting independent security assessments, Google is ensuring the security of its mobile app ecosystem.
 
