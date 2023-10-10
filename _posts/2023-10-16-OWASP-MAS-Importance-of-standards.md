@@ -44,10 +44,10 @@ The OWASP MASVS standard is divided into various groups of security controls, re
 
 ### A Standard Backed-up by Standards
 
-The OWASP MASVS is intricately intertwined with various industry standards, underpinning its robustness and effectiveness. For instance, 
+The OWASP MASVS is intricately intertwined with various industry standards, underpinning its robustness and effectiveness. For instance: 
 
 - **MASVS-CRYPTO** relies on [NIST.SP.800-175B](https://csrc.nist.gov/pubs/sp/800/175/b/r1/final) and [NIST.SP.800-57](https://csrc.nist.gov/pubs/sp/800/57/pt1/r5/final), which provide established cryptographic guidelines and assurance, ensuring that sensitive data within mobile apps remains secure.
-- **MASVS-AUTH**, while the standard comprehensively covers app-side authentication and authorization, it recognizes the importance of validating security on the remote endpoint, referencing industry standards like the [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/).
+- **MASVS-AUTH** comprehensively covers app-side authentication and authorization. However, it also recognizes the importance of validating security on the remote endpoint, referencing industry standards like the [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/).
 - **MASVS-CODE** encourages developers to follow best practices from [OWASP Software Assurance Maturity Model (SAMM)](https://owasp.org/www-project-samm/) and [NIST.SP.800-218 Secure Software Development Framework (SSDF)](https://csrc.nist.gov/pubs/sp/800/218/final) to prevent vulnerabilities during development.
 - **MASVS-PRIVACY** draws inspiration from essential privacy regulations like GDPR, COPPA, CCPA, and ENISA, providing a foundation for privacy considerations.
 
