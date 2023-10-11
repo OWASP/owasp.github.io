@@ -13,9 +13,19 @@ Three days (totally nearly 30 hours) with four remote joiners and four in-person
 
 So, what did we cover? What did we decide? What are the next steps? 
 
-Warning it’s long read and the TL;DR is the Board has plans to make changes to ensure the Foundation is on the right track for the future.
+Warning it’s long read...
 
 <!--more-->
+
+The TL;DR is the Board has plans to make changes to ensure the Foundation is on the right track for the future we managed to discuss:
+- [Discussion on By-laws](#discussion-on-by-laws) - we need to adopt new ones and those needed some talking about;
+- [Discussion on Policies](#discussion-on-policies) - we want to ensure that these are simple and less "red tape";
+- [Discussion on Committees](#discussion-on-committees) - we want to empower the committees and ensure that they are effective;
+- [Discussion on Funding](#discussion-on-funding) - covering both project and general funding options;
+- [Discussion on Structure](#discussion-on-structure) - looking at the board structure and how the staffing needs to change;
+- [Discussion on Outreach](#discussion-on-outreach) - this is key to the strategy of the board and needed much discussion;
+- [Discussion on Projects](#discussion-on-projects) - a massive topic, discussed through-out (and notes added there); and
+- [Discussion on (it turns out) Events](#any-other-business) - an open topic that ended up being all about Events
 
 # Monday September 11th
 ![Agenda: Monday September 11th](/assets/images/posts/board-strategy/2023-09-11.png)
@@ -41,7 +51,7 @@ We discussed the role of Committees and defined them as the hands of the Board w
 
 Step one is to get the committees staffed up (in the cases where they currently are not) and then ensure that their charter actually gives them power to make decisions and holds them to outcomes.
 
-## Discussion on Funding 
+## Discussion on Funding
 We spent lots of time talking about funding sources and options and we looked at a couple of examples of those funding options within the OWASP projects that work. 
 
 ### Project Funding
