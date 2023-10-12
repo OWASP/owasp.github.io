@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-The OWASP Foundation recently announced its membership in [Ecma International](https://www.ecma-international.org/), a leading standards development organization comprised of key global technology companies.
+The OWASP Foundation recently [announced](https://cyclonedx.org/news/OWASP-Foundation-Joins-Ecma-International-to-Drive-Software-Transparency-and-Standardization-of-OWASP-CycloneDX/) its membership in [Ecma International](https://www.ecma-international.org/), a leading standards development organization comprised of key global technology companies.
 
 <!--more-->
 
@@ -30,10 +30,10 @@ For CycloneDX community members who participate in building the standard, there 
 - **There will be no change to the day-to-day method of developing the CycloneDX standard.** This is currently accomplished through feature working groups staffed by volunteer participants, also known as our community group. Membership in Ecma International introduces a separate technical committee that will focus on final technical review and verification, further checks that critical needs are being met, governance, and the formalities of ratifying CycloneDX as an international standard. While this may result in new initiatives, features, and working groups, the purpose of the technical group is mostly separate from that of the community group.
 - **CycloneDX community members are not required to become members of Ecma International to continue participating in working groups.** Although many international standards require a paid membership to participate in developing that standard, Ecma International standards are freely available for viewing or contribution. This aligns with the OWASP Foundation’s vendor neutrality clause, which holds that any organization has an equal seat at the table and an equal opportunity to participate in building CycloneDX, regardless of membership status or financial contribution. If interested, members of the community are encouraged to participate in the governance of CycloneDX’s formal standardization via Ecma membership.
 
-In summary, the OWASP Foundation’s partnership with Ecma International continues a positive trend of international standardization and community-led development of CycloneDX; preserving the inclusivity and equality of the CycloneDX community group while inviting experienced leaders in the tech industry to guide the CycloneDX high-level strategy through the formation of an Ecma International technical committee.
+In summary, the OWASP Foundation’s collaboration with Ecma International continues a positive trend of international standardization and community-led development of CycloneDX; preserving the inclusivity and equality of the CycloneDX community group while inviting experienced leaders in the tech industry to guide the CycloneDX high-level strategy through the formation of an Ecma International technical committee.
 
 ## Get involved with CycloneDX and Ecma
-- For more information on CycloneDX milestones and the latest developments on our partnership with Ecma International, go to [https://cyclonedx.org/news/](https://cyclonedx.org/news/).
+- For more information on CycloneDX milestones and the latest developments on our Technical Committee in Ecma International, go to [https://cyclonedx.org/news/](https://cyclonedx.org/news/).
 - CycloneDX has a rich community of contributors, supporters, and adopters helping each other to drive innovation and change. It is [quick and easy to join](https://cyclonedx.org/about/participate/), and all new participants are welcome.
 - Visit [https://www.ecma-international.org/](https://www.ecma-international.org/) to:
   - Learn more about Ecma International.
