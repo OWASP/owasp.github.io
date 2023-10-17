@@ -42,17 +42,16 @@
       dates: June 15-16, 2024
       url: https://www.appsecpnw.org/
 - category: Partner
-  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
+  description: >-
+      Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
-    - name:  Cloud & Cyber Security Expo Frankfurt
-      start date: 2024-05-23
+    - name: Cloud & Cyber Security Expo Frankfurt
+      start-date: 2024-05-23
       dates: May 23-24, 2024
       url:  https://www.cloudexpoeurope.de/
-   -  name:  SecTor 2023
-      start date:  2023-10-23
-      dates:  October 23-26, 2023
-      url:  https://www.blackhat.com/sector/2023/
-      optional-text:  Discount Code:  OWASP2023 - $100 CAD discount for new, in-person registration to 2023 Event OR for a free Business Hall Only pass.
-      
-     
+    - name:  SecTor 2023
+      start-date:  2023-10-23
+      dates: October 23-26, 2023
+      url: https://www.blackhat.com/sector/2023/
+      optional-text: "Discount Code:  OWASP2023 - $100 CAD discount for new, in-person registration to 2023 Event OR for a free Business Hall Only pass"
   
