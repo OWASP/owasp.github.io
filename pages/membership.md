@@ -230,21 +230,30 @@ window.addEventListener('load', function () {
       },
       membershipOptions: function () {
         
-        if (!this.country || !this.country.hasOwnProperty('discount') ||
-        this.country.discount == false) {
-	  if (this.student) {
-          return [
-            { name: 'One Year', amount: '$20', discount: false }
-          ];
+        if (!this.isDiscounted(this.country) && !this.isForceMajeure(this.country)) {
+        if (this.student) {
+              return [
+                { name: 'One Year', amount: '$20', discount: false }
+              ];
+            } else {
+              return [
+                { name: 'One Year', amount: '$50', discount: false },
+                { name: 'Two Year', amount: '$95', discount: false },//95 normally
+                { name: 'Lifetime', amount: '$500', discount: false}
+              ];
+        }
+    } else if (this.isForceMajeure(this.country)) {
+        if (this.student) {
+          return [ { name: 'One Year', amount: '$0', discount: true }]
+        }else {
+            return [
+              { name: 'One Year', amount: '$0', discount: true },
+              { name: 'Two Year', amount: '$95', discount: false },//95 normally
+              { name: 'Lifetime', amount: '$500', discount: false}
+            ];
+          }
         } else {
-          return [
-            { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$95', discount: false },//95 normally
-            { name: 'Lifetime', amount: '$500', discount: false}
-          ];
-	  }
-        } else {
-	  if (this.student) {
+	      if (this.student) {
           return [
             { name: 'One Year', amount: '$8', discount: true }
           ];
@@ -276,9 +285,16 @@ window.addEventListener('load', function () {
       }
     },
     methods: {
+
+      isDiscounted: function(country) {
+        return country && country.hasOwnProperty('discount') && country.discount;
+      },
+      isForceMajeure: function(country) {
+         return country && country.hasOwnProperty('force_majeure') && country.force_majeure;
+      },
       handleSubmit: function () {
         
-        if (this.free_leader){
+        if (this.free_leader || this.isForceMajeure(this.country)){
           return this.handleLeaderSubmit();
         }
 
