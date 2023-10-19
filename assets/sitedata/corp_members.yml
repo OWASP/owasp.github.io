@@ -1323,3 +1323,11 @@
   image: /assets/images/corp-member-logo/checkmarx_logo__rgb_blue.png
   url: http://checkmarx.com
   description: Checkmarx is the enterprise application security leader and the provider of Checkmarx One™, the industry-leading cloud-native AppSec platform that helps enterprises build #DevSecTrust. Powered by intelligence from our industry-leading AppSec security research team, and our AI-driven technology and services, our platform is designed to enable CISOs, AppSec and development leaders to prioritize their teams’ focus on what impacts their business. Checkmarx secures every phase of development for every application, from the first line of code through production, while balancing the dynamic needs of security and development teams. It’s no longer about shifting left or right - it’s about shifting everywhere.
+- member: true
+  sponsor:
+  name: Equixly
+  sortname: Equixly
+  membertype: 4
+  image: /assets/images/corp-member-logo/Equixly.png
+  url: https://equixly.com/
+  description: Equixly aims to help developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly makes available a SaaS platform that allows integrating the API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform several API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers may use to fix their application issues autonomously.
