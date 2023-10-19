@@ -294,6 +294,9 @@ window.addEventListener('load', function () {
       },
       handleSubmit: function () {
         
+        if (this.isForceMajeure(this.country)) {
+          return this.handleForceMajeureSubmit();
+        }
         if (this.free_leader || this.isForceMajeure(this.country)){
           return this.handleLeaderSubmit();
         }
@@ -342,6 +345,77 @@ window.addEventListener('load', function () {
               vm.$nextTick(function(){
                 document.getElementById('error-message').scrollIntoView();
               })
+            });
+        }
+      },
+      handleForceMajeureSubmit: function () {        
+        this.loading = true;
+        this.validateForm();
+          // check the function call for free leader, if not leader, give error
+        if (Object.keys(this.errors).length > 0) {
+          this.loading = false;
+          //this works...why not in the axios post?
+          this.$nextTick(function () {
+            document.getElementById('error-message').scrollIntoView();
+          })
+        } else {
+          const postData = {
+            checkout_type: 'membership',
+            membership_type: 'complimentary',
+            discount: this.membership_discount,
+            recurring: this.auto_renew,
+            country: this.country['name'],
+            postal_code: this.postal_code,
+            email: this.email,
+            name: this.name_on_card,
+            company: this.company_name,
+            university: this.university,
+            mailing_list: this.mailing_list,
+            free_leader: this.free_leader,
+            student: this.student,
+            leader_agreement: this.free_leader_agreement,
+            currency: 'usd'
+          };
+          let errors = {}
+          // so instead of this...just create the membership? https://owaspadmin.azurewebsites.net/api/IsLeaderByEmail?code=yGSVCT1EaQHhLsVhbF6zEiOUninaB/jT4CIO9OyNdqg7lVmr8J4jLA==
+          axios.post('https://owaspadmin.azurewebsites.net/api/CreateForceMajeureMembership?code=GA5kUqmhhi7E3y6qBNPVNd_xq0jKEdM_cL9jG_k2mQ50AzFuOufHAA==', postData)
+            .then(response => {
+              
+              if(response.data.error){
+                errors = [response.data.error]
+                this.errors = errors
+                if (response.data.error.indexOf('agreement') > 0)
+                  errors.free_leader_agreement = [response.data.error];
+                else
+                  errors.free_leader = [response.data.error];
+              }
+              else{
+                //success case?
+                this.$nextTick(function () {
+                    document.location.href = "/membership-success"
+                  })
+              }
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
+            })
+            .catch(error => {
+              errors = [error]
+              errors.free_leader = [error]
+              this.errors = errors
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
             });
         }
       },
