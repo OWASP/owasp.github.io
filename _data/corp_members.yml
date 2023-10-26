@@ -95,14 +95,6 @@
   image: /assets/images/corp-member-logo/cequence.png	
   url: https://www.cequence.ai/ 	
   description: Cequence Security is a venture-backed cybersecurity software company founded in 2015 and based in Sunnyvale, CA. Its mission is to transform application security by consolidating multiple innovative security functions within an open, AI-powered software platform that protects customers web, mobile, and API-based applications – and supports today’s cloud-native, container-based application architectures. The company is led by industry veterans that previously held leadership positions at Palo Alto Networks and Symantec. Customers include F500 organizations across multiple vertical markets, and the solution has earned multiple industry accolades.	
-- member: true	
-  sponsor: 4	
-  name: Checkmarx	
-  sortname: Checkmarx
-  membertype: 3
-  image: /assets/images/corp-member-logo/checkmarx.png	
-  url: https://www.checkmarx.com 	
-  description: Checkmarx is an Application Security software company, whose mission is to provide enterprise organizations with application security testing products and services that empower developers to deliver secure applications. Amongst the company's 1,000 customers are 5 of the world's top 10 software vendors and many Fortune 500 and government organizations. Checkmarx CxSAST is a highly accurate and flexible Source Code Analysis product that allows organizations to automatically scan a un-compiled/un-built code and identify hundreds of security vulnerabilities in the most prevalent coding languages.	
 - member: true
   sponsor: -1
   name: Cobalt
@@ -1306,7 +1298,7 @@
   membertype: 4
   image: /assets/images/corp-member-logo/Zimperiumlogo_300x90px.jpeg
   url: https://www.zimperium.com/
-  description: Zimperium, Inc. is a global leader in mobile device and app security, offering real-time, on-device protection against both known and unknown threats on Android, iOS, and Chromebook endpoints. Built for the demands of mobile business, Zimperium’s Mobile-First Security Platform™ delivers unmatched security across both applications and devices. Only Zimperium delivers autonomous mobile security that dynamically adapts to changing environments so companies can capitalize on the new world of mobile-powered opportunities, securely.
+  description: Zimperium is a Mobile-First Security Platform enabling application and device protection. Our technologies include dynamic Runtime Application Self-Protection (RASP), binary scanning, obfuscation, anti-tampering, and white-box cryptography. We are uniquely positioned to contribute to OWASP's mission of educating and combating insecure software through our advanced, frictionless, real-time security approach.
 - member: true
   sponsor: 4
   name: eShard
@@ -1323,3 +1315,19 @@
   image: /assets/images/corp-member-logo/defectdojo_logo.png
   url: https://www.defectdojo.com/
   description: DefectDojo is the company and the product that powers DevSecOps. Our open platform transforms security information management, connecting security strategy and informed execution for intelligent risk management. Security and DevSecOps teams can aggregate, automate, and integrate data from more than 160 security tools for a unified view of security posture and compliance, streamlined workflows, and improved decision-making. DefectDojo was created by security pros for security pros. To learn more, visit defectdojo.com.
+- member: true
+  sponsor:
+  name: Checkmarx
+  sortname: Checkmarx
+  membertype: 3
+  image: /assets/images/corp-member-logo/checkmarx_logo__rgb_blue.png
+  url: http://checkmarx.com
+  description: Checkmarx is the enterprise application security leader and the provider of Checkmarx One™, the industry-leading cloud-native AppSec platform that helps enterprises build #DevSecTrust. Powered by intelligence from our industry-leading AppSec security research team, and our AI-driven technology and services, our platform is designed to enable CISOs, AppSec and development leaders to prioritize their teams’ focus on what impacts their business. Checkmarx secures every phase of development for every application, from the first line of code through production, while balancing the dynamic needs of security and development teams. It’s no longer about shifting left or right - it’s about shifting everywhere.
+- member: true
+  sponsor:
+  name: Equixly
+  sortname: Equixly
+  membertype: 4
+  image: /assets/images/corp-member-logo/Equixly.png
+  url: https://equixly.com/
+  description: Equixly aims to help developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly makes available a SaaS platform that allows integrating the API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform several API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers may use to fix their application issues autonomously.

@@ -1,16 +1,16 @@
 - category: Global
   description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
   events:
-    - name: OWASP Global AppSec Singapore 2023
-      start-date: 2023-10-03
-      dates: October 4-5, 2023
-      url: https://singapore.globalappsec.org/
-      optional-text: Save the date! Join us in Singapore for one day of training and one conference day, offering multiple tracks. Exhibitor and Sponsorship opportunities are available. More details are coming soon!
     - name: OWASP Global AppSec Washington DC 2023
       start-date: 2023-10-30
       dates: October 30 - November 3, 2023
       url: https://dc.globalappsec.org/
       optional-text: Join us at the Marriott Marquis Washington, DC, for two conference days offering multiple tracks **followed** by three days of training courses. Call for Volunteers is open. Exhibitor and Sponsorship opportunities are available.
+    - name: OWASP Global AppSec Lisbon 2024
+      start-date: 2024-06-24
+      dates: June 24-28, 2024
+      #url: https://singapore.globalappsec.org/
+      optional-text: Save the date! Join us in Lisbon for three days of training and two conference days, offering multiple tracks. Exhibitor and Sponsorship opportunities will be available soon. More details are coming soon!    
     - name: OWASP Global AppSec San Francisco 2024
       start-date: 2024-09-23
       dates: September 23-27, 2024
@@ -29,14 +29,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP Poland Day
-      start-date: 2023-10-04
-      dates: October 4, 2023
-      url: https://owasp-poland.day/
-    - name: OWASP Virtual Career Fair 6 am-6 pm SGT
-      start-date: 2023-10-11
-      dates: October 11, 2023
-      url: https://owasp.org/events/career_fair/
     - name: OWASP LASCON
       start-date: 2023-10-24
       dates: October 24-27, 2023
@@ -49,6 +41,17 @@
       start-date: 2024-06-15
       dates: June 15-16, 2024
       url: https://www.appsecpnw.org/
-#- category: Partner
-#  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
-#  events:
+- category: Partner
+  description: >-
+      Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
+  events:
+    - name: Cloud & Cyber Security Expo Frankfurt
+      start-date: 2024-05-23
+      dates: May 23-24, 2024
+      url:  https://www.cloudexpoeurope.de/
+    - name:  SecTor 2023
+      start-date:  2023-10-23
+      dates: October 23-26, 2023
+      url: https://www.blackhat.com/sector/2023/
+      optional-text: "Discount Code:  OWASP2023 - $100 CAD discount for new, in-person registration to 2023 Event OR for a free Business Hall Only pass"
+  
