@@ -92,12 +92,14 @@ We talked about the (currently) minor income sources like **brand / trademark li
 There are two parts to the OWASP structure discussion, namely the board structure (and the model of governance this would bring with it) and the staffing structure needed to support the current and future activities of the Foundation.
 
 ### Board structure
-<img style="float: right;" src="/assets/images/posts/board-strategy/board-structure.png">
+![Board structure](/assets/images/posts/board-strategy/board-structure.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 We discussed the possibility of explaining the board to the nine permissible under the new by-laws and that this would be best done with a single new seat being added for 2024 and the second seat being introduced in 2025. This allows for a roll-over of four seats one year and five the following rather than six and three if both seats were created in 2024. The seat for 2024 would be opened only after the by-laws are officially adopted - either before elections begin for the 2024 board, or by the 2024 board themselves in the new year.
 
 The board also voted to disband the compliance committee as of January 1st 2024, as the last remaining member of the committee has given notice as of that date. Instead, the board will appoint compliance officers with exactly the same goals as the committee had but falling clearly outside the committee's policy (instead of being a glaring exception to that policy).
 
 We discussed non-voting participants to the board, formalising the vCFO and legal advisor roles currently filled by service providers to the Foundation. We also started talking about getting insights from industry advisors and offering them some access to the board in return for that premium level of sponsorship - without compromising the board’s integrity or selling votes.
+
+<br clear="right"/>
 
 ### Staff structure
 The discussions around staff structure was about ensuring that the most can be achieved by the Foundation with the resources we have available and to ensure that accountability is paired with mandates to get things done.
