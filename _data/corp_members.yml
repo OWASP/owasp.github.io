@@ -129,7 +129,7 @@
   sortname: Cycode
   image: /assets/images/corp-member-logo/CycodeLogo.png
   url: http://www.cycode.com
-  description: Cycode is a complete software supply chain security solution that provides visibility, security, and integrity across all phases of the SDLC. Cycode integrates with DevOps tools and infrastructure providers, hardens their security postures by implementing consistent governance, and reduces the risk of breaches with a series of scanning engines that look for issues like hardcoded secrets, infrastructure as code misconfigurations, code leaks and more. Cycode’s knowledge graph tracks code integrity, user activity, and events across the SDLC to prioritize risk, find anomalies, and prevent code tampering.
+  description: Cycode's security-first, developer-friendly AppSec platform provides visibility, prioritization, and remediation for security, engineering and DevOps teams, enabling organizations to develop secure applications faster without compromise. With its built-in Application Security Posture Management (ASPM), security teams can eliminate context switching, amplify visibility, and ensure end-to-end coverage, leaving no room for attacks to go unnoticed. Backed by tier 1 investors, Insight Partners and YL, the series B company has raised $80M and boasts a number of the top global Fortune 100 customers in the world that are gaining immediate value.
 - member: true 
   sponsor: -1
   name: DataDome
@@ -144,13 +144,6 @@
   image: /assets/images/corp-member-logo/DeepSourceLogo.png
   url: https://deepsource.io/?ref=owasporg
   description: DeepSource is a fast and reliable static analysis platform that helps developers and engineering teams systematically improve code quality and security and save time in code reviews. DeepSource continuously analyzes source code changes and identifies bugs categorized as security, performance, anti-patterns, and potential bug-risks, and even formats code to follow style guidelines. DeepSource integrates with your existing code review workflow in GitHub, GitLab, and Bitbucket and runs analysis on every commit and pull request, automatically.
-- member: true	
-  sponsor: -1	
-  name: Denim Group	
-  sortname: Denim Group
-  image: /assets/images/corp-member-logo/denim-group.png	
-  url: https://www.denimgroup.com	
-  description: Denim Group is the leading independent application security firm, serving as a trusted advisor to customers on matters of application risk and security. The company helps organizations assess and mitigate application security risks.  Denim Group’s flagship ThreadFix platform accelerates the process of application vulnerability remediation, reflecting the company’s rich understanding of what it takes to fix application vulnerabilities faster.		
 - member: false	
   sponsor: 4	
   name: Detectify AB	
