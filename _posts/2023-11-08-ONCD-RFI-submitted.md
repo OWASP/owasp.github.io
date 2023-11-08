@@ -14,7 +14,7 @@ Today, the OWASP Foundation and its leaders [submitted a response](/assets/files
 
 <!--more-->
 
-The response is available on the [OWASP Foundation's](/assets/files/posts/Open-Source%20Software%20Security%20RFI%20Response%20-%20OWASP.pdf). Some highlights include:
+OWASP's [response can be downloaded here](/assets/files/posts/Open-Source%20Software%20Security%20RFI%20Response%20-%20OWASP.pdf). Some highlights include:
 
 ### OWASP's prioritization of the US Government's desire to improve the security of open source software
 
