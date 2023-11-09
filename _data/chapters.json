@@ -1245,7 +1245,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Kansas-City",
         "country": "USA",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Knoxville",
@@ -1501,7 +1501,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-New-York-City-Chapter",
         "country": "USA",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Northern Virginia",
@@ -1661,7 +1661,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Portland-Chapter",
         "country": "USA",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Portland Me",
@@ -1997,7 +1997,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Toronto",
         "country": "Canada",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Triangle Nc",
@@ -2967,22 +2967,6 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Irbid",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Itanagar",
-        "url": "https://owasp.org/www-chapter-itanagar/",
-        "created": "2023-11-07",
-        "updated": "2023-11-07",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Itanagar",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -4029,7 +4013,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-beja-chapter",
         "country": "Portugal",
-        "meetings": 0
+        "meetings": 1
     },
     {
         "name": "Belfast",
@@ -4237,7 +4221,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Copenhagen-Chapter",
         "country": "Denmark",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Croatia",
@@ -4621,7 +4605,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-lisboa-chapter",
         "country": "Portugal",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Liverpool",
@@ -5667,7 +5651,7 @@
         "name": "China Mainland",
         "url": "https://owasp.org/www-chapter-china-mainland/",
         "created": "2019-09-12",
-        "updated": "2023-08-16",
+        "updated": "2023-11-08",
         "build": "built",
         "codeurl": "",
         "title": "OWASP China-Mainland",
@@ -6173,6 +6157,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Itanagar",
+        "url": "https://owasp.org/www-chapter-itanagar/",
+        "created": "2023-11-07",
+        "updated": "2023-11-07",
+        "build": "errored",
+        "codeurl": "",
+        "title": "OWASP Itanagar",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -6981,13 +6981,13 @@
         "created": "2022-12-15",
         "updated": "2023-03-27",
         "build": "built",
-        "codeurl": "https://github.com/OWASP/www-chapter-new-delhi",
+        "codeurl": "",
         "title": "OWASP New Delhi",
         "level": "-1",
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
-        "meetup-group": "",
+        "meetup-group": "owasp-new-delhi-chapter",
         "country": "India",
         "meetings": 0
     },
