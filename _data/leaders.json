@@ -6251,6 +6251,13 @@
         "group_url": "https://owasp.org/www-project-amass/"
     },
     {
+        "name": "Juan Manuel Garcia",
+        "email": "juan.manuelgarcia@owasp.org",
+        "group": "OWASP Antiforensics Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-antiforensics-project/"
+    },
+    {
         "name": "Dave Wichers",
         "email": "dave.wichers@owasp.org",
         "group": "OWASP AntiSamy",
@@ -6536,6 +6543,13 @@
         "group": "OWASP Cognito Catastrophe",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cognito-catastrophe/"
+    },
+    {
+        "name": "Tomer Cohen",
+        "email": "tomer.cohen@owasp.org",
+        "group": "OWASP Consigliere - Your SAST Fixing Advisor",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-consigliere---your-sast-fixing-advisor/"
     },
     {
         "name": "Antonis Manaras",
@@ -6860,22 +6874,8 @@
         "group_url": "https://owasp.org/www-project-devsecops/"
     },
     {
-        "name": "Yudhi Yudhistira",
-        "email": "",
-        "group": "OWASP DevSecOps",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-devsecops/"
-    },
-    {
         "name": "Timo Pagel",
-        "email": "",
-        "group": "OWASP DevSecOps",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-devsecops/"
-    },
-    {
-        "name": "Jamieson O'Reilly",
-        "email": "",
+        "email": "timo.pagel@owasp.org",
         "group": "OWASP DevSecOps",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-devsecops/"
@@ -6970,6 +6970,13 @@
         "group": "OWASP DPD (DDOS Prevention using DPI)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-dpd/"
+    },
+    {
+        "name": "Luiz Felipe Boina",
+        "email": "luiz.felipeboina68@owasp.org",
+        "group": "OWASP Dragon-GPT",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-dragon-gpt/"
     },
     {
         "name": "Charles Givre",
@@ -7630,6 +7637,13 @@
         "group_url": "https://owasp.org/www-project-proactive-controls/"
     },
     {
+        "name": "Grant Ongers",
+        "email": "grant.ongers@owasp.org",
+        "group": "OWASP Product Security Capability Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-product-security-capability-framework/"
+    },
+    {
         "name": "Kim Carter (binarymist)",
         "email": "kim.carter@owasp.org",
         "group": "OWASP PurpleTeam",
@@ -7854,6 +7868,13 @@
         "group_url": "https://owasp.org/www-project-security-bridge/"
     },
     {
+        "name": "Marcel Haag",
+        "email": "marcel.haag@owasp.org",
+        "group": "OWASP Security-C4PO",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-security-c4po/"
+    },
+    {
         "name": "Cheyenne Seur",
         "email": "cheyenne.seur@gmail.com",
         "group": "OWASP Security Champions Guide",
@@ -8043,6 +8064,13 @@
         "group_url": "https://owasp.org/www-project-supplychaingoat/"
     },
     {
+        "name": "Test Leader",
+        "email": "test.leader@owasp.org",
+        "group": "OWASP Test Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-test-project/"
+    },
+    {
         "name": "Matteo Meucci",
         "email": "mattea.meucci@owasp.org",
         "group": "OWASP Testability Patterns for Web Applications",
@@ -8160,6 +8188,13 @@
         "group": "OWASP Top 10 for Large Language Model Applications",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
+    },
+    {
+        "name": "Starr Brown",
+        "email": "starr.brown63@owasp.org",
+        "group": "OWASP Top 10 in XR",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-in-xr/"
     },
     {
         "name": "Nick Lorenz",
