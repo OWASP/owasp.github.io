@@ -24,7 +24,7 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP BeNeLux
+    - name: OWASP 2023 BeNeLux
       start-date: 2023-11-24
       dates: November 23-24, 2023
       url: https://www.owaspbenelux.eu/
@@ -32,10 +32,14 @@
       start-date: 2024-03-07
       dates: March 7, 2024
       url: https://www.snowfroc.com/
-    - name: OWASP AppSec Days Pacific Northwest 2024
+    - name: OWASP 2024 AppSec Days Pacific Northwest
       start-date: 2024-06-15
       dates: June 15-16, 2024
       url: https://www.appsecpnw.org/
+    - name: OWASP 2024 LASCON
+      start-date: 2024-10-22
+      dates: October 22-25, 2024
+      url: https://lascon.org/
 - category: Partner
   description: >-
       Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
