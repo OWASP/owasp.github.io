@@ -1,4 +1,108 @@
----
+  <h1>Manage Your Information</h1>
+
+  <div v-if="state === 'unsubmitted'">
+   <p>From this page, you will receive a URL from which you can:</p>
+   <ul><li>Update your billing information,</li>
+       <li>See your membership data, and</li>
+       <li>Provision your OWASP email address</li></ul>
+    <p>If you have an existing OWASP membership or recurring gift, enter your <strong>membership email address*</strong> (case sensitive) below.</p>
+    <form v-on:submit.prevent="handleSubmit" class="form-container">
+    <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
+      Please correct the errors below before proceeding.
+    </div>
+    <div style="margin-bottom: 18px;">
+    <input type="text" v-model="email" v-on:input="updateErrors" aria-label="Email Address"
+    placeholder="Membership Email Address (case sensitive)" />
+    <div class="error-text" v-if="errors.email">
+    {{ errors.email[0] }}
+    </div>
+    </div>
+    <div>
+    <button type="submit" class="submit-button" v-bind:disabled="loading">Request Account Information</button>
+    </div>
+    <div style="font-size:smaller;"><i>* Your member email address is the email address with which you initially signed up for membership. If you do not remember your membership email address, <a href="https://contact.owasp.org/">contact us.</a></i></div>
+    </form>
+  </div>
+  <div v-else-if="state === 'submitted'">
+    <p>Thanks! We just sent you an email with instructions for how to update
+    your membership or payment information. The internet is fast but sometimes our bots are slow. Please wait 5-10 minutes for your email. If you don't receive one, please check your SPAM folder as well. If all else fails, you likely used an email address we didn't find in our system.</p>
+  </div>
+  <div style="display: flex;" v-else-if="state === 'hastoken'">
+    <div v-if="loadingUserData">
+      <h2>Loading Billing Information...</h2>
+    </div>
+    <div v-else>
+      <div v-if="userData.membership" style="margin-bottom: 20px;">
+        <div>
+          <strong>Membership Type:</strong> {{ userData.membership.membership_name }}
+        </div>
+        <div v-if="userData.membership.membership_end">
+          <strong>Membership {{ userData.membership.membership_recurring ? 'Automatically Renews On' : 'Ends On' }}:</strong> {{ userData.membership.membership_end }}
+        </div>
+        <div v-if="userData.membership.owasp_email">
+          <strong>OWASP Email Address:</strong> {{ userData.membership.owasp_email }}
+          <p>To access your OWASP email, please go to <a href="https://mail.google.com">Google Mail</a> and logout of any current account or click Add another account.  Choose 'Forgot password' and 'try another way' then 'receive a verification code'.</p>
+        </div>
+      </div>
+      <div v-if="memberships.length > 0" style="margin-bottom: 40px;">
+        <h3>Manage Membership</h3>
+        <div v-for="membership in memberships">
+          <div><strong>{{ membership.subscription_name }}</strong></div>
+          <div>{{ membership.card.brand }} ending in {{ membership.card.last_4 }}</div>
+          <div>Next Billing Date: {{ membership.next_billing_date }}</div>
+          <div style="margin-right: 18px; display: inline-block;">
+            <button class="submit-button" v-on:click="redirectToStripe(membership.checkout_session)">Update Payment Information</button>
+          </div>
+          <div style="display: inline-block;">
+            <button class="submit-button danger-button" v-on:click="doCancellation(membership.checkout_session)">{{ pendingCancellation === membership.checkout_session ? 'Are you sure?' : 'Cancel Recurring' }}</button>
+          </div>
+        </div>
+      </div>
+      <div v-if="donations.length > 0">
+        <h3>Manage Recurring Donations</h3>
+        <div v-for="donation in donations">
+          <div><strong>{{ donation.subscription_name }}</strong></div>
+          <div>{{ donation.card.brand }} ending in {{ donation.card.last_4 }}</div>
+          <div>Next Billing Date: {{ donation.next_billing_date }}</div>
+          <div style="margin-right: 18px; display: inline-block;">
+            <button class="submit-button" v-on:click="redirectToStripe(donation.checkout_session)">Update Payment Information</button>
+          </div>
+          <div style="display: inline-block;">
+            <button class="submit-button danger-button" v-on:click="doCancellation(donation.checkout_session)">{{ pendingCancellation === donation.checkout_session ? 'Are you sure?' : 'Cancel Recurring' }}</button>
+          </div>
+        </div>
+      </div>
+      <div v-if="provision_email_message == true">
+           <h2>Your chosen email was created.  Please go to <a href="https://mail.google.com">Google Mail</a> and logout of any current account or click Add another account.  Choose 'Forgot password' and 'try another way' then 'receive a verification code'.</h2>
+      </div>
+      <div id="email-section" v-if="userData.emaillist.length > 0">
+        <hr>
+        <h3>Provision Your OWASP Email</h3>
+        <div v-if="userData.emaillist.length > 1">
+          Choose one from the list below:<br>
+          (If you already have an OWASP email, please do not provision another)
+          <hr>
+        </div>
+        <div v-for="error in errors">
+          <label class="error-text" id="provision-error">{{error[0]}}</label>
+        </div>
+        <div v-for="em in userData.emaillist">
+          <div style="display: inline-block;">
+            <input type="radio" name="email_provision" v-model="chosen_email" v-bind:value="em"> &nbsp;&nbsp;{{em}}
+          </div>
+        </div>
+        <div style="margin-top: 20px;">
+          <button class="submit-button" v-on:click="redirectToAzure()" v-bind:disabled="provision_disabled">{{provision_message}}</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  <aside class="sidebar" role="complementary">
+    <!-- reserved for future use -->
+  </aside>
+</div>---
 
 layout: full-width
 title: Manage Your Information
