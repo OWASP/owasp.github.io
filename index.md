@@ -7,7 +7,6 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 spnews: False
 
 ---
-
 <!-- Discoverable Feeds -->
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}"/>
@@ -37,9 +36,13 @@ spnews: False
 <hr class="mobile">
 
 <div style="display:grid;grid-column: 1/3; background-color:#fff;">
-  {% include featured_events.html %}
+  {% include featured_events.html %}  
+ 
 </div>
-
+<hr>
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+ {% include upcoming_owasp.html %}
+</div>
 <hr>
 
 <section class="homepage-blog">
@@ -53,4 +56,5 @@ spnews: False
 
 {% include news-events.html %}
 
+<hr class="mobile">
 
