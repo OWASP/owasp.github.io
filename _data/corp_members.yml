@@ -1324,3 +1324,12 @@
   image: /assets/images/corp-member-logo/Equixly.png
   url: https://equixly.com/
   description: Equixly aims to help developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly makes available a SaaS platform that allows integrating the API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform several API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers may use to fix their application issues autonomously.
+- member: true
+  sponsor:
+  name: Xeol
+  sortname: Xeol
+  membertype: 4
+  image:  /assets/images/corp-member-logo/Xeol.jpeg
+  url: https://www.xeol.io/
+  description: 	
+Xeol helps secure your software supply chain from code to deploy. We believe that software should not only be free of vulnerabilities but also built and deployed by trusted entities. Xeol starts by managing your open source dependencies. Helping you evaluate them based on vulnerabilities, end-of-life status, maintainability, and licensing. Xeol then helps you sign then verify your images at build before they are deployed to production.
