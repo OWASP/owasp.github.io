@@ -28,7 +28,7 @@ The TL;DR is the Board has plans to make changes to ensure the Foundation is on 
 - [Discussion on (it turns out) Events](#any-other-business) - an open topic that ended up being all about Events
 
 # Monday September 11th
-![Agenda: Monday September 11th](/assets/images/posts/board-strategy/2023-09-11.png)
+![Agenda: Monday September 11th](/assets/images/posts/board-strategy/2023-09-11.png){:style="max-width:600px; margin: 0 20% 0 20%;"}
 ## Discussion on By-laws
 We talked about the by-laws and assigned folks to reach out to the missing directors on the list. Once we have given those details to the lawyers they will initiate the signing process. IF we need changes to the by-laws we should do that before then - so everyone was given homework to do, namely to read the by-laws and make notes before Monday 18th of September when Grant and Andrew will meet to prepare the by-laws for distribution.
 
@@ -86,14 +86,14 @@ We talked about the income sources from Events, namely **training** and **confer
 We talked about the (currently) minor income sources like **brand / trademark licensing** and **swag sales**. These are revenue streams that we could definitely do more with, however the board voted to get rid of the OWASPx conference branding option as it cannibalises our own events strategy.
 
 # Tuesday September 12th
-![Agenda: Tuesday September 12th](/assets/images/posts/board-strategy/2023-09-12.png)
+![Agenda: Tuesday September 12th](/assets/images/posts/board-strategy/2023-09-12.png){:style="max-width:600px; margin: 0 20% 0 20%;"}
 
 ## Discussion on Structure
 There are two parts to the OWASP structure discussion, namely the board structure (and the model of governance this would bring with it) and the staffing structure needed to support the current and future activities of the Foundation.
 
 ### Board structure
 ![Board structure](/assets/images/posts/board-strategy/board-structure.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-We discussed the possibility of explaining the board to the nine permissible under the new by-laws and that this would be best done with a single new seat being added for 2024 and the second seat being introduced in 2025. This allows for a roll-over of four seats one year and five the following rather than six and three if both seats were created in 2024. The seat for 2024 would be opened only after the by-laws are officially adopted - either before elections begin for the 2024 board, or by the 2024 board themselves in the new year.
+We discussed the possibility of expanding the board to the nine permissible under the new by-laws and that this would be best done with a single new seat being added for 2024 and the second seat being introduced in 2025. This allows for a roll-over of four seats one year and five the following rather than six and three if both seats were created in 2024. The seat for 2024 would be opened only after the by-laws are officially adopted - either before elections begin for the 2024 board, or by the 2024 board themselves in the new year.
 
 The board also voted to disband the compliance committee as of January 1st 2024, as the last remaining member of the committee has given notice as of that date. Instead, the board will appoint compliance officers with exactly the same goals as the committee had but falling clearly outside the committee's policy (instead of being a glaring exception to that policy).
 
@@ -141,7 +141,7 @@ We also talked about the governance around projects that would need to happen, i
 We spent a bit of time talking about the automation related to projects by the OWASP staff and ways to use that to ensure things like governance, project maturity “levelling up” and access to Foundation services (like Tweeting project milestones).
 
 # Wednesday September 13th
-![Agenda: Wednesday September 12th](/assets/images/posts/board-strategy/2023-09-13.png)
+![Agenda: Wednesday September 12th](/assets/images/posts/board-strategy/2023-09-13.png){:style="max-width:600px; margin: 0 20% 0 20%;"}
 
 ## Parked Items 11th and 12th
 A fair amount of the day was actually spent getting everything above to the point’s I described before and it took us all of the morning and most of the afternoon to get there.
