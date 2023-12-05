@@ -637,7 +637,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Brisbane-OWASP-Meetup-Group",
         "country": "Australia",
-        "meetings": 10
+        "meetings": 11
     },
     {
         "name": "Canberra",
@@ -1283,8 +1283,8 @@
         "name": "Long Island",
         "url": "https://owasp.org/www-chapter-long-island/",
         "created": "2019-09-12",
-        "updated": "2021-07-07",
-        "build": "built",
+        "updated": "2023-12-04",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Long Island, NY",
         "level": "-1",
@@ -2240,22 +2240,6 @@
         "meetings": 0
     },
     {
-        "name": "Baddi",
-        "url": "https://owasp.org/www-chapter-baddi/",
-        "created": "2023-06-27",
-        "updated": "2023-06-29",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Baddi",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Baghdad",
         "url": "https://owasp.org/www-chapter-baghdad/",
         "created": "2020-05-08",
@@ -2900,7 +2884,7 @@
         "url": "https://owasp.org/www-chapter-hosur/",
         "created": "2023-08-07",
         "updated": "2023-08-08",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Hosur",
         "level": "-1",
@@ -3316,7 +3300,7 @@
         "url": "https://owasp.org/www-chapter-montgomery/",
         "created": "2023-07-12",
         "updated": "2023-07-12",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Montgomery",
         "level": "-1",
@@ -4365,7 +4349,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
         "country": "",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Frankfurt",
@@ -5437,6 +5421,22 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-babu-banarasi-das-nittm",
         "country": "India",
+        "meetings": 0
+    },
+    {
+        "name": "Baddi",
+        "url": "https://owasp.org/www-chapter-baddi/",
+        "created": "2023-06-27",
+        "updated": "2023-06-29",
+        "build": "no pages",
+        "codeurl": "",
+        "title": "OWASP Baddi",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
         "meetings": 0
     },
     {
