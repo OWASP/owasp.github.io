@@ -21,6 +21,10 @@ maintenance_message: Due to a required update to our systems, we are currently e
   margin-right: 6px;
 }
 
+.address {
+  margin-bottom: 2px;
+}
+
 .unselected {
   background: lightgray;
 }
@@ -45,20 +49,19 @@ maintenance_message: Due to a required update to our systems, we are currently e
     
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
 
-      <div class='alert'><h2>15% off two year memberships!</h2> 
+      <!-- <div class='alert'><h2>15% off two year memberships!</h2> 
           Your contributions help support OWASP's mission by:
           <ul><li>Funding chapters, events, and projects</li>
           <li>Sustaining OWASP's operations</li>
           <li>Helping out with scholarships to our Global AppSec events</li>
           </ul>
-      </div>      
+      </div> -->      
       <h2>Join Now <span style="font-size:smaller"><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p></span></h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
         </div>
         <div class="form-row" style="margin-bottom: 25px;">
-          <div class="three-fourths">
             <select v-model="country">
               <option value="null">Country of Residence</option>
               <option v-for="item in countries" v-bind:value="item">
@@ -67,15 +70,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
             </select>
             <div class="error-text" v-if="errors.country">
               {{ errors.country[0] }}
-            </div>
-          </div>
-          <div class="quarter">
-            <input type="text" v-model="postal_code" aria-label="Postal Code"
-            placeholder="Postal Code" />
-            <div class="error-text" v-if="errors.postal_code">
-              {{ errors.postal_code[0] }}
-            </div>
-          </div>
+            </div>                    
         </div>
         <div class="form-row" style="margin-bottom: 8px;" v-if="!free_leader">
           <div class="membership-option" v-for="membership in membershipOptions" v-on:click="updateMembership(membership.name, membership.discount)" v-bind:class="membership_type === membership.name ? 'selected' : ''">
@@ -112,7 +107,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
         </div>
         <div class="membership-fields">
           <h3>Your Information</h3>
-	  <h4>If renewing, please use the same email address you used originally when joining</h4>
+	  <h4>If renewing, please use the same email address you used originally when joining. Not sure? Log into the <a href="https://members.owasp.org/">Membership Portal</a></h4>
           <div>
             <input type="text" v-model="email" aria-label="Email Address"
             placeholder="Member Email Address" />
@@ -127,22 +122,32 @@ maintenance_message: Due to a required update to our systems, we are currently e
               {{ errors.email_confirm[0] }}
             </div>
           </div>
+          <div>
+            <input type="text" v-model="name_on_card" aria-label="Name" placeholder="Member Name" />
+            <div class="error-text" v-if="errors.name_on_card">
+              {{ errors.name_on_card[0] }}
+            </div>
+          </div>
           <div v-if="student">
             <input type="text" v-model="university" aria-label="University" placeholder="University" />
             <div class="error-text" v-if="errors.university">
               {{ errors.university[0] }}
             </div>
-          </div>
+          </div>                    
           <div v-else>
             <input type="text" v-model="company_name" aria-label="Company Name" placeholder="Company Name" />
             <div class="error-text" v-if="errors.company_name">
               {{ errors.company_name[0] }}
             </div>
-          </div>
+          </div>          
           <div>
-            <input type="text" v-model="name_on_card" aria-label="Name" placeholder="Member Name" />
-            <div class="error-text" v-if="errors.name_on_card">
-              {{ errors.name_on_card[0] }}
+            <input class="address" v-model="address" type="text" aria-label="Postal Address" placeholder="Postal Address">
+            <input class="address" v-model="address2" type="text" aria-label="Postal Address 2" placeholder="Postal Address 2">
+            <input class="address" v-model="city" type="text" aria-label="City" placeholder="City">
+            <input class="address" type="text" v-model="state" aria-label="State" placeholder="State">
+            <input type="text" v-model="postal_code" aria-label="Postal Code" placeholder="Postal Code" />                     
+            <div class="error-text" v-if="errors.address">
+              {{ errors.address[0] }}
             </div>
           </div>
         </div>
@@ -195,6 +200,10 @@ window.addEventListener('load', function () {
       name_on_card: null,
       company_name: null,
       university: null,
+      address: null,
+      address2: null,
+      city: null,
+      state: null,
       auto_renew: false,
       student: false,
       mailing_list: false,
@@ -221,28 +230,37 @@ window.addEventListener('load', function () {
       },
       membershipOptions: function () {
         
-        if (!this.country || !this.country.hasOwnProperty('discount') ||
-        this.country.discount == false) {
-	  if (this.student) {
-          return [
-            { name: 'One Year', amount: '$20', discount: false }
-          ];
+        if (!this.isDiscounted(this.country) && !this.isForceMajeure(this.country)) {
+        if (this.student) {
+              return [
+                { name: 'One Year', amount: '$20', discount: false }
+              ];
+            } else {
+              return [
+                { name: 'One Year', amount: '$50', discount: false },
+                { name: 'Two Year', amount: '$95', discount: false },//95 normally
+                { name: 'Lifetime', amount: '$500', discount: false}
+              ];
+        }
+    } else if (this.isForceMajeure(this.country)) {
+        if (this.student) {
+          return [ { name: 'One Year', amount: '$0', discount: true }]
+        }else {
+            return [
+              { name: 'One Year', amount: '$0', discount: true },
+              { name: 'Two Year', amount: '$95', discount: false },//95 normally
+              { name: 'Lifetime', amount: '$500', discount: false}
+            ];
+          }
         } else {
-          return [
-            { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$80.75', discount: false },//95 normally
-            { name: 'Lifetime', amount: '$500', discount: false}
-          ];
-	  }
-        } else {
-	  if (this.student) {
+	      if (this.student) {
           return [
             { name: 'One Year', amount: '$8', discount: true }
           ];
           }else{
           return [
             { name: 'One Year', amount: '$20', discount: true }, 
-            { name: 'Two Year', amount: '$29.75', discount: true },//35 normally
+            { name: 'Two Year', amount: '$35', discount: true },//35 normally
             { name: 'Lifetime', amount: '$200', discount: true} 
           ]
 	  }
@@ -267,9 +285,19 @@ window.addEventListener('load', function () {
       }
     },
     methods: {
+
+      isDiscounted: function(country) {
+        return country && country.hasOwnProperty('discount') && country.discount;
+      },
+      isForceMajeure: function(country) {
+         return country && country.hasOwnProperty('force_majeure') && country.force_majeure;
+      },
       handleSubmit: function () {
         
-        if (this.free_leader){
+        if (this.isForceMajeure(this.country)) {
+          return this.handleForceMajeureSubmit();
+        }
+        if (this.free_leader || this.isForceMajeure(this.country)){
           return this.handleLeaderSubmit();
         }
 
@@ -294,6 +322,10 @@ window.addEventListener('load', function () {
             name: this.name_on_card,
             company: this.company_name,
             university: this.university,
+            address: this.address,
+            address2: this.address2,
+            city: this.city,
+            state: this.state,
             mailing_list: this.mailing_list,
             free_leader: this.free_leader,
             student: this.student,
@@ -313,6 +345,77 @@ window.addEventListener('load', function () {
               vm.$nextTick(function(){
                 document.getElementById('error-message').scrollIntoView();
               })
+            });
+        }
+      },
+      handleForceMajeureSubmit: function () {        
+        this.loading = true;
+        this.validateForm();
+          // check the function call for free leader, if not leader, give error
+        if (Object.keys(this.errors).length > 0) {
+          this.loading = false;
+          //this works...why not in the axios post?
+          this.$nextTick(function () {
+            document.getElementById('error-message').scrollIntoView();
+          })
+        } else {
+          const postData = {
+            checkout_type: 'membership',
+            membership_type: 'complimentary',
+            discount: this.membership_discount,
+            recurring: this.auto_renew,
+            country: this.country['name'],
+            postal_code: this.postal_code,
+            email: this.email,
+            name: this.name_on_card,
+            company: this.company_name,
+            university: this.university,
+            mailing_list: this.mailing_list,
+            free_leader: this.free_leader,
+            student: this.student,
+            leader_agreement: this.free_leader_agreement,
+            currency: 'usd'
+          };
+          let errors = {}
+          // so instead of this...just create the membership? https://owaspadmin.azurewebsites.net/api/IsLeaderByEmail?code=yGSVCT1EaQHhLsVhbF6zEiOUninaB/jT4CIO9OyNdqg7lVmr8J4jLA==
+          axios.post('https://owaspadmin.azurewebsites.net/api/CreateForceMajeureMembership?code=GA5kUqmhhi7E3y6qBNPVNd_xq0jKEdM_cL9jG_k2mQ50AzFuOufHAA==', postData)
+            .then(response => {
+              
+              if(response.data.error){
+                errors = [response.data.error]
+                this.errors = errors
+                if (response.data.error.indexOf('agreement') > 0)
+                  errors.free_leader_agreement = [response.data.error];
+                else
+                  errors.free_leader = [response.data.error];
+              }
+              else{
+                //success case?
+                this.$nextTick(function () {
+                    document.location.href = "/membership-success"
+                  })
+              }
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
+            })
+            .catch(error => {
+              errors = [error]
+              errors.free_leader = [error]
+              this.errors = errors
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
             });
         }
       },
@@ -411,11 +514,11 @@ window.addEventListener('load', function () {
           errors.free_leader_agreement = ['You must accept the leader agreement.']
         }
 
-        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email)) {
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email) || !this.email) {
           errors.email = ['Please enter a valid email address'];
         }
 
-        if (this.email.endsWith('owasp.com')) {
+        if (this.email && this.email.endsWith('owasp.com')) {
           if (this.not_on_staff(this.email)){
             errors.email = ['Your email address does not end in owasp.com unless you are on the staff of the OWASP Foundation'];
           }
@@ -426,7 +529,7 @@ window.addEventListener('load', function () {
         }
 
         if(!this.name_on_card) {
-          errors.name_on_card = ['Please enter you first and last name.'];
+          errors.name_on_card = ['Please enter your first and last name.'];
         }
         else {
           fname = this.name_on_card.substr(0, this.name_on_card.indexOf(' '));
@@ -443,10 +546,22 @@ window.addEventListener('load', function () {
 
         if (!this.country) {
           errors.country = ['Please select your country.'];
-        }
+        }        
 
         if (!this.postal_code) {
-          errors.postal_code = ['Please enter your postal code.'];
+          errors.address = ['Postal code is required.'];
+        }
+
+        if(!this.state) {
+          errors.address = ['State is required.'];
+        }
+
+        if (!this.city) {
+          errors.address = ['City is required.'];
+        }
+
+        if (!this.address){
+          errors.address = ['Address is required.'];
         }
 
         this.errors = errors;

@@ -397,7 +397,8 @@
     },
     {
         "name": "Israel",
-        "discount": false
+        "discount": false,
+        "force_majeure": true
     },
     {
         "name": "Italy",
@@ -833,7 +834,8 @@
     },
     {
         "name": "Ukraine",
-        "discount": true
+        "discount": true,
+        "force_majeure": true
     },
     {
         "name": "United Arab Emirates",
@@ -873,7 +875,8 @@
     },
     {
         "name": "West Bank and Gaza",
-        "discount": true
+        "discount": true,
+        "force_majeure": true
     },
     {
         "name": "Yemen, Rep.",

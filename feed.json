@@ -1,0 +1,30 @@
+---
+layout: null
+---
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "{{ site.title }}",
+    "description": {{ site.description | jsonify }},
+    "favicon": "{{ '/assets/images/logos/favicons/apple-touch-icon.png' | absolute_url }}",
+    "language": "en",
+    "home_page_url": "{{ "/" | absolute_url }}",
+    "feed_url": "{{ "/feed.json" | absolute_url }}",
+    "user_comment": "This feed allows you to read the blogs from this site in any feed reader that supports the JSON Feed format.",
+    "items": [{% for post in site.posts limit:20 %}
+        {
+            "id": "{{ post.url | absolute_url }}",
+            "url": "{{ post.url | absolute_url }}",
+            "language": "en",
+            "title": {{ post.title | jsonify }},
+            "content_html": {{ post.content | jsonify }},
+            "date_published": "{{ post.date | date_to_xmlschema }}",
+            "date_modified": "{{ post.last_modified_at | date_to_xmlschema }}",
+            "image": "{{ post.image.path | absolute_url }}",
+            "banner_image": "{{ post.image.path | absolute_url }}",
+            "authors": [{{ post.author | jsonify }}],
+            "categories": {{ post.categories | jsonify }},
+            "tags": {{ post.tags | jsonify }}
+        }
+        {% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+}
