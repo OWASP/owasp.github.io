@@ -616,13 +616,6 @@
         "group_url": "https://owasp.org/www-chapter-brainware-university/"
     },
     {
-        "name": "Anderson Alves",
-        "email": "anderson.alves@owasp.org",
-        "group": "OWASP Brasilia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brasilia/"
-    },
-    {
         "name": "Antony Leite",
         "email": "antony.leite@owasp.org",
         "group": "OWASP Brasilia",
@@ -646,6 +639,13 @@
     {
         "name": "Vitor Mauricio",
         "email": "vitor.mauricio@owasp.org",
+        "group": "OWASP Brasilia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brasilia/"
+    },
+    {
+        "name": "Reison Pontes de Aquiar Florindo",
+        "email": "reison.florindo@owasp.org",
         "group": "OWASP Brasilia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-brasilia/"
@@ -796,6 +796,27 @@
         "group": "OWASP Cambridge",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-cambridge/"
+    },
+    {
+        "name": "Rafael Monterroza",
+        "email": "rafael.monterroza@owasp.org",
+        "group": "OWASP Cartagena",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cartagena/"
+    },
+    {
+        "name": "Carlos Arenas",
+        "email": "carlos.arenas@owasp.org",
+        "group": "OWASP Cartagena",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cartagena/"
+    },
+    {
+        "name": "Brandon Perez",
+        "email": "brandon.perez@owasp.org",
+        "group": "OWASP Cartagena",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-cartagena/"
     },
     {
         "name": "Jay Bhatt",
@@ -3997,13 +4018,6 @@
         "group_url": "https://owasp.org/www-chapter-pimpri-chinchwad-college-of-engineering/"
     },
     {
-        "name": "Suraj Dhamak",
-        "email": "suraj.dhamak@owasp.org",
-        "group": "OWASP Pimpri Chinchwad College of Engineering- Pune - Student Chapter",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-pimpri-chinchwad-college-of-engineering/"
-    },
-    {
         "name": "Kevin Cody",
         "email": "kevin.cody@owasp.org",
         "group": "OWASP Pittsburgh",
@@ -4093,6 +4107,20 @@
         "group": "OWASP Portland, Maine",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-portland-me/"
+    },
+    {
+        "name": "Nuno Pereira",
+        "email": "nuno.pereira@owasp.org",
+        "group": "OWASP Porto",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-porto/"
+    },
+    {
+        "name": "Wilberto Filho",
+        "email": "wilberto.filho@owasp.org",
+        "group": "OWASP Porto",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-porto/"
     },
     {
         "name": "Fernando Silva",
