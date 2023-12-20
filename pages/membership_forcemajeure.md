@@ -2,7 +2,7 @@
 
 layout: full-width
 title: OWASP Membership Information & Benefits
-permalink: /membership/
+permalink: /membership/force_majeure/
 maintenance: false
 maintenance_message: Due to a required update to our systems, we are currently experiencing issues with our Membership portal, renewals, and joining. Thank you for your patience as we work to resolve the issues.
 
@@ -41,17 +41,16 @@ maintenance_message: Due to a required update to our systems, we are currently e
     <div class="main-wrapper" style="padding: 0px;">
       <div>
 
-      <!-- main membership form -->
+      <!-- force majeure membership form -->
 
-      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Supporter</a></h1></div>
-    <p><a href="#member_benefits">What you get as a member</a></p>
-    
-<!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
-
-      <div class="form-row alert" v-if="country && country.force_majeure">
-           <p> Due to our Force Majeure policy, your country qualifies for complimentary one year membership. Please see our <a href="/membership/force_majeure/">Force Majeure Membership Page</a> to sign up.</p>
-      </div>
-      <h3>Join Now</h3><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p>
+      <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1></div>
+    <div>During periods of unrest, OWASP offers complimentary membership via its Force Majeure policy. Currently, individuals residing in the following countries are invited to participate in complimentary one year membership under this policy:
+    <ul v-for="item in countries" v-bind:value="item">
+      <li>{{ item.name }}</li>
+    </ul>
+    </div>
+             
+      <h2>Join Now <span style="font-size:smaller"></span></h2>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
@@ -65,11 +64,8 @@ maintenance_message: Due to a required update to our systems, we are currently e
             </select>
             <div class="error-text" v-if="errors.country">
               {{ errors.country[0] }}
-            </div>                              
-        </div>     
-        <div class="form-row alert" v-if="country && country.force_majeure">
-           <p> Due to our Force Majeure policy, your country qualifies for complimentary one year membership. Please see our <a href="/membership/force_majeure/">Force Majeure Membership Page</a> to sign up.</p>
-      </div>     
+            </div>                    
+        </div>
         <div class="form-row" style="margin-bottom: 8px;" v-if="!free_leader">
           <div class="membership-option" v-for="membership in membershipOptions" v-on:click="updateMembership(membership.name, membership.discount)" v-bind:class="membership_type === membership.name ? 'selected' : ''">
             {{ membership.name }} {{ membership.amount }} {{membership.special}}
@@ -175,6 +171,7 @@ maintenance_message: Due to a required update to our systems, we are currently e
 </div>
 {% endraw %}
 
+{% assign fm_countries = site.data.countries | where: 'force_majeure', true %}
 <script src="https://js.stripe.com/v3"></script>
 <script src="https://unpkg.com/vue@2/dist/vue.min.js"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
@@ -187,7 +184,7 @@ window.addEventListener('load', function () {
     data: {
       loading: false,
       errors: {},
-      countries: {{ site.data.countries | jsonify }},
+      countries: {{fm_countries | jsonify}},
       membership_type: null,
       membership_amount: null,
       membership_discount: null,
@@ -228,7 +225,7 @@ window.addEventListener('load', function () {
       },
       membershipOptions: function () {
         
-        if (!this.isDiscounted(this.country)) {
+        if (!this.isDiscounted(this.country) && !this.isForceMajeure(this.country)) {
         if (this.student) {
               return [
                 { name: 'One Year', amount: '$20', discount: false }
@@ -240,7 +237,17 @@ window.addEventListener('load', function () {
                 { name: 'Lifetime', amount: '$500', discount: false}
               ];
         }
-    } else {
+    } else if (this.isForceMajeure(this.country)) {
+        if (this.student) {
+          return [ { name: 'One Year', amount: '$0', discount: true }]
+        }else {
+            return [
+              { name: 'One Year', amount: '$0', discount: true },
+              { name: 'Two Year', amount: '$95', discount: false },//95 normally
+              { name: 'Lifetime', amount: '$500', discount: false}
+            ];
+          }
+        } else {
 	      if (this.student) {
           return [
             { name: 'One Year', amount: '$8', discount: true }
@@ -256,8 +263,13 @@ window.addEventListener('load', function () {
       }
     },
     watch: {
-      country: function (newCountry, oldCountry) {        
-        if (newCountry.discount) {          
+      country: function (newCountry, oldCountry) {
+        // if (this.student) {
+        //   return;
+        // }
+
+        if (newCountry.discount) {
+          //this.membership_type = 'One Year';
           this.membership_discount = true;
           this.$forceUpdate();
         } else if (oldCountry && oldCountry.discount) {
@@ -272,8 +284,14 @@ window.addEventListener('load', function () {
       isDiscounted: function(country) {
         return country && country.hasOwnProperty('discount') && country.discount;
       },
+      isForceMajeure: function(country) {
+         return country && country.hasOwnProperty('force_majeure') && country.force_majeure;
+      },
       handleSubmit: function () {
-
+        
+        if (this.isForceMajeure(this.country)) {
+          return this.handleForceMajeureSubmit();
+        }
         if (this.free_leader || this.isForceMajeure(this.country)){
           return this.handleLeaderSubmit();
         }
@@ -322,6 +340,77 @@ window.addEventListener('load', function () {
               vm.$nextTick(function(){
                 document.getElementById('error-message').scrollIntoView();
               })
+            });
+        }
+      },
+      handleForceMajeureSubmit: function () {        
+        this.loading = true;
+        this.validateForm();
+          // check the function call for free leader, if not leader, give error
+        if (Object.keys(this.errors).length > 0) {
+          this.loading = false;
+          //this works...why not in the axios post?
+          this.$nextTick(function () {
+            document.getElementById('error-message').scrollIntoView();
+          })
+        } else {
+          const postData = {
+            checkout_type: 'membership',
+            membership_type: 'complimentary',
+            discount: this.membership_discount,
+            recurring: this.auto_renew,
+            country: this.country['name'],
+            postal_code: this.postal_code,
+            email: this.email,
+            name: this.name_on_card,
+            company: this.company_name,
+            university: this.university,
+            mailing_list: this.mailing_list,
+            free_leader: this.free_leader,
+            student: this.student,
+            leader_agreement: this.free_leader_agreement,
+            currency: 'usd'
+          };
+          let errors = {}
+          // so instead of this...just create the membership? https://owaspadmin.azurewebsites.net/api/IsLeaderByEmail?code=yGSVCT1EaQHhLsVhbF6zEiOUninaB/jT4CIO9OyNdqg7lVmr8J4jLA==
+          axios.post('https://owaspadmin.azurewebsites.net/api/CreateForceMajeureMembership?code=GA5kUqmhhi7E3y6qBNPVNd_xq0jKEdM_cL9jG_k2mQ50AzFuOufHAA==', postData)
+            .then(response => {
+              
+              if(response.data.error){
+                errors = [response.data.error]
+                this.errors = errors
+                if (response.data.error.indexOf('agreement') > 0)
+                  errors.free_leader_agreement = [response.data.error];
+                else
+                  errors.free_leader = [response.data.error];
+              }
+              else{
+                //success case?
+                this.$nextTick(function () {
+                    document.location.href = "/membership-success"
+                  })
+              }
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
+            })
+            .catch(error => {
+              errors = [error]
+              errors.free_leader = [error]
+              this.errors = errors
+              this.loading = false
+              if (Object.keys(this.errors).length > 0) {
+                this.loading = false;
+                
+                this.$nextTick(function () {
+                  document.getElementById('error-message').scrollIntoView();
+                })
+              }
             });
         }
       },
