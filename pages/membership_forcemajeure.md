@@ -369,6 +369,7 @@ window.addEventListener('load', function () {
             free_leader: this.free_leader,
             student: this.student,
             leader_agreement: this.free_leader_agreement,
+            is_wilson: false,
             currency: 'usd'
           };
           let errors = {}
