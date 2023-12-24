@@ -292,7 +292,7 @@ window.addEventListener('load', function () {
         if (this.isForceMajeure(this.country)) {
           return this.handleForceMajeureSubmit();
         }
-        if (this.free_leader || this.isForceMajeure(this.country)){
+        if (this.free_leader){
           return this.handleLeaderSubmit();
         }
 
