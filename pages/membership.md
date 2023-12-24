@@ -274,7 +274,7 @@ window.addEventListener('load', function () {
       },
       handleSubmit: function () {
 
-        if (this.free_leader || this.isForceMajeure(this.country)){
+        if (this.free_leader){
           return this.handleLeaderSubmit();
         }
 
