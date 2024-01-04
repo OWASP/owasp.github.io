@@ -1,8 +1,7 @@
-[![OWASP 2023 Global AppSec DC](/assets/images/AppSec_DC_2023_Banner_1200x300_V01.jpeg){:width="100%" height="auto"}](https://dc.globalappsec.org/)
+[![OWASP 2024 Global AppSec Lisbon](/assets/images/Lisbon1.png){:width="100%" height="auto"}](https://dc.globalappsec.org/)
 
-### Registration Open!
+### Conference Registration is Open!
+### Exhibitor and Sponsorship opportunities are being accepted!
 
-[Join us](https://www.eventbrite.com/e/owasp-global-appsec-washington-dc-2023-tickets-519195877847) in Washington DC, USA Oct 30 - Nov 3, for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
-
-Designed for private and public sector infosec professionals, the two-day OWASP conference followed by three days of training equips developers, defenders, and advocates to build a more secure web. Join us for leading application security technologies, speakers, prospects, and the community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
+Participate in the OWASP 2024 Global AppSec Lisbon event alongside 700+ cybersecurity experts from June 24-28 at the Lisbon Congress Center in Lisbon, Portugal. Immerse yourself in insightful presentations by globally recognized keynote speakers, choose from our diverse range of five tracks, explore the exhibitor hall, and foster connections with fellow security professionals. Take advantage of our comprehensive training options*, available for one, two, and three days from June 24-26, followed by two conference days on June 27-28. Training requires a separate ticket. [Conference Registration] (https://lisbon.globalappsec.org/) is open! Exhibitor and sponsorship opportunities are now available.
 
