@@ -1,4 +1,4 @@
-[![OWASP 2024 Global AppSec Lisbon](/assets/images/Lisbon1.png){:width="100%" height="auto"}](https://dc.globalappsec.org/)
+[![OWASP 2024 Global AppSec Lisbon](/assets/images/Lisbon1.png){:width="100%" height="auto"}](https://lisbon.globalappsec.org/)
 
 ### Conference Registration is Open!
 ### Exhibitor and Sponsorship opportunities are being accepted!
