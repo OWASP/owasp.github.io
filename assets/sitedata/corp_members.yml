@@ -65,13 +65,6 @@
   url: 	https://www.ubsecure.jp/en/
   description: UBsecure is a leading web application security company based in Japan since 2007. We offer various security solutions for web application and smartphone application by utilizing in-house developed application security testing tool, Vex. Vex built by a tremendous amount of experience in professional security scanning and by its continuous feedback. The unique characteristic of the tool is that it used as a stand-alone security testing tool as well as the seamless security testing component within the SDLC. Therefore, Vex is not only for professional security auditors but also for software developers who need secure development cycles.
 - member: true	
-  sponsor: -1	
-  name: Veracode	
-  sortname: Veracode
-  image: /assets/images/corp-member-logo/veracode.png	
-  url: https://www.veracode.com/	
-  description: Veracode gives companies a comprehensive view of security defects so they can create secure software, and ensure the software they are buying or downloading is free of vulnerabilities. As a result, companies using Veracode are free to boldly innovate, explore, discover, and change the world.	
-- member: true	
   sponsor: 4 	
   name: Verimatrix	
   sortname: Verimatrix
@@ -367,3 +360,10 @@
   image: /assets/images/corp-member-logo/Veracode.png
   url: https://www.veracode.com/
   description: Veracode delivers the application security solutions and services today’s software-driven world requires. Veracode’s unified platform assesses and improves application security from inception through production so agencies can confidently innovate with the web and mobile applications they build, buy and assemble including the components they integrate into their environments.
+- member: true
+  sponsor:
+  name: United Airlines
+  sortname: United Airlines
+  image: /assets/images/corp-member-logo/ua_logo_stack_rgb_r.png
+  url: https://www.united.com/
+  description: At United, Good Leads The Way. With U.S. hubs in Chicago, Denver, Houston, Los Angeles, Newark/New York, San Francisco, and Washington, D.C., United operates the most comprehensive global route network among North American carriers, and is now the largest airline in the world as measured by available seat miles. United focuses on ensuring technology, systems, and processes are robust against cyber threats to protect our customers, employees, and operations.
