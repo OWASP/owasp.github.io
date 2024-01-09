@@ -18,11 +18,11 @@ Trustwave, while stepping down from its custodial role, expresses immense gratit
 
 This transition brings about several exciting possibilities:
 
-**Enhanced Collaboration**: OWASP’s vast network of security experts and volunteers can now directly contribute to ModSecurity’s core development, fostering faster innovation and wider community engagement. Coordination with Coraza will guarantee that both engines implement the same rules language.
+* **Enhanced Collaboration**: OWASP’s vast network of security experts and volunteers can now directly contribute to ModSecurity’s core development, fostering faster innovation and wider community engagement. Coordination with Coraza will guarantee that both engines implement the same rules language.
 
-**Streamlined Rule Development**: Integrating the Core Rule Set and framework under one roof simplifies the rule creation and testing process, leading to more timely and effective defenses against emerging threats.
+* **Streamlined Rule Development**: Integrating the Core Rule Set and framework under one roof simplifies the rule creation and testing process, leading to more timely and effective defenses against emerging threats.
 
-**Continued Openness and Adoption**: OWASP’s dedication to open-source principles guarantees that ModSecurity remains free to use and modify, ensuring its accessibility for organizations of all sizes.
+* **Continued Openness and Adoption**: OWASP’s dedication to open-source principles guarantees that ModSecurity remains free to use and modify, ensuring its accessibility for organizations of all sizes.
 
 The future of ModSecurity is brighter than ever. Under OWASP’s stewardship, this powerful WAF is poised to further solidify its position as a cornerstone of web application security, protecting countless websites against the ever-evolving threat landscape. We, as an industry, can all stand to benefit from this open-source collaboration, empowering developers, and security professionals alike to build and maintain safer applications in the years to come. OWASP calls all interested parties to join hands and help with the future development of ModSecurity.
 
