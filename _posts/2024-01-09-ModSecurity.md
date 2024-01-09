@@ -5,7 +5,7 @@ categories: blog
 author: Harold Blankenship
 author_image: /assets/images/people/staff_harold.jpg
 layout: blogpost
-title: Trustwave to Transfer Custodianship of ModSecurity to OWASP
+title: Trustwave Transfers ModSecurity Custodianship to OWASP
 excerpt_separator: <!--more-->
 
 ---
