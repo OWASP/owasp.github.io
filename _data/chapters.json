@@ -1245,7 +1245,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jacksonville-Chapter",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Kansas City",
@@ -2436,7 +2436,7 @@
         "url": "https://owasp.org/www-chapter-bratislava/",
         "created": "2023-11-15",
         "updated": "2023-11-15",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Bratislava",
         "level": "-1",
@@ -2756,7 +2756,7 @@
         "url": "https://owasp.org/www-chapter-gautam-buddha-university/",
         "created": "2023-04-25",
         "updated": "2023-06-20",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Gautam Buddha University",
         "level": "-1",
@@ -2772,7 +2772,7 @@
         "url": "https://owasp.org/www-chapter-georgetown-penang/",
         "created": "2023-09-12",
         "updated": "2023-09-12",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Georgetown Penang",
         "level": "-1",
@@ -2804,7 +2804,7 @@
         "url": "https://owasp.org/www-chapter-gwaram/",
         "created": "2023-09-26",
         "updated": "2023-09-26",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Gwaram",
         "level": "-1",
@@ -2976,22 +2976,6 @@
         "meetings": 0
     },
     {
-        "name": "Izmir",
-        "url": "https://owasp.org/www-chapter-izmir/",
-        "created": "2023-12-12",
-        "updated": "2023-12-16",
-        "build": "built",
-        "codeurl": "https://github.com/OWASP/www-chapter-izmir",
-        "title": "OWASP Izmir",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "turkiye",
-        "meetings": 0
-    },
-    {
         "name": "Jodhpur",
         "url": "https://owasp.org/www-chapter-jodhpur/",
         "created": "2021-01-18",
@@ -3020,22 +3004,6 @@
         "region": "Needs Website Update",
         "pitch": "More info soon...",
         "meetup-group": "owasp-kakinada",
-        "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Kampala",
-        "url": "https://owasp.org/www-chapter-kampala/",
-        "created": "2023-11-06",
-        "updated": "2023-11-06",
-        "build": "building",
-        "codeurl": "",
-        "title": "OWASP Kampala",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP Kampala Chapter",
         "country": "",
         "meetings": 0
     },
@@ -3584,22 +3552,6 @@
         "meetings": 0
     },
     {
-        "name": "Psna College Of Engineering And Technology",
-        "url": "https://owasp.org/www-chapter-psna-college-of-engineering-and-technology/",
-        "created": "2023-11-30",
-        "updated": "2023-11-30",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP PSNA College of Engineering and Technology",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Rhode Island",
         "url": "https://owasp.org/www-chapter-rhode-island/",
         "created": "2019-09-12",
@@ -3632,27 +3584,11 @@
         "meetings": 0
     },
     {
-        "name": "Rmk College Of Engineering And Technology",
-        "url": "https://owasp.org/www-chapter-rmk-college-of-engineering-and-technology/",
-        "created": "2023-10-30",
-        "updated": "2023-10-30",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP RMK College of Engineering and Technology",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-rmk-college-of-engineering-and-tech",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Sa Engineering College",
         "url": "https://owasp.org/www-chapter-sa-engineering-college/",
         "created": "2023-08-21",
         "updated": "2023-08-21",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP SA Engineering College",
         "level": "-1",
@@ -4558,6 +4494,22 @@
         "meetup-group": "owasp-italy-meetup-group",
         "country": "Italy",
         "meetings": 2
+    },
+    {
+        "name": "Izmir",
+        "url": "https://owasp.org/www-chapter-izmir/",
+        "created": "2023-12-12",
+        "updated": "2023-12-16",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-izmir",
+        "title": "OWASP Izmir",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "turkiye",
+        "meetings": 0
     },
     {
         "name": "Jkpg",
@@ -6339,7 +6291,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-01-05",
+        "updated": "2024-01-09",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
@@ -7168,6 +7120,22 @@
         "meetings": 0
     },
     {
+        "name": "Psna College Of Engineering And Technology",
+        "url": "https://owasp.org/www-chapter-psna-college-of-engineering-and-technology/",
+        "created": "2023-11-30",
+        "updated": "2023-11-30",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP PSNA College of Engineering and Technology",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
         "name": "Pune",
         "url": "https://owasp.org/www-chapter-pune/",
         "created": "2019-09-12",
@@ -7246,6 +7214,22 @@
         "meetup-group": "owasp-riyadh-meetup-group",
         "country": "Kingdom of Saudi Arabia",
         "meetings": 2
+    },
+    {
+        "name": "Rmk College Of Engineering And Technology",
+        "url": "https://owasp.org/www-chapter-rmk-college-of-engineering-and-technology/",
+        "created": "2023-10-30",
+        "updated": "2023-10-30",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP RMK College of Engineering and Technology",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-rmk-college-of-engineering-and-tech",
+        "country": "India",
+        "meetings": 0
     },
     {
         "name": "Sagar Institute Of Science And Technology",
@@ -7997,6 +7981,22 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Johannesburg-Chapter",
         "country": "South Africa",
+        "meetings": 0
+    },
+    {
+        "name": "Kampala",
+        "url": "https://owasp.org/www-chapter-kampala/",
+        "created": "2023-11-06",
+        "updated": "2023-11-06",
+        "build": "errored",
+        "codeurl": "",
+        "title": "OWASP Kampala",
+        "level": "-1",
+        "type": "",
+        "region": "Africa",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP Kampala Chapter",
+        "country": "",
         "meetings": 0
     },
     {
