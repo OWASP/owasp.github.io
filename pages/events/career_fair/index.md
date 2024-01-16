@@ -12,7 +12,7 @@ permalink: /events/career_fair/
 
 [Recruiter Opportunities](/assets/images/2023CareerFairSale.png)
 
-[Complimentary Attendee Registration For October 11th Career Fair](https://app.brazenconnect.com/a/the-open-web-application-security-project/e/0JoRpIL)
+[Complimentary Attendee Registration For October 11th Career Fair]([https://app.brazenconnect.com/a/the-open-web-application-security-project/e/0JoRpIL](https://app.brazenconnect.com/a/the-open-web-application-security-project/e/eoB22))
 <br><br>
 <br><br>
 Whether you are looking for a career in cybersecurity or interested in advancing your career, we invite you to join us at our 2024 Asia Pacific Career Fair! Connect with recruiters and/or job seekers on March 1st 8am-4pm SGT.
