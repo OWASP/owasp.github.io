@@ -6272,13 +6272,6 @@
         "group_url": "https://owasp.org/www-project-devsecops/"
     },
     {
-        "name": "Timo Pagel",
-        "email": "timo.pagel@owasp.org",
-        "group": "OWASP DevSecOps",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-devsecops/"
-    },
-    {
         "name": "Ali Yazdani",
         "email": "ali.yazdani@owasp.org",
         "group": "OWASP DevSecOps Guideline",
@@ -7250,6 +7243,13 @@
         "group": "OWASP Secure Headers Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-secure-headers/"
+    },
+    {
+        "name": "Veronica Schmitt",
+        "email": "veronica.schmitt@noroff.no",
+        "group": "OWASP Secure Logging Benchmark",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-secure-logging-benchmark/"
     },
     {
         "name": "Gregor Spagnolo",
