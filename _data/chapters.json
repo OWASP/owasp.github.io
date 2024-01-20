@@ -1005,7 +1005,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Columbus-OWASP",
         "country": "USA",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Dallas",
@@ -1597,7 +1597,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 11
+        "meetings": 12
     },
     {
         "name": "Orlando",
@@ -2077,7 +2077,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Vancouver-Chapter",
         "country": "Canada",
-        "meetings": 10
+        "meetings": 11
     },
     {
         "name": "Victoria",
@@ -3760,22 +3760,6 @@
         "meetings": 0
     },
     {
-        "name": "St. Josephs College Of Engineering",
-        "url": "https://owasp.org/www-chapter-st.-josephs-college-of-engineering/",
-        "created": "2024-01-11",
-        "updated": "2024-01-17",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP St. Joseph College of Engineering",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "India",
-        "meetings": 0
-    },
-    {
         "name": "Tehran",
         "url": "https://owasp.org/www-chapter-tehran/",
         "created": "2020-05-06",
@@ -4371,7 +4355,7 @@
         "name": "Frankfurt",
         "url": "https://owasp.org/www-chapter-frankfurt/",
         "created": "2022-09-19",
-        "updated": "2023-10-11",
+        "updated": "2024-01-19",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-frankfurt",
         "title": "OWASP Frankfurt",
@@ -5373,7 +5357,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Aligarh-Meetup-Group",
         "country": "India",
-        "meetings": 1
+        "meetings": 0
     },
     {
         "name": "Amrita School Of Engineering",
@@ -7012,7 +6996,7 @@
         "url": "https://owasp.org/www-chapter-namakkal/",
         "created": "2020-07-31",
         "updated": "2022-02-24",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "https://github.com/OWASP/www-chapter-namakkal",
         "title": "OWASP Namakkal",
         "level": "-1",
@@ -7060,7 +7044,7 @@
         "url": "https://owasp.org/www-chapter-nepal/",
         "created": "2019-09-12",
         "updated": "2024-01-17",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "https://github.com/OWASP/www-chapter-nepal",
         "title": "OWASP Nepal",
         "level": "-1",
@@ -7463,6 +7447,22 @@
         "build": "built",
         "codeurl": "",
         "title": "OWASP St. John College of Engineering and Management",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
+        "name": "St. Josephs College Of Engineering",
+        "url": "https://owasp.org/www-chapter-st.-josephs-college-of-engineering/",
+        "created": "2024-01-11",
+        "updated": "2024-01-19",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP St. Joseph College of Engineering",
         "level": "-1",
         "type": "",
         "region": "Asia",
