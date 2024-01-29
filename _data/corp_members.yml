@@ -382,7 +382,15 @@
   sponsor:
   name: Phoenix Security
   sortname: Phoenix Security
-  member type:
+  member type: 4
   image: /assets/images/corp-member-logo/PhoenixSecurity.svg
   url: https://phoenix.security/
   description: Phoenix Security offers unparalleled visibility into the digital supply chain, from code to cloud. We streamline the remediation process, focusing on actionable, reachable vulnerabilities in code and in the cloud and reducing the time spent on security triage by 90%. We answer the critical question for companies: "Which vulnerabilities should I prioritize if my time is limited?"
+- member: true
+  sponsor:
+  name: Apiiro
+  sortname: Apiiro
+  member type: 4
+  image: /assets/images/corp-member-logo/Apiiro.png
+  url: http://apiiro.com
+  description: Apiiro is setting the diamond standard for ASPM to empower application security and development teams to secure everything they develop and deliver to the cloud. Apiiro’s risk-driven approach to application and software supply chain security is rooted in deep code analysis and runtime context to help teams prioritize and fix business-critical risks faster.
