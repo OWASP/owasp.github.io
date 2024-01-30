@@ -343,13 +343,6 @@
         "group_url": "https://owasp.org/www-chapter-belfast/"
     },
     {
-        "name": "Sebastien Deleersnyder",
-        "email": "seba@owasp.org",
-        "group": "OWASP Belgium",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-belgium/"
-    },
-    {
         "name": "Lieven Desmet",
         "email": "lieven.desmet@owasp.org",
         "group": "OWASP Belgium",
@@ -364,15 +357,15 @@
         "group_url": "https://owasp.org/www-chapter-belgium/"
     },
     {
-        "name": "Stella Dineva",
-        "email": "stella.dineva@owasp.org",
+        "name": "David Mathy",
+        "email": "david.mathy@owasp.org",
         "group": "OWASP Belgium",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-belgium/"
     },
     {
-        "name": "David Mathy",
-        "email": "david.mathy@owasp.org",
+        "name": "Stella Dineva",
+        "email": "stella.dineva@owasp.org",
         "group": "OWASP Belgium",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-belgium/"
@@ -5691,6 +5684,20 @@
         "group_url": "https://owasp.org/www-project-cognito-catastrophe/"
     },
     {
+        "name": "Steve Springett",
+        "email": "steve.springett@owasp.org",
+        "group": "OWASP Common Lifecycle Enumeration",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-common-lifecycle-enumeration/"
+    },
+    {
+        "name": "Benji Visser",
+        "email": "benji.visser@owasp.org",
+        "group": "OWASP Common Lifecycle Enumeration",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-common-lifecycle-enumeration/"
+    },
+    {
         "name": "Tomer Cohen",
         "email": "tomer.cohen@owasp.org",
         "group": "OWASP Consigliere - Your SAST Fixing Advisor",
@@ -6200,6 +6207,27 @@
         "group": "OWASP Find Security Bugs",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-find-security-bugs/"
+    },
+    {
+        "name": "Tim Bastin",
+        "email": "tim.bastin@owasp.org",
+        "group": "OWASP FlawFix",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-flawfix/"
+    },
+    {
+        "name": "Sebastian Kawelke",
+        "email": "sebastian.kawelke@owasp.org",
+        "group": "OWASP FlawFix",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-flawfix/"
+    },
+    {
+        "name": "Frédéric Noppe",
+        "email": "frédéric.noppe@owasp.org",
+        "group": "OWASP FlawFix",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-flawfix/"
     },
     {
         "name": "Vaishno Chaitanya",
@@ -6830,6 +6858,13 @@
         "group": "OWASP Product Security Capabilities Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-product-security-capabilities-framework/"
+    },
+    {
+        "name": "Yuvraj Singh",
+        "email": "yuvraj.singh@owasp.org",
+        "group": "OWASP Product Security Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-product-security-guide/"
     },
     {
         "name": "Iudicium",
