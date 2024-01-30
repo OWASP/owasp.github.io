@@ -5,12 +5,12 @@
       start-date: 2024-06-24
       dates: June 24-28, 2024
       url: https://lisbon.globalappsec.org/
-      optional-text: Participate in the OWASP 2024 Global AppSec Lisbon event alongside 700+ cybersecurity experts from June 24-28 at the Lisbon Congress Center in Lisbon, Portugal. Immerse yourself in insightful presentations by globally recognized keynote speakers, choose from our diverse range of five tracks, explore the exhibitor hall, and foster connections with fellow security professionals. Take advantage of our comprehensive training options*, available for one, two, and three days from June 24-26, followed by two conference days on June 27-28. Training requires a separate ticket. [Conference Registration](https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2023-tickets-750689411237?aff=oddtdtcreator) is open! Exhibitor and sponsorship opportunities will be available at the end of November. 
+      optional-text: Participate in the OWASP 2024 Global AppSec Lisbon event alongside 700+ cybersecurity experts from June 24-28 at the Lisbon Congress Center in Lisbon, Portugal. Immerse yourself in insightful presentations by globally recognized keynote speakers, choose from our diverse range of five tracks, explore the exhibitor hall, and foster connections with fellow security professionals. Take advantage of our comprehensive training options*, available for one, two, and three days from June 24-26, followed by two conference days on June 27-28. Training requires a separate ticket. [Conference Registration](https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2023-tickets-750689411237?aff=oddtdtcreator) is open! Exhibitor and sponsorship opportunities are now available. 
     - name: OWASP Global AppSec San Francisco 2024
       start-date: 2024-09-23
       dates: September 23-27, 2024
       url: https://sf.globalappsec.org/
-      optional-text: Join OWASP Global AppSec San Francisco alongside 1200+ cybersecurity experts from September 23-27 at the Hyatt Regency San Francisco in San Francisco, CA. Immerse yourself in thought-provoking presentations by globally renowned keynote speakers, choose from our diverse array of five tracks, explore the exhibitor hall, and establish connections with fellow security professionals. Take advantage of our flexible training options*, available for one, two, and three days from September 23-25, followed by two conference days on September 26-27. Training requires a separate ticket. [Conference Registration](https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator) is open! Exhibitor and sponsorship opportunities will be available at the end of November. 
+      optional-text: Join OWASP Global AppSec San Francisco alongside 1200+ cybersecurity experts from September 23-27 at the Hyatt Regency San Francisco in San Francisco, CA. Immerse yourself in thought-provoking presentations by globally renowned keynote speakers, choose from our diverse array of five tracks, explore the exhibitor hall, and establish connections with fellow security professionals. Take advantage of our flexible training options*, available for one, two, and three days from September 23-25, followed by two conference days on September 26-27. Training requires a separate ticket. [Conference Registration](https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator) is open! Exhibitor and sponsorship opportunities are now available. 
     - name: OWASP Global AppSec Washington DC 2025
       start-date: 2025-11-03
       dates: November 3-7, 2025
@@ -24,33 +24,44 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP 2023 BeNeLux
-      start-date: 2023-11-24
-      dates: November 23-24, 2023
-      url: https://www.owaspbenelux.eu/
     - name: OWASP 2024 SnowFROC
       start-date: 2024-03-07
       dates: March 7, 2024
       url: https://www.snowfroc.com/
+      optional-text: >-
+        SnowFROC (Front Range OWASP Conference) is Denver's premier application security conference. It is an annual, one-day conference which draws about 400 people. For SnowFROC 2024, the event will be held Thursday, March 7th. 
+        While billed as "Denver's premier application security conference", SnowFROC's presentations and workshops focus on many facets of cybersecurity, and over the years, SnowFROC has come to be known for its exceptional value: Hands-on training, 
+        excellent food, spectacular networking, great location/venue and professional orchestration. 
+    - name: OWASP 2024 BASC
+      start-date: 2024-04-06
+      dates: April 6, 2024
+      url: https://www.basconf.org/
+      optional-text: The Boston Application Security Conference (BASC) is an annual conference held by the Boston chapter of the Open Worldwide Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.
     - name: OWASP 2024 AppSec Days Pacific Northwest
       start-date: 2024-06-15
       dates: June 15-16, 2024
       url: https://www.appsecpnw.org/
+      optional-text: OWASP Chapters from the Pacific Northwest join forces to put together a conference focused on Application Security. Experts from across the Pacific Northwest come together for a full day of learning.
     - name: OWASP 2024 LASCON
       start-date: 2024-10-22
       dates: October 22-25, 2024
       url: https://lascon.org/
+      optional-text: The Lonestar Application Security Conference (LASCON) is an OWASP annual conference held in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers, and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state, and it is held in Austin, which is a hub for startups in the state of Texas. At LASCON, leaders at these companies, along with security architects and developers, gather to share cutting-edge ideas, initiatives, and technology advancements.
 - category: Partner
   description: >-
       Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
     - name: Cloud & Cyber Security Expo Frankfurt
-      start-date: 2024-05-23
+      start-date: 2024-06-23
       dates: May 23-24, 2024
-      url:  https://www.cloudexpoeurope.de/
-    - name:  SecTor 2023
-      start-date:  2023-10-23
-      dates: October 23-26, 2023
-      url: https://www.blackhat.com/sector/2023/
-      optional-text: "Discount Code:  OWASP2023 - $100 CAD discount for new, in-person registration to 2023 Event OR for a free Business Hall Only pass"
-  
+      url:  https://www.cloudsecurityexpo.de/
+    - name: RSA Conference 2024
+      start-date: 2024-05-06
+      dates:  May 6-9, 2024
+      url:  https://www.rsaconference.com/
+      optional-text: >-
+          <strong>OWASP Members: Unlock Exclusive RSAC 2024 Savings!</strong><br>
+          
+          Join us May 6 – 9 at RSAC 2024, the ultimate cybersecurity destination. Immerse yourself in expert-led sessions, connect with industry leaders, and discover the latest trends and best practices. Elevate your cybersecurity game and be a part of shaping the industry's future. Don't miss this opportunity to advance your skills and network with the best in the field. [Learn more and register!](https://www.rsaconference.com/usa?utm_source=assoc-owasp&utm_medium=referral&utm_campaign=textad-us2024)<br><br>
+          [![RSA 2024](/assets/images/events/rsa2024logo.png){:width="400px"}](https://www.rsaconference.com/usa?utm_source=assoc-owasp&utm_medium=referral&utm_campaign=textad-us2024)<br>
+          

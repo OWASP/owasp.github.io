@@ -12,7 +12,7 @@ spnews: False
 <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}"/>
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/rss.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-<!-- Rebuild Site Tag 192 -->
+<!-- Rebuild Site Tag 194 -->
 
 <div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
   <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
