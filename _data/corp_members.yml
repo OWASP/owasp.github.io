@@ -404,3 +404,11 @@
   image: /assets/images/corp-member-logo/ThreatModeler.png
   url: https://threatmodeler.com/
   description: ThreatModeler's suite of products empowers DevOps teams to measure their threat drift from code to cloud. With a fraction of the time and cost tied to other tools, users can design, build and validate threat drift from development to deployment. Teams can instantly visualize their attack surface, understand security requirements and prioritize steps to mitigate threats. CISOs can make critical security-driven business decisions to scale their infrastructure for growth.
+- member: true
+  sponsor:
+  name: Wallarm
+  sortname: Wallarm
+  member type: 2
+  image: /assets/images/corp-member-logoWallarm.png
+  url: http://www.wallarm.com
+  description: Wallarm is a leader in API and web application security. Our integrated, automated API and Application security solutions works with any platform, any cloud, multi-cloud, cloud-native, hybrid and on-premise environments. Enterprises such as Miro, Revenera, Panasonic and Semrush have chosen Wallarm to discover APIs, API vulnerabilities, detect threats and eliminate API attacks to improve their business resiliency and security posture.
