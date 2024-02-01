@@ -10,6 +10,16 @@
   type: category
   description: >-
       Awarded by the Board for outstanding involvement in the organization over the course of many years.
+- title: Chapter Person of the Year
+  type: award
+  category:  WASPY
+  year: 2023
+  winners:
+    - name: Sam Stepanyan
+      image: /assets/images/people/board_sam_stepanyan.jpg
+      info: >-
+      Sam Stepanyan is an Independent Application Security Consultant and Security Architect with over 20 years of experience in the IT industry with a background in software engineering and web application development. Sam has worked for various financial services institutions in the City of London specialising in Application Security consulting, Secure SoftwareDevelopment Lifecycle (SDLC), developer training, source code reviews and vulnerability management. He is also a Subject MatterExpert in Web Application Firewalls (WAF) and SIEM systems. Sam holds a Master’s degree in Software Engineering and a CISSP certification.
+Sam has been serving as an OWASP London Chapter Leader since November 2015 (with Sherif Mansour) and as OWASP Chapter Committee Chair since August 2020. Sam is also a Project Leader of OWASP Nettacker and a co-leader of OWASP WAFEC project. Sam is a frequent speaker at several BSides conferences as well as OWASP Global AppSec conferences.
 - title: Project Person of the Year
   type: award
   category: WASPY
