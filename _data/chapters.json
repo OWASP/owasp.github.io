@@ -365,7 +365,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Natal-Chapter",
         "country": "Brazil",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "National Polytechnic School Cec",
@@ -867,7 +867,7 @@
         "name": "Boston",
         "url": "https://owasp.org/www-chapter-boston/",
         "created": "2019-09-12",
-        "updated": "2022-05-12",
+        "updated": "2024-02-01",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Boston",
@@ -877,7 +877,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owaspboston",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Boulder",
@@ -1069,7 +1069,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Denver-OWASP",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Des Plaines",
@@ -1213,7 +1213,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-houston-texas-chapter",
         "country": "USA",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Indianapolis",
@@ -1341,7 +1341,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 15
+        "meetings": 16
     },
     {
         "name": "Madison",
@@ -3293,22 +3293,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Manipal Institute Of Technology",
-        "url": "https://owasp.org/www-chapter-manipal-institute-of-technology/",
-        "created": "2024-01-03",
-        "updated": "2024-01-03",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Manipal Institute of Technology",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "India",
         "meetings": 0
     },
     {
@@ -6816,6 +6800,22 @@
         "meetings": 0
     },
     {
+        "name": "Manipal Institute Of Technology",
+        "url": "https://owasp.org/www-chapter-manipal-institute-of-technology/",
+        "created": "2024-01-03",
+        "updated": "2024-01-03",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Manipal Institute of Technology",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
         "name": "Maulana Abul Kalam Azad University Of Technology",
         "url": "https://owasp.org/www-chapter-maulana-abul-kalam-azad-university-of-technology/",
         "created": "2021-08-31",
@@ -7885,7 +7885,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Yerevan",
         "country": "Armenia",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Abidjan",
