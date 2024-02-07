@@ -10,8 +10,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-Established by the National Institute of Standards and Technology (NIST), AISIC brings together Fortune 500 companies, academic teams, non-profit organizations, and government agencies to work on the development of AI security and safety standards. By joining AISIC, OWASP embarks on a pivotal journey towards secure and ethical AI, blending its deep expertise in AI security and its global network of chapters and experts with AISIC's work to shaping future standards for trustworthy AI.   
-
 The rapid evolution of artificial intelligence (AI) technologies presents unprecedented opportunities and challenges. As AI tools and applications reshape our society, ensuring their safety and trustworthiness becomes critical.
 
 In response, the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) is launching the[ U.S. AI Safety Institute Consortium (AISIC)](https://www.nist.gov/artificial-intelligence/artificial-intelligence-safety-institute). This initiative represents a significant step towards creating safe and reliable AI by bringing together a diverse group of participants, including Fortune 500 companies, academic teams, non-profit organizations, and government agencies.
