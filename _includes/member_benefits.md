@@ -10,7 +10,7 @@
 	<li><a href="https://members.owasp.org/">Membership Portal</a> .</li>
         <li>Google Workspace account for term of membership. - OWASP.org account</li>
       </ul>		
- <p>Vendor provided benefits to individual members:</p>
+ <p>OWASP Corporate Supporter provided benefits to individual members:</p>
       <ul>
 	<li>Hands-on application security training through the <a href="https://www.secureflag.com/owasp.html">SecureFlag Platform</a></li> 
         <li>Access the <a href="https://www.ubiqsecurity.com/owasp">Ubiq Platform</a>, an easy-to-use, developer-first encryption-as-code platform.</li>
