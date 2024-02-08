@@ -5369,11 +5369,32 @@
         "group_url": "https://owasp.org/www-committee-education-and-training/"
     },
     {
-        "name": "John DiLeo",
-        "email": "john.dileo@owasp.org",
+        "name": "Shruti Kulkarni",
+        "email": "shruti.kulkarni@owasp.org",
         "group": "OWASP Education and Training Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-education-and-training/"
+    },
+    {
+        "name": "Bjoern Kimminich",
+        "email": "bjoern.kimminich@owasp.org",
+        "group": "OWASP Project Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Jeff Foley",
+        "email": "jeff.foley@owasp.org",
+        "group": "OWASP Project Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Donnie Brown",
+        "email": "donnie.brown@owasp.org",
+        "group": "OWASP Project Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
     },
     {
         "name": "Ryan Boyle",
@@ -6881,6 +6902,13 @@
         "group_url": "https://owasp.org/www-project-proactive-controls/"
     },
     {
+        "name": "Toby Irvine",
+        "email": "toby.irvine@owasp.org",
+        "group": "OWASP Product Security Capabilities Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-product-security-capabilities-framework/"
+    },
+    {
         "name": "Grant Ongers",
         "email": "grant.ongers@owasp.org",
         "group": "OWASP Product Security Capabilities Framework",
@@ -6888,8 +6916,8 @@
         "group_url": "https://owasp.org/www-project-product-security-capabilities-framework/"
     },
     {
-        "name": "Toby Irvine",
-        "email": "toby.irvine@owasp.org",
+        "name": "Andrew Gordon-Brooks",
+        "email": "andrew.gordon-brooks@owasp.org",
         "group": "OWASP Product Security Capabilities Framework",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-product-security-capabilities-framework/"
