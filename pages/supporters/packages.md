@@ -29,8 +29,7 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 | [Social media recognition provided by OWASP](/supporters/benefits#social-media-recognition)                                                     |                   ✅                    |               ✅                |                 ✅                  |
 | [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship)                      |                     ✅                      |                                    |                                        |
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
-| Option to provide an OWASP Individual Member benefit
-                   |                     ✅                      |                 ✅                  |                                      |
+| Option to provide an OWASP Individual Member benefit                 |                     ✅                      |                 ✅                  |                                      |
 
 ### Platinum Corporate Supporter
 
