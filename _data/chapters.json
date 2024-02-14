@@ -324,7 +324,7 @@
         "url": "https://owasp.org/www-chapter-medellin/",
         "created": "2019-09-12",
         "updated": "2023-12-06",
-        "build": "no pages",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Medellin",
         "level": "-1",
@@ -3088,6 +3088,22 @@
         "meetings": 0
     },
     {
+        "name": "Klagenfurt",
+        "url": "https://owasp.org/www-chapter-klagenfurt/",
+        "created": "2024-02-13",
+        "updated": "2024-02-13",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Klagenfurt",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Austria",
+        "meetings": 0
+    },
+    {
         "name": "Kolhapur",
         "url": "https://owasp.org/www-chapter-kolhapur/",
         "created": "2024-01-10",
@@ -5053,7 +5069,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-stockholm",
         "country": "Sweden",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Suffolk",
@@ -6323,7 +6339,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-02-10",
+        "updated": "2024-02-13",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
@@ -7939,7 +7955,7 @@
         "name": "Cairo",
         "url": "https://owasp.org/www-chapter-cairo/",
         "created": "2019-09-12",
-        "updated": "2024-02-10",
+        "updated": "2024-02-13",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-cairo",
         "title": "OWASP Cairo",
