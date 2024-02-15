@@ -733,7 +733,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sydney-Chapter",
         "country": "Australia",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Aguascalientes",
@@ -1645,7 +1645,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Philadelphia",
@@ -1933,7 +1933,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Seattle-Chapter",
         "country": "USA",
-        "meetings": 14
+        "meetings": 15
     },
     {
         "name": "South Florida",
@@ -3056,22 +3056,6 @@
         "meetings": 0
     },
     {
-        "name": "Kiet Group Of Institutions",
-        "url": "https://owasp.org/www-chapter-kiet-group-of-institutions/",
-        "created": "2023-10-25",
-        "updated": "2023-10-25",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP KIET Group of Institutions",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Kigali",
         "url": "https://owasp.org/www-chapter-kigali/",
         "created": "2022-09-20",
@@ -3524,7 +3508,7 @@
         "url": "https://owasp.org/www-chapter-nottingham/",
         "created": "2023-11-30",
         "updated": "2023-11-30",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Nottingham",
         "level": "-1",
@@ -3956,7 +3940,7 @@
         "url": "https://owasp.org/www-chapter-warwick/",
         "created": "2019-09-12",
         "updated": "2023-10-25",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Warwick",
         "level": "-1",
@@ -6205,7 +6189,7 @@
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-mrogmpnt",
         "country": "India",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Indore",
@@ -6590,6 +6574,22 @@
         "meetup-group": "OWASP-Kerala-Chapter",
         "country": "India",
         "meetings": 1
+    },
+    {
+        "name": "Kiet Group Of Institutions",
+        "url": "https://owasp.org/www-chapter-kiet-group-of-institutions/",
+        "created": "2023-10-25",
+        "updated": "2024-02-14",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP KIET Group of Institutions",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
     },
     {
         "name": "Kolkata",
@@ -7043,7 +7043,7 @@
         "name": "National Institute Of Engineering Mysuru",
         "url": "https://owasp.org/www-chapter-national-institute-of-engineering-mysuru/",
         "created": "2023-07-12",
-        "updated": "2023-12-06",
+        "updated": "2024-02-14",
         "build": "built",
         "codeurl": "",
         "title": "OWASP National Institute of Engineering Mysuru",
