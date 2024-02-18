@@ -1664,6 +1664,22 @@
         "meetings": 0
     },
     {
+        "name": "Phoenix",
+        "url": "https://owasp.org/www-chapter-phoenix/",
+        "created": "2019-09-12",
+        "updated": "2022-01-05",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Phoenix",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Phoenix-Chapter",
+        "country": "USA",
+        "meetings": 0
+    },
+    {
         "name": "Pittsburgh",
         "url": "https://owasp.org/www-chapter-pittsburgh/",
         "created": "2019-09-12",
@@ -3220,7 +3236,7 @@
         "url": "https://owasp.org/www-chapter-logrono/",
         "created": "2024-01-11",
         "updated": "2024-01-11",
-        "build": "errored",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Logrono, La Rioja",
         "level": "-1",
@@ -3565,22 +3581,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Phoenix",
-        "url": "https://owasp.org/www-chapter-phoenix/",
-        "created": "2019-09-12",
-        "updated": "2022-01-05",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Phoenix",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "USA",
         "meetings": 0
     },
     {
@@ -5341,7 +5341,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Ahmedabad-Chapter",
         "country": "India",
-        "meetings": 2
+        "meetings": 1
     },
     {
         "name": "Aligarh",
@@ -6029,7 +6029,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-gla-university-mathura-student-chapter",
         "country": "India",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Gudalur",
@@ -6403,7 +6403,7 @@
         "name": "Kalasalingam Academy Of Research And Education",
         "url": "https://owasp.org/www-chapter-kalasalingam-academy-of-research-and-education/",
         "created": "2023-10-05",
-        "updated": "2023-10-05",
+        "updated": "2024-02-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Kalasalingam Academy of Research and Education",
@@ -6899,7 +6899,7 @@
         "name": "Meerut",
         "url": "https://owasp.org/www-chapter-meerut/",
         "created": "2019-09-12",
-        "updated": "2021-12-15",
+        "updated": "2024-02-17",
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Meerut",
@@ -8157,7 +8157,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Morocco-OWASP-Meetup-Group",
         "country": "Morocco",
-        "meetings": 2
+        "meetings": 1
     },
     {
         "name": "Nairobi",
