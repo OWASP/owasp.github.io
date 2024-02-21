@@ -3626,8 +3626,22 @@
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
     },
     {
+        "name": "Deepak Kumar",
+        "email": "deepak.kumar@owasp.org",
+        "group": "OWASP Noida",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-noida/"
+    },
+    {
         "name": "Kashish Kanojia",
         "email": "kashish.kanojia@owasp.org",
+        "group": "OWASP Noida",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-noida/"
+    },
+    {
+        "name": "Om Kumar",
+        "email": "om.kumar@owasp.org",
         "group": "OWASP Noida",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-noida/"
@@ -6554,6 +6568,13 @@
     {
         "name": "Vandana Verma Sehgal",
         "email": "vandana.verma@owasp.org",
+        "group": "OWASP LLM Verification Standard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-llm-verification-standard/"
+    },
+    {
+        "name": "Elliot Ward",
+        "email": "https://github.com/mowzk",
         "group": "OWASP LLM Verification Standard",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-llm-verification-standard/"
