@@ -557,7 +557,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sao-Paulo-Chapter",
         "country": "Brazil",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Sorocaba",
@@ -653,7 +653,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Brisbane-OWASP-Meetup-Group",
         "country": "Australia",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Canberra",
@@ -797,7 +797,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Austin-Chapter",
         "country": "USA",
-        "meetings": 12
+        "meetings": 13
     },
     {
         "name": "Bay Area",
@@ -989,7 +989,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Colorado-Springs-Meetup",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Columbia Sc",
@@ -1069,7 +1069,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Denver-OWASP",
         "country": "USA",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Des Plaines",
@@ -1549,7 +1549,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Northern-Virginia-Chapter",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Oakland County",
@@ -1613,7 +1613,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Orlando",
@@ -1645,7 +1645,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Philadelphia",
@@ -1853,7 +1853,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-slc",
         "country": "USA",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "San Antonio",
@@ -2029,7 +2029,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-tampa",
         "country": "USA",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Toronto",
@@ -2045,7 +2045,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Toronto",
         "country": "Canada",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Triangle Nc",
@@ -2061,7 +2061,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasptriangle",
         "country": "USA",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Tulsa",
@@ -3232,22 +3232,6 @@
         "meetings": 0
     },
     {
-        "name": "Logrono",
-        "url": "https://owasp.org/www-chapter-logrono/",
-        "created": "2024-01-11",
-        "updated": "2024-01-11",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Logrono, La Rioja",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Spain",
-        "meetings": 0
-    },
-    {
         "name": "Louisville",
         "url": "https://owasp.org/www-chapter-louisville/",
         "created": "2019-09-12",
@@ -3940,7 +3924,7 @@
         "url": "https://owasp.org/www-chapter-warwick/",
         "created": "2019-09-12",
         "updated": "2023-10-25",
-        "build": "no pages",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Warwick",
         "level": "-1",
@@ -4653,7 +4637,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-limassol-meetup-group",
         "country": "Cyprus",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Lisboa",
@@ -4704,6 +4688,22 @@
         "meetings": 2
     },
     {
+        "name": "Logrono",
+        "url": "https://owasp.org/www-chapter-logrono/",
+        "created": "2024-01-11",
+        "updated": "2024-01-11",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Logrono, La Rioja",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Spain",
+        "meetings": 0
+    },
+    {
         "name": "London",
         "url": "https://owasp.org/www-chapter-london/",
         "created": "2019-09-12",
@@ -4717,7 +4717,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-London",
         "country": "United Kingdom",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Lviv",
