@@ -3920,22 +3920,6 @@
         "meetings": 0
     },
     {
-        "name": "Warwick",
-        "url": "https://owasp.org/www-chapter-warwick/",
-        "created": "2019-09-12",
-        "updated": "2023-10-25",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Warwick",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Warwick-Chapter",
-        "country": "United Kingdom",
-        "meetings": 0
-    },
-    {
         "name": "West Delhi",
         "url": "https://owasp.org/www-chapter-west-delhi/",
         "created": "2019-09-12",
@@ -4007,6 +3991,22 @@
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Armenia",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Augsburg",
+        "url": "https://owasp.org/www-chapter-augsburg/",
+        "created": "2024-02-26",
+        "updated": "2024-02-26",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Augsburg",
         "level": "-1",
         "type": "",
         "region": "Europe",
@@ -4333,7 +4333,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Dublin",
         "country": "Ireland",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "France",
@@ -4349,7 +4349,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
         "country": "France",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Frankfurt",
@@ -4515,7 +4515,7 @@
         "name": "Italy",
         "url": "https://owasp.org/www-chapter-italy/",
         "created": "2019-09-12",
-        "updated": "2024-01-30",
+        "updated": "2024-02-26",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-italy",
         "title": "OWASP Italy",
@@ -5166,6 +5166,22 @@
         "meetup-group": "owasp-vilnius",
         "country": "Lithuania",
         "meetings": 2
+    },
+    {
+        "name": "Warwick",
+        "url": "https://owasp.org/www-chapter-warwick/",
+        "created": "2019-09-12",
+        "updated": "2023-10-25",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Warwick",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Warwick-Chapter",
+        "country": "United Kingdom",
+        "meetings": 0
     },
     {
         "name": "Worcestershire",
