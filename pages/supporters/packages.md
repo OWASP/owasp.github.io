@@ -18,7 +18,7 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 
 
 | Feature                                                                                                                       | [Platinum](#platinum-corporate-supporter) | [Gold](#gold-corporate-supporter) | [Silver](#silver-corporate-supporter) |
-| ----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :------------------------------------: |
+| ---------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :--------------------------------=----: |
 | [Availability](/supporters/benefits#packages-available-to-all)                                                                |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Corporate Supporter Logo](/supporters/benefits#corporate-member-logo)                                                 |                  Platinum                  |                Gold                |                 Silver                 |
 |[Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) |                     10                     |                 5                  |                   1                    |
