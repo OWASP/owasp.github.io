@@ -1,6 +1,6 @@
 ---
 
-date: 2023-10-01 00:00:00-0700
+date: 2024-03-01 00:00:00-0700
 categories: blog
 author: Luca Pascal Rotsch
 author_image: /assets/images/people/leader_luca_rotsch.jpg
@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 The multitude of networked devices contributing the Internet of Things (IoT) poses new risks for manufacturers, operators, and end users of solutions. Every IoT device represents potential threats to user data and supporting infrastructure when a single manipulated device has potential to endanger an ecosystem. Due to the interconnection of an array of technologies, standards and protocols, a considerable amount of effort is necessary to build and maintain a homogeneous level of IoT security.
 
-To reduce the risk of successful attacks, manufacturers and operators must periodically assess the security level of their IoT solutions. An instrument for this purpose is penetration testing such as goal based security assessments tailored toward target systems. We are excited to announce that the [OWASP IoT Security Testing Guide](https://owasp.org/www-project-iot-security-testing-guide/) project launched on September 1, 2023. This guide aims to provide comprehensive insights into testing the security of IoT devices and systems.
+To reduce the risk of successful attacks, manufacturers and operators must periodically assess the security level of their IoT solutions. An instrument for this purpose is penetration testing such as goal based security assessments tailored toward target systems. We are excited to announce that the [OWASP IoT Security Testing Guide](https://owasp.org/www-project-iot-security-testing-guide/) project published its first release on March 1, 2024. This guide aims to provide comprehensive insights into testing the security of IoT devices and systems.
 
 ([read more about our motivation, challenges and goals](https://github.com/OWASP/owasp-istg/blob/main/src/01_introduction/README.md#motivation))
 
@@ -65,7 +65,7 @@ So, let's assume that the manufacturer of a CCTV camera brand wants to conduct a
 Based on these characteristics, a potential attacker could be described as follows:
 
 * They could try to attack the camera locally via the local network or a wireless interface of the camera. The attacker model describes this as *physical access level 2 (PA-2) "local access"*.
-* They could be anyone visiting the area that the camera is installed in. They are not associated with either the manufacturer or operator of the camera nor do they need to have any registered account etc. This is called *logical access level 1 (LA-1) "unauthenticated access"* in the attacker model.
+* They could be anyone visiting the area that the camera is installed in. They are not associated with either the manufacturer or operator of the camera nor do they need to have any registered account etc. This is called *authorization access level 1 (AA-1) "unauthenticated access"* in the attacker model.
 
 
 
@@ -99,7 +99,7 @@ Analog to scenario 1, let's assume that the manufacturer of a smart home device 
 Using the aforementioned [attacker model](https://github.com/OWASP/owasp-istg/blob/main/src/02_framework/attacker_model.md), potential attackers can be described as follows:
 
 * They can analyze their own device and might be able to prepare and reproduce attacks against devices of their victims. Since they have their own device at home, they have full physical access to the device. They could even disassemble it any analyze the device internals if necessary. The attacker model describes this as *physical access level 4 (PA-4) "invasive access"*.
-* They have access to some kind of user interface, allowing them to monitor, control or even configure the device. This is called *logical access level 2 (LA-2) "low-privileged access"* or *logical access level 3 (LA-3) "high-privileged access"* respectively in the attacker model.
+* They have access to some kind of user interface, allowing them to monitor, control or even configure the device. This is called *authorization access level 2 (AA-2) "low-privileged access"* or *authorization access level 3 (AA-3) "high-privileged access"* respectively in the attacker model.
 
 
 
@@ -124,7 +124,7 @@ In its current state, this guide comprises test cases on a very high and generic
 
 
 
-### Peer Review: Join us and help us shape the future of IoT security testing!
+### Join us and help us shape the future of IoT security testing!
 
 By contributing to this project, you'll have the opportunity to shape and enhance the understanding of IoT security testing practices.
 
