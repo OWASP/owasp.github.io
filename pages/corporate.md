@@ -6,12 +6,11 @@ permalink: /corporate/
 
 ---
 
-<h2>Staff</h2>
-<p>
+## Staff
+
 Under the direction of the Executive Director, staff implements programs and policies of the Foundation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.</p>
-<p>
-Each year the staff works with the Global Board to establish an <a href="https://owasp.org/www-staff/operating-plan/2022/">Operating Plan</a> and Budget. The work efforts of our staff are tracked publicly at the <a href="/www-staff/operating-plan/2021/status-2021">Operating Plan Status</a>.
-</p>
+
+Each year the staff works with the Global Board to establish an <a href="https://owasp.org/www-staff/operating-plan/2024/">Operating Plan</a> and <a href="https://owasp.org/www-staff/budget/2024/">Budget</a>.
 
 <section id="staff" class="corporate">
 <div>	
@@ -28,5 +27,3 @@ Each year the staff works with the Global Board to establish an <a href="https:/
 {% endfor %}	
 </div>
 </section>
-
-

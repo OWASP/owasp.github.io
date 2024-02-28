@@ -44,19 +44,14 @@ maintenance_message: Due to a required update to our systems, we are currently e
       <!-- main membership form -->
 
       <div style='margin-top: 8px; margin-bottom: 8px;'><h1 class='shared-header'>Individual Membership</h1><h1 class='shared-header unselected'><a href="/supporters/">Corporate Supporter</a></h1></div>
-    <h3>Already a member? <a href="https://members.owasp.org/">Sign in to the Membership Portal</a></h3>
-    <h3><a href="#member_benefits">What you get as a member</a></h3>
+    <p><a href="#member_benefits">What you get as a member</a></p>
     
 <!-- The member_benefits page is found at https://github.com/OWASP/owasp.github.io/blob/main/_includes/member_benefits.md-->
 
-      <!-- <div class='alert'><h2>15% off two year memberships!</h2> 
-          Your contributions help support OWASP's mission by:
-          <ul><li>Funding chapters, events, and projects</li>
-          <li>Sustaining OWASP's operations</li>
-          <li>Helping out with scholarships to our Global AppSec events</li>
-          </ul>
-      </div> -->      
-      <h2>Join Now <span style="font-size:smaller"><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p></span></h2>
+      <div class="form-row alert" v-if="country && country.force_majeure">
+           <p> Due to our Force Majeure policy, your country qualifies for complimentary one year membership. Please see our <a href="/membership/force_majeure/">Force Majeure Membership Page</a> to sign up.</p>
+      </div>
+      <h3>Join Now</h3><p>(Already an OWASP member and want to renew? Sign in to the <a href="https://members.owasp.org/">Membership Portal</a>)</p>
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
           Please correct the errors below before proceeding.
@@ -70,8 +65,11 @@ maintenance_message: Due to a required update to our systems, we are currently e
             </select>
             <div class="error-text" v-if="errors.country">
               {{ errors.country[0] }}
-            </div>                    
-        </div>
+            </div>                              
+        </div>     
+        <div class="form-row alert" v-if="country && country.force_majeure">
+           <p> Due to our Force Majeure policy, your country qualifies for complimentary one year membership. Please see our <a href="/membership/force_majeure/">Force Majeure Membership Page</a> to sign up.</p>
+      </div>     
         <div class="form-row" style="margin-bottom: 8px;" v-if="!free_leader">
           <div class="membership-option" v-for="membership in membershipOptions" v-on:click="updateMembership(membership.name, membership.discount)" v-bind:class="membership_type === membership.name ? 'selected' : ''">
             {{ membership.name }} {{ membership.amount }} {{membership.special}}
@@ -230,21 +228,20 @@ window.addEventListener('load', function () {
       },
       membershipOptions: function () {
         
-        if (!this.country || !this.country.hasOwnProperty('discount') ||
-        this.country.discount == false) {
-	  if (this.student) {
-          return [
-            { name: 'One Year', amount: '$20', discount: false }
-          ];
-        } else {
-          return [
-            { name: 'One Year', amount: '$50', discount: false },
-            { name: 'Two Year', amount: '$95', discount: false },//95 normally
-            { name: 'Lifetime', amount: '$500', discount: false}
-          ];
-	  }
-        } else {
-	  if (this.student) {
+        if (!this.isDiscounted(this.country)) {
+        if (this.student) {
+              return [
+                { name: 'One Year', amount: '$20', discount: false }
+              ];
+            } else {
+              return [
+                { name: 'One Year', amount: '$50', discount: false },
+                { name: 'Two Year', amount: '$95', discount: false },//95 normally
+                { name: 'Lifetime', amount: '$500', discount: false}
+              ];
+        }
+    } else {
+	      if (this.student) {
           return [
             { name: 'One Year', amount: '$8', discount: true }
           ];
@@ -259,13 +256,8 @@ window.addEventListener('load', function () {
       }
     },
     watch: {
-      country: function (newCountry, oldCountry) {
-        // if (this.student) {
-        //   return;
-        // }
-
-        if (newCountry.discount) {
-          //this.membership_type = 'One Year';
+      country: function (newCountry, oldCountry) {        
+        if (newCountry.discount) {          
           this.membership_discount = true;
           this.$forceUpdate();
         } else if (oldCountry && oldCountry.discount) {
@@ -276,8 +268,12 @@ window.addEventListener('load', function () {
       }
     },
     methods: {
+
+      isDiscounted: function(country) {
+        return country && country.hasOwnProperty('discount') && country.discount;
+      },
       handleSubmit: function () {
-        
+
         if (this.free_leader){
           return this.handleLeaderSubmit();
         }

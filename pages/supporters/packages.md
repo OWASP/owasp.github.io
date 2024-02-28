@@ -18,7 +18,7 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 
 
 | Feature                                                                                                                       | [Platinum](#platinum-corporate-supporter) | [Gold](#gold-corporate-supporter) | [Silver](#silver-corporate-supporter) |
-| ----------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :------------------------------------: |
+| ---------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------: | :--------------------------------: | :-------------------------------------: |
 | [Availability](/supporters/benefits#packages-available-to-all)                                                                |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Corporate Supporter Logo](/supporters/benefits#corporate-member-logo)                                                 |                  Platinum                  |                Gold                |                 Silver                 |
 |[Sponsor Participating Chapter or Projects](/supporters/benefits#corporate-sponsorship-of-participating-projects-or-chapters) |                     10                     |                 5                  |                   1                    |
@@ -29,7 +29,7 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 | [Social media recognition provided by OWASP](/supporters/benefits#social-media-recognition)                                                     |                   ✅                    |               ✅                |                 ✅                  |
 | [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship)                      |                     ✅                      |                                    |                                        |
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
-| [Ambassador for global election vote](/supporters/benefits#ambassador-for-owasp-board-of-directors-election-vote)             |                     ✅                      |                 ✅                  |                   ✅                    |
+| [Option to provide an OWASP Individual Member benefit *must meet OWASP approval](https://owasp.org/membership/#member_benefits)                 |                     ✅                      |                 ✅                  |                                      |
 
 ### Platinum Corporate Supporter
 

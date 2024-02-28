@@ -55,7 +55,7 @@
   jprice = getUrlParameter('price'); // "$495"
   
   hstr = "<p style='font-size:24px;'>OWASP<sup>&reg;</sup> Foundation Training Invoice</p>";
-  hstr += "<p style='font-size:18px;'>401 Edgewater Place, Suite 600<br>Wakefield, MA 01880</p>";
+  hstr += "<p style='font-size:18px;'>300 Delaware Ave, Suite 210 #384<br>Wilmington, DE 19801</p>";
   hstr += "<hr>";
   hstr += "<p style='font-size:18px;'>Invoice/Payment ID: " + jpayment + "</p>";
   hstr += "<p style='font-size:18px;'>Payment Date: " + jdate + "</p>";
