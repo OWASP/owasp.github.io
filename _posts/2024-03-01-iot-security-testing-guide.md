@@ -14,6 +14,8 @@ The multitude of networked devices contributing the Internet of Things (IoT) pos
 
 To reduce the risk of successful attacks, manufacturers and operators must periodically assess the security level of their IoT solutions. An instrument for this purpose is penetration testing such as goal based security assessments tailored toward target systems. We are excited to announce that the [OWASP IoT Security Testing Guide](https://owasp.org/www-project-iot-security-testing-guide/) project published its first release on March 1, 2024. This guide aims to provide comprehensive insights into testing the security of IoT devices and systems.
 
+<!--more-->
+
 ([read more about our motivation, challenges and goals](https://github.com/OWASP/owasp-istg/blob/main/src/01_introduction/README.md#motivation))
 
 
