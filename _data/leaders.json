@@ -175,6 +175,20 @@
         "group_url": "https://owasp.org/www-chapter-atlanta/"
     },
     {
+        "name": "Ayliffe Brown",
+        "email": "ayliffe.brown@owasp.org",
+        "group": "OWASP Atlanta",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-atlanta/"
+    },
+    {
+        "name": "Ralph Adame",
+        "email": "ralph.adame@owasp.org",
+        "group": "OWASP Atlanta",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-atlanta/"
+    },
+    {
         "name": "Kyle Smith",
         "email": "kyle.smith@owasp.org",
         "group": "OWASP Austin",
@@ -2406,6 +2420,20 @@
         "group": "OWASP Joao Pessoa",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-joao-pessoa/"
+    },
+    {
+        "name": "Lesego Ndlovu",
+        "email": "lesego.ndlovu@owasp.org",
+        "group": "OWASP Johannesburg",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-johannesburg/"
+    },
+    {
+        "name": "Simon Mokgotlhoa",
+        "email": "simon.mokgotlhoa@owasp.org",
+        "group": "OWASP Johannesburg",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-johannesburg/"
     },
     {
         "name": "Piyush Bedi",
@@ -6932,7 +6960,21 @@
     {
         "name": "Varun Badhwar",
         "email": "v@endor.ai",
-        "group": "OWASP Open Source Software Top 10",
+        "group": "OWASP Top 10 Risks for Open Source Software",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-open-source-software-top-10/"
+    },
+    {
+        "name": "George Apostolopoulos",
+        "email": "george@endor.ai",
+        "group": "OWASP Top 10 Risks for Open Source Software",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-open-source-software-top-10/"
+    },
+    {
+        "name": "Henrik Plate",
+        "email": "henrik@endor.ai",
+        "group": "OWASP Top 10 Risks for Open Source Software",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-open-source-software-top-10/"
     },
