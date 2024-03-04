@@ -73,14 +73,14 @@ Based on these characteristics, a potential attacker could be described as follo
 
 Since components and test cases within the ISTG are associated with the access levels described in the attacker model, it is now easily possible to narrow down the applicable test scope given the defined threat scenario:
 
-* :heavy_check_mark: Test of [wireless interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/wireless_interfaces/README.md) (e.g., Wi-Fi)
-* :heavy_check_mark: Test of [data exchange services](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/data_exchange_services/README.md), running on the device (e.g., video streaming service)
-* :heavy_check_mark: Test of [user interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/user_interfaces/README.md) (e.g., a web dashboard)
-* :x: Test of the [processing unit](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/processing_units/README.md)
-* :x: Test of the [device memory](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/memory/README.md)
-* :x: Test of the [installed firmware](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/installed_firmware.md) and [firmware update mechanism](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/firmware_update_mechanism.md)
-* :x: Test of [internal interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/internal_interfaces/README.md)
-* :x: Test of [physical interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/physical_interfaces/README.md)
+* [x] Test of [wireless interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/wireless_interfaces/README.md) (e.g., Wi-Fi)
+* [x] Test of [data exchange services](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/data_exchange_services/README.md), running on the device (e.g., video streaming service)
+* [x] Test of [user interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/user_interfaces/README.md) (e.g., a web dashboard)
+* [ ] Test of the [processing unit](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/processing_units/README.md)
+* [ ] Test of the [device memory](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/memory/README.md)
+* [ ] Test of the [installed firmware](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/installed_firmware.md) and [firmware update mechanism](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/firmware_update_mechanism.md)
+* [ ] Test of [internal interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/internal_interfaces/README.md)
+* [ ] Test of [physical interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/physical_interfaces/README.md)
 
 
 
@@ -107,14 +107,14 @@ Using the aforementioned [attacker model](https://github.com/OWASP/owasp-istg/bl
 
 With these access levels, it may be possible to attack all device components. Hence, the applicable test scope in this threat scenario would include:
 
-* :heavy_check_mark: Test of the [processing unit](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/processing_units/README.md)
-* :heavy_check_mark: Test of the [device memory](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/memory/README.md)
-* :heavy_check_mark: Test of the [installed firmware](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/installed_firmware.md) and [firmware update mechanism](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/firmware_update_mechanism.md)
-* :heavy_check_mark: Test of [data exchange services](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/data_exchange_services/README.md)
-* :heavy_check_mark: Test of [internal interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/internal_interfaces/README.md)
-* :heavy_check_mark: Test of [physical interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/physical_interfaces/README.md)
-* :heavy_check_mark: Test of [wireless interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/wireless_interfaces/README.md)
-* :heavy_check_mark: Test of [user interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/user_interfaces/README.md)
+* [x] Test of the [processing unit](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/processing_units/README.md)
+* [x] Test of the [device memory](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/memory/README.md)
+* [x] Test of the [installed firmware](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/installed_firmware.md) and [firmware update mechanism](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/firmware/firmware_update_mechanism.md)
+* [x] Test of [data exchange services](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/data_exchange_services/README.md)
+* [x] Test of [internal interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/internal_interfaces/README.md)
+* [x] Test of [physical interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/physical_interfaces/README.md)
+* [x] Test of [wireless interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/wireless_interfaces/README.md)
+* [x] Test of [user interfaces](https://github.com/OWASP/owasp-istg/blob/main/src/03_test_cases/user_interfaces/README.md)
 
 
 
