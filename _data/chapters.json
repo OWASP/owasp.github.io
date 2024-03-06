@@ -1613,7 +1613,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 11
+        "meetings": 12
     },
     {
         "name": "Orlando",
@@ -2509,22 +2509,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Buea",
-        "url": "https://owasp.org/www-chapter-buea/",
-        "created": "2024-02-28",
-        "updated": "2024-02-28",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Buea",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Cameroon",
         "meetings": 0
     },
     {
@@ -4221,7 +4205,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bristol",
         "country": "United Kingdom",
-        "meetings": 10
+        "meetings": 11
     },
     {
         "name": "Bursa Technical University",
@@ -4685,7 +4669,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-lisboa-chapter",
         "country": "Portugal",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Liverpool",
@@ -4813,7 +4797,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-manchester-uk-chapter",
         "country": "United Kingdom",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Maribor",
@@ -7997,6 +7981,22 @@
         "pitch": "More info soon...",
         "meetup-group": "N/A",
         "country": "Algeria",
+        "meetings": 0
+    },
+    {
+        "name": "Buea",
+        "url": "https://owasp.org/www-chapter-buea/",
+        "created": "2024-02-28",
+        "updated": "2024-02-28",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-buea",
+        "title": "OWASP Buea",
+        "level": "-1",
+        "type": "",
+        "region": "Africa",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Buea",
+        "country": "Cameroon",
         "meetings": 0
     },
     {
