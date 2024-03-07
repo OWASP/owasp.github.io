@@ -1,9 +1,9 @@
 ---
 
 title: Common Lifecycle Enumeration Redirect
-permalink: /cle
+permalink: /cle/
 redirect_from:
-  - /cle/
+  - /cle
 redirect_to: /www-project-common-lifecycle-enumeration/
 
 ---
