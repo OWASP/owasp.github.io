@@ -8,9 +8,7 @@ tags: corp-supporter
 
 ---
 
-### Packages available to all
-
-Our updated Corporate Supporter packages are available to anyone, with price points for everyone. 
+### Corporate Supporter Package descriptions
 
 ### Corporate Supporter Logo
 
