@@ -8,4 +8,9 @@ tags: corp-supporter, jobs
 
 ---
 
-Coming Soon!
+{% assign supporters = site.data.corp_members | sort: 'sortname' %}
+{% for supporter in supporters %}
+{% if supporter.job_url %}
+[![Image]({{ supporter.image }})]({{supporter.job_url}})
+{% endif %}
+{% endfor %}
