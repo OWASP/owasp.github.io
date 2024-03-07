@@ -30,7 +30,7 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 | [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship)                      |                     ✅                      |                                    |                                        |
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Option to provide an OWASP Individual Member benefit *must meet OWASP approval](https://owasp.org/membership/#member_benefits)                 |                     ✅                      |                 ✅                  |                                      |
-| Job Posting Board           |                     ✅                      |                 ✅                  |                                      |
+| [Job Posting Board](https://owasp.org/supporters/jobs)           |                     ✅                      |                 ✅                  |                                      |
 
 ### Platinum Corporate Supporter
 
