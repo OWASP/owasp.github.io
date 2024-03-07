@@ -67,7 +67,7 @@ Your company will be recognized for supporting the OWASP Foundation as a Corpora
 
 ### Early access to Global AppSec Exhibitor/Sponsorship Packages
 
-Global AppSec Event Sponsorships are usually entirely sold out very quickly. You might miss out on your preferred location or desired package. The Platinum Corporate Supporter benefit gives early access to the best packages, prime locations, and the best-sized booths!
+Global AppSec Event Sponsorships are usually entirely sold out very quickly. You might miss out on your preferred location or desired package. The Platinum Corporate Supporter benefit gives early access to the best packages, prime locations, and the best-sized booths, with the most benefits!
 
 ### Global AppSec Corporate Event Exhibitor/Sponsorship Subsidy
 
@@ -79,6 +79,12 @@ Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global 
 | Gold | 1,500 | 600 |  
 | Silver | 500 | 200 | 200 | 
 
-### Ambassador for OWASP Board of Directors election vote
+### Option to provide an OWASP Individual Member benefit (must meet OWASP approval)
 
-Corporate Supporters can nominate an Individual Corporate Ambassador to exercise a vote in the Global Board of Directors election.
+Available for Platinum and Gold Corporate Supporters. 
+Provide OWASP members with an individual member benefit, such as an easy-to-use developer-first encryption-as-code platform or hands-on application security training. Contact us for more details. 
+
+### Job Posting Board
+
+Available for Platinum and Gold Corporate Supporters. 
+Company logo and URL for your hiring page are displayed on OWASP's Job Posting web page.
