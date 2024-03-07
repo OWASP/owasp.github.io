@@ -87,4 +87,4 @@ Provide OWASP members with an individual member benefit, such as an easy-to-use 
 ### Job Posting Board
 
 Available for Platinum and Gold Corporate Supporters. 
-Company logo and URL for your hiring page are displayed on OWASP's Job Posting web page.
+Company logo and URL to your hiring page are displayed on OWASP's Job Posting web page.
