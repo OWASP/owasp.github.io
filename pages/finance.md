@@ -58,8 +58,9 @@ The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fisc
 
 ## Audited Financial Statements
 
-The OWASP Foundation has an external audit of our financials every three years. We are proud that the external auditor's CPAs during their work on the 2019 Audit found no material internal control issues with the Foundation. The next audit year is 2022.
+The OWASP Foundation has an external audit of our financials every year, starting with the 2022 financial year. The next audit year is 2023.
 
+- [2022](/assets/financial-audits/OWASP_Audit_Report_2022.pdf){:target='_blank'}
 - [2019](/assets/financial-audits/OWASP_Audit_Report_2019.pdf){:target='_blank'}
 - [2016](/assets/financial-audits/OWASP_Audit_Report_2016.pdf){:target='_blank'}
 - [2013](/assets/financial-audits/OWASP_Audit_Report_2013.pdf){:target='_blank'}

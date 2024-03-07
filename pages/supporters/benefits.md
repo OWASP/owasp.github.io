@@ -20,9 +20,9 @@ Corporate Supporters can use our new Corporate Supporter logos on your website a
 
 Corporate Supporters can contribute 10% of their Corporate Supporter fee to participating chapters or projects. OWASP will add this contribution to the Expenses pool with no administrative fee to benefit all Chapters and Projects. In return, participating Chapters or Projects may add your logo to their home page and are encouraged to recognize your contribution at the start of meetings or in the project's deliverable, where possible.
 
-- Platinum 10 projects or chapters
-- Gold 5 projects or chapters
-- Silver 1 project or chapter
+- Platinum 10 projects/chapters
+- Gold 5 projects/chapters
+- Silver 1 project/chapter
 
 NB: Not all chapters or projects participate in this benefit. Please get in touch with us to connect you with the relevant Chapter or Project Leader.
 

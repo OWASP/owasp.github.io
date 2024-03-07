@@ -37,6 +37,11 @@
       dates: April 6, 2024
       url: https://www.basconf.org/
       optional-text: The Boston Application Security Conference (BASC) is an annual conference held by the Boston chapter of the Open Worldwide Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.
+    - name: OWASP Spring Virtual Training Days
+      start-date: 2024-05-14
+      dates: May 14-16, 2024
+      #url: https://owasp.submittable.com/submit/289409/2024-owasp-spring-virtual-training
+      optional-text: Choose from a diverse selection of 1, 2, or 3-day training courses from the comfort of your home! Registration will open Early April    
     - name: OWASP 2024 AppSec Days Pacific Northwest
       start-date: 2024-06-15
       dates: June 15-16, 2024
@@ -51,6 +56,15 @@
   description: >-
       Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
+    - name: Cyber Security for Critical Assets APAC Summit and APAC Cyber Summit
+      start-date: 2024-04-03
+      dates:  April 3-4, 2024
+      url: https://apac.cs4ca.com/
+      optional-text: 50% Discount Code - OWASP - [Register Here](https://apac.cs4ca.com/register/)
+    - name: The Diana Initiative
+      start-date: 2024-08-05
+      dates: August 5, 2024
+      url:  https://www.dianainitiative.org/
     - name: Cloud & Cyber Security Expo Frankfurt
       start-date: 2024-06-23
       dates: May 23-24, 2024
@@ -60,7 +74,7 @@
       dates:  May 6-9, 2024
       url:  https://www.rsaconference.com/
       optional-text: >-
-          <strong>OWASP Members: Unlock Exclusive RSAC 2024 Savings!</strong><br>
+          <strong>OWASP Members: Unlock Exclusive RSAC 2024 Savings!  $150.00 discount code for full passes:  52FCDOWASPFOUND</strong><br>
           
           Join us May 6 – 9 at RSAC 2024, the ultimate cybersecurity destination. Immerse yourself in expert-led sessions, connect with industry leaders, and discover the latest trends and best practices. Elevate your cybersecurity game and be a part of shaping the industry's future. Don't miss this opportunity to advance your skills and network with the best in the field. [Learn more and register!](https://www.rsaconference.com/usa?utm_source=assoc-owasp&utm_medium=referral&utm_campaign=textad-us2024)<br><br>
           [![RSA 2024](/assets/images/events/rsa2024logo.png){:width="400px"}](https://www.rsaconference.com/usa?utm_source=assoc-owasp&utm_medium=referral&utm_campaign=textad-us2024)<br>
