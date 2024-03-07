@@ -8,7 +8,7 @@ tags: corp-supporter
 
 ---
 
-### Corporate Supporter Package descriptions
+### Corporate Supporter package descriptions
 
 ### Corporate Supporter Logo
 
