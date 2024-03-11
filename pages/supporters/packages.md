@@ -31,6 +31,8 @@ To learn more, please [Contact Us](mailto:events@owasp.com) today!
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Option to provide an OWASP Individual Member benefit *must meet OWASP approval](https://owasp.org/supporters/benefits)                 |                     ✅                      |                 ✅                  |                                      |
 | [Job Posting Board](https://owasp.org/supporters/benefits)           |                     ✅                      |                 ✅                  |                                      |
+| [Global AppSec event holding slide](https://owasp.org/supporters/benefits)           |                     15 seconds                      |                 10 seconds                  |                                      |
+
 
 ### Platinum Corporate Supporter
 
