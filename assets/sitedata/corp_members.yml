@@ -6,6 +6,7 @@
 # sortname: name of company but use capital for at least the first letter to sort correctly
 # image: relative URL to the logo image
 # url: url of the company website
+# job_url: company job website 
 # description: description of the company
 - member: true
   sponsor: -1
