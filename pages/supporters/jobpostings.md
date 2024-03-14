@@ -8,7 +8,7 @@ tags: corp-supporter, jobs
 
 ---
 
-Click a logo to go to our sponsor's listed jobs
+Click a logo to go to our Corporate Supporter's listed career opportunities.
 
 {% assign supporters = site.data.corp_members | sort: 'sortname' %}
 {% for supporter in supporters %}
