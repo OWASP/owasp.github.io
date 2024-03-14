@@ -20,9 +20,7 @@ Please [contact us](https://owasporg.atlassian.net/servicedesk/customer/portal/7
 
 ### Sponsoring participating AppSec Days regional events
 
-This benefit is immediately available for participating in AppSec Days conferences. Please create a non-funding ticket detailing which regional AppSec Day event you wish to sponsor. We will work with you and the local event team to become a financial sponsor of their event. 
-
-Please visit [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
+This benefit is immediately available for participating in AppSec Days conferences. Please create a non-funding ticket detailing which regional AppSec Day event you wish to sponsor. We will work with you and the local event team to become a financial sponsor of their event. Please visit [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
 
 ### Early access to Global AppSec Sponsorship
 
