@@ -207,6 +207,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Arnica.png
   url: https://www.arnica.io
+  job_url: https://www.arnica.io/company/careers
   description: Arnica integrates across your software supply chain and provides the necessary context, prioritization, ownership, and actionability to proactively mitigate risks. In addition to providing complete reports around code risk, excessive permissions, vulnerable dependencies, code repository misconfigurations, anomalous developer behavior, and more, Arnica’s pipelineless approach eliminates these risks in a blameless and shameless way by interacting directly with the developers in real-time to stop any new risks from entering your source code while also helping resolve your risks backlog. 
 - member: true
   sponsor: -1
@@ -239,6 +240,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Scitum.png
   url: https://www.scitum.com.mx/
+  job_url: https://www.scitum.com.mx/
   description: Scitum is the leading cybersecurity company in Mexico, Latin America, the United States, and some European countries. Scitum’s primary focus is to fulfill all of our client’s needs with services that fully cover the cycle of cybersecurity, among which consultancy and provided services stand out. We are part of Telmex and Grupo Carso, providing great support and financial capability to deal with complex, large-scale projects.
 - member: true
   sponsor: -1
@@ -247,6 +249,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Backslash-logo.png
   url: https://www.backslash.security/?utm_campaign=Launch&utm_source=owasp-sponsorship&utm_medium=banner&utm_content=homepage 
+  job_url: https://www.backslash.security/careers
   description: Backslash is the first Cloud-Native Application Security solution for enterprise AppSec teams to provide unified security and business context to cloud-native code risk, coupled with automated threat modeling, code risk prioritization, and simplified remediation across applications and teams. With Backslash, AppSec teams can see and easily act upon the critical toxic code flows in their cloud-native applications; quickly prioritize code risks based on the relevant cloud context; and significantly cut MTTR (mean time to recovery) by enabling developers with the evidence they need to take ownership of the process.
 - member: true
   sponsor: -1
