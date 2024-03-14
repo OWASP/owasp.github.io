@@ -5,5 +5,5 @@
 - [Benefits](/supporters/benefits)
 - [Member Migration](/supporters/migration)
 - [OWASP Corporate Supporter](/supporters/list)
-- [Corporate Event Sponsorship](../corporate-sponsorships)
+- [Corporate Supporter Job Opportunities](supporters/jobs)
 - [Make a charitable gift](/donate)
