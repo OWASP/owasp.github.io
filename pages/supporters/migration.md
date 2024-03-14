@@ -47,7 +47,3 @@ In our previous Corporate Supporter benefits package, sponsors could obtain a $2
 ### Early bird Global AppSec Registration
 
 As we open early bird registration for our Global AppSec events, we will automatically send all current Corporate Supporters the relevant number of discount codes to your nominated address. Please distribute these codes to your staff to obtain the OWASP Member discount for the participating event. The discount codes only apply to the nominated participating event and are not valid once the early bird registration period closes. 
-
-### Ambassdor to vote in Global Board Elections
-
-This is an existing benefit that will continue. If you wish to participate in the election, please [submit a request to appoint your nominated ambassador](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) by no later than September 30 each year. They should use their work email address for this request to avoid confusion between your staff members who might also be individual members, and the Corporate Supporter vote.
