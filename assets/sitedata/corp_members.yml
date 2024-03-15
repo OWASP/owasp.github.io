@@ -10,7 +10,7 @@
 # description: description of the company
 - member: true
   sponsor: -1
-  name: eShard
+  name: EShard
   sortname: EShard
   image: /assets/images/corp-member-logo/eShard.png
   url: http://eshard.com
@@ -35,7 +35,8 @@
   sortname: Salesforce
   membertype: 2
   image: /assets/images/corp-member-logo/salesforce.png	
-  url: https://www.salesforce.com/  
+  url: https://www.salesforce.com/ 
+  job_url: https://www.salesforce.com/
   description: Salesforce is the world’s (#)1 customer relationship management (CRM) platform. Our cloud-based applications for sales, service, marketing, and more don’t require IT experts to set up or manage — simply log in and start connecting to customers in a whole new way.
 - member: false	
   sponsor: 4
@@ -101,6 +102,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/invicti_logo_300x90_black.png
   url: https://www.invicti.com/
+  job_url: https://www.invicti.com/careers/
   description: Invicti Security is transforming the way web applications are secured. An AppSec leader for more than 15 years, Invicti enables organizations in every industry to continuously scan and secure all of their web applications and APIs at the speed of innovation. Through industry-leading Asset Discovery, Dynamic Application Security Testing (DAST), Interactive Application Security Testing (IAST), and Software Composition Analysis (SCA), Invicti provides a comprehensive view of an organization’s entire web application portfolio. Invicti’s proprietary Proof-Based Scanning technology is the first to deliver automatic verification of vulnerabilities and proof of exploit with 99.98% accuracy.
 - member: true
   sponsor: -1
@@ -109,6 +111,7 @@
   membertype: 2
   image: /assets/images/corp-member-logo/bionic_logo_1.png
   url: 	https://www.bionic.ai/
+  job_url: https://www.crowdstrike.com/careers/
   description: Bionic helps customers manage the security posture of their applications in production, providing continuous visibility of risk across all application services, dependencies, and data flows in real-time. Current application security tools are looking at data privacy and application security from a vulnerability lens. Bionic looks at the problem from an architectural lens.
 - member: true  
   sponsor: -1 
@@ -117,6 +120,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Guardsquare.png
   url: https://www.guardsquare.com/
+  job_url: https://www.guardsquare.com/careers
   description: Guardsquare offers the most complete approach to mobile application security on the market. Built on the open-source ProGuard technology, Guardsquare’s software integrates seamlessly across the development cycle. From app security testing to code hardening to real-time visibility into the threat landscape, Guardsquare solutions provide enhanced mobile application security from early in the development process through publication. More than 800 customers worldwide across all major industries rely on Guardsquare to help them identify security risks and protect their mobile applications against reverse engineering and tampering.
 - member: true
   sponsor: -1
@@ -133,6 +137,7 @@
   membertype: 2
   image: /assets/images/corp-member-logo/Bloomberg.png
   url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
+  job_url: https://www.bloomberg.com/company/careers/working-here/
   description: Bloomberg is a global leader in business and financial information, delivering trusted data, news, and insights that bring transparency, efficiency, and fairness to markets. The company helps connect influential communities across the global financial ecosystem via reliable technology solutions that enable our customers to make more informed decisions and foster better collaboration.
 - member: true
   sponsor: -1
@@ -149,6 +154,7 @@
   membertype: 2
   image: /assets/images/corp-member-logo/tenable_logo.png
   url: https://www.tenable.com
+  job_url: https://careers.tenable.com/
   description:  Tenable® is the Exposure Management company. Approximately 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. As the creator of Nessus®, Tenable extended its expertise in vulnerabilities to deliver the world’s first platform to see and secure any digital asset on any computing platform. Tenable customers include approximately 60 percent of the Fortune 500, approximately 40 percent of the Global 2000, and large government agencies. Learn more at tenable.com
 - member: true
   sponsor: -1
@@ -189,6 +195,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/digitalai-logo@1x.png
   url: http://Digital.ai
+  job_url: https://digital.ai/why-digital-ai/careers/
   description: >-
       Digital.ai Application Security (formerly Arxan Technologies, Inc.) has been the leading provider of security for mobile, web, and desktop 
       applications for over 20 years. Enterprises depend on Digital.ai to help them build secure software by obfuscating code and providing 
@@ -202,6 +209,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Arnica.png
   url: https://www.arnica.io
+  job_url: https://www.arnica.io/company/careers
   description: Arnica integrates across your software supply chain and provides the necessary context, prioritization, ownership, and actionability to proactively mitigate risks. In addition to providing complete reports around code risk, excessive permissions, vulnerable dependencies, code repository misconfigurations, anomalous developer behavior, and more, Arnica’s pipelineless approach eliminates these risks in a blameless and shameless way by interacting directly with the developers in real-time to stop any new risks from entering your source code while also helping resolve your risks backlog. 
 - member: true
   sponsor: -1
@@ -234,6 +242,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Scitum.png
   url: https://www.scitum.com.mx/
+  job_url: https://www.scitum.com.mx/
   description: Scitum is the leading cybersecurity company in Mexico, Latin America, the United States, and some European countries. Scitum’s primary focus is to fulfill all of our client’s needs with services that fully cover the cycle of cybersecurity, among which consultancy and provided services stand out. We are part of Telmex and Grupo Carso, providing great support and financial capability to deal with complex, large-scale projects.
 - member: true
   sponsor: -1
@@ -242,6 +251,7 @@
   membertype: 3
   image: /assets/images/corp-member-logo/Backslash-logo.png
   url: https://www.backslash.security/?utm_campaign=Launch&utm_source=owasp-sponsorship&utm_medium=banner&utm_content=homepage 
+  job_url: https://www.backslash.security/careers
   description: Backslash is the first Cloud-Native Application Security solution for enterprise AppSec teams to provide unified security and business context to cloud-native code risk, coupled with automated threat modeling, code risk prioritization, and simplified remediation across applications and teams. With Backslash, AppSec teams can see and easily act upon the critical toxic code flows in their cloud-native applications; quickly prioritize code risks based on the relevant cloud context; and significantly cut MTTR (mean time to recovery) by enabling developers with the evidence they need to take ownership of the process.
 - member: true
   sponsor: -1
@@ -274,6 +284,7 @@
   membertype: 2
   image: /assets/images/corp-member-logo/fortify__logo__normal2x_1.png
   url: https://www.microfocus.com/en-us/cyberres/application-security
+  job_url: https://careers.opentext.com/
   description: Fortify Application Security provides your team with solutions to promote DevSecOps best practices, enable cloud transformation, and secure your software supply chain. As the sole code security solution with over two decades of expertise and acknowledged as a market leader by all major analysts, Fortify delivers the most adaptable, precise, and scalable AppSec platform available, supporting the breadth of tech you use while integrating into your preferred toolchain. With Fortify, go beyond check the box security because your great code demands great security.
 - member: true
   sponsor: -1
@@ -298,6 +309,7 @@
   membertype: 4
   image: /assets/images/corp-member-logo/Zimperiumlogo_300x90px.jpeg
   url: https://www.zimperium.com/
+  job_url: https://www.zimperium.com/careers/
   description: Zimperium is a Mobile-First Security Platform enabling application and device protection. Our technologies include dynamic Runtime Application Self-Protection (RASP), binary scanning, obfuscation, anti-tampering, and white-box cryptography. We are uniquely positioned to contribute to OWASP's mission of educating and combating insecure software through our advanced, frictionless, real-time security approach.
 - member: true
   sponsor: 4
@@ -308,7 +320,7 @@
   url: https://eshard.com/eschecker
   description: Amidst evolving hacking techniques, eShard stands at the forefront of cutting-edge security testing solutions. With expertise in Chip, System, and Mobile App Security, our comprehensive offerings include full testing services (pentest, training, diagnosis), software tools, and expert consultations, aimed at vulnerability assessments and framework evaluations. We're renowned for pioneering automated MAST/DASP with our tool esChecker, reshaping Mobile App Security by seamlessly integrating dynamic and static tests, UX recording and video replay, aligning with the highest OWASP MASVS security standards.
 - member: true
-  sponsor:
+  sponsor: -1
   name: DefectDojo Inc.
   sortname: DefectDojo Inc.
   membertype: 4
@@ -316,15 +328,16 @@
   url: https://www.defectdojo.com/
   description: DefectDojo is the company and the product that powers DevSecOps. Our open platform transforms security information management, connecting security strategy and informed execution for intelligent risk management. Security and DevSecOps teams can aggregate, automate, and integrate data from more than 160 security tools for a unified view of security posture and compliance, streamlined workflows, and improved decision-making. DefectDojo was created by security pros for security pros. To learn more, visit defectdojo.com.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Checkmarx
   sortname: Checkmarx
   membertype: 3
   image: /assets/images/corp-member-logo/checkmarx_logo__rgb_blue.png
   url: http://checkmarx.com
+  job_url: https://checkmarx.com/company/careers/
   description: Checkmarx is the enterprise application security leader and the provider of Checkmarx One™, the industry-leading cloud-native AppSec platform that helps enterprises build #DevSecTrust. Powered by intelligence from our industry-leading AppSec security research team, and our AI-driven technology and services, our platform is designed to enable CISOs, AppSec and development leaders to prioritize their teams’ focus on what impacts their business. Checkmarx secures every phase of development for every application, from the first line of code through production, while balancing the dynamic needs of security and development teams. It’s no longer about shifting left or right - it’s about shifting everywhere.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Equixly
   sortname: Equixly
   membertype: 4
@@ -332,7 +345,7 @@
   url: https://equixly.com/
   description: Equixly aims to help developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly makes available a SaaS platform that allows integrating the API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform several API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers may use to fix their application issues autonomously.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Xeol
   sortname: Xeol
   membertype: 4
@@ -340,7 +353,7 @@
   url: https://www.xeol.io/
   description: Xeol helps secure your software supply chain from code to deploy. We believe that software should not only be free of vulnerabilities but also built and deployed by trusted entities. Xeol starts by managing your open source dependencies. Helping you evaluate them based on vulnerabilities, end-of-life status, maintainability, and licensing. Xeol then helps you sign then verify your images at build before they are deployed to production.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Deepfactor
   sortname: Deepfactor
   membertype: 4
@@ -348,7 +361,7 @@
   url: http://www.deepfactor.io
   description: Deepfactor is a developer security platform that enables engineering teams to quickly discover and resolve security vulnerabilities, supply chain risks, and compliance violations early in development and testing. The platform requires zero code changes, agents, or privileged kernel code and is purpose-built to observe every thread and process of cloud native applications. This enables developers to seamlessly observe running workloads to identify, prioritize, and remediate insecure code and vulnerabilities. Deepfactor integrates into developers’ existing toolchains to deliver application-aware security insights with detailed information about application behavior, system calls, and stack traces that help pinpoint vulnerable code. 
 - member: true
-  sponsor:
+  sponsor: -1
   name: Team Secure
   sortname: Team Secure
   membertype: 4
@@ -356,7 +369,7 @@
   url: http://teamsecure.io
   description: Team Secure Cyber Security Services excels in delivering top-tier cybersecurity staff and consultancy, alongside our development of advanced web and mobile applications and tools. Experience Swiss-quality, enterprise-grade cyber solutions that cater to all aspects of your digital security needs.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Veracode
   sortname: Veracode
   membertype: 4
@@ -364,7 +377,7 @@
   url: https://www.veracode.com/
   description: Veracode delivers the application security solutions and services today’s software-driven world requires. Veracode’s unified platform assesses and improves application security from inception through production so agencies can confidently innovate with the web and mobile applications they build, buy and assemble including the components they integrate into their environments.
 - member: true
-  sponsor:
+  sponsor: -1
   name: United Airlines
   sortname: United Airlines
   membertype: 4
@@ -372,7 +385,7 @@
   url: https://www.united.com/
   description: At United, Good Leads The Way. With U.S. hubs in Chicago, Denver, Houston, Los Angeles, Newark/New York, San Francisco, and Washington, D.C., United operates the most comprehensive global route network among North American carriers, and is now the largest airline in the world as measured by available seat miles. United focuses on ensuring technology, systems, and processes are robust against cyber threats to protect our customers, employees, and operations.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Cybozu Inc.
   sortname: Cybozu Inc.
   membertype: 4
@@ -380,7 +393,7 @@
   url: https://cybozu.co.jp/en/company/
   description: At Cybozu, our mission is to build a society brimming with teamwork. Since 1997, we've been providing groupware solutions to thousands of teams around the world, driven by a vision of a happier and more connected society. Our flagship product, Kintone, is a customizable digital workplace platform that allows you to manage your data, tasks, and communication in one central place, no coding required.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Phoenix Security
   sortname: Phoenix Security
   membertype: 4
@@ -390,7 +403,7 @@
       Phoenix Security offers unparalleled visibility into the digital supply chain, from code to cloud. We streamline the remediation process, focusing on actionable, reachable vulnerabilities in code and in the cloud and reducing 
       the time spent on security triage by 90%. We answer the critical question for companies: "Which vulnerabilities should I prioritize if my time is limited?"
 - member: true
-  sponsor:
+  sponsor: -1
   name: Apiiro
   sortname: Apiiro
   membertype: 4
@@ -398,33 +411,36 @@
   url: http://apiiro.com
   description: Apiiro is setting the diamond standard for ASPM to empower application security and development teams to secure everything they develop and deliver to the cloud. Apiiro’s risk-driven approach to application and software supply chain security is rooted in deep code analysis and runtime context to help teams prioritize and fix business-critical risks faster.
 - member: true
-  sponsor:
+  sponsor: -1
   name: ThreatModeler Software, Inc.
   sortname: ThreatModeler Software, Inc.
   membertype: 3
   image: /assets/images/corp-member-logo/ThreatModeler.png
   url: https://threatmodeler.com/
+  job_url: https://threatmodeler.com/careers/
   description: ThreatModeler's suite of products empowers DevOps teams to measure their threat drift from code to cloud. With a fraction of the time and cost tied to other tools, users can design, build and validate threat drift from development to deployment. Teams can instantly visualize their attack surface, understand security requirements and prioritize steps to mitigate threats. CISOs can make critical security-driven business decisions to scale their infrastructure for growth.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Wallarm
   sortname: Wallarm
   membertype: 2
   image: /assets/images/corp-member-logo/WallarmLogo.png
   url: http://www.wallarm.com
+  job_url: https://wallarm.recruitee.com/
   description: Wallarm is a leader in API and web application security. Our integrated, automated API and Application security solutions works with any platform, any cloud, multi-cloud, cloud-native, hybrid and on-premise environments. Enterprises such as Miro, Revenera, Panasonic and Semrush have chosen Wallarm to discover APIs, API vulnerabilities, detect threats and eliminate API attacks to improve their business resiliency and security posture.
 - member: true
-  sponsor:
+  sponsor: -1
   name: SailPoint
   sortname: SailPoint
   membertype: 3
   image: /assets/images/corp-member-logo/SailPoint.png
   url: https://www.sailpoint.com/
+  job_url: https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs
   description: >
       SailPoint was founded in 2005 to deliver innovative solutions that address some of the world’s most dynamic security issues. That passion and commitment for solving our customers’ pressing security and identity challenges guide us to this day. 
       www.sailpoint.com/why-us/about-us/
 - member: true
-  sponsor:
+  sponsor: -1
   name: United Overseas Bank
   sortname: United Overseas Bank
   membertype: 
@@ -435,10 +451,27 @@
       in Asia Pacific, Europe, and North America. Since its incorporation in 1935, UOB has grown organically and through a series of strategic acquisitions. Today, UOB is rated among the world’s top banks: Aa1 by Moody’s Investors Service 
       and AA- by both S&P Global Ratings and Fitch Ratings.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Jit
   sortname: Jit
   membertype:
   image: /assets/images/corp-member-logo/JitLogo.png
   url: https://jit.io
   description: Jit's platform is the easiest way to secure your code and cloud, providing full application and cloud security coverage in minutes. Tailor a developer security toolchain to your use case and implement it across your repos in a few clicks. Jit empowers developers to own the security of their code without ever leaving their workflow, prioritizing the alerts that matter. Using your current security toolset with Jit, your devs can deliver secure code faster than ever.
+- member: true  
+  sponsor: -1
+  name: Approach Cyber
+  sortname: Approach Cyber
+  membertype:
+  image:  /assets/images/corp-member-logo/approach_logo.png
+  url: http://www.approach-cyber.com
+  description: Approach Cyber is a pure-play cyber security and privacy company. At Approach, we believe that everyone deserves digital peace-of-mind. This is our vision, our aspiration for a society where each and every one is reassured, where there is confidence and security in the digital world. Therefore, our role is to bring cyber serenity to society. Every day, we take care of your cybersecurity while you focus on your business. We help you to prevent, withstand and recover from cyber security incidents and enable you to keep full attention on your core activities.
+- member: true
+  sponsor: -1
+  name: Atlassian, Inc.
+  sortname: Atlassian, Inc.
+  membertype: 2
+  image: /assets/images/corp-member-logo/Atlassian.png
+  url: https://www.atlassian.com
+  job_url: https://www.atlassian.com/company/careers
+  description: Tools for teams, from startup to enterprise - Atlassian provides tools to help every team unleash their full potential
