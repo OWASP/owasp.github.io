@@ -1,6 +1,6 @@
 ---
 
-date: 2024-03-19 02:00:00-0500
+date: 2024-03-19 00:02:00-0500
 categories: blog
 author: Traefik Labs    
 author_image: /assets/images/corp-member-logo/traefik-labs-horizontal-black.svg
