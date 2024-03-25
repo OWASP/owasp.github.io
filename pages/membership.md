@@ -4,7 +4,7 @@ layout: full-width
 title: OWASP Membership Information & Benefits
 permalink: /membership/
 maintenance: true
-maintenance_message: Due to a required update to our systems, we are currently experiencing issues with our Membership portal, renewals, and joining. Thank you for your patience as we work to resolve the issues.
+maintenance_message: We are currently experiencing issues with our Membership portal, renewals, and joining. Thank you for your patience as we work to resolve the issues.
 
 ---
 
