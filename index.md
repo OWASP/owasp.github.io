@@ -7,6 +7,9 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 spnews: False
 
 ---
+<!-- Mastodon verification -->
+<a rel="me" href="https://infosec.exchange/@owasp">Mastodon</a>
+
 <!-- Discoverable Feeds -->
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 <link rel="alternate" type="application/json" title="{{ site.title }}" href="{{ "/feed.json" | prepend: site.baseurl | prepend: site.url }}"/>
