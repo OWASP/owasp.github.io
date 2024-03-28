@@ -8,7 +8,7 @@ spnews: False
 
 ---
 <!-- Mastodon verification -->
-<a rel="me" href="https://infosec.exchange/@owasp">Mastodon</a>
+<a rel="me" href="https://infosec.exchange/@owasp"></a>
 
 <!-- Discoverable Feeds -->
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
