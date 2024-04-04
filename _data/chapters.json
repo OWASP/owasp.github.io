@@ -1677,7 +1677,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Phoenix-Chapter",
         "country": "USA",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Pittsburgh",
@@ -2208,6 +2208,22 @@
         "meetings": 0
     },
     {
+        "name": "Adana",
+        "url": "https://owasp.org/www-chapter-adana/",
+        "created": "2024-04-03",
+        "updated": "2024-04-03",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Adana",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Turkey",
+        "meetings": 0
+    },
+    {
         "name": "Albany",
         "url": "https://owasp.org/www-chapter-albany/",
         "created": "2019-09-12",
@@ -2637,6 +2653,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Coimbatore",
+        "url": "https://owasp.org/www-chapter-coimbatore/",
+        "created": "2019-09-12",
+        "updated": "2023-08-17",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-coimbatore",
+        "title": "OWASP Coimbatore",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -4016,6 +4048,22 @@
         "meetings": 0
     },
     {
+        "name": "Yenepoya Institute",
+        "url": "https://owasp.org/www-chapter-yenepoya-institute/",
+        "created": "2024-04-03",
+        "updated": "2024-04-03",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Yenepoya Institute",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
         "name": "Zaragoza",
         "url": "https://owasp.org/www-chapter-zaragoza/",
         "created": "2019-09-12",
@@ -5147,7 +5195,7 @@
         "type": "",
         "region": "Europe",
         "pitch": "More info soon...",
-        "meetup-group": "OWASP-Stuttgart",
+        "meetup-group": "owasp-stuttgart-chapter",
         "country": "Germany",
         "meetings": 0
     },
@@ -5620,7 +5668,7 @@
         "url": "https://owasp.org/www-chapter-bbditm/",
         "created": "2023-01-24",
         "updated": "2023-01-31",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Babu Banarasi Das Institute of Technology and Management (bbditm) - Student Chapter",
         "level": "-1",
@@ -5716,7 +5764,7 @@
         "url": "https://owasp.org/www-chapter-brainware-university/",
         "created": "2022-04-06",
         "updated": "2022-12-01",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Brainware University - Student Chapter",
         "level": "-1",
@@ -5748,7 +5796,7 @@
         "url": "https://owasp.org/www-chapter-central-university-of-rajasthan/",
         "created": "2022-02-28",
         "updated": "2022-02-28",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Central University of Rajasthan - Student Chapter",
         "level": "-1",
@@ -5764,7 +5812,7 @@
         "url": "https://owasp.org/www-chapter-chandigarh/",
         "created": "2019-09-12",
         "updated": "2022-07-27",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Chandigarh",
         "level": "-1",
@@ -5780,7 +5828,7 @@
         "url": "https://owasp.org/www-chapter-chandigarh-university/",
         "created": "2023-05-09",
         "updated": "2023-05-09",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Chandigarh University",
         "level": "-1",
@@ -5837,22 +5885,6 @@
         "pitch": "More info soon...",
         "meetup-group": "beijing-owasp-meetup-group",
         "country": "China",
-        "meetings": 0
-    },
-    {
-        "name": "Coimbatore",
-        "url": "https://owasp.org/www-chapter-coimbatore/",
-        "created": "2019-09-12",
-        "updated": "2023-08-17",
-        "build": "no pages",
-        "codeurl": "https://github.com/OWASP/www-chapter-coimbatore",
-        "title": "OWASP Coimbatore",
-        "level": "-1",
-        "type": "",
-        "region": "Asia",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-coimbatore",
-        "country": "India",
         "meetings": 0
     },
     {
@@ -5972,7 +6004,7 @@
         "url": "https://owasp.org/www-chapter-dindigul/",
         "created": "2019-09-12",
         "updated": "2022-07-05",
-        "build": "built",
+        "build": "no pages",
         "codeurl": "",
         "title": "OWASP Dindigul",
         "level": "-1",
@@ -6461,7 +6493,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-jct-college-of-engineering-and-technology",
         "country": "India",
-        "meetings": 1
+        "meetings": 3
     },
     {
         "name": "Jecrc University",
