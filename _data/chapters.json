@@ -253,7 +253,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-fortaleza",
         "country": "Brazil",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Goiania",
@@ -2208,22 +2208,6 @@
         "meetings": 0
     },
     {
-        "name": "Adana",
-        "url": "https://owasp.org/www-chapter-adana/",
-        "created": "2024-04-03",
-        "updated": "2024-04-03",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Adana",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Turkey",
-        "meetings": 0
-    },
-    {
         "name": "Albany",
         "url": "https://owasp.org/www-chapter-albany/",
         "created": "2019-09-12",
@@ -4094,6 +4078,22 @@
         "meetup-group": "OWASP-Aarhus-Chapter",
         "country": "Denmark",
         "meetings": 6
+    },
+    {
+        "name": "Adana",
+        "url": "https://owasp.org/www-chapter-adana/",
+        "created": "2024-04-03",
+        "updated": "2024-04-03",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Adana",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Turkey",
+        "meetings": 0
     },
     {
         "name": "Armenia",
@@ -8157,7 +8157,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Cairo-Chapter",
         "country": "Egypt",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Cape Town",
