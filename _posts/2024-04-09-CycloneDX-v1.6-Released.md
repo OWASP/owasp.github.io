@@ -43,9 +43,9 @@ This release underscores the commitment of the CycloneDX community to fostering 
 ### **New Authoritative Guides Available**
 To accompany the launch of CycloneDX v1.6, the community is pleased to announce the immediate availability of three new guides to help organizations make the most out of CycloneDX.
 
-* [Authoritative Guide to CBOM](https://cyclonedx.org/cbom)
-* [Authoritative Guide to Attestations](https://cyclonedx.org/attestations)
-* [Authoritative Guide to SBOM, Second Edition](https://cyclonedx.org/sbom)
+* [Authoritative Guide to CBOM](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-CBOM-en.pdf)
+* [Authoritative Guide to Attestations](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-Attestations-en.pdf)
+* [Authoritative Guide to SBOM, Second Edition](https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-SBOM-en.pdf)
 
 These comprehensive guides, available at [https://cyclonedx.org/guides/](https://cyclonedx.org/guides/), provide in-depth information about the new features in CycloneDX v1.6 and best practices for their implementation.
 
