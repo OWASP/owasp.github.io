@@ -8,9 +8,10 @@ permalink: /corporate/
 
 ## Staff
 
-Under the direction of the Executive Director, staff implements programs and policies of the Foundation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.</p>
+Under the direction of the Executive Director, staff implements programs and policies of the Foundation while collaborating with members on OWASP Projects, Chapters, Events, and initiatives.
 
-Each year the staff works with the Global Board to establish an <a href="https://owasp.org/www-staff/operating-plan/2024/">Operating Plan</a> and <a href="https://owasp.org/www-staff/budget/2024/">Budget</a>.
+Each year the staff works with the Global Board to establish an [Operating Plan](https://owasp.org/www-staff/operating-plan/2024/) and [Budget](https://owasp.org/www-staff/budget/2024/)
+
 
 <section id="staff" class="corporate">
 <div>	
