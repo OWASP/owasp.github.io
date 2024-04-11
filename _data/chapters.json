@@ -813,7 +813,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 16
+        "meetings": 15
     },
     {
         "name": "Bellingham",
@@ -1645,7 +1645,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Philadelphia",
@@ -1949,7 +1949,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Seattle-Chapter",
         "country": "USA",
-        "meetings": 16
+        "meetings": 15
     },
     {
         "name": "South Florida",
@@ -2045,7 +2045,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Toronto",
         "country": "Canada",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Triangle Nc",
@@ -2637,22 +2637,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Coimbatore",
-        "url": "https://owasp.org/www-chapter-coimbatore/",
-        "created": "2019-09-12",
-        "updated": "2023-08-17",
-        "build": "built",
-        "codeurl": "https://github.com/OWASP/www-chapter-coimbatore",
-        "title": "OWASP Coimbatore",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "India",
         "meetings": 0
     },
     {
@@ -5885,6 +5869,22 @@
         "pitch": "More info soon...",
         "meetup-group": "beijing-owasp-meetup-group",
         "country": "China",
+        "meetings": 0
+    },
+    {
+        "name": "Coimbatore",
+        "url": "https://owasp.org/www-chapter-coimbatore/",
+        "created": "2019-09-12",
+        "updated": "2023-08-17",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-coimbatore",
+        "title": "OWASP Coimbatore",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-coimbatore",
+        "country": "India",
         "meetings": 0
     },
     {
