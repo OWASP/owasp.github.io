@@ -651,8 +651,8 @@
         "group_url": "https://owasp.org/www-chapter-boston/"
     },
     {
-        "name": "Tee Cure",
-        "email": "tamara.cure@owasp.org",
+        "name": "Alex Brown",
+        "email": "alex.brown@owasp.org",
         "group": "OWASP Boulder",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-boulder/"
@@ -660,6 +660,13 @@
     {
         "name": "Lilli Chang",
         "email": "lilli.chang@owasp.org",
+        "group": "OWASP Boulder",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boulder/"
+    },
+    {
+        "name": "Tee Cure",
+        "email": "tamara.cure@owasp.org",
         "group": "OWASP Boulder",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-boulder/"
@@ -674,13 +681,6 @@
     {
         "name": "Steve Kosten",
         "email": "steve.kosten@owasp.org",
-        "group": "OWASP Boulder",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-boulder/"
-    },
-    {
-        "name": "Alex Brown",
-        "email": "alex.brown@owasp.org",
         "group": "OWASP Boulder",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-boulder/"
@@ -1549,6 +1549,13 @@
     {
         "name": "Raniel Cavalcante de Sousa",
         "email": "raniel.sousa@owasp.org",
+        "group": "OWASP Fortaleza",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fortaleza/"
+    },
+    {
+        "name": "Victor Pasknel de Alencar Ribeiro",
+        "email": "victor.pasknel@owasp.org",
         "group": "OWASP Fortaleza",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-fortaleza/"
@@ -6953,13 +6960,6 @@
     {
         "name": "Christian Folini",
         "email": "christian.folini@owasp.org",
-        "group": "OWASP ModSecurity Core Rule Set",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-modsecurity-core-rule-set/"
-    },
-    {
-        "name": "Walter Hop",
-        "email": "walter@lifeforms.nl",
         "group": "OWASP ModSecurity Core Rule Set",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-modsecurity-core-rule-set/"
