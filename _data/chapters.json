@@ -589,7 +589,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
         "country": "Uruguay",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Vina Del Mar",
@@ -653,7 +653,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Brisbane-OWASP-Meetup-Group",
         "country": "Australia",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Canberra",
@@ -1645,7 +1645,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Philadelphia",
@@ -1725,7 +1725,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Maine",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Princeton",
@@ -1821,7 +1821,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sacramento-Chapter",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Saint Louis",
@@ -2061,7 +2061,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasptriangle",
         "country": "USA",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Tulsa",
@@ -2832,22 +2832,6 @@
         "meetings": 0
     },
     {
-        "name": "Giza",
-        "url": "https://owasp.org/www-chapter-giza/",
-        "created": "2024-03-25",
-        "updated": "2024-03-25",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Giza",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Egypt",
-        "meetings": 0
-    },
-    {
         "name": "Guadalajara",
         "url": "https://owasp.org/www-chapter-guadalajara/",
         "created": "2020-05-07",
@@ -3309,7 +3293,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-maine",
         "country": "",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Malta",
@@ -4109,7 +4093,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-augsburg-chapter",
         "country": "Germany",
-        "meetings": 0
+        "meetings": 1
     },
     {
         "name": "Barcelona",
@@ -5021,7 +5005,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-poland",
         "country": "Poland",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Porto",
@@ -6820,7 +6804,7 @@
         "url": "https://owasp.org/www-chapter-kuwait-city/",
         "created": "2019-09-12",
         "updated": "2023-08-02",
-        "build": "errored",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Kuwait City",
         "level": "-1",
@@ -8221,6 +8205,22 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Ghana-Chapter",
         "country": "Ghana",
+        "meetings": 0
+    },
+    {
+        "name": "Giza",
+        "url": "https://owasp.org/www-chapter-giza/",
+        "created": "2024-03-25",
+        "updated": "2024-03-25",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Giza",
+        "level": "-1",
+        "type": "",
+        "region": "Africa",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Egypt",
         "meetings": 0
     },
     {
