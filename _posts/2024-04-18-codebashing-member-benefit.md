@@ -36,7 +36,7 @@ The Checkmarx research team has long contributed to the software development and
 
 Codebashing further extends that commitment to helping the software development community learn more and do better in everything related to application security. The training solution helps developers at all levels better understand concepts and terminology in AppSec, and from theory to practice, experience and solve real-time secure code challenges. Offering courses and mini-lessons in all leading coding languages, Codebashing covers all leading security vulnerabilities in an engaging and interactive way.  
  
-To learn more about Codebashing, [visit the website](https://www.codebashing.com/).
+To learn more about Codebashing or if you're an OWASP member in utilizing this member benefit, [please visit the website](https://checkmarx.com/codebashing/owasp/?utm_source=PR&utm_medium=referral&utm_campaign=Checkmarx_and_OWASP_Launch).
 
 ## About Checkmarx
 
