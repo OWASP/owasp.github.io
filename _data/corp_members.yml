@@ -213,14 +213,6 @@
   description: The biggest threat to corporate cybersecurity is your own developers' blind spots. Programmers tend to focus mainly on functionality and UX, causing the emphasis on secure development to be lost or become an afterthought. We believe that each line of code should be crafted with security in mind, naturally enhancing application resilience. Cydrill's award-winning training program and e-learning environment equip your developers with the secure code best practices to ensure they beat hackers at their own game. Cydrill’s blended learning journey combining instructor-led training, e-learning, hands-on labs, and gamification offers up-skilling from start-ups to Fortune 500 companies worldwide. Code responsibly!
 - member: true
   sponsor: -1
-  name: Synopsys
-  sortname: Synopsys
-  membertype: 4
-  image: /assets/images/corp-member-logo/Synopsyslogocmky72_1.png
-  url: https://www.synopsys.com/software-integrity.html
-  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
-- member: true
-  sponsor: -1
   name: Trend Micro
   sortname: Trend Micro
   membertype: 4
@@ -505,10 +497,10 @@
   description: Aikido Security is an all-in-one AppSec Platform. Aikido scans your source code, containers & cloud to show you which vulnerabilities are important to solve. Triaging is sped up by massively reducing false positives and making vulnerabilities human-readable. Aikido makes it simple to keep your product secure. Aikido combines scanning capabilities like SAST, DAST, CSPM, SCA, IaC, Container Scanning, and secrets detection - all in one tool.
 - member: true
   sponsor: -1
-  name:
-  sortname:
-  membertype:
-  image: /assets/images/corp-member-logo/
-  url:
+  name: Synopsys
+  sortname: Synopsys
+  membertype: 4
+  image: /assets/images/corp-member-logo/Synopsys.jpeg
+  url: https://www.synopsys.com/software-integrity.html
   job_url:
-  description:
+  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
