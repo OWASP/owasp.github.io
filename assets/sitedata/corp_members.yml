@@ -182,14 +182,6 @@
   description: 	GuidePoint Security provides cybersecurity expertise, solutions, and services that help organizations make better decisions and minimize risk. We act as your trusted advisor to understand your business and challenges, helping you through an evaluation of your cybersecurity posture and ecosystem to expose risks, optimize resources and implement best-fit solutions.
 - member: true
   sponsor: -1
-  name: Impart Security
-  sortname: Impart Security
-  membertype: 4
-  image: /assets/images/corp-member-logo/ImpartLogo.png
-  url: http://www.impart.security
-  description: Impart helps discover API endpoints, analyzes API traffic and specifications, and protects APIs from attacks automatically. It installs in minutes and is built for modern teams.
-- member: true
-  sponsor: -1
   name: Digital.ai
   sortname: Digital.ai
   membertype: 3
@@ -219,14 +211,6 @@
   image: /assets/images/corp-member-logo/cydrill_logo_300x90-01.png
   url: 	https://cydrill.com/
   description: The biggest threat to corporate cybersecurity is your own developers' blind spots. Programmers tend to focus mainly on functionality and UX, causing the emphasis on secure development to be lost or become an afterthought. We believe that each line of code should be crafted with security in mind, naturally enhancing application resilience. Cydrill's award-winning training program and e-learning environment equip your developers with the secure code best practices to ensure they beat hackers at their own game. Cydrill’s blended learning journey combining instructor-led training, e-learning, hands-on labs, and gamification offers up-skilling from start-ups to Fortune 500 companies worldwide. Code responsibly!
-- member: true
-  sponsor: -1
-  name: Synopsys
-  sortname: Synopsys
-  membertype: 4
-  image: /assets/images/corp-member-logo/Synopsyslogocmky72_1.png
-  url: https://www.synopsys.com/software-integrity.html
-  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
 - member: true
   sponsor: -1
   name: Trend Micro
@@ -489,7 +473,34 @@
   name: Hitachi Systems, Ltd.
   sortname: Hitachi Systems, Ltd.
   membertype: 4
-  image: Hitachi.png
+  image: /assets/images/corp-member-logo/Hitachi.png
   url: https://www.securebrain.co.jp/eng/
   job_url: 
   description: Hitachi Systems is committed to promoting sustainability management and supporting social innovation initiatives within the Hitachi Group in order to achieve the goal of contributing to the realization of a truly affluent society. Through our ability to solve real-world problems in various industries, we have built up a vast service infrastructure and well-trained human resources that have a solid understanding of customers’ business requirements. This can be utilized to provide a range of digitalization services and comprehensive support for customers’ digital transformations by offering Hitachi's Lumada that utilizes advanced digital technology as well as unique services in collaboration with partners.
+- member: true
+  sponsor: -1
+  name: Impart Security
+  sortname: Impart Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/Impart.png
+  url: https://www.impart.security/
+  job_url:
+  description: Impart Security’s integrated API security platform combines a complete understanding of APIs with next-generation runtime protection, giving security teams complete control over their APIs at runtime. Impart empowers security teams to easily create, manage, and maintain a solid security posture using easily customizable runtime API security controls. With integrated firewall, testing, LLMs, and a first-class developer experience, Impart provides a new level of control, accuracy, and confidence that legacy solutions cannot.
+- member: true
+  sponsor: -1
+  name: Aikido Security
+  sortname: Aikido Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/Aikido.png
+  url: https://www.aikido.dev/
+  job_url:
+  description: Aikido Security is an all-in-one AppSec Platform. Aikido scans your source code, containers & cloud to show you which vulnerabilities are important to solve. Triaging is sped up by massively reducing false positives and making vulnerabilities human-readable. Aikido makes it simple to keep your product secure. Aikido combines scanning capabilities like SAST, DAST, CSPM, SCA, IaC, Container Scanning, and secrets detection - all in one tool.
+- member: true
+  sponsor: -1
+  name: Synopsys
+  sortname: Synopsys
+  membertype: 4
+  image: /assets/images/corp-member-logo/Synopsys.jpeg
+  url: https://www.synopsys.com/software-integrity.html
+  job_url:
+  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
