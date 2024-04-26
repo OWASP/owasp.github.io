@@ -621,7 +621,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-capixaba",
         "country": "Brazil",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Adelaide",
@@ -755,7 +755,7 @@
         "name": "Albuquerque",
         "url": "https://owasp.org/www-chapter-albuquerque/",
         "created": "2019-09-12",
-        "updated": "2024-04-19",
+        "updated": "2024-04-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Albuquerque",
@@ -781,7 +781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Atlanta",
         "country": "USA",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Austin",
@@ -797,7 +797,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Austin-Chapter",
         "country": "USA",
-        "meetings": 22
+        "meetings": 23
     },
     {
         "name": "Bay Area",
@@ -989,7 +989,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Colorado-Springs-Meetup",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Columbia Sc",
@@ -1053,7 +1053,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Delaware-Chapter",
         "country": "USA",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Denver",
@@ -1341,7 +1341,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 16
+        "meetings": 17
     },
     {
         "name": "Madison",
@@ -1613,7 +1613,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Orlando",
@@ -2061,7 +2061,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasptriangle",
         "country": "USA",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Tulsa",
@@ -4000,22 +4000,6 @@
         "meetings": 0
     },
     {
-        "name": "Yenepoya Institute",
-        "url": "https://owasp.org/www-chapter-yenepoya-institute/",
-        "created": "2024-04-03",
-        "updated": "2024-04-23",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Yenepoya Institute",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "India",
-        "meetings": 0
-    },
-    {
         "name": "Zaragoza",
         "url": "https://owasp.org/www-chapter-zaragoza/",
         "created": "2019-09-12",
@@ -4429,13 +4413,13 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
         "country": "France",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Frankfurt",
         "url": "https://owasp.org/www-chapter-frankfurt/",
         "created": "2022-09-19",
-        "updated": "2024-01-19",
+        "updated": "2024-04-25",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-frankfurt",
         "title": "OWASP Frankfurt",
@@ -5139,7 +5123,7 @@
         "name": "Stockholm",
         "url": "https://owasp.org/www-chapter-stockholm/",
         "created": "2019-09-12",
-        "updated": "2024-04-24",
+        "updated": "2024-04-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Stockholm",
@@ -6451,7 +6435,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-04-07",
+        "updated": "2024-04-25",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
@@ -7069,7 +7053,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-mugla-university-student-chapter",
         "country": "Turkey",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Mumbai",
@@ -7171,7 +7155,7 @@
         "name": "National Institute Of Engineering Mysuru",
         "url": "https://owasp.org/www-chapter-national-institute-of-engineering-mysuru/",
         "created": "2023-07-12",
-        "updated": "2024-02-14",
+        "updated": "2024-04-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP National Institute of Engineering Mysuru",
@@ -8064,6 +8048,22 @@
         "meetings": 0
     },
     {
+        "name": "Yenepoya Institute",
+        "url": "https://owasp.org/www-chapter-yenepoya-institute/",
+        "created": "2024-04-03",
+        "updated": "2024-04-25",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Yenepoya Institute",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
         "name": "Yerevan",
         "url": "https://owasp.org/www-chapter-yerevan/",
         "created": "2021-07-28",
@@ -8355,7 +8355,7 @@
         "name": "Nairobi",
         "url": "https://owasp.org/www-chapter-nairobi/",
         "created": "2021-01-26",
-        "updated": "2024-04-23",
+        "updated": "2024-04-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Nairobi",
@@ -8364,7 +8364,7 @@
         "region": "Africa",
         "pitch": "More info soon...",
         "meetup-group": "owasp-nairobi-meetup-group",
-        "country": "",
+        "country": "Kenya",
         "meetings": 0
     },
     {
