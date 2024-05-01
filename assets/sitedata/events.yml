@@ -24,11 +24,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP 2024 BASC
-      start-date: 2024-04-06
-      dates: April 6, 2024
-      url: https://www.basconf.org/
-      optional-text: The Boston Application Security Conference (BASC) is an annual conference held by the Boston chapter of the Open Worldwide Application Security Project (OWASP) that includes presenters and workshops focused on current trends in application security.
     - name: OWASP Spring Virtual Training Days
       start-date: 2024-05-14
       dates: May 14-16, 2024
@@ -49,6 +44,11 @@
       dates: October 22-25, 2024
       url: https://lascon.org/
       optional-text: The Lonestar Application Security Conference (LASCON) is an OWASP annual conference held in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers, and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state, and it is held in Austin, which is a hub for startups in the state of Texas. At LASCON, leaders at these companies, along with security architects and developers, gather to share cutting-edge ideas, initiatives, and technology advancements.
+    - name: OWASP 2024 AppSec Days India (virtual)
+      start-date: 2024-11-14
+      dates: November 14-15, 2024
+      url:
+      optional-text: Join us for the first OWASP AppSec Days India for two full days of talks, including four keynote speakers.
     - name: OWASP 2024 BeNeLux
       start-date: 2024-11-28
       dates: November 28-29, 2024
