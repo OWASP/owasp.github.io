@@ -301,7 +301,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Joao-Pessoa-Chapter",
         "country": "Brazil",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Lima",
@@ -701,7 +701,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-new-zealand-chapter-auckland",
         "country": "New Zealand",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Perth",
@@ -733,7 +733,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sydney-Chapter",
         "country": "Australia",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Aguascalientes",
@@ -1822,22 +1822,6 @@
         "meetup-group": "OWASP-Sacramento-Chapter",
         "country": "USA",
         "meetings": 4
-    },
-    {
-        "name": "Saint Louis",
-        "url": "https://owasp.org/www-chapter-saint-louis/",
-        "created": "2019-09-12",
-        "updated": "2023-12-06",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP Saint Louis",
-        "level": "-1",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-STL",
-        "country": "USA",
-        "meetings": 0
     },
     {
         "name": "Salt Lake City",
@@ -3648,6 +3632,22 @@
         "meetings": 0
     },
     {
+        "name": "Saint Louis",
+        "url": "https://owasp.org/www-chapter-saint-louis/",
+        "created": "2019-09-12",
+        "updated": "2024-05-07",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Saint Louis",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "USA",
+        "meetings": 0
+    },
+    {
         "name": "San Fernando Valley",
         "url": "https://owasp.org/www-chapter-san-fernando-valley/",
         "created": "2019-09-12",
@@ -4253,7 +4253,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bristol",
         "country": "United Kingdom",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Bursa Technical University",
@@ -4451,7 +4451,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2024-05-03",
+        "updated": "2024-05-07",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -5165,7 +5165,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Suffolk-Chapter",
         "country": "United Kingdom",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Switzerland",
