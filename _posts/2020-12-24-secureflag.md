@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 As we close the year OWASP Foundation is proud to present a new member benefit in the form of [online training](https://secureflag.owasp.org) provided by [OWASP SecureFlag Open Platform](https://owasp.org/www-project-secureflag-open-platform/). All active OWASP members around the globe now have access to all of the great exercises and training options that the OWASP SecureFlag Open Platform supports and many more besides! 
 
 <!--more-->
-The platform uses SSO for login using your OWASP email address so ensure that you have your OWASP email address handy (if you don't yet have one, provision one [here](https://owasp.org/manage-membership/)) and then request an activation code [here](https://www.secureflag.com/owasp.html). Once you have your activation code, [Sign Up](https://secureflag.owasp.org/signup.html) and you are ready to go!
+The platform uses SSO for login using your OWASP email address so ensure that you have your OWASP email address handy (if you don't yet have one, provision one [here](https://owasp.org/manage-membership/)) and then request an activation code [here](https://www.secureflag.com/owasp). Once you have your activation code, [Sign Up](https://secureflag.owasp.org/signup.html) and you are ready to go!
 
 For more information about the OWASP SecureFlag Open Platform check out their [project page](https://owasp.org/www-project-secureflag-open-platform/). And if you are involved with a vulnerable web application project then please reach out to the project team about getting some exercises created showcasing your project. 
 
