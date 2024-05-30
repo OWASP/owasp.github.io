@@ -899,7 +899,7 @@
         "name": "Boulder",
         "url": "https://owasp.org/www-chapter-boulder/",
         "created": "2019-09-12",
-        "updated": "2022-10-10",
+        "updated": "2024-05-30",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-boulder",
         "title": "OWASP Boulder",
@@ -1117,7 +1117,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-edmonton",
         "country": "Canada",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Georgetown",
@@ -1645,7 +1645,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Orlando",
         "country": "USA",
-        "meetings": 1
+        "meetings": 0
     },
     {
         "name": "Ottawa",
@@ -1853,7 +1853,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-slc",
         "country": "USA",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "San Antonio",
@@ -2704,6 +2704,22 @@
         "meetings": 0
     },
     {
+        "name": "Dehradun",
+        "url": "https://owasp.org/www-chapter-dehradun/",
+        "created": "2024-05-29",
+        "updated": "2024-05-29",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Dehradun",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
         "name": "Des Moines",
         "url": "https://owasp.org/www-chapter-des-moines/",
         "created": "2020-01-28",
@@ -2781,6 +2797,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Eugene",
+        "url": "https://owasp.org/www-chapter-eugene/",
+        "created": "2024-05-30",
+        "updated": "2024-05-30",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Eugene",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "United States",
         "meetings": 0
     },
     {
@@ -3779,10 +3811,10 @@
         "name": "Srm Easwari Engineering College",
         "url": "https://owasp.org/www-chapter-srm-easwari-engineering-college/",
         "created": "2024-03-19",
-        "updated": "2024-05-17",
+        "updated": "2024-05-30",
         "build": "built",
         "codeurl": "",
-        "title": "OWASP SRM Easwari Engineering College - Student Chapter",
+        "title": "OWASP SRM Easwari Engineering College",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -4061,13 +4093,13 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-augsburg-chapter",
         "country": "Germany",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Barcelona",
         "url": "https://owasp.org/www-chapter-barcelona/",
         "created": "2020-05-05",
-        "updated": "2024-05-23",
+        "updated": "2024-05-30",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-barcelona",
         "title": "OWASP Barcelona",
@@ -4445,7 +4477,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-gothenburg-meetup-group",
         "country": "Sweden",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Greece",
@@ -4963,16 +4995,16 @@
         "name": "Riga",
         "url": "https://owasp.org/www-chapter-riga/",
         "created": "2021-06-30",
-        "updated": "2022-04-11",
-        "build": "no pages",
+        "updated": "2024-05-29",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Riga",
         "level": "-1",
         "type": "",
         "region": "Europe",
         "pitch": "More info soon...",
-        "meetup-group": "owasp-riga",
-        "country": "",
+        "meetup-group": "",
+        "country": "Latvia",
         "meetings": 0
     },
     {
@@ -6451,7 +6483,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-05-26",
+        "updated": "2024-05-29",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
@@ -6899,7 +6931,7 @@
         "name": "Mahendra Engineering College",
         "url": "https://owasp.org/www-chapter-mahendra-engineering-college/",
         "created": "2023-02-28",
-        "updated": "2024-04-29",
+        "updated": "2024-05-29",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Mahendra Engineering College Student Chapter",
@@ -6963,7 +6995,7 @@
         "name": "Manipal Institute Of Technology",
         "url": "https://owasp.org/www-chapter-manipal-institute-of-technology/",
         "created": "2024-01-03",
-        "updated": "2024-04-27",
+        "updated": "2024-05-29",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Manipal Institute of Technology",
@@ -8125,7 +8157,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Yerevan",
         "country": "Armenia",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Abidjan",

@@ -287,6 +287,13 @@
         "group_url": "https://owasp.org/www-chapter-barcelona/"
     },
     {
+        "name": "Oihana Gallagstegi",
+        "email": "oihana.gallagstegi@owasp.org",
+        "group": "OWASP Barcelona",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-barcelona/"
+    },
+    {
         "name": "Prashant KV",
         "email": "kvprashant@owasp.org",
         "group": "OWASP Bay Area",
@@ -625,13 +632,6 @@
     {
         "name": "Lilli Chang",
         "email": "lilli.chang@owasp.org",
-        "group": "OWASP Boulder",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-boulder/"
-    },
-    {
-        "name": "Tee Cure",
-        "email": "tamara.cure@owasp.org",
         "group": "OWASP Boulder",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-boulder/"
@@ -1253,6 +1253,20 @@
         "group_url": "https://owasp.org/www-chapter-dallas/"
     },
     {
+        "name": "Gautam Kumar",
+        "email": "gautam.kumar@owasp.org",
+        "group": "OWASP Dehradun",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dehradun/"
+    },
+    {
+        "name": "Brajesh Kumar",
+        "email": "brajesh.kumar@owasp.org",
+        "group": "OWASP Dehradun",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dehradun/"
+    },
+    {
         "name": "David Rhoades",
         "email": "david.rhoades@owasp.org",
         "group": "OWASP Delaware",
@@ -1454,6 +1468,20 @@
         "group": "OWASP Edmonton",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-edmonton/"
+    },
+    {
+        "name": "Michael Calabrese",
+        "email": "michael.calabrese@owasp.org ",
+        "group": "OWASP Eugene",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-eugene/"
+    },
+    {
+        "name": "Michael King",
+        "email": "michael.king@owasp.org",
+        "group": "OWASP Eugene",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-eugene/"
     },
     {
         "name": "Doç. Dr. Erhan Akbal",
@@ -3110,20 +3138,6 @@
     {
         "name": "Abhigyan Tripathi",
         "email": "abhigyan.tripathi@owasp.org",
-        "group": "OWASP Manipal Institute of Technology",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-manipal-institute-of-technology/"
-    },
-    {
-        "name": "Nishanth Nithyananda Shet ",
-        "email": "nishanth.shet@owasp.org",
-        "group": "OWASP Manipal Institute of Technology",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-manipal-institute-of-technology/"
-    },
-    {
-        "name": "Jeevan Reddy Bike",
-        "email": "jeevan.reddy@owasp.org",
         "group": "OWASP Manipal Institute of Technology",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-manipal-institute-of-technology/"
@@ -4790,28 +4804,28 @@
     {
         "name": "Balaji Vaithilingam - Faculty Advisor",
         "email": "balaji.vaithilingam@owasp.org",
-        "group": "OWASP SRM Easwari Engineering College - Student Chapter",
+        "group": "OWASP SRM Easwari Engineering College",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-srm-easwari-engineering-college/"
     },
     {
         "name": "Ponmalar A - Faculty Advisor",
         "email": "ponmalar.a@owasp.org",
-        "group": "OWASP SRM Easwari Engineering College - Student Chapter",
+        "group": "OWASP SRM Easwari Engineering College",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-srm-easwari-engineering-college/"
     },
     {
         "name": "Praveen H P",
         "email": "praveen.hp@owasp.org",
-        "group": "OWASP SRM Easwari Engineering College - Student Chapter",
+        "group": "OWASP SRM Easwari Engineering College",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-srm-easwari-engineering-college/"
     },
     {
         "name": "Sidharth S",
         "email": "sidharth.s@owasp.org",
-        "group": "OWASP SRM Easwari Engineering College - Student Chapter",
+        "group": "OWASP SRM Easwari Engineering College",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-srm-easwari-engineering-college/"
     },
