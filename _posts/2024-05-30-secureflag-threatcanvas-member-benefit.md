@@ -34,7 +34,7 @@ OWASP members will also continue to benefit from access to SecureFlag’s hands-
 “Threat modeling is the heart and soul of application security. SecureFlag’s new ThreatCanvas feature will be a welcome addition to the already great SecureFlag member benefit,” says Andrew van der Stock, Executive Director of the OWASP Foundation, and co-leader of the OWASP Top 10. “I look forward to seeing how our members use ThreatCanvas to model their applications.”
 
 ThreatCanvas provides developers with access to expert-level threat modeling automation to create software that is secure from the start.
-To learn more about ThreatCanvas or to register on the SecureFlag Platform if you are an OWASP member, visit the [SecureFlag website]().
+To learn more about ThreatCanvas or to register on the SecureFlag Platform if you are an OWASP member, visit the [SecureFlag website](https://www.secureflag.com/owasp).
 
 ### About SecureFlag
 
