@@ -989,7 +989,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cleveland-group",
         "country": "USA",
-        "meetings": 0
+        "meetings": 1
     },
     {
         "name": "Colorado Springs",
@@ -3744,22 +3744,6 @@
         "meetings": 0
     },
     {
-        "name": "Skopje",
-        "url": "https://owasp.org/www-chapter-skopje/",
-        "created": "2024-05-15",
-        "updated": "2024-05-15",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Skopje",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "North Macedonia",
-        "meetings": 0
-    },
-    {
         "name": "Somerset",
         "url": "https://owasp.org/www-chapter-somerset/",
         "created": "2020-02-24",
@@ -4371,7 +4355,7 @@
         "name": "Czech Republic",
         "url": "https://owasp.org/www-chapter-czech-republic/",
         "created": "2019-09-12",
-        "updated": "2024-05-13",
+        "updated": "2024-06-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Czech Republic",
@@ -4483,7 +4467,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2024-05-21",
+        "updated": "2024-06-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -5088,6 +5072,22 @@
         "meetings": 0
     },
     {
+        "name": "Skopje",
+        "url": "https://owasp.org/www-chapter-skopje/",
+        "created": "2024-05-15",
+        "updated": "2024-06-06",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Skopje",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-skopje-meetup-group",
+        "country": "North Macedonia",
+        "meetings": 0
+    },
+    {
         "name": "Sofia",
         "url": "https://owasp.org/www-chapter-sofia/",
         "created": "2019-09-12",
@@ -5149,7 +5149,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-stuttgart-chapter",
         "country": "Germany",
-        "meetings": 0
+        "meetings": 1
     },
     {
         "name": "Suffolk",
@@ -5213,7 +5213,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Timisoara-Chapter",
         "country": "Romania",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Umea",
