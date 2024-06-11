@@ -260,7 +260,7 @@
         "url": "https://owasp.org/www-chapter-goiania/",
         "created": "2022-08-30",
         "updated": "2024-06-10",
-        "build": "errored",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Goi\u00e2nia",
         "level": "-1",
@@ -669,7 +669,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Brisbane-OWASP-Meetup-Group",
         "country": "Australia",
-        "meetings": 10
+        "meetings": 11
     },
     {
         "name": "Canberra",
@@ -1267,7 +1267,7 @@
         "name": "Jacksonville",
         "url": "https://owasp.org/www-chapter-jacksonville/",
         "created": "2019-09-12",
-        "updated": "2024-06-03",
+        "updated": "2024-06-11",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-jacksonville",
         "title": "OWASP Jacksonville",
@@ -1277,7 +1277,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jacksonville-Chapter",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Kansas City",
@@ -2701,22 +2701,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Dehradun",
-        "url": "https://owasp.org/www-chapter-dehradun/",
-        "created": "2024-05-29",
-        "updated": "2024-05-31",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Dehradun",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "India",
         "meetings": 0
     },
     {
@@ -4429,7 +4413,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
         "country": "France",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Frankfurt",
@@ -5027,7 +5011,7 @@
         "name": "Scotland",
         "url": "https://owasp.org/www-chapter-scotland/",
         "created": "2019-09-12",
-        "updated": "2023-01-23",
+        "updated": "2024-06-10",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-scotland",
         "title": "OWASP Scotland",
@@ -5965,6 +5949,22 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cuttack-chapter",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Dehradun",
+        "url": "https://owasp.org/www-chapter-dehradun/",
+        "created": "2024-05-29",
+        "updated": "2024-06-10",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Dehradun",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -8253,7 +8253,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Cairo-Chapter",
         "country": "Egypt",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Cape Town",
