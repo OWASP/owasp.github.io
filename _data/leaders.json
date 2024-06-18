@@ -3626,13 +3626,6 @@
         "group_url": "https://owasp.org/www-chapter-new-york-city/"
     },
     {
-        "name": "Kim Carter",
-        "email": "kim.carter@owasp.org",
-        "group": "OWASP New Zealand",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-new-zealand/"
-    },
-    {
         "name": "John DiLeo",
         "email": "john.dileo@owasp.org",
         "group": "OWASP New Zealand",
@@ -3640,15 +3633,8 @@
         "group_url": "https://owasp.org/www-chapter-new-zealand/"
     },
     {
-        "name": "Kirk Jackson",
-        "email": "kirk.jackson@owasp.org",
-        "group": "OWASP New Zealand",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-new-zealand/"
-    },
-    {
-        "name": "Nick Malcolm",
-        "email": "nick.malcolm@owasp.org",
+        "name": "Kim Carter",
+        "email": "kim.carter@owasp.org",
         "group": "OWASP New Zealand",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-new-zealand/"
@@ -7749,8 +7735,15 @@
         "group_url": "https://owasp.org/www-project-serverless-top-10/"
     },
     {
-        "name": "Marcin Hoppe",
-        "email": "marcin.hoppe@owasp.org",
+        "name": "Aruneesh Salhotra",
+        "email": "aruneesh.salhotra@owasp.org",
+        "group": "OWASP Serverless Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-serverless-top-10/"
+    },
+    {
+        "name": "David Melamed",
+        "email": "david.melamed@owasp.org",
         "group": "OWASP Serverless Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-serverless-top-10/"
