@@ -752,22 +752,6 @@
         "meetings": 2
     },
     {
-        "name": "Aguascalientes",
-        "url": "https://owasp.org/www-chapter-aguascalientes/",
-        "created": "2019-09-12",
-        "updated": "2021-12-27",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP Aguascalientes",
-        "level": "-1",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-aguascalientes-meetup-group",
-        "country": "Mexico",
-        "meetings": 0
-    },
-    {
         "name": "Albuquerque",
         "url": "https://owasp.org/www-chapter-albuquerque/",
         "created": "2019-09-12",
@@ -797,7 +781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Atlanta",
         "country": "USA",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Austin",
@@ -973,7 +957,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cincinnati-meetup-group",
         "country": "USA",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Cleveland",
@@ -1005,7 +989,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Colorado-Springs-Meetup",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Columbia Sc",
@@ -1517,7 +1501,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nashville-Chapter",
         "country": "USA",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "New Braunfels",
@@ -1661,7 +1645,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Philadelphia",
@@ -1741,7 +1725,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Maine",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Princeton",
@@ -2205,6 +2189,22 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-zacatecas-meetup-group",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Aguascalientes",
+        "url": "https://owasp.org/www-chapter-aguascalientes/",
+        "created": "2019-09-12",
+        "updated": "2024-06-20",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Aguascalientes",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Mexico",
         "meetings": 0
     },
     {
@@ -3309,7 +3309,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-maine",
         "country": "",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Malta",
@@ -4413,7 +4413,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
         "country": "France",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Frankfurt",
@@ -4573,7 +4573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-italy-meetup-group",
         "country": "Italy",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Izmir",
@@ -4893,7 +4893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Chapter-Netherlands-Meetup",
         "country": "Netherlands",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Newcastle Uk",
@@ -4995,7 +4995,7 @@
         "name": "Riga",
         "url": "https://owasp.org/www-chapter-riga/",
         "created": "2021-06-30",
-        "updated": "2024-06-12",
+        "updated": "2024-06-20",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Riga",
@@ -5021,7 +5021,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-scotland-chapter",
         "country": "Scotland",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Sevilla",
@@ -6515,7 +6515,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-06-19",
+        "updated": "2024-06-20",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
@@ -7363,7 +7363,7 @@
         "name": "Penang",
         "url": "https://owasp.org/www-chapter-penang/",
         "created": "2024-03-25",
-        "updated": "2024-05-23",
+        "updated": "2024-06-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Penang",
@@ -7371,7 +7371,7 @@
         "type": "",
         "region": "Asia",
         "pitch": "More info soon...",
-        "meetup-group": "",
+        "meetup-group": "OWASP-Penang-Chapter",
         "country": "Malaysia",
         "meetings": 0
     },
