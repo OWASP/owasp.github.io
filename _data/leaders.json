@@ -5651,28 +5651,28 @@
     {
         "name": "Daniel Cuthbert",
         "email": "daniel.cuthbert@owasp.org",
-        "group": "OWASP Application Security Verification Standard",
+        "group": "OWASP Application Security Verification Standard (ASVS)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-verification-standard/"
     },
     {
         "name": "Jim Manico",
         "email": "jim.manico@owasp.org",
-        "group": "OWASP Application Security Verification Standard",
+        "group": "OWASP Application Security Verification Standard (ASVS)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-verification-standard/"
     },
     {
         "name": "Elar Lang",
         "email": "elarlang@gmail.com",
-        "group": "OWASP Application Security Verification Standard",
+        "group": "OWASP Application Security Verification Standard (ASVS)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-verification-standard/"
     },
     {
         "name": "Josh Grossman",
         "email": "josh.grossman@owasp.org",
-        "group": "OWASP Application Security Verification Standard",
+        "group": "OWASP Application Security Verification Standard (ASVS)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-verification-standard/"
     },
@@ -7975,6 +7975,13 @@
     {
         "name": "Sam Stepanyan",
         "email": "sam.stepanyan@owasp.org",
+        "group": "OWASP Web Application Firewall Evaluation Criteria Project (WAFEC)",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-wafec/"
+    },
+    {
+        "name": "Manuel Walder",
+        "email": "manuel.walder@owasp.org",
         "group": "OWASP Web Application Firewall Evaluation Criteria Project (WAFEC)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-wafec/"
