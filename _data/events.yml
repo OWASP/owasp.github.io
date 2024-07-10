@@ -1,11 +1,6 @@
 - category: Global
   description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
   events:
-    - name: OWASP Global AppSec Lisbon 2024
-      start-date: 2024-06-24
-      dates: June 24-28, 2024
-      url: https://lisbon.globalappsec.org/
-      optional-text: Participate in the OWASP 2024 Global AppSec Lisbon event alongside 700+ cybersecurity experts from June 24-28 at the Lisbon Congress Center in Lisbon, Portugal. Immerse yourself in insightful presentations by globally recognized keynote speakers, choose from our diverse range of five tracks, explore the exhibitor hall, and foster connections with fellow security professionals. Take advantage of our comprehensive training options*, available for one, two, and three days from June 24-26, followed by two conference days on June 27-28. Training requires a separate ticket. [Conference Registration](https://www.eventbrite.com/e/owasp-global-appsec-lisbon-2023-tickets-750689411237?aff=oddtdtcreator) is open! Exhibitor and sponsorship opportunities are now available. 
     - name: OWASP Global AppSec San Francisco 2024
       start-date: 2024-09-23
       dates: September 23-27, 2024
@@ -24,16 +19,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP 2024 AppSec Days Pacific Northwest
-      start-date: 2024-06-15
-      dates: June 15-16, 2024
-      url: https://www.appsecpnw.org/
-      optional-text: OWASP Chapters from the Pacific Northwest join forces to put together a conference focused on Application Security. Experts from across the Pacific Northwest come together for a full day of learning.
-    - name: OWASP 2024 Italy Day
-      start-date: 2024-06-20
-      dates: June 20, 2024
-      url: https://owasp.org/www-chapter-italy/events/OwaspItalyDay2024-06-20
-      optional-text: OWASP Italy Day 2024 will take place at Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security.    
     - name: OWASP 2024 AppSec Days Panama
       start-date: 2024-09-11
       dates: September 11-12, 2024
