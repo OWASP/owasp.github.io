@@ -947,7 +947,7 @@
         "name": "Cincinnati",
         "url": "https://owasp.org/www-chapter-cincinnati/",
         "created": "2019-09-12",
-        "updated": "2024-06-17",
+        "updated": "2024-07-24",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-cincinnati",
         "title": "OWASP Cincinnati",
@@ -1069,7 +1069,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Denver-OWASP",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Des Plaines",
@@ -1296,22 +1296,6 @@
         "meetings": 0
     },
     {
-        "name": "Knoxville",
-        "url": "https://owasp.org/www-chapter-knoxville/",
-        "created": "2019-09-12",
-        "updated": "2021-05-19",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP Knoxville",
-        "level": "-1",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Las Vegas",
         "url": "https://owasp.org/www-chapter-las-vegas/",
         "created": "2019-09-12",
@@ -1357,7 +1341,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 19
+        "meetings": 18
     },
     {
         "name": "Madison",
@@ -3133,6 +3117,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Knoxville",
+        "url": "https://owasp.org/www-chapter-knoxville/",
+        "created": "2019-09-12",
+        "updated": "2024-07-25",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Knoxville",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "United States",
         "meetings": 0
     },
     {
@@ -6579,7 +6579,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-07-24",
+        "updated": "2024-07-25",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
