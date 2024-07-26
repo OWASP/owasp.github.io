@@ -173,7 +173,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-chile-meetup-group",
         "country": "Chile",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Cuiaba",
@@ -605,7 +605,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
         "country": "Uruguay",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Vina Del Mar",
@@ -813,7 +813,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 16
+        "meetings": 15
     },
     {
         "name": "Bellingham",
@@ -963,7 +963,7 @@
         "name": "Cleveland",
         "url": "https://owasp.org/www-chapter-cleveland/",
         "created": "2019-09-12",
-        "updated": "2024-05-10",
+        "updated": "2024-07-26",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Cleveland",
@@ -1296,6 +1296,22 @@
         "meetings": 0
     },
     {
+        "name": "Knoxville",
+        "url": "https://owasp.org/www-chapter-knoxville/",
+        "created": "2019-09-12",
+        "updated": "2024-07-25",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Knoxville",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-knoxville",
+        "country": "United States",
+        "meetings": 0
+    },
+    {
         "name": "Las Vegas",
         "url": "https://owasp.org/www-chapter-las-vegas/",
         "created": "2019-09-12",
@@ -1341,7 +1357,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 18
+        "meetings": 19
     },
     {
         "name": "Madison",
@@ -1501,7 +1517,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nashville-Chapter",
         "country": "USA",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "New Braunfels",
@@ -1613,7 +1629,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Orlando",
@@ -2061,7 +2077,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasptriangle",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Tulsa",
@@ -3120,22 +3136,6 @@
         "meetings": 0
     },
     {
-        "name": "Knoxville",
-        "url": "https://owasp.org/www-chapter-knoxville/",
-        "created": "2019-09-12",
-        "updated": "2024-07-25",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Knoxville",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "United States",
-        "meetings": 0
-    },
-    {
         "name": "Kolhapur",
         "url": "https://owasp.org/www-chapter-kolhapur/",
         "created": "2024-01-10",
@@ -3667,10 +3667,10 @@
         "name": "Rose Hill",
         "url": "https://owasp.org/www-chapter-rose-hill/",
         "created": "2024-07-24",
-        "updated": "2024-07-24",
+        "updated": "2024-07-25",
         "build": "built",
         "codeurl": "",
-        "title": "OWASP Rose Hill",
+        "title": "OWASP Mauritius",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
@@ -4125,7 +4125,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-augsburg-chapter",
         "country": "Germany",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Barcelona",
@@ -4973,7 +4973,7 @@
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-nsrmjush",
         "country": "United Kingdom",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Poland",
