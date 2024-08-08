@@ -595,7 +595,7 @@
         "name": "Uruguay",
         "url": "https://owasp.org/www-chapter-uruguay/",
         "created": "2019-09-12",
-        "updated": "2024-07-23",
+        "updated": "2024-08-07",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Uruguay",
@@ -957,7 +957,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cincinnati-meetup-group",
         "country": "USA",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Cleveland",
@@ -1219,7 +1219,7 @@
         "name": "Houston",
         "url": "https://owasp.org/www-chapter-houston/",
         "created": "2019-09-12",
-        "updated": "2024-07-15",
+        "updated": "2024-08-08",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Houston",
@@ -1709,7 +1709,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Phoenix-Chapter",
         "country": "USA",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Pittsburgh",
@@ -2323,16 +2323,16 @@
         "name": "Athens",
         "url": "https://owasp.org/www-chapter-athens/",
         "created": "2021-05-12",
-        "updated": "2021-06-22",
-        "build": "no pages",
+        "updated": "2024-08-07",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Athens",
         "level": "-1",
         "type": "",
         "region": "Needs Website Update",
         "pitch": "More info soon...",
-        "meetup-group": "owasp-athens-meetup-group",
-        "country": "",
+        "meetup-group": "",
+        "country": "Greece",
         "meetings": 0
     },
     {
@@ -3776,6 +3776,22 @@
         "meetings": 0
     },
     {
+        "name": "Sofia",
+        "url": "https://owasp.org/www-chapter-sofia/",
+        "created": "2019-09-12",
+        "updated": "2024-08-07",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Sofia",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Bulgaria",
+        "meetings": 0
+    },
+    {
         "name": "Somerset",
         "url": "https://owasp.org/www-chapter-somerset/",
         "created": "2020-02-24",
@@ -5133,22 +5149,6 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-skopje-meetup-group",
         "country": "North Macedonia",
-        "meetings": 0
-    },
-    {
-        "name": "Sofia",
-        "url": "https://owasp.org/www-chapter-sofia/",
-        "created": "2019-09-12",
-        "updated": "2024-06-26",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP Sofia",
-        "level": "-1",
-        "type": "",
-        "region": "Europe",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Sofia-Chapter",
-        "country": "Bulgaria",
         "meetings": 0
     },
     {
@@ -6611,7 +6611,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2024-07-25",
+        "updated": "2024-08-08",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
