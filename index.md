@@ -32,20 +32,20 @@ spnews: False
 {% include specialnews.md %}
 {% endif %}
 
-<div style="display:grid;grid-column: 1/3; background-color:#fff;">
-  {% include flagships.html %}
-</div>
-
 <hr class="mobile">
 
 <div style="display:grid;grid-column: 1/3; background-color:#fff;">
   {% include featured_events.html %}  
- 
 </div>
 <hr>
 <div style="display:grid;grid-column: 1/3; background-color:#fff;">
  {% include upcoming_owasp.html %}
 </div>
+
+<div style="display:grid;grid-column: 1/3; background-color:#fff;">
+  {% include flagships.html %}
+</div>
+
 <hr>
 
 <section class="homepage-blog">
