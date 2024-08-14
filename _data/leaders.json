@@ -665,13 +665,6 @@
         "group_url": "https://owasp.org/www-chapter-brasilia/"
     },
     {
-        "name": "Reison Pontes de Aquiar Florindo",
-        "email": "reison.florindo@owasp.org",
-        "group": "OWASP Brasilia",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brasilia/"
-    },
-    {
         "name": "Glyn Geoghegan",
         "email": "glyng@owasp.org",
         "group": "OWASP Brisbane",
@@ -4186,6 +4179,13 @@
         "group_url": "https://owasp.org/www-chapter-rose-hill/"
     },
     {
+        "name": "Veegish Ramdani",
+        "email": "veegish.ramdani@owasp.org",
+        "group": "OWASP Mauritius",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-rose-hill/"
+    },
+    {
         "name": "Joubin Jabbari",
         "email": "joubin.jabbari@owasp.org",
         "group": "OWASP Sacramento",
@@ -7694,7 +7694,7 @@
     },
     {
         "name": "Jinson Varghese Behanan",
-        "email": "jinson-varghese.behanan@owasp.org",
+        "email": "jinson@owasp.org",
         "group": "OWASP Smart Contract Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-smart-contract-top-10/"
