@@ -10,25 +10,6 @@
   type: category
   description: >-
       Awarded by the Board for outstanding involvement in the organization over the course of many years.
-- title: Chapter Person of the Year
-  type: award
-  category: WASPY
-  year: 2024
-  winners:
-    - name:  Martin Knobloch 
-      image: /assets/images/people/board_martin2.png
-      info:  >-
-         2006: Attending my first OWASP AppSec conference, the OWASP AppSec in Belgium (and only missed two since)
-         <br>2007: Joining the OWASP Netherlands Chapter Board
-         <br>2008: First time presenting at an OWASP conference, the OWASP Australia Security Conference at Gold Coast, Queensland, Australia
-         <br>2008: Chairing the OWASP Education committee, as result of attending the first OWASP Summit in Portugal
-         <br>2009: Co-organizing the first OWASP BeNeLux-Day, and all of them since
-         <br>2010: First active involvement in an OWASP AppSec conference, hosting the CTF in Sweden
-         <br>2011: Co-organizing the OWASP Summit 2011
-         <br>2015: Conference Chair of the OWASP Global AppSec EU in Amsterdam
-         <br>2017: Joining the OWASP Global Foundation Board of DIrectors, until 2022
-         <br>2019: Joining the OWASP Europe Board
-         <br>Over the years, I have been promoting, mentoring and supporting OWASP in general; the various projects, chapters and events.  The leaders, organizers, members and volunteers. Anyone trying to find their way into AppSec. 
 - title: Event Person of the Year
   type: award
   category: WASPY
@@ -48,6 +29,25 @@
       info:  >-
         Felipe Zipitria is an expert in computer security, graduated with an MSc from the Universidad de la República in Uruguay. With over 20 years of experience in SRE, DevOps, and SysAdmin roles, Felipe has transitioned into specialized areas, dedicating the past 5 years to AppSec and Cloud SecOps. His extensive expertise spans security consulting for over a decade.
         Passionate about education, Felipe instructs pregraduate students in Computer Security Fundamentals and guides postgraduates in Web Application Security at the local public University, with the help of OWASP published materials. He started as the Uruguay Co-Chapter Leader in 2013, and started engaging in projects with global outreach. He is a longstanding contributor to OWASP CRS, serving as a developer and co-leader since 2021 and he is part of the OWASP Coraza leadership team, focusing on the development of new Web Application Firewalls (WAFs). Committed to fostering open-source engagement, he has served as a Google Summer of Code mentor for four consecutive years, nurturing students involvement in open-source and OWASP initiatives.
+- title: Chapter Person of the Year
+  type: award
+  category: WASPY
+  year: 2024
+  winners:
+    - name:  Martin Knobloch 
+      image: /assets/images/people/board_martin2.png
+      info:  >-
+         2006: Attending my first OWASP AppSec conference, the OWASP AppSec in Belgium (and only missed two since)
+         <br>2007: Joining the OWASP Netherlands Chapter Board
+         <br>2008: First time presenting at an OWASP conference, the OWASP Australia Security Conference at Gold Coast, Queensland, Australia
+         <br>2008: Chairing the OWASP Education committee, as result of attending the first OWASP Summit in Portugal
+         <br>2009: Co-organizing the first OWASP BeNeLux-Day, and all of them since
+         <br>2010: First active involvement in an OWASP AppSec conference, hosting the CTF in Sweden
+         <br>2011: Co-organizing the OWASP Summit 2011
+         <br>2015: Conference Chair of the OWASP Global AppSec EU in Amsterdam
+         <br>2017: Joining the OWASP Global Foundation Board of DIrectors, until 2022
+         <br>2019: Joining the OWASP Europe Board
+         <br>Over the years, I have been promoting, mentoring and supporting OWASP in general; the various projects, chapters and events.  The leaders, organizers, members and volunteers. Anyone trying to find their way into AppSec. 
 - title: Chapter Person of the Year
   type: award
   category:  WASPY
