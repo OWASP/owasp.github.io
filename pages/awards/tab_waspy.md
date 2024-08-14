@@ -10,7 +10,7 @@ tags: awd
 ---
 
 ## WASPY Awards
-{% assign awards = site.data.awards | where: 'category', 'WASPY' | sort: 'year' %}
+{% assign awards = site.data.awards | where: 'category', 'WASPY' | sort: 'year' | reverse %}
 {% assign previous = nil %}
 {%for award in awards %}
 {% if previous != award.year %}
