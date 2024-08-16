@@ -221,7 +221,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cusco-meetup-group",
         "country": "Peru",
-        "meetings": 1
+        "meetings": 0
     },
     {
         "name": "Florianopolis",
@@ -429,7 +429,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Porto-Alegre-Chapter",
         "country": "Brazil",
-        "meetings": 4
+        "meetings": 3
     },
     {
         "name": "Queretaro City",
@@ -605,7 +605,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
         "country": "Uruguay",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Vina Del Mar",
@@ -787,7 +787,7 @@
         "name": "Austin",
         "url": "https://owasp.org/www-chapter-austin/",
         "created": "2019-09-12",
-        "updated": "2024-08-08",
+        "updated": "2024-08-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Austin",
@@ -877,7 +877,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owaspboston",
         "country": "USA",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Boulder",
@@ -1533,7 +1533,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nashville-Chapter",
         "country": "USA",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "New Braunfels",
@@ -1581,7 +1581,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Northern-Virginia-Chapter",
         "country": "USA",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Oakland County",
@@ -1741,7 +1741,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Portland-Chapter",
         "country": "USA",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Portland Me",
@@ -2077,7 +2077,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Toronto",
         "country": "Canada",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Triangle Nc",
@@ -3776,22 +3776,6 @@
         "meetings": 0
     },
     {
-        "name": "Sofia",
-        "url": "https://owasp.org/www-chapter-sofia/",
-        "created": "2019-09-12",
-        "updated": "2024-08-12",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Sofia",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Bulgaria",
-        "meetings": 0
-    },
-    {
         "name": "Somerset",
         "url": "https://owasp.org/www-chapter-somerset/",
         "created": "2020-02-24",
@@ -4163,7 +4147,7 @@
         "name": "Augsburg",
         "url": "https://owasp.org/www-chapter-augsburg/",
         "created": "2024-02-26",
-        "updated": "2024-07-09",
+        "updated": "2024-08-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Augsburg",
@@ -5152,6 +5136,22 @@
         "meetings": 0
     },
     {
+        "name": "Sofia",
+        "url": "https://owasp.org/www-chapter-sofia/",
+        "created": "2019-09-12",
+        "updated": "2024-08-15",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Sofia",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-sofia",
+        "country": "Bulgaria",
+        "meetings": 0
+    },
+    {
         "name": "Stavanger",
         "url": "https://owasp.org/www-chapter-stavanger/",
         "created": "2022-07-19",
@@ -5773,7 +5773,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bhopal-Chapter",
         "country": "India",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Bhubaneswar",
@@ -6691,7 +6691,7 @@
         "name": "Kalasalingam Academy Of Research And Education",
         "url": "https://owasp.org/www-chapter-kalasalingam-academy-of-research-and-education/",
         "created": "2023-10-05",
-        "updated": "2024-08-14",
+        "updated": "2024-08-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Kalasalingam Academy of Research and Education",
@@ -7347,7 +7347,7 @@
         "name": "National Institute Of Engineering Mysuru",
         "url": "https://owasp.org/www-chapter-national-institute-of-engineering-mysuru/",
         "created": "2023-07-12",
-        "updated": "2024-08-11",
+        "updated": "2024-08-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP National Institute of Engineering Mysuru",
@@ -7667,7 +7667,7 @@
         "name": "Salem",
         "url": "https://owasp.org/www-chapter-salem/",
         "created": "2021-06-11",
-        "updated": "2022-02-21",
+        "updated": "2024-08-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Salem",
