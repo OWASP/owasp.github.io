@@ -1,5 +1,21 @@
 [
     {
+        "name": "Aguascalientes",
+        "url": "https://owasp.org/www-chapter-aguascalientes/",
+        "created": "2019-09-12",
+        "updated": "2024-08-22",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Aguascalientes",
+        "level": "-1",
+        "type": "",
+        "region": "South America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Mexico",
+        "meetings": 0
+    },
+    {
         "name": "Asuncion",
         "url": "https://owasp.org/www-chapter-asuncion/",
         "created": "2019-09-12",
@@ -291,7 +307,7 @@
         "name": "Joao Pessoa",
         "url": "https://owasp.org/www-chapter-joao-pessoa/",
         "created": "2021-09-02",
-        "updated": "2024-08-17",
+        "updated": "2024-08-22",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Joao Pessoa",
@@ -781,13 +797,13 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Atlanta",
         "country": "USA",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Austin",
         "url": "https://owasp.org/www-chapter-austin/",
         "created": "2019-09-12",
-        "updated": "2024-08-19",
+        "updated": "2024-08-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Austin",
@@ -1069,7 +1085,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Denver-OWASP",
         "country": "USA",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Des Plaines",
@@ -1229,7 +1245,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-houston-texas-chapter",
         "country": "USA",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Indianapolis",
@@ -1373,7 +1389,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 20
+        "meetings": 19
     },
     {
         "name": "Madison",
@@ -2237,22 +2253,6 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-zacatecas-meetup-group",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Aguascalientes",
-        "url": "https://owasp.org/www-chapter-aguascalientes/",
-        "created": "2019-09-12",
-        "updated": "2024-08-08",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Aguascalientes",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Mexico",
         "meetings": 0
     },
     {
@@ -4947,7 +4947,7 @@
         "name": "Netherlands",
         "url": "https://owasp.org/www-chapter-netherlands/",
         "created": "2019-09-12",
-        "updated": "2024-08-03",
+        "updated": "2024-08-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Netherlands",
@@ -5027,7 +5027,7 @@
         "name": "Porto",
         "url": "https://owasp.org/www-chapter-porto/",
         "created": "2022-01-10",
-        "updated": "2024-07-17",
+        "updated": "2024-08-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Porto",
@@ -5229,7 +5229,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASPSwitzerland",
         "country": "Switzerland",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Tallinn",
@@ -6493,7 +6493,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-indraprastha-institute-of-information-technology",
         "country": "India",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Islamabad",
