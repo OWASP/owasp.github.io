@@ -1,6 +1,6 @@
 ---
 
-date: 2023-10-24 00:00:00-0700
+date: 2024-10-02 00:00:00-0700
 categories: blog
 author: Julia Mezher
 author_image: /assets/images/people/leader_julia_mezher.png
@@ -10,12 +10,11 @@ excerpt_separator: <!--more-->
 
 ---
 
+React Native is a popular cross-platform mobile development framework that allows developers to build native-looking apps for iOS and Android using a single codebase. Like any other software, React Native apps are also vulnerable to a variety of security threats.
 
-# Securing React Native Mobile Apps with OWASP MAS
+<!--more-->
 
 ## 1. Securing each part of the app
-
-React Native is a popular cross-platform mobile development framework that allows developers to build native-looking apps for iOS and Android using a single codebase. Like any other software, React Native apps are also vulnerable to a variety of security threats.
 
 To secure a React Native app you should analyse all its parts and how they communicate. This requires an understanding of each block: React Native, iOS, and Android platforms and Bridge between them.
 
