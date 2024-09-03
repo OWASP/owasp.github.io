@@ -107,14 +107,14 @@ maintenance_message: We are currently experiencing issues with our Membership po
           <h3>Your Information</h3>
 	  <h4>If renewing, please use the same email address you used originally when joining. Not sure? Log into the <a href="https://members.owasp.org/">Membership Portal</a></h4>
           <div>
-            <input type="text" v-model="email" aria-label="Email Address"
+            <input type="email" v-model="email" aria-label="Email Address"
             placeholder="Member Email Address" />
             <div class="error-text" v-if="errors.email">
               {{ errors.email[0] }}
             </div>
           </div>
           <div>
-            <input type="text" v-model="email_confirm" aria-label="Confirm Email
+            <input type="email" v-model="email_confirm" aria-label="Confirm Email
             Address" placeholder="Confirm Member Email Address" />
             <div class="error-text" v-if="errors.email_confirm">
               {{ errors.email_confirm[0] }}
