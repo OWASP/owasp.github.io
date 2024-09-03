@@ -1,10 +1,18 @@
-# Securing Your React and Laravel Web Application with OWASP Security Rules
+---
 
-![Your Image](https://github.com/OWASP/owasp.github.io/tree/main/assets/images/people/syedasadrazadevops.jpg)
+date: 2024-10-01 00:09:00-0700
+categories: blog
+author: Syed Asadraza
+author_image: /assets/images/people/syedasadrazadevops.jpg
+layout: blogpost
+title: Securing your React and Laravel Web Application with OWASP Security Rules
+excerpt_separator: <!--more-->
 
-## Introduction
+---
 
 In today's digital age, web application security is more critical than ever. With the ever-growing number of cyber threats, it's essential to follow best practices for securing your web applications. The Open Web Application Security Project (OWASP) provides a valuable framework to help developers implement security measures and protect their applications from common vulnerabilities. In this README, we'll provide an overview of how to secure your React and Laravel web application by adhering to OWASP security rules.
+
+<!--more-->
 
 ## Table of Contents
 
