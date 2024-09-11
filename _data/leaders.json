@@ -4215,14 +4215,14 @@
     },
     {
         "name": "Joseph Gregorio",
-        "email": "",
+        "email": "joseph.gregorio@owasp.org",
         "group": "OWASP San Antonio",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-san-antonio/"
     },
     {
         "name": "Rodney Fielding",
-        "email": "",
+        "email": "rodney.sfielding@owasp.org",
         "group": "OWASP San Antonio",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-san-antonio/"
@@ -5727,7 +5727,7 @@
     },
     {
         "name": "Ken Prole",
-        "email": "",
+        "email": "ken.prole@owasp.org",
         "group": "OWASP Attack Surface Detector",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-attack-surface-detector/"
@@ -5860,7 +5860,7 @@
     },
     {
         "name": "Ken Prole",
-        "email": "",
+        "email": "ken.prole@owasp.org",
         "group": "OWASP Code Pulse",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-code-pulse/"
@@ -6581,7 +6581,7 @@
     },
     {
         "name": "Daniel Miessler",
-        "email": "",
+        "email": "daniel.miessler@owasp.org",
         "group": "OWASP internet of things top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-internet-of-things-top-10/"
@@ -7708,7 +7708,14 @@
     },
     {
         "name": "Farshad Abasi",
-        "email": "farshad.abasi@owasp.org",
+        "email": "farshad.abasi@owasp.com",
+        "group": "OWASP SPVS",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-spvs/"
+    },
+    {
+        "name": "Cameron W",
+        "email": "cameronww7@gmail.com",
         "group": "OWASP SPVS",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-spvs/"
