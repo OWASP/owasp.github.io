@@ -49,9 +49,9 @@ OWASP will send through your discount code entitlements for each event as regist
 
 Corporate Supporters get their logo and a descriptive blurb on the OWASP.org website, which appear on our [supporters page](/supporters/list) and randomly at the bottom of every page on owasp.org. 
 
-- Platinum Large size
-- Gold Medium size
-- Silver Standard size
+- Platinum Large size (300px)
+- Gold Medium size (250px)
+- Silver Standard size (150px)
 
 We will work with you to obtain a transparent icon of 300px X 90px at 72dpi. Our website automatically sizes your icon per the Corporate Supporter level.
 
