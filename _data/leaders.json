@@ -1596,20 +1596,6 @@
         "group_url": "https://owasp.org/www-chapter-germany/"
     },
     {
-        "name": "Adham Elmasry",
-        "email": "adham.elmasry@owasp.org",
-        "group": "OWASP Giza",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-giza/"
-    },
-    {
-        "name": "Muhammad Nasef",
-        "email": "muhammad.nasef@owasp.org",
-        "group": "OWASP Giza",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-giza/"
-    },
-    {
         "name": "Asheesh Tiwari ",
         "email": "asheesh.tiwari@owasp.org",
         "group": "OWASP GLA University Mathura",
@@ -7642,6 +7628,13 @@
         "group": "OWASP SkyShield",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-skyshield/"
+    },
+    {
+        "name": "Shashank",
+        "email": "shashank@owasp.org",
+        "group": "OWASP Smart Contract Security Verfication Standards",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-smart-contract-security-verfication-standards/"
     },
     {
         "name": "Jinson Varghese Behanan",
