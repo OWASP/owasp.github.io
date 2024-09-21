@@ -6223,6 +6223,27 @@
         "group_url": "https://owasp.org/www-project-developer-outreach-program/"
     },
     {
+        "name": "Tim Bastin",
+        "email": "tim.bastin@owasp.org",
+        "group": "OWASP DevGuard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-devguard/"
+    },
+    {
+        "name": "Sebastian Kawelke",
+        "email": "sebastian.kawelke@owasp.org",
+        "group": "OWASP DevGuard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-devguard/"
+    },
+    {
+        "name": "Frédéric Noppe",
+        "email": "frédéric.noppe@owasp.org",
+        "group": "OWASP DevGuard",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-devguard/"
+    },
+    {
         "name": "Ali Yazdani",
         "email": "ali.yazdani@owasp.org",
         "group": "OWASP DevSecOps",
@@ -6410,27 +6431,6 @@
         "group": "OWASP Find Security Bugs",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-find-security-bugs/"
-    },
-    {
-        "name": "Tim Bastin",
-        "email": "tim.bastin@owasp.org",
-        "group": "OWASP FlawFix",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-flawfix/"
-    },
-    {
-        "name": "Sebastian Kawelke",
-        "email": "sebastian.kawelke@owasp.org",
-        "group": "OWASP FlawFix",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-flawfix/"
-    },
-    {
-        "name": "Frédéric Noppe",
-        "email": "frédéric.noppe@owasp.org",
-        "group": "OWASP FlawFix",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-flawfix/"
     },
     {
         "name": "Vaishno Chaitanya",
@@ -8065,7 +8065,7 @@
     },
     {
         "name": "Luca Piras",
-        "email": "davide.ariu@owasp.org",
+        "email": "luca.piras@owasp.org",
         "group": "OWASP WAF Advanced Ruleset Management",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-waf-advanced-ruleset-management/"
