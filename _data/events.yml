@@ -1,11 +1,6 @@
 - category: Global
   description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
   events:
-    - name: OWASP Global AppSec San Francisco 2024
-      start-date: 2024-09-23
-      dates: September 23-27, 2024
-      url: https://sf.globalappsec.org/
-      optional-text: Join OWASP Global AppSec San Francisco alongside 1200+ cybersecurity experts from September 23-27 at the Hyatt Regency San Francisco in San Francisco, CA. Immerse yourself in thought-provoking presentations by globally renowned keynote speakers, choose from our diverse array of five tracks, explore the exhibitor hall, and establish connections with fellow security professionals. Take advantage of our flexible training options*, available for one, two, and three days from September 23-25, followed by two conference days on September 26-27. Training requires a separate ticket. [Conference Registration](https://www.eventbrite.com/e/owasp-global-appsec-san-francisco-2024-tickets-723699172707?aff=oddtdtcreator) is open! Exhibitor and sponsorship opportunities are now available.     
     - name: OWASP Global AppSec Washington DC 2025
       start-date: 2025-11-03
       dates: November 3-7, 2025
@@ -19,11 +14,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP 2024 AppSec Days Panama
-      start-date: 2024-09-11
-      dates: September 11-12, 2024
-      url: https://panama.appsecdays.org/
-      optional-text: Join us for the first AppSec Days Panama for a full day of training followed by a day of conference talks and exhibitor hall    
     - name: OWASP 2024 AppSec Days Singapore
       start-date: 2024-10-01
       dates: October 1-2, 2024
