@@ -12,7 +12,7 @@ OWASP's updated Corporate Supporter packages now contain more benefits than ever
 
 ## Become a Corporate Supporter Today
 
-To learn more, please [Contact Us](mailto:events@owasp.com) today!
+To learn more, please [Contact Us](mailto:kelly.santalucia@owasp.com) today!
 
 ## Corporate Supporter Packages
 
