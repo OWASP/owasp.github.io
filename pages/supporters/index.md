@@ -7,6 +7,8 @@ site_side: true
 tags: corp-supporter
 
 ---
+Our Corporate Supporters play a vital role in supporting the foundation's mission. Their generous financial contributions help OWASP continue its mission to improve software security. 
+
 Corporate Supporters can show their support for our mission and programs, reaching an audience of over 500,000 participants on social media, millions of monthly site visits, and optionally providing member benefits to thousands of OWASP financial members. 
 
 Quick Links:
