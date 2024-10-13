@@ -19,7 +19,7 @@ We are on the final countdown to the release of the [OWASP Application Security 
 
 The ASVS leaders and several other contributors will be meeting at the [OWASP Project Summit](https://owaspprojectsummit.org/) in November to pull together a release candidate of the updated requirements for ASVS 5.0.
 
-This will be a major release with a lot of changes to bring the ASVS up to date and make it more usable
+This will be a major release with a lot of changes to bring the ASVS up to date and make it more usable. See [here for more information on the guiding principles of the new release](https://github.com/OWASP/ASVS/wiki/Roadmap-to-version-5.0#key-objectives).
 
 Over the next couple of weeks, we will be announcing that certain chapters are ready for public review and we would welcome your input.
 
