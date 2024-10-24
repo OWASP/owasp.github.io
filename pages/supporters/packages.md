@@ -39,22 +39,22 @@ To learn more, please [Contact Us](mailto:kelly.santalucia@owasp.com) today!
 | ![Platinum](/assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg) | Platinum |
 | ------------------------------------------------------------------------- | :------: |
 | Platinum Standard                                                         | \$25,000 |
-| Platinum Regional                                                         | \$10,000 |
+| Platinum Regional*                                                        | \$10,000 |
 
 ### Gold Corporate Supporter
 
 | ![Gold](/assets/images/corp-membership-icons/OWASP_Tier_icons_Gold.svg) | Gold Price |
 | ----------------------------------------------------------------------- | :--------: |
 | Gold Standard                                                           |  \$15,000  |
-| Gold Regional                                                           |  \$6,000   |
+| Gold Regional*                                                          |  \$6,000   |
 
 ### Silver Corporate Supporter
 
 | ![Silver](/assets/images/corp-membership-icons/OWASP_Tier_icons_Silver.svg) | Silver Price |
 | --------------------------------------------------------------------------- | :----------: |
 | Silver Standard                                                             |   \$5,000    |
-| Silver Regional                                                             |   \$2,000    |
-| Silver Startup                                                              |   \$2,000    |
+| Silver Regional*                                                            |   \$2,000    |
+| Silver Startup*                                                             |   \$2,000    |
 
 ### What are Regional Corporate Supporters?
 
