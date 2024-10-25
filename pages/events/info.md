@@ -5,4 +5,4 @@
 * [Quick Links & Sample Budgets](/assets/images/content/2021 Events Quick Links.pdf)
 
 #### Event Association Partners
-* [Cybersecurity Conferences Directory](https://infosec-conferences.com)
+* [InfoSecMap Security Conference Directory](https://infosecmap.com)
