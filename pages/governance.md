@@ -34,7 +34,7 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 - [Privacy Policy](/www-policy/operational/privacy)
 - [Conflict Resolution](/www-policy/operational/conflict-resolution)
 - [Conflict of Interest](/www-policy/operational/conflict-of-interest)
-- [Whistleblower & Anti-Retaliation](/www-policy/whistleblower)
+- [Whistleblower & Anti-Retaliation](/www-policy/operational/whistleblower)
 
 ## Operations
 
