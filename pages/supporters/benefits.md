@@ -69,7 +69,7 @@ Global AppSec Event Sponsorships are usually entirely sold out very quickly. You
 
 ### Global AppSec Corporate Event Exhibitor/Sponsorship Subsidy
 
-Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor/sponsorship package.
+Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor package.
 
 | Package | Standard | Regional | Startup |
 | -- | :--: | :--: | :--: |
