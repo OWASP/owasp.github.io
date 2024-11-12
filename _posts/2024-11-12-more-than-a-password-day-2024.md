@@ -26,13 +26,13 @@ We recommend you run a security check on your account to ensure your account is 
 
 ## Use password-free authentication
 
-[![More than a Password Day 2024](/pages/events/featured/guidance_part_1.png){:width="100%" height="auto"}](/_posts/2024-11-12-more-than-a-password-day-2024)
+[![More than a Password Day 2024](/pages/events/featured/guidance_part_1.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/10/30/more-than-a-password-day-2024.html)
 
 Simpler to use and far more secure than passwords, passkeys use cryptographic to prove that you are you.
 
 ## Secure your email account
 
-[![More than a Password Day 2024](/pages/events/featured/guidance_part_2.png){:width="100%" height="auto"}](/_posts/2024-11-12-more-than-a-password-day-2024)
+[![More than a Password Day 2024](/pages/events/featured/guidance_part_2.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/10/30/more-than-a-password-day-2024.html)
 
 Email is the most common form of resetting your password. Add extra security to deter access to your accounts:
 
@@ -41,7 +41,7 @@ Email is the most common form of resetting your password. Add extra security to 
 
 ## Add layers of security
 
-[![More than a Password Day 2024](/pages/events/featured/guidance_part_3.png){:width="100%" height="auto"}](/_posts/2024-11-12-more-than-a-password-day-2024)
+[![More than a Password Day 2024](/pages/events/featured/guidance_part_3.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/10/30/more-than-a-password-day-2024.html)
 
 Additional security measures can help prevent phishing and other attacks, if used in addition to your password.
 
@@ -50,20 +50,20 @@ Additional security measures can help prevent phishing and other attacks, if use
 
 ## Use a password manager
 
-[![More than a Password Day 2024](/pages/events/featured/guidance_part_4.png){:width="100%" height="auto"}](/_posts/2024-11-12-more-than-a-password-day-2024)
+[![More than a Password Day 2024](/pages/events/featured/guidance_part_4.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/10/30/more-than-a-password-day-2024.html)
 
 - Using a password manager means you can use strong, randomly generated, harder to guess passwords.
 - Use a strong, memorable password manager password.
 
 ## Use a technique or passphrases to pick passwords
 
-[![More than a Password Day 2024](/pages/events/featured/guidance_part_5.png){:width="100%" height="auto"}](/_posts/2024-11-12-more-than-a-password-day-2024)
+[![More than a Password Day 2024](/pages/events/featured/guidance_part_5.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/10/30/more-than-a-password-day-2024.html)
 
 - Use "three random words" or passphrases to pick passwords that are easier to remember but hard to guess.
 
 ## Hacked? Move fast to change passwords
 
-[![More than a Password Day 2024](guidance_part_6.png){:width="100%" height="auto"}](/_posts/2024-11-12-more-than-a-password-day-2024)
+[![More than a Password Day 2024](guidance_part_6.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/10/30/more-than-a-password-day-2024.html)
 
 Your passwords should be changed immediately if:
 
