@@ -40,7 +40,7 @@ Many employers provide training and conferences as an employment benefit. Your s
 | Gold     | 5 discount codes  | 5 discount codes  |
 | Silver | 1 discount code   | 1 discount code   |
 
-OWASP will send through your discount code entitlements for each event as registrations are first opened to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec within the early bird registration period and are not transferrable to another event.
+Please [Contact Us](mailto:kelly.santalucia@owasp.com) for your discount code entitlements for each event as registrations are first opened to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec within the early bird registration period and are not transferrable to another event.
 
 * Global AppSec H1 is usually held in Europe in the first half of the year
 * Global AppSec H2 is usually held in North America in the second half of the year
@@ -69,7 +69,7 @@ Global AppSec Event Sponsorships are usually entirely sold out very quickly. You
 
 ### Global AppSec Corporate Event Exhibitor/Sponsorship Subsidy
 
-Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor/sponsorship package.
+Up to USD 2,500 of your Corporate Supporter fee can be applied towards a Global AppSec exhibitor package.
 
 | Package | Standard | Regional | Startup |
 | -- | :--: | :--: | :--: |

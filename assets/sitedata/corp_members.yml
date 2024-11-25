@@ -598,4 +598,21 @@
   url: http://www.zengroup.co.in
   job_url: 
   description: Zen Exim is India’s leading value-added distributor since 2000, providing IT infrastructure solutions like Wireless, Network, and Data Centre Switches, SD-WAN, Data Centre Security, Cloud-Based applications, and more. Zen has 4,000+ channel partners across India and SAARC, supporting key sectors such as Hospitality, Healthcare, Corporate, Education, BFSI, Telecom, and Government. With a presence of sales and technical teams in major Indian cities, Zen Exim partners with global OEMs like F5, CommScope, Arista, and other networking products. Quantum Networks, a brand under Zen Exim, manufactures advanced networking solutions in India, driving connectivity innovation for businesses in the digital era.
-
+- member: true
+  sponsor:
+  name: SKUDONET
+  sortname: SKUDONET
+  membertype: 4
+  image: /assets/images/corp-member-logo/SKUDONET.png
+  url: https://www.skudonet.com
+  job_url:
+  description: SKUDONET is a leader in Open Source Load Balancer, Web Application Firewall, and API security. Our solution integrates an operating system level, transforming into a Load Balancer that reduces latency and simplifies configuration. This integration allows for maximum utilization of the system’s resources, making it ideal for companies seeking efficient deployment and superior performance, especially in Local and Global Server Load Balancing (LSLB and GSLB) environments and hybrid cloud deployments. SKUDONET is different because of its efficiency, cost transparency, advanced algorithms for efficient balanced traffic, protection, SSL Auditing, and offloading extending with Free Open Source and Enterprise Versions.
+- member: true
+  sponsor: -1
+  name: Vijil, Inc.
+  sortname: Vijil, Inc.
+  membertype: 4
+  image: /assets/images/corp-member-logo/Vijil.png
+  url: https://vijil.ai
+  job_url:
+  description: Vijil helps organizations build and operate AI agents that humans can trust. For enterprises that want to deploy their LLM applications intro production sooner with governance, risk management, and compliance, Vijil offers a layer of trust and safety that plugs into their AI platform. Vijil Evaluate, a quality assurance agent, automates testing of reliability, security, and safety with industry-leading rigor, scale, and speed. Vijil Dome, an adaptive perimeter defense mechanism, blocks adversarial inputs and out-of-policy outputs more holistically, accurately, and adaptively than other guardrails. Vijil Trust Audit enables customers to enforce OWASP guidelines for LLM security and governance.
