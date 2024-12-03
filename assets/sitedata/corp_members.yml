@@ -602,13 +602,13 @@
   job_url:
   description: Vijil helps organizations build and operate AI agents that humans can trust. For enterprises that want to deploy their LLM applications intro production sooner with governance, risk management, and compliance, Vijil offers a layer of trust and safety that plugs into their AI platform. Vijil Evaluate, a quality assurance agent, automates testing of reliability, security, and safety with industry-leading rigor, scale, and speed. Vijil Dome, an adaptive perimeter defense mechanism, blocks adversarial inputs and out-of-policy outputs more holistically, accurately, and adaptively than other guardrails. Vijil Trust Audit enables customers to enforce OWASP guidelines for LLM security and governance.
 - member: true
-  sponsor: 4
+  sponsor: -1
   name: Equixly
   sortname: Equixly
   membertype: 3
   image: /assets/images/corp-member-logo/Equixly.png
   url: https://equixly.com
-  job_url: https://equixly.com/contact-us/
+  job_url: https://www.linkedin.com/company/equixly/jobs
   description: Equixly helps developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly offers a SaaS platform that allows integrating API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers can use to fix their application issues autonomously.
 - member: true
   sponsor: 4
