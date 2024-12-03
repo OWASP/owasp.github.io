@@ -3423,13 +3423,6 @@
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
     },
     {
-        "name": "Andi Pannell",
-        "email": "andrew.pannell@owasp.org",
-        "group": "OWASP Newcastle (UK)",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
-    },
-    {
         "name": "Dan Mullen",
         "email": "dan.mullen@owasp.org",
         "group": "OWASP Newcastle (UK)",
@@ -7961,6 +7954,13 @@
     {
         "name": "Michael Bargury",
         "email": "michael.bargury@owasp.org",
+        "group": "OWASP Low-Code/No-Code Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
+    },
+    {
+        "name": "Kayla Underkoffler",
+        "email": "underkoffler.kayla@gmail.com",
         "group": "OWASP Low-Code/No-Code Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
