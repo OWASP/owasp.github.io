@@ -637,3 +637,22 @@
   URL: https://www.secureflag.com/
   job_url: https://www.secureflag.com/contact
   description: SecureFlag empowers organizations in 30 plus countries to implement secure coding training. The platform offers thousands of hands-on labs in over 45 programming languages, hosted in virtualized environments. Developers gain skills to identify and remediate vulnerabilities, building secure software from the start. Through plugins, we integrate with the Software Development Life Cycle, embedding secure practices into workflows. Our customer success team designs bespoke training programs tailored to organizational needs. SecureFlag also offers ThreatCanvas, an automated threat modeling solution enabling developers to assess and mitigate design risks independently, reducing reliance on security teams.
+- member: true
+  sponsor: -1
+  name: Unbound Security
+  sortname: Unbound Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/UnboundSecurity.png
+  URL: https://unboundsecurity.ai/
+  job_url:
+  description: Unbound is an AI middleware that enables the safe adoption of AI by protecting internal and external AI applications. Its AI security platform includes a comprehensive set of customizable guardrails, model routing, and evaluation functionality.
+- member: true
+  sponsor: -1
+  name:	Bright Security
+  sortname: Bright Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/BrightSecurity.png
+  URL: https://brightsec.com/
+  job_url:
+  description: Bright Security delivers an enterprise-grade, developer-centric Dynamic Application Security Testing (DAST) platform, enabling organizations to identify and remediate vulnerabilities early and seamlessly throughout the Software Development Life Cycle (SDLC). Trusted by leading organizations across the globe, Bright excels in securing web applications, APIs, business logic, and LLMs. By integrating directly into development workflows, Bright empowers teams to accelerate vulnerability resolution by up to 10X, ensuring robust security without compromising speed or innovation.
+    
