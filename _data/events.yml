@@ -6,12 +6,12 @@
       dates: May 26-30, 2025
       url: https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/
       #optional-text:     
-    - name: OWASP Global AppSec Washington DC 2025
+    - name: OWASP Global AppSec US 2025
       start-date: 2025-11-03
       dates: November 3-7, 2025
       #url:
       #optional-text: 
-    - name: OWASP Global AppSec San Francisco 2026
+    - name: OWASP Global AppSec US 2026
       start-date: 2026-11-02
       dates: November 2-6, 2026
       #url:
@@ -23,12 +23,17 @@
       start-date: 2024-11-28
       dates: November 28-29, 2024
       url: https://www.owaspbenelux.eu/
-      optional-text: BeNeLux hosts a variety of technical talks by experts in security, devops, and cloud in addition to hands on training options.
+      optional-text: BeNeLux hosts a variety of technical talks byining options.
     - name: OWASP SnowFROC 2025
       start-date: 2025-03-14
       dates: March 14, 2025
       url: https://www.snowfroc.com/
       optional-text: SnowFROC, Front Range OWASP Conference, is Denver's premier application security conference. It is an annual, one-day conference which draws about 400 people.    
+    - name: OWASP AppSec Israel 2025
+      start-date: 2025-06-05
+      dates: June 5, 2025
+      url: https://appsecil.org/
+      optional-text: The annual OWASP AppSec Israel Conference is the largest conference in Israel and the region for application security, and regularly draws hundreds of participants. But AppSecIL is not just for security experts! Close to 1000 developers, testers, architects, product designers, and managers will attend this year.Everyone involved with the software lifecycle is welcome, regardless of type of software, website, mobile app, or any other type of application.
     - name: OWASP 2025 LASCON
       start-date: 2025-10-21
       dates: October 21-24, 2025
