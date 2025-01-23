@@ -40,7 +40,7 @@ To learn more, please [Contact Us](mailto:kelly.santalucia@owasp.com).
 | ![Platinum](/assets/images/corp-membership-icons/OWASP_Tier_Platinum.svg) | Platinum |
 | ------------------------------------------------------------------------- | :------: |
 | Platinum Standard                                                         | \$25,000 |
-| Platinum Regional*                                                        | \$10,000 |
+| Platinum Regional*see below                                                        | \$10,000 |
 
 ### Gold Corporate Supporter
 
