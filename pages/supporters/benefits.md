@@ -80,3 +80,8 @@ Provide OWASP members with an individual member benefit, such as an easy-to-use 
 
 Available for Platinum and Gold Corporate Supporters. 
 Company logo and URL to your hiring page are displayed on OWASP's Job Posting web page.
+
+### Optional Recorded Session with OWASP's Executive Director
+
+Platinum Corporate Supporters will have a scheduled 10–15-minute recorded session with OWASP's Executive Director to share why they support OWASP and how being part of the organization benefits their company. Each recording will be featured on the OWASP.org homepage for one month.
+
