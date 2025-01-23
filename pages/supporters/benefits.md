@@ -14,7 +14,7 @@ tags: corp-supporter
 
 Corporate Supporters can use our new Corporate Supporter logos on your website and marketing to demonstrate their support for OWASP. 
 
-### Support OWASP Projects or Chapters
+### Support OWASP Chapters or Projects
 
 Corporate Supporters have the option to allocate 10% of their dues to support either OWASP Chapters or Projects. While you may select a specific chapter or project, the funds will ultimately contribute to advancing OWASP's overall mission. OWASP will add this contribution to the expenses pool with no administrative fee to benefit our Chapters or Projects. In return, participating Chapters or Projects may add your logo to their home page and are encouraged to recognize your contribution at the start of meetings or in the project's deliverable, where possible.
 
