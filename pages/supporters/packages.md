@@ -31,7 +31,8 @@ To learn more, please [Contact Us](mailto:kelly.santalucia@owasp.com) today!
 | [Option to provide an OWASP Individual Member benefit *must meet OWASP approval](https://owasp.org/supporters/benefits)                 |                     ✅                      |                 ✅                  |                                      |
 | [Job Posting Board](https://owasp.org/supporters/benefits#Job-Posting-Board)           |                     ✅                      |                 ✅                  |                                      |
 | [Global AppSec event holding slide](https://owasp.org/supporters/benefits)           |                     15 seconds                      |                 10 seconds                  |                                      |
-| [Recorded session with OWASP's Executive Director](https://owasp.org/supporters/benefits#Optional-Recorded-Session-with-OWASP's-Executive-Director)             |                     ✅                      |                          | [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship)                      |                     ✅                      |                                    |                                        |                                
+| [Recorded session with OWASP's Executive Director](https://owasp.org/supporters/benefits#Optional-Recorded-Session-with-OWASP's-Executive-Director)                      |                     ✅                      |                                    |                                        |                                          
+| [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship)                      |                     ✅                      |                                    |                                        |                                
 
 ### Platinum Corporate Supporter
 
