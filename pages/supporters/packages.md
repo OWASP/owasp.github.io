@@ -10,7 +10,9 @@ tags: corp-supporter
 
 OWASP's updated Corporate Supporter packages now contain more benefits than ever. Updated benefits include Corporate Supporter logos for your website, registration discounts, early access to our events, and more. There's a package with affordable prices for all, including steep discounts for emerging or developing economies and startups. Corporate Supporter packages are valid for 365 days beginning the date payment is received. 
 
-## Become a Corporate Supporter Today
+## Be a part of our journey. 
+Your contribution creates opportunities.
+Become a Corporate Supporter Today
 
 To learn more, please [Contact Us](mailto:kelly.santalucia@owasp.com) today!
 
