@@ -2723,13 +2723,6 @@
         "group_url": "https://owasp.org/www-chapter-logrono/"
     },
     {
-        "name": "Pedro Escudero",
-        "email": "pedro.escudero@owasp.org",
-        "group": "OWASP Logrono, La Rioja",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-logrono/"
-    },
-    {
         "name": "Sherif Mansour",
         "email": "sherif.mansour@owasp.org",
         "group": "OWASP London",
@@ -7210,6 +7203,13 @@
         "group_url": "https://owasp.org/www-project-pryingdeep/"
     },
     {
+        "name": "Emerson Garcia MSc PhD (C)",
+        "email": "emerson.garcia@owasp.org",
+        "group": "OWASP PSIRT",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-psirt/"
+    },
+    {
         "name": "Kim Carter (binarymist)",
         "email": "kim.carter@owasp.org",
         "group": "OWASP PurpleTeam",
@@ -7817,6 +7817,13 @@
         "group": "OWASP Threat Modeling Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-model/"
+    },
+    {
+        "name": "Petra Vukmirovic",
+        "email": "petra.vukmirovic@owasp.org",
+        "group": "OWASP Threat Model Vault",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-model-vault/"
     },
     {
         "name": "Sebastien Deleersnyder",
