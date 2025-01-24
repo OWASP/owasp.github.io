@@ -616,7 +616,7 @@
   sortname: OccamSec
   membertype: 4
   image: /assets/images/corp-member-logo/OccamSec.png
-  url: http://osec.com
+  url: https://osec.com
   job_url:
   description: OccamSec excels in providing a wide range of services extending to penetration testing, continuous penetration testing,red team operations, purple team engagements, and vulnerability research. With a commitment to cutting-edge methodologies, we enable organizations to fortify their security posture and proactively detect and address vulnerabilities before they can be exploited.
 - member: true
@@ -625,7 +625,7 @@
   sortname: Heeler
   membertype: 4
   image: /assets/images/corp-member-logo/Heeler.jpg
-  URL: https://www.heeler.com/
+  url: https://heeler.com
   job_url:
   description: Application security teams and developers don’t need more findings—they need actionable context to effectively shift left. Heeler puts application security teams in control by unifying code, runtime, business, and security context to operationalize shift-left efforts. By combining ASPM, static and runtime SCA, and runtime threat modeling, Heeler reduces vulnerability noise by 95% and ensures high-impact risks are caught before they reach production.
 - member: true
@@ -634,7 +634,7 @@
   sortname: SecureFlag
   membertype: 2
   image: /assets/images/corp-member-logo/SecureFlag.png
-  URL: https://www.secureflag.com/
+  url: https://www.secureflag.com/
   job_url: https://www.secureflag.com/contact
   description: SecureFlag empowers organizations in 30 plus countries to implement secure coding training. The platform offers thousands of hands-on labs in over 45 programming languages, hosted in virtualized environments. Developers gain skills to identify and remediate vulnerabilities, building secure software from the start. Through plugins, we integrate with the Software Development Life Cycle, embedding secure practices into workflows. Our customer success team designs bespoke training programs tailored to organizational needs. SecureFlag also offers ThreatCanvas, an automated threat modeling solution enabling developers to assess and mitigate design risks independently, reducing reliance on security teams.
 - member: true
@@ -643,14 +643,14 @@
   sortname: Unbound Security
   membertype: 4
   image: /assets/images/corp-member-logo/UnboundSecurity.png
-  URL: https://unboundsecurity.ai/
+  url: https://unboundsecurity.ai/
   job_url:
   description: Unbound is an AI middleware that enables the safe adoption of AI by protecting internal and external AI applications. Its AI security platform includes a comprehensive set of customizable guardrails, model routing, and evaluation functionality.
-- member: 4
+- member: true
   sponsor: -1
   name: Cobalt  
   sortname: Cobalt
   image: /assets/images/corp-member-logo/Cobalt.png
-  URL: http://www.Cobalt.io
+  url: https://www.cobalt.io/
   job_url:
   description: Cobalt combines talent and technology to provide end-to-end offensive security solutions that enable organizations to remediate risk across a dynamically changing attack surface. The innovators of Pentest as a Service, Cobalt empowers businesses to optimize their existing resources, access an on-demand community of trusted security experts, expedite remediation cycles, and share real-time updates and progress with internal teams to mitigate future risk.
