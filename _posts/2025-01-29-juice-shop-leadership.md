@@ -36,7 +36,7 @@ The **Juice Shop Developer Meeting** is scheduled **every two weeks on Tuesday a
 
 We maintain two public channels on the official [OWASP Slack](https://owasp.org/slack/invite) server, first of all the main community channel [`project-juiceshop`](https://owasp.slack.com/archives/C255XSY04) for questions, ideas and feedback. Second, the [`juiceshop-dev`](https://owasp.slack.com/archives/CCGNHE0F4) channel where CI/CD pipeline and test automation results are posted by bots.
 
-For contributors, we have a dedicated private channel [`juiceshop-contribotors`](https://owasp.slack.com/archives/C05SF88UU73), which you can easily join by pinging `@bkimminich` or `@Jannik` in the public main channel or by sending either a direct message. We will, for now, not make this channel public to avoid it getting used by accident for support questions and other topics the [`project-juiceshop`](https://owasp.slack.com/archives/C255XSY04) channel is meant for.
+For contributors, we have a dedicated private channel [`juiceshop-contributors`](https://owasp.slack.com/archives/C05SF88UU73), which you can easily join by pinging `@bkimminich` or `@Jannik` in the public main channel or by sending either a direct message. We will, for now, not make this channel public to avoid it getting used by accident for support questions and other topics the [`project-juiceshop`](https://owasp.slack.com/archives/C255XSY04) channel is meant for.
 
 ### Google Summer of Code 2025
 
