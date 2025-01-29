@@ -4,6 +4,7 @@ date: 2025-01-29 00:00:00-0700
 categories: blog
 author: Bjoern Kimminich
 author_image: /assets/images/people/leader_bjoern.jpg
+og_image: /assets/images/posts/juice-shop-leadership/juice-shop_project-leaders.jpg
 layout: blogpost
 title: OWASP Juice Shop leadership changes & contributor recognition
 excerpt_separator: <!--more-->
