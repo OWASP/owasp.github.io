@@ -10,13 +10,13 @@ excerpt_separator: <!--more-->
 
 ---
 
-OWASP Juice Shop proudly announces long-time contributor Jannik Hollenbach as co-project lead effective immediately! We are furthermore enhancing and simplifying our contributor engagement & recognition. Read on to learn more about these changes and how you can get involved in the project!
+OWASP Juice Shop proudly announces long-time contributor Jannik Hollenbach as co-project lead effective immediately! Additionally, we are enhancing and simplifying our contributor engagement & recognition. Read on to learn more about these changes and how you can get involved in the project!
 
 <!--more-->
 
 ## Project Leadership x2
 
-Effective immediately, [Jannik Hollenbach](https://infosec.exchange/@jannik) joins [Bjoern Kimminich](https://bsky.app/profile/bkimminich.bsky.social) as co-project lead of the OWASP Juice Shop. Jannik is an active contributor to the project for many years. His achievements include developing the [MultiJuicer](https://github.com/juice-shop/multi-juicer) hosting-platform, building the [Hacking Instructor](https://pwning.owasp-juice.shop/companion-guide/latest/part1/challenges.html#_hacking_instructor) mechanism for our in-app tutorials, and fully re-creating the Score Board in a modern tile-based layout.
+Effective immediately, [Jannik Hollenbach](https://infosec.exchange/@jannik) joins [Bjoern Kimminich](https://bsky.app/profile/bkimminich.bsky.social) as co-project lead of the OWASP Juice Shop. Jannik has been an an active contributor to the project for many years. His achievements include developing the [MultiJuicer](https://github.com/juice-shop/multi-juicer) hosting-platform, building the [Hacking Instructor](https://pwning.owasp-juice.shop/companion-guide/latest/part1/challenges.html#_hacking_instructor) mechanism for our in-app tutorials, and fully re-creating the Score Board in a modern tile-based layout.
 
 ![](/assets/images/posts/juice-shop-leadership/juice-shop_project-leaders.jpg)
 
@@ -42,9 +42,9 @@ For contributors, we have a dedicated private channel [`juiceshop-contributors`]
 
 Juice Shop successfully participates in GSoC [under the OWASP umbrella](https://owasp.org/www-community/initiatives/gsoc/gsoc2025) since 2018. We provide true mentorship to our students, with weekly meetings for the ideation & feedback cycles, and 1:1 sessions on demand for troubleshooting or pair programming. You can find the overview of all our previous projects on [our official references](https://github.com/juice-shop/juice-shop/blob/master/REFERENCES.md#googlesummerofcode) page.
 
-In 2025, Juice Shop again promotes [several project ideas](https://owasp.org/www-community/initiatives/gsoc/gsoc2025ideas#owasp-juice-shop) to prospective students. We are of course also open for suggestions of entirely new project ideas. Feel free to pitch yours directly to the listed mentor team!
+In 2025, Juice Shop again promotes [several project ideas](https://owasp.org/www-community/initiatives/gsoc/gsoc2025ideas#owasp-juice-shop) to prospective students. In addition to the projects proposed by the team, we are open to suggestions of entirely new project ideas. Feel free to pitch yours directly to the listed mentor team!
 
-Please note that the most successful GSoC projects usually come from students who have already contributed to the project before. So if you are interested in GSoC, start contributing now! Make sure to read our [Contribution Guidelines](https://pwning.owasp-juice.shop/companion-guide/latest/part3/contribution.html) and optionally our [Codebase 101](https://pwning.owasp-juice.shop/companion-guide/latest/part3/codebase.html) for newcomers.
+Please note that the most successful GSoC projects usually come from students who have already contributed to the project before, so if you are interested in GSoC, start contributing now! Make sure to read our [Contribution Guidelines](https://pwning.owasp-juice.shop/companion-guide/latest/part3/contribution.html) and optionally our [Codebase 101](https://pwning.owasp-juice.shop/companion-guide/latest/part3/codebase.html) for newcomers.
 
 ## Simplified contributor recognition
 
