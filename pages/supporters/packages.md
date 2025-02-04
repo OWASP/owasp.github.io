@@ -31,7 +31,7 @@ To learn more, please [Contact Us](mailto:kelly.santalucia@owasp.com).
 | [Corporate Sponsorship Subsidy](/supporters/benefits#global-appsec-corporate-event-sponsorship-subsidy)                       |                     ✅                      |                 ✅                  |                   ✅                    |
 | [Option to provide an OWASP Individual Member benefit *must meet OWASP approval](https://owasp.org/supporters/benefits)                 |                     ✅                      |                 ✅                  |                                      |
 | [Job Posting Board](https://owasp.org/supporters/jobs)           |                     ✅                      |                 ✅                  |                                      |
-| [Global AppSec event holding slide](/supporters/benefits)           |                     15 seconds                      |                 10 seconds                  |                                      |
+| [Global AppSec event holding slide](/supporters/benefits)           |                     ✅                      |                 ✅                  |                                      |
 | [Recorded session with OWASP's Executive Director](https://owasp.org/supporters/benefits)                      |                     ✅                      |                                    |                                        |                                          
 | [Global AppSec Sponsorship Early access](/supporters/benefits#early-access-to-global-appsec-sponsorship)                      |                     ✅                      |                                    |                                        |                                
 
