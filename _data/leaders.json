@@ -2695,13 +2695,6 @@
         "group_url": "https://owasp.org/www-chapter-leiria/"
     },
     {
-        "name": "Eduardo Piza",
-        "email": "eduardo.piza@owasp.org",
-        "group": "OWASP Leiria",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-leiria/"
-    },
-    {
         "name": "Luis Serra",
         "email": "luis.serra@owasp.org",
         "group": "OWASP Leiria",
@@ -5332,6 +5325,20 @@
         "group": "OWASP Winnipeg",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-winnipeg/"
+    },
+    {
+        "name": "Erneste Mougoue Djomani",
+        "email": "ernest.mougoue@owasp.org",
+        "group": "OWASP Yaounde",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-yaounde/"
+    },
+    {
+        "name": "Valery Melou Gouegni",
+        "email": "valery.melou@owasp.org",
+        "group": "OWASP Yaounde",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-yaounde/"
     },
     {
         "name": "Kiran Singh",
@@ -7992,6 +7999,20 @@
         "group": "OWASP Top 10 Drone Security Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-drone-security-risks/"
+    },
+    {
+        "name": "Ivan Novikov",
+        "email": "ivan.novikov@owasp.org",
+        "group": "OWASP Top 10 for Business Logic Abuse",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-for-business-logic-abuse/"
+    },
+    {
+        "name": "Silvia Pravida",
+        "email": "ivan.novikov@owasp.org",
+        "group": "OWASP Top 10 for Business Logic Abuse",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-for-business-logic-abuse/"
     },
     {
         "name": "Faiz Ahmed Zaidi",
