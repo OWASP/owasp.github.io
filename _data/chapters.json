@@ -845,7 +845,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 14
+        "meetings": 15
     },
     {
         "name": "Bellingham",
@@ -2013,7 +2013,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Seattle-Chapter",
         "country": "USA",
-        "meetings": 18
+        "meetings": 17
     },
     {
         "name": "South Florida",
@@ -2653,6 +2653,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Chapter Heilbronn",
+        "url": "https://owasp.org/www-chapter-chapter--heilbronn/",
+        "created": "2025-02-13",
+        "updated": "2025-02-13",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP chapter- heilbronn",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Germany",
         "meetings": 0
     },
     {
@@ -4563,7 +4579,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-02-05",
+        "updated": "2025-02-13",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -4867,7 +4883,7 @@
         "name": "Logrono",
         "url": "https://owasp.org/www-chapter-logrono/",
         "created": "2024-01-11",
-        "updated": "2025-02-03",
+        "updated": "2025-02-12",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Logrono, La Rioja",
@@ -5235,7 +5251,7 @@
         "name": "Stuttgart",
         "url": "https://owasp.org/www-chapter-stuttgart/",
         "created": "2024-03-13",
-        "updated": "2024-12-13",
+        "updated": "2025-02-12",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-stuttgart",
         "title": "OWASP Stuttgart",
@@ -7315,7 +7331,7 @@
         "name": "Mumbai",
         "url": "https://owasp.org/www-chapter-mumbai/",
         "created": "2019-09-12",
-        "updated": "2024-10-24",
+        "updated": "2025-02-12",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Mumbai",
