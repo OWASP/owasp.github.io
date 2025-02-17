@@ -12,9 +12,10 @@ Our Corporate Supporters play a vital role in supporting the foundation's missio
 Corporate Supporters can show their support for our mission and programs, reaching an audience of over 500,000 participants on social media, millions of monthly site visits, and optionally providing member benefits to thousands of OWASP financial members. 
 
 ## Support OWASP today!
+Your support is critical to the success of OWASP. There are many ways to support the foundation:
 ### - [Become a Corporate Supporter](mailto:kelly.santalucia@owasp.com)
 ### - [Sponsor OWASP Global AppSec and participating AppSec Days events](mailto:events@owasp.com)
-### - [Make a charitable gift](/donate) to the Foundation to support our ongoing work
+### - [Make a charitable gift](/donate)
 
 ## Quick Links:
 - [Packages and prices](https://owasp.org/supporters/packages)
