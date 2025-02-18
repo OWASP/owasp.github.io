@@ -275,7 +275,7 @@
         "name": "Goiania",
         "url": "https://owasp.org/www-chapter-goiania/",
         "created": "2022-08-30",
-        "updated": "2024-10-02",
+        "updated": "2025-02-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Goi\u00e2nia",
@@ -832,6 +832,22 @@
         "meetings": 30
     },
     {
+        "name": "Bartlesville",
+        "url": "https://owasp.org/www-chapter-bartlesville/",
+        "created": "2025-02-17",
+        "updated": "2025-02-18",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Bartlesville",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "United States",
+        "meetings": 0
+    },
+    {
         "name": "Bay Area",
         "url": "https://owasp.org/www-chapter-bay-area/",
         "created": "2019-09-12",
@@ -1309,7 +1325,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jacksonville-Chapter",
         "country": "USA",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Kansas City",
@@ -2320,22 +2336,6 @@
         "meetings": 0
     },
     {
-        "name": "Amman",
-        "url": "https://owasp.org/www-chapter-amman/",
-        "created": "2019-09-12",
-        "updated": "2025-02-16",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "Baghdad",
         "url": "https://owasp.org/www-chapter-baghdad/",
         "created": "2020-05-08",
@@ -2397,22 +2397,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Bartlesville",
-        "url": "https://owasp.org/www-chapter-bartlesville/",
-        "created": "2025-02-17",
-        "updated": "2025-02-17",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Bartlesville",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "United States",
         "meetings": 0
     },
     {
@@ -5123,7 +5107,7 @@
         "name": "Netherlands",
         "url": "https://owasp.org/www-chapter-netherlands/",
         "created": "2019-09-12",
-        "updated": "2025-02-13",
+        "updated": "2025-02-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Netherlands",
@@ -5744,6 +5728,22 @@
         "meetings": 0
     },
     {
+        "name": "Amman",
+        "url": "https://owasp.org/www-chapter-amman/",
+        "created": "2019-09-12",
+        "updated": "2025-02-17",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Amman",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Amman-Chapter",
+        "country": "Jordan",
+        "meetings": 0
+    },
+    {
         "name": "Amrita School Of Engineering",
         "url": "https://owasp.org/www-chapter-amrita-school-of-engineering/",
         "created": "2022-05-10",
@@ -5891,7 +5891,7 @@
         "name": "Bangkok",
         "url": "https://owasp.org/www-chapter-bangkok/",
         "created": "2023-02-02",
-        "updated": "2025-02-13",
+        "updated": "2025-02-17",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Bangkok",
