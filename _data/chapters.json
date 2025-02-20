@@ -1037,7 +1037,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-cleveland-group",
         "country": "USA",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Colorado Springs",
@@ -1133,7 +1133,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Denver-OWASP",
         "country": "USA",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Des Plaines",
@@ -1437,7 +1437,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 23
+        "meetings": 24
     },
     {
         "name": "Madison",
@@ -2019,7 +2019,7 @@
         "name": "Santa Barbara",
         "url": "https://owasp.org/www-chapter-santa-barbara/",
         "created": "2019-09-12",
-        "updated": "2024-10-29",
+        "updated": "2025-02-19",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-santa-barbara",
         "title": "OWASP Santa Barbara",
@@ -4224,22 +4224,6 @@
         "meetings": 0
     },
     {
-        "name": "Yaounde",
-        "url": "https://owasp.org/www-chapter-yaounde/",
-        "created": "2025-02-08",
-        "updated": "2025-02-11",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Yaounde",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Cameroon",
-        "meetings": 0
-    },
-    {
         "name": "Zaragoza",
         "url": "https://owasp.org/www-chapter-zaragoza/",
         "created": "2019-09-12",
@@ -5133,7 +5117,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Newcastle-Chapter",
         "country": "United Kingdom",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Oslo",
@@ -5389,7 +5373,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASPSwitzerland",
         "country": "Switzerland",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Tallinn",
@@ -5731,7 +5715,7 @@
         "name": "Amman",
         "url": "https://owasp.org/www-chapter-amman/",
         "created": "2019-09-12",
-        "updated": "2025-02-18",
+        "updated": "2025-02-19",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Amman",
@@ -5965,7 +5949,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bhopal-Chapter",
         "country": "India",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Bhubaneswar",
@@ -8814,6 +8798,22 @@
         "meetup-group": "OWASP-Tunis-Meetup-Group",
         "country": "Africa",
         "meetings": 3
+    },
+    {
+        "name": "Yaounde",
+        "url": "https://owasp.org/www-chapter-yaounde/",
+        "created": "2025-02-08",
+        "updated": "2025-02-19",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-yaounde",
+        "title": "OWASP Yaounde",
+        "level": "-1",
+        "type": "",
+        "region": "Africa",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Cameroon",
+        "meetings": 0
     },
     {
         "name": "Yola",
