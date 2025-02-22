@@ -3,7 +3,7 @@
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
-        "updated": "2024-08-22",
+        "updated": "2025-02-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Aguascalientes",
@@ -11,7 +11,7 @@
         "type": "",
         "region": "South America",
         "pitch": "More info soon...",
-        "meetup-group": "",
+        "meetup-group": "owasp-aguascalientes-meetup-group",
         "country": "Mexico",
         "meetings": 0
     },
@@ -829,13 +829,13 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Atlanta",
         "country": "USA",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Austin",
         "url": "https://owasp.org/www-chapter-austin/",
         "created": "2019-09-12",
-        "updated": "2025-02-08",
+        "updated": "2025-02-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Austin",
@@ -931,7 +931,7 @@
         "name": "Boston",
         "url": "https://owasp.org/www-chapter-boston/",
         "created": "2019-09-12",
-        "updated": "2025-02-10",
+        "updated": "2025-02-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Boston",
@@ -1085,7 +1085,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Columbus-OWASP",
         "country": "USA",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Dallas",
@@ -1709,7 +1709,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 14
+        "meetings": 15
     },
     {
         "name": "Orlando",
@@ -1726,6 +1726,22 @@
         "meetup-group": "OWASP-Orlando",
         "country": "USA",
         "meetings": 3
+    },
+    {
+        "name": "Oshawa",
+        "url": "https://owasp.org/www-chapter-oshawa/",
+        "created": "2025-02-07",
+        "updated": "2025-02-22",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Oshawa",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-oshawa-chapter",
+        "country": "Canada",
+        "meetings": 0
     },
     {
         "name": "Ottawa",
@@ -1859,7 +1875,7 @@
         "name": "Queretaro",
         "url": "https://owasp.org/www-chapter-queretaro/",
         "created": "2022-10-26",
-        "updated": "2022-11-09",
+        "updated": "2025-02-22",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Quer\u00e9taro",
@@ -2205,7 +2221,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Vancouver-Chapter",
         "country": "Canada",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Victoria",
@@ -2992,22 +3008,6 @@
         "meetings": 0
     },
     {
-        "name": "Heilbronn",
-        "url": "https://owasp.org/www-chapter-heilbronn/",
-        "created": "2025-02-13",
-        "updated": "2025-02-16",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Chapter Heilbronn",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Germany",
-        "meetings": 0
-    },
-    {
         "name": "Hereford",
         "url": "https://owasp.org/www-chapter-hereford/",
         "created": "2019-09-12",
@@ -3709,22 +3709,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Oshawa",
-        "url": "https://owasp.org/www-chapter-oshawa/",
-        "created": "2025-02-07",
-        "updated": "2025-02-07",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Oshawa",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Canada",
         "meetings": 0
     },
     {
@@ -4659,7 +4643,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-02-20",
+        "updated": "2025-02-21",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -4701,6 +4685,22 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-greece-meetup-group",
         "country": "Greece",
+        "meetings": 0
+    },
+    {
+        "name": "Heilbronn",
+        "url": "https://owasp.org/www-chapter-heilbronn/",
+        "created": "2025-02-13",
+        "updated": "2025-02-21",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Chapter Heilbronn",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Germany",
         "meetings": 0
     },
     {
@@ -6771,7 +6771,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2025-02-19",
+        "updated": "2025-02-21",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
@@ -7299,7 +7299,7 @@
         "name": "Maulana Abul Kalam Azad University Of Technology",
         "url": "https://owasp.org/www-chapter-maulana-abul-kalam-azad-university-of-technology/",
         "created": "2021-08-31",
-        "updated": "2024-01-28",
+        "updated": "2025-02-21",
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Maulana Abul Kalam Azad University of Technology",
@@ -7907,8 +7907,8 @@
         "name": "Seoul",
         "url": "https://owasp.org/www-chapter-seoul/",
         "created": "2019-09-12",
-        "updated": "2021-11-24",
-        "build": "errored",
+        "updated": "2025-02-21",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Seoul",
         "level": "-1",
