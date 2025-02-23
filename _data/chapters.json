@@ -93,7 +93,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-belo-horizonte-chapter",
         "country": "Brazil",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Bogota",
@@ -3408,22 +3408,6 @@
         "meetings": 0
     },
     {
-        "name": "Luxembourg City",
-        "url": "https://owasp.org/www-chapter-luxembourg-city/",
-        "created": "2025-02-14",
-        "updated": "2025-02-14",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Luxembourg City",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Luxembourg",
-        "meetings": 0
-    },
-    {
         "name": "Macedonia",
         "url": "https://owasp.org/www-chapter-macedonia/",
         "created": "2019-09-12",
@@ -4992,6 +4976,22 @@
         "meetings": 4
     },
     {
+        "name": "Luxembourg City",
+        "url": "https://owasp.org/www-chapter-luxembourg-city/",
+        "created": "2025-02-14",
+        "updated": "2025-02-22",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Luxembourg City",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Luxembourg",
+        "meetings": 0
+    },
+    {
         "name": "Lviv",
         "url": "https://owasp.org/www-chapter-lviv/",
         "created": "2019-09-12",
@@ -5715,7 +5715,7 @@
         "name": "Amman",
         "url": "https://owasp.org/www-chapter-amman/",
         "created": "2019-09-12",
-        "updated": "2025-02-19",
+        "updated": "2025-02-22",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Amman",
@@ -6317,7 +6317,7 @@
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-svgchist",
         "country": "United Arab Emirates",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Dy Patil International University",
@@ -6995,7 +6995,7 @@
         "name": "Kathmandu",
         "url": "https://owasp.org/www-chapter-kathmandu/",
         "created": "2022-07-25",
-        "updated": "2025-02-16",
+        "updated": "2025-02-22",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Kathmandu",
@@ -8227,7 +8227,7 @@
         "name": "Tirunelveli",
         "url": "https://owasp.org/www-chapter-tirunelveli/",
         "created": "2022-01-26",
-        "updated": "2024-01-12",
+        "updated": "2025-02-22",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-tirunelveli",
         "title": "OWASP Tirunelveli",
@@ -8509,7 +8509,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-algiers-chapter",
         "country": "Algeria",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Buea",
@@ -8541,7 +8541,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Cairo-Chapter",
         "country": "Egypt",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Cape Town",
