@@ -4,14 +4,14 @@
     - name: OWASP Global AppSec EU 2025
       start-date: 2025-05-26
       dates: May 26-30, 2025
-      #url:
+      url: https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/
       #optional-text:     
-    - name: OWASP Global AppSec Washington DC 2025
+    - name: OWASP Global AppSec USA 2025 - Washington, DC
       start-date: 2025-11-03
       dates: November 3-7, 2025
-      #url:
+      url: https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/
       #optional-text: 
-    - name: OWASP Global AppSec San Francisco 2026
+    - name: OWASP Global AppSec USA 2026 - San Francisco, CA
       start-date: 2026-11-02
       dates: November 2-6, 2026
       #url:
@@ -19,32 +19,36 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:
-    - name: OWASP 2024 BeNeLux
-      start-date: 2024-11-28
-      dates: November 28-29, 2024
-      url: https://www.owaspbenelux.eu/
-      optional-text: BeNeLux hosts a variety of technical talks by experts in security, devops, and cloud in addition to hands on training options.
     - name: OWASP SnowFROC 2025
       start-date: 2025-03-14
       dates: March 14, 2025
       url: https://www.snowfroc.com/
-      optional-text: SnowFROC, Front Range OWASP Conference, is Denver's premier application security conference. It is an annual, one-day conference which draws about 400 people.    
+      optional-text: SnowFROC is Denver's premier application security conference. It is an annual, one-day conference which draws about 400 people. For SnowFROC 2025 the event will be held Friday March 14th. While billed as, "Denver's premier application security conference", SnowFROC's presentations and workshops focus on many facets of cybersecurity and over the years, SnowFROC has come to be known for its exceptional value - Hands-on training, excellent food, spectacular networking, great location/venue and professional orchestration.    
+    - name: OWASP Boston Application Security Conference 2025
+      start-date: 2025-04-05
+      dates: April 5, 2025
+      url: https://basconf.org/
+      optional-text: BASC is an annual conference held by the Boston chapter of the OWASP that includes presenters and workshops focused on current trends in application security.        
+    - name: OWASP AppSec Israel 2025
+      start-date: 2025-06-05
+      dates: June 5, 2025
+      url: https://appsecil.org/
+      optional-text: The annual OWASP AppSec Israel Conference is the largest conference in Israel and the region for application security, and regularly draws hundreds of participants. But AppSecIL is not just for security experts! Close to 1000 developers, testers, architects, product designers, and managers will attend this year.Everyone involved with the software lifecycle is welcome, regardless of type of software, website, mobile app, or any other type of application.
+    - name: OWASP AppSec Days France 2025
+      start-date: 2025-09-23
+      dates: September 23, 2025
+      url: https://owaspappsecdays.fr/
+      optional-text: OWASP AppSec Days France 2025 is the first local OWASP conference organized in Paris, France. It will take place on Tuesday, September 23, 2025. It will be a conference featuring presentations from renowned European speakers and experts. We hope to welcome over 150 security professionals for this day that promises to be full of opportunities.    
     - name: OWASP 2025 LASCON
       start-date: 2025-10-21
       dates: October 21-24, 2025
       url: https://lascon.org/
-      optional-text: The Lonestar Application Security Conference (LASCON) is an OWASP annual conference held in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers, and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state, and it is held in Austin, which is a hub for startups in the state of Texas. At LASCON, leaders at these companies, along with security architects and developers, gather to share cutting-edge ideas, initiatives, and technology advancements.
-- category: Partner
-  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
-  events:
-    - name: it-sa Expo & Congress
-      start-date: 2024-10-22
-      dates:  October 22-24, 2024
-      url:  https://www.itsa365.de/de-de/it-sa-expo-congress
-      optional-text:
-    - name: ThreatModCon 2024 San Francisco
-      start-date: 2024-09-27
-      dates: September 27-28, 2024
-      url: https://www.threatmodcon.com/san-francisco
-      optional-text: Join industry leaders and top threat modeling practitioners at ThreatModCon, the premier threat modeling conference. Experience expert-led sessions, hands-on workshops, and curated networking at our second North American edition. 25 percent off Discount Code - OWASP25 
-      
+      optional-text: The Lonestar Application Security Conference (LASCON) is an OWASP annual conference held in Austin, TX. It is a gathering of 400+ web app developers, security engineers, mobile developers, and information security professionals. LASCON is held in Texas where more Fortune 500 companies call home than any other state, and it is held in Austin, which is a hub for startups in the state of Texas. At LASCON, leaders at these companies, along with security architects and developers, gather to share cutting-edge ideas, initiatives, and technology advancements.   
+    - name: OWASP AppSec Days Uruguay 2025
+      start-date: 2025-11-19
+      dates: November 19-20, 2025
+      url: https://owasp.org/
+      optional-text: OWASP AppSec Days Uruguay is designed for infosec professionals from the public and private sectors. This two-day event will equip developers, advocates, and advocates to build a more secure web. This is a regional OWASP conference to be held in Montevideo, Uruguay on November 19th and 20th, 2025. The conference will include one day of training sessions taught by Latin American and international professionals and one day of conference talks devoted to the most advanced techniques and topics in software security.
+#- category: Partner
+#  description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
+   

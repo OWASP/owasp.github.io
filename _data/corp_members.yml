@@ -8,24 +8,11 @@
 # url: url of the company website
 # job_url: company job website 
 # description: description of the company
-- member: true
-  sponsor: -1
-  name: EShard
-  sortname: EShard
-  image: /assets/images/corp-member-logo/eShard.png
-  url: http://eshard.com
-  description: Attacks on mobile applications are on the rise. These include security, but how can we be sure that they are well protected against the attacks they may suffer? It is to meet this need that we have developed esChecker, a scalable Saas tool that automates static and dynamic security tests. Our tool is easy to use and can be integrated directly into development processes. Our tool meets the OWASP standard. Our customers save precious time in their development phases, can deploy their applications on stores more quickly and have a return on investment from the first months of use.
-- member: true
-  sponsor: -1
-  name: IriusRisk
-  sortname: IriusRisk
-  image: /assets/images/corp-member-logo/IriusRiskNEWlogo.png
-  url: 	http://iriusrisk.com
-  description: 	We are IriusRisk, the industry leader in automated threat modeling and secure software design, working with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform automates the threat modeling process, enabling developers to design and build secure software. At scale.
 - member: true	
   sponsor: 4	
   name: NowSecure	
   sortname: NowSecure
+  membertype: 4
   image: /assets/images/corp-member-logo/nowsecure.png	
   url: https://www.nowsecure.com/	
   description: Only the NowSecure Platform delivers automated 360-degree coverage of mobile app security testing with the speed and depth modern enterprises require. The world’s most demanding organizations and advanced security teams trust NowSecure to identify the broadest array of security, privacy, and compliance gaps in custom, third-party, and business-critical mobile apps.	
@@ -42,6 +29,7 @@
   sponsor: 4
   name: Salt Security	
   sortname: Salt Security
+  membertype: 4
   image: /assets/images/corp-member-logo/Salt_Security.png	
   url: https://salt.security/	 
   description: Salt Security makes it safe to innovate by protecting the APIs at the core of every SaaS, web, mobile, microservices and IoT application. Our API Protection Platform is deployed in minutes, and requires no configuration or customization. We use patented behavioral protection to automatically and continuously discover and learn the granular behavior of each unique API to ensure protection. The company was founded in 2016 by alumni of the Israeli Defense Forces (IDF) and serial cybersecurity executives. In 2019 Salt Security was selected as a finalist for the RSA Innovation Sandbox and as the winner of the OWASP Innovation Fair.	
@@ -49,44 +37,18 @@
   sponsor: -1
   name: SCSK Corporation
   sortname: SCSK Corporation	
+  membertype: 4
   image: /assets/images/corp-member-logo/SCSK.jpeg	
   url: https://www.scsk.jp/
   description: SCSK provides a full lineup of services to support any area of IT solution required for businesses from consulting to system integration, verification services, IT infrastructure implementation, IT management, IT hardware and software sales, and BPO(business process outsourcing).
-- member: true
-  sponsor: -1 
-  name: Specialist Data Solutions
-  sortname: Specialist Data Solutions
-  image: /assets/images/corp-member-logo/SpecialistDataSolutions.png
-  url: https://www.specialistdata.com/
-  description: Architects and Developers of a world-leading, top-tier Optical Practice Management System. Formed in 1989, SDS is a strategic software supplier to many 'Top 10'​ Optical Retailers in North America. We have a comprehensive and fully flexible solution which allows our clients to operate successfully in their unique environments. SDS also offers custom development to handle any client-specific requirements.
 - member: true	
   sponsor: -1	
   name: UBsecure	
   sortname: UBsecure
+  membertype: 4
   image: /assets/images/corp-member-logo/ub-secure.png	
   url: 	https://www.ubsecure.jp/en/
   description: UBsecure is a leading web application security company based in Japan since 2007. We offer various security solutions for web application and smartphone application by utilizing in-house developed application security testing tool, Vex. Vex built by a tremendous amount of experience in professional security scanning and by its continuous feedback. The unique characteristic of the tool is that it used as a stand-alone security testing tool as well as the seamless security testing component within the SDLC. Therefore, Vex is not only for professional security auditors but also for software developers who need secure development cycles.
-- member: true	
-  sponsor: 4 	
-  name: Verimatrix	
-  sortname: Verimatrix
-  image: /assets/images/corp-member-logo/verimatrix.jpg
-  url: https://www.verimatrix.com/ 	
-  description: Verimatrix helps power the modern connected world with security made for people. We protect digital content, applications, and devices with intuitive, people-centered and frictionless security. Leading brands turn to Verimatrix to secure everything from premium movies and live streaming sports, to sensitive financial and healthcare data, to mission-critical mobile applications. We enable the trusted connections our customers depend on to deliver compelling content and experiences to millions of consumers around the world. Verimatrix helps partners get to market faster, scale easily, protect valuable revenue streams and win new business
-- member: true	
-  sponsor: 4	
-  name: Mend	
-  sortname: Mend
-  image: /assets/images/corp-member-logo/mend.png
-  url:  https://mend.io/ 	
-  description: The leading solution for agile open source security and license compliance management, Mend integrates with the DevOps pipeline to detect vulnerable open source libraries in real-time.  It provides remediation paths and policy automation to speed up time-to-fix. It also prioritizes vulnerability alerts based on usage analysis.  We support over 200 programming languages and offer the widest vulnerability database aggregating information from dozens of peer-reviewed, respected sources. 	
-- member: true
-  sponsor: -1
-  name: ArmorCode
-  sortname: ArmorCode
-  image: /assets/images/corp-member-logo/armorcode_logo.png
-  url: http://www.armorcode.com/
-  description: Software development has accelerated dramatically. We have gone from once a year releases, to one every day. However, the application security has not kept pace. Application security professionals and developers increasingly find themselves unable to keep up with security requirements — and many are forced to piece together stopgap tools.  So, ArmorCode delivers application security at the speed of DevOps. With its centralized platform, enterprises can radically simplify and accelerate application security while cutting costs by up to 50%. ArmorCode Platform is SOC2 Type II certified and is already used by several marquee customers. Visit www.armorcode.com for more details.
 - member: true
   sponsor: -1
   name: GitGuardian
@@ -208,14 +170,6 @@
   description: The biggest threat to corporate cybersecurity is your own developers' blind spots. Programmers tend to focus mainly on functionality and UX, causing the emphasis on secure development to be lost or become an afterthought. We believe that each line of code should be crafted with security in mind, naturally enhancing application resilience. Cydrill's award-winning training program and e-learning environment equip your developers with the secure code best practices to ensure they beat hackers at their own game. Cydrill’s blended learning journey combining instructor-led training, e-learning, hands-on labs, and gamification offers up-skilling from start-ups to Fortune 500 companies worldwide. Code responsibly!
 - member: true
   sponsor: -1
-  name: Trend Micro
-  sortname: Trend Micro
-  membertype: 4
-  image: /assets/images/corp-member-logo/TrendMicro.png
-  url: https://www.trendmicro.com/en_ca/business.html
-  description: Trend Micro is a global cloud security leader that specializes in meeting the needs of businesses building on the cloud. Trend Cloud One security platform is designed to protect your digital transformation and cloud-native applications.
-- member: true
-  sponsor: -1
   name: "Scitum S.A de C.V:"
   sortname: "Scitum S.A de C.V:"
   membertype: 3
@@ -234,30 +188,6 @@
   description: Backslash is the first Cloud-Native Application Security solution for enterprise AppSec teams to provide unified security and business context to cloud-native code risk, coupled with automated threat modeling, code risk prioritization, and simplified remediation across applications and teams. With Backslash, AppSec teams can see and easily act upon the critical toxic code flows in their cloud-native applications; quickly prioritize code risks based on the relevant cloud context; and significantly cut MTTR (mean time to recovery) by enabling developers with the evidence they need to take ownership of the process.
 - member: true
   sponsor: -1
-  name: BLST Security
-  sortname: BLST Security
-  membertype: 4
-  image: /assets/images/corp-member-logo/BLST_Logo.png
-  url: 	https://blstsecurity.com/
-  description: BLST understands its client’s API posture in the context that matters – Business goals, user journey, and IT KPIs. It can provide discovery in less than an hour (touchless), including a clear map of your API sprawl. It can detect attack vectors and sort them according to business impact. BLST’s advanced platform provides broad visibility, API posture management, ongoing monitoring, and notifications. It quickly integrates with your existing dev tools, gives you what you need to keep your APIs healthy, and spares you unnecessary noise. It’s a to-the-point, tailored, and effective API security solution.
-- member: true
-  sponsor: -1
-  name: Nedap N.V.
-  sortname: Nedap N.V.
-  membertype: 4
-  image: /assets/images/corp-member-logo/nedap_logo_hero_digital_blue.png
-  url: https://nedap.com
-  description: We are passionate about technology and how it can help people become happier and more successful in their professional lives. Life teaches us a lot about people and that’s what inspires us to create high impact, hard and software solutions that have true value. That’s what we call, Technology for Life. It is our purpose and drives us in everything we do. To apply technology in a way that it has a tangible positive impact on people’s professional lives, requires a people-centred approach that respects people and our planet.
-- member: true
-  sponsor: -1
-  name: Cryptosoft
-  sortname: Cryptosoft
-  membertype: 4
-  image: /assets/images/corp-member-logo/cryptosoft_logo.png
-  url: www.dependencytrack.com
-  description: Cryptosoft offers a hosted OWASP Dependency-Track service with the flexibility to run the capability behind your firewall if required. We also include SBOM creation assets and toolchain integrations to help accelerate your productivity. Our service lets you spend less time on infrastructure management and more time on your DevSecOps and security strategy. It’s a cost-effective, proven SBOM analysis capability, used by over 10,000 companies, that allows you to quickly augment your existing security strategy to cover SBOM risks and provide everything you need to address the US Government’s Executive Order 14028.
-- member: true
-  sponsor: -1
   name: OpenText
   sortname: OpenText
   membertype: 2
@@ -265,22 +195,6 @@
   url: https://www.microfocus.com/en-us/cyberres/application-security
   job_url: https://careers.opentext.com/
   description: Fortify Application Security provides your team with solutions to promote DevSecOps best practices, enable cloud transformation, and secure your software supply chain. As the sole code security solution with over two decades of expertise and acknowledged as a market leader by all major analysts, Fortify delivers the most adaptable, precise, and scalable AppSec platform available, supporting the breadth of tech you use while integrating into your preferred toolchain. With Fortify, go beyond check the box security because your great code demands great security.
-- member: true
-  sponsor: -1
-  name: Red Hat
-  sortname: Red Hat
-  membertype: 4
-  image: /assets/images/corp-member-logo/RedHatLogo.png
-  url: http://redhat.com
-  description: Red Hat is the world’s leading provider of enterprise open source solutions—including Linux, cloud, container, and Kubernetes. We deliver hardened solutions that make it easier for enterprises to work across platforms and environments, from the core datacenter to the network edge.
-- member: true
-  sponsor: -1
-  name: Riscosity
-  sortname: Riscosity
-  membertype: 4
-  image: /assets/images/corp-member-logo/Riscosity.png
-  url: https://www.riscosity.com/
-  description: Riscosity is the data flow security platform that empowers teams to have full visibility of data in transit and automate the redaction or redirection of sensitive events, simplifying how companies meet security and privacy requirements.
 - member: true
   sponsor: 3
   name: Zimperium
@@ -303,9 +217,9 @@
   name: DefectDojo Inc.
   sortname: DefectDojo Inc.
   membertype: 4
-  image: /assets/images/corp-member-logo/defectdojo_logo.png
+  image: /assets/images/corp-member-logo/DefectDojo.png
   url: https://www.defectdojo.com/
-  description: DefectDojo is the company and the product that powers DevSecOps. Our open platform transforms security information management, connecting security strategy and informed execution for intelligent risk management. Security and DevSecOps teams can aggregate, automate, and integrate data from more than 160 security tools for a unified view of security posture and compliance, streamlined workflows, and improved decision-making. DefectDojo was created by security pros for security pros. To learn more, visit defectdojo.com.
+  description: DefectDojo is the engine that drives DevSecOps, providing an open, scalable platform that connects security strategy to execution. By aggregating data from over 180 security tools, automating manual processes, and delivering AI-powered insights, DefectDojo empowers organizations to have a unified view of security posture and compliance, automate operations to increase productivity and improve decision-making. For more information, visit defectdojo.com.
 - member: true
   sponsor: -1
   name: Checkmarx
@@ -317,44 +231,12 @@
   description: Checkmarx is the enterprise application security leader and the provider of Checkmarx One™, the industry-leading cloud-native AppSec platform that helps enterprises build #DevSecTrust. Powered by intelligence from our industry-leading AppSec security research team, and our AI-driven technology and services, our platform is designed to enable CISOs, AppSec and development leaders to prioritize their teams’ focus on what impacts their business. Checkmarx secures every phase of development for every application, from the first line of code through production, while balancing the dynamic needs of security and development teams. It’s no longer about shifting left or right - it’s about shifting everywhere.
 - member: true
   sponsor: -1
-  name: Equixly
-  sortname: Equixly
-  membertype: 4
-  image: /assets/images/corp-member-logo/Equixly.png
-  url: https://equixly.com/
-  description: Equixly aims to help developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly makes available a SaaS platform that allows integrating the API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform several API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers may use to fix their application issues autonomously.
-- member: true
-  sponsor: -1
   name: Xeol
   sortname: Xeol
   membertype: 4
   image: /assets/images/corp-member-logo/Xeol.jpeg
   url: https://www.xeol.io/
   description: Xeol helps secure your software supply chain from code to deploy. We believe that software should not only be free of vulnerabilities but also built and deployed by trusted entities. Xeol starts by managing your open source dependencies. Helping you evaluate them based on vulnerabilities, end-of-life status, maintainability, and licensing. Xeol then helps you sign then verify your images at build before they are deployed to production.
-- member: true
-  sponsor: -1
-  name: Deepfactor
-  sortname: Deepfactor
-  membertype: 4
-  image: /assets/images/corp-member-logo/deepfactor_fulllogo_300x90.png
-  url: http://www.deepfactor.io
-  description: Deepfactor is a developer security platform that enables engineering teams to quickly discover and resolve security vulnerabilities, supply chain risks, and compliance violations early in development and testing. The platform requires zero code changes, agents, or privileged kernel code and is purpose-built to observe every thread and process of cloud native applications. This enables developers to seamlessly observe running workloads to identify, prioritize, and remediate insecure code and vulnerabilities. Deepfactor integrates into developers’ existing toolchains to deliver application-aware security insights with detailed information about application behavior, system calls, and stack traces that help pinpoint vulnerable code. 
-- member: true
-  sponsor: -1
-  name: Team Secure
-  sortname: Team Secure
-  membertype: 4
-  image: /assets/images/corp-member-logo/TeamSecure.png
-  url: http://teamsecure.io
-  description: Team Secure Cyber Security Services excels in delivering top-tier cybersecurity staff and consultancy, alongside our development of advanced web and mobile applications and tools. Experience Swiss-quality, enterprise-grade cyber solutions that cater to all aspects of your digital security needs.
-- member: true
-  sponsor: -1
-  name: Veracode
-  sortname: Veracode
-  membertype: 4
-  image: /assets/images/corp-member-logo/Veracode.png
-  url: https://www.veracode.com/
-  description: Veracode delivers the application security solutions and services today’s software-driven world requires. Veracode’s unified platform assesses and improves application security from inception through production so agencies can confidently innovate with the web and mobile applications they build, buy and assemble including the components they integrate into their environments.
 - member: true
   sponsor: -1
   name: United Airlines
@@ -383,57 +265,9 @@
       the time spent on security triage by 90%. We answer the critical question for companies: "Which vulnerabilities should I prioritize if my time is limited?"
 - member: true
   sponsor: -1
-  name: Apiiro
-  sortname: Apiiro
-  membertype: 4
-  image: /assets/images/corp-member-logo/Apiiro.png
-  url: http://apiiro.com
-  description: Apiiro is setting the diamond standard for ASPM to empower application security and development teams to secure everything they develop and deliver to the cloud. Apiiro’s risk-driven approach to application and software supply chain security is rooted in deep code analysis and runtime context to help teams prioritize and fix business-critical risks faster.
-- member: true
-  sponsor: -1
-  name: ThreatModeler Software, Inc.
-  sortname: ThreatModeler Software, Inc.
-  membertype: 3
-  image: /assets/images/corp-member-logo/ThreatModeler.png
-  url: https://threatmodeler.com/
-  job_url: https://threatmodeler.com/careers/
-  description: ThreatModeler's suite of products empowers DevOps teams to measure their threat drift from code to cloud. With a fraction of the time and cost tied to other tools, users can design, build and validate threat drift from development to deployment. Teams can instantly visualize their attack surface, understand security requirements and prioritize steps to mitigate threats. CISOs can make critical security-driven business decisions to scale their infrastructure for growth.
-- member: true
-  sponsor: -1
-  name: Wallarm
-  sortname: Wallarm
-  membertype: 2
-  image: /assets/images/corp-member-logo/WallarmLogo.png
-  url: http://www.wallarm.com
-  job_url: https://wallarm.recruitee.com/
-  description: Wallarm is a leader in API and web application security. Our integrated, automated API and Application security solutions works with any platform, any cloud, multi-cloud, cloud-native, hybrid and on-premise environments. Enterprises such as Miro, Revenera, Panasonic and Semrush have chosen Wallarm to discover APIs, API vulnerabilities, detect threats and eliminate API attacks to improve their business resiliency and security posture.
-- member: true
-  sponsor: -1
-  name: SailPoint
-  sortname: SailPoint
-  membertype: 3
-  image: /assets/images/corp-member-logo/SailPoint.png
-  url: https://www.sailpoint.com/
-  job_url: https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs
-  description: >
-      SailPoint was founded in 2005 to deliver innovative solutions that address some of the world’s most dynamic security issues. That passion and commitment for solving our customers’ pressing security and identity challenges guide us to this day. 
-      www.sailpoint.com/why-us/about-us/
-- member: true
-  sponsor: -1
-  name: United Overseas Bank
-  sortname: United Overseas Bank
-  membertype: 
-  image: /assets/images/corp-member-logo/UnitedOverseasBankLogo.jpeg
-  url: https://www.uobgroup.com
-  description: >-
-      UOB is a leading bank in Asia. Operating through its head office in Singapore and banking subsidiaries in China, Indonesia, Malaysia, Thailand, and Vietnam, UOB has a global network of around 500 offices in 19 countries and territories 
-      in Asia Pacific, Europe, and North America. Since its incorporation in 1935, UOB has grown organically and through a series of strategic acquisitions. Today, UOB is rated among the world’s top banks: Aa1 by Moody’s Investors Service 
-      and AA- by both S&P Global Ratings and Fitch Ratings.
-- member: true
-  sponsor: -1
   name: Jit
   sortname: Jit
-  membertype:
+  membertype: 4
   image: /assets/images/corp-member-logo/JitLogo.png
   url: https://jit.io
   description: Jit's platform is the easiest way to secure your code and cloud, providing full application and cloud security coverage in minutes. Tailor a developer security toolchain to your use case and implement it across your repos in a few clicks. Jit empowers developers to own the security of their code without ever leaving their workflow, prioritizing the alerts that matter. Using your current security toolset with Jit, your devs can deliver secure code faster than ever.
@@ -441,7 +275,7 @@
   sponsor: -1
   name: Approach Cyber
   sortname: Approach Cyber
-  membertype:
+  membertype: 4
   image:  /assets/images/corp-member-logo/approach_logo.png
   url: http://www.approach-cyber.com
   description: Approach Cyber is a pure-play cyber security and privacy company. At Approach, we believe that everyone deserves digital peace-of-mind. This is our vision, our aspiration for a society where each and every one is reassured, where there is confidence and security in the digital world. Therefore, our role is to bring cyber serenity to society. Every day, we take care of your cybersecurity while you focus on your business. We help you to prevent, withstand and recover from cyber security incidents and enable you to keep full attention on your core activities.
@@ -489,16 +323,16 @@
   image: /assets/images/corp-member-logo/Aikido.png
   url: https://www.aikido.dev/
   job_url:
-  description: Aikido Security is an all-in-one AppSec Platform. Aikido scans your source code, containers & cloud to show you which vulnerabilities are important to solve. Triaging is sped up by massively reducing false positives and making vulnerabilities human-readable. Aikido makes it simple to keep your product secure. Aikido combines scanning capabilities like SAST, DAST, CSPM, SCA, IaC, Container Scanning, and secrets detection - all in one tool.
+  description: Aikido is the no-nonsense security platform for developers. The all-in-one security platform that covers you from code-to-cloud and helps you get security done. Engineering teams execute faster with Aikido thanks to centralized scans, aggressive false positive reduction, automatic risk triaging & fixing, risk bundling, and easy step-by-step risk fixes. Aikido makes security simple for SMEs and doable for developers, so companies can win customers, grow up-market, and ace compliance. Don’t just get security done fast, get it done automatically.
 - member: true
   sponsor: -1
-  name: Synopsys
-  sortname: Synopsys
+  name: Black Duck
+  sortname: Black Duck
   membertype: 4
-  image: /assets/images/corp-member-logo/Synopsys.jpeg
-  url: https://www.synopsys.com/software-integrity.html
+  image: /assets/images/corp-member-logo/BlackDuck.png
+  url: https://www.blackduck.com
   job_url:
-  description: Synopsys builds trust in software by enabling organizations to manage application security, quality, and compliance risks at the speed their business demands. Our market-leading solutions help developers to secure code as fast as they write it; development and DevSecOps teams to automate testing within development pipelines without compromising velocity; and security teams to proactively manage risk and focus remediation efforts on what matters most. With Synopsys, organizations can transform the way they build and deliver software, aligning people, processes, and technology to intelligently address software risks across their portfolio and at all stages of the application lifecycle.
+  description: Black Duck® offers the most comprehensive, powerful, and trusted portfolio of application security solutions in the industry. We have an unmatched track record of helping organizations around the world secure their software quickly, integrate security efficiently in their development environments, and safely innovate with new technologies. As the recognized leaders, experts, and innovators in software security, Black Duck has everything you need to build trust in your software. Learn more at www.blackduck.com.
 - member: true
   sponsor: -1
   name: Raxis
@@ -555,8 +389,8 @@
   description: We are the people behind WordPress.com, Woo, Jetpack, WordPress VIP, Simplenote, Longreads, The Atavist, WPScan, Akismet, Gravatar, Crowdsignal, Cloudup, Tumblr, Day One, Pocket Casts, Newspack, Beeper, and more. We’re a distributed company with 1,914 Automatticians in 93 countries speaking 117 different languages. We’re committed to diversity, equity, and inclusion, and our common goal is to democratize publishing and commerce so that anyone with a story can tell it, and anyone with a product can sell it, regardless of income, gender, politics, language, or where they live in the world.
 - member: true
   sponsor: -1
-  name: Blended
-  sortname: Blended
+  name: Blend-ed
+  sortname: Blend-ed
   membertype: 3
   image: /assets/images/corp-member-logo/blended_logoowasp.png
   url: http://blend-ed.com
@@ -617,13 +451,97 @@
   job_url:
   description: Vijil helps organizations build and operate AI agents that humans can trust. For enterprises that want to deploy their LLM applications intro production sooner with governance, risk management, and compliance, Vijil offers a layer of trust and safety that plugs into their AI platform. Vijil Evaluate, a quality assurance agent, automates testing of reliability, security, and safety with industry-leading rigor, scale, and speed. Vijil Dome, an adaptive perimeter defense mechanism, blocks adversarial inputs and out-of-policy outputs more holistically, accurately, and adaptively than other guardrails. Vijil Trust Audit enables customers to enforce OWASP guidelines for LLM security and governance.
 - member: true
-  sponsor: 4
+  sponsor: -1
   name: Equixly
   sortname: Equixly
   membertype: 3
   image: /assets/images/corp-member-logo/Equixly.png
-  URL: http://www.equixly.com
-  job_url: https://equixly.com/contact-us/
+  url: https://equixly.com
+  job_url: https://www.linkedin.com/company/equixly/jobs
   description: Equixly helps developers and organizations create more secure applications, increase their security posture, and spread knowledge of new vulnerabilities. Equixly offers a SaaS platform that allows integrating API security testing within the software development lifecycle (SLDC) to detect flaws, reduce bug-fixing costs, and exponentially scale penetration testing upon every new functionality released. The platform can automatically perform API attacks leveraging a novel machine learning (ML) algorithm trained over thousands of security tests. Then, Equixly returns near-real-time results and a predictive remediation plan that developers can use to fix their application issues autonomously.
+- member: true
+  sponsor: -1
+  name: OccamSec
+  sortname: OccamSec
+  membertype: 4
+  image: /assets/images/corp-member-logo/OccamSec.png
+  url: https://osec.com
+  job_url:
+  description: OccamSec excels in providing a wide range of services extending to penetration testing, continuous penetration testing,red team operations, purple team engagements, and vulnerability research. With a commitment to cutting-edge methodologies, we enable organizations to fortify their security posture and proactively detect and address vulnerabilities before they can be exploited.
+- member: true
+  sponsor: -1
+  name: Heeler
+  sortname: Heeler
+  membertype: 4
+  image: /assets/images/corp-member-logo/Heeler.jpg
+  url: https://heeler.com
+  job_url:
+  description: Application security teams and developers don’t need more findings—they need actionable context to effectively shift left. Heeler puts application security teams in control by unifying code, runtime, business, and security context to operationalize shift-left efforts. By combining ASPM, static and runtime SCA, and runtime threat modeling, Heeler reduces vulnerability noise by 95% and ensures high-impact risks are caught before they reach production.
+- member: true
+  sponsor: -1
+  name: SecureFlag
+  sortname: SecureFlag
+  membertype: 2
+  image: /assets/images/corp-member-logo/SecureFlag.png
+  url: https://www.secureflag.com/
+  job_url: https://www.secureflag.com/contact
+  description: SecureFlag empowers organizations in 30 plus countries to implement secure coding training. The platform offers thousands of hands-on labs in over 45 programming languages, hosted in virtualized environments. Developers gain skills to identify and remediate vulnerabilities, building secure software from the start. Through plugins, we integrate with the Software Development Life Cycle, embedding secure practices into workflows. Our customer success team designs bespoke training programs tailored to organizational needs. SecureFlag also offers ThreatCanvas, an automated threat modeling solution enabling developers to assess and mitigate design risks independently, reducing reliance on security teams.
+- member: true
+  sponsor: -1
+  name: Unbound Security
+  sortname: Unbound Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/UnboundSecurity.png
+  url: https://unboundsecurity.ai/
+  job_url:
+  description: Unbound is an AI middleware that enables the safe adoption of AI by protecting internal and external AI applications. Its AI security platform includes a comprehensive set of customizable guardrails, model routing, and evaluation functionality.
+- member: true
+  sponsor: -1
+  name: Cobalt  
+  sortname: Cobalt
+  membertype: 4
+  image: /assets/images/corp-member-logo/Cobalt.png
+  url: https://www.cobalt.io/
+  job_url:
+  description: Cobalt combines talent and technology to provide end-to-end offensive security solutions that enable organizations to remediate risk across a dynamically changing attack surface. The innovators of Pentest as a Service, Cobalt empowers businesses to optimize their existing resources, access an on-demand community of trusted security experts, expedite remediation cycles, and share real-time updates and progress with internal teams to mitigate future risk.
+- member: true
+  sponsor: -1
+  name: Monzo
+  sortname: Monzo
+  membertype: 4
+  image: /assets/images/corp-member-logo/Monzo.png
+  url: https://monzo.com/
+  job_url:
+  description: At Monzo we’re building a new kind of bank. One that’s built for your smartphone and designed for the way we live today. Founded in early 2015, our mission is to build the best bank account in the world. In August 2016 we became a regulated bank, and a team of more than 2,000 work from our London HQ and remotely around the world.
+- member: true
+  sponsor: -1
+  name: Tirreno
+  sortname: Tirreno
+  membertype: 4
+  image: /assets/images/corp-member-logo/Tirreno.png
+  url: https://www.tirreno.com
+  job_url:
+  description: Tirreno is an open-source fraud prevention platform developed in Switzerland.
+- member: true
+  sponsor: -1
+  name: Bright Security
+  sortname: Bright Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/BrightSecurity.png
+  URL: https://brightsec.com/
+  job_url:
+  description: Bright Security delivers an enterprise-grade, developer-centric Dynamic Application Security Testing (DAST) platform, enabling organizations to identify and remediate vulnerabilities early and seamlessly throughout the Software Development Life Cycle (SDLC). Trusted by leading organizations across the globe, Bright excels in securing web applications, APIs, business logic, and LLMs. By integrating directly into development workflows, Bright empowers teams to accelerate vulnerability resolution by up to 10X, ensuring robust security without compromising speed or innovation.
+- member: true
+  sponsor: -1
+  name: Red Hat
+  sortname: Red Hat
+  membertype: 4
+  image: /assets/images/corp-member-logo/Red_Hat.svg
+  URL: http://www.redhat.com
+  job_url:
+  description: Red Hat is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, hybrid cloud, edge, and Kubernetes technologies.
+  
+  
+
 
 
