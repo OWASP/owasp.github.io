@@ -91,6 +91,13 @@
         "group_url": "https://owasp.org/www-chapter-amman/"
     },
     {
+        "name": "Saed Manna",
+        "email": "saed.manna@owasp.org",
+        "group": "OWASP Amman",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-amman/"
+    },
+    {
         "name": "Alper Basaran",
         "email": "alper.basaran@owasp.org",
         "group": "OWASP Ankara",
@@ -224,8 +231,8 @@
         "group_url": "https://owasp.org/www-chapter-bahria-university-lahore/"
     },
     {
-        "name": "Azar Alili",
-        "email": "azar.alili@owasp.org",
+        "name": "Orhan Jan",
+        "email": "orhan.jan@owasp.org",
         "group": "OWASP Baku",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-baku/"
@@ -464,13 +471,6 @@
     {
         "name": "Andreas Heppner",
         "email": "andreas.heppner@owasp.org",
-        "group": "OWASP Berlin",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-berlin/"
-    },
-    {
-        "name": "Michael Hohensee",
-        "email": "michael.hohensee@owasp.org",
         "group": "OWASP Berlin",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-berlin/"
@@ -5833,6 +5833,27 @@
     {
         "name": "Rob van der Veer",
         "email": "rob.vanderveer@owasp.org",
+        "group": "OWASP AI Security and Privacy Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-ai-security-and-privacy-guide/"
+    },
+    {
+        "name": "Aruneesh Salhotra",
+        "email": "aruneesh.salhotra@gmail.com",
+        "group": "OWASP AI Security and Privacy Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-ai-security-and-privacy-guide/"
+    },
+    {
+        "name": "Chris Ancharski",
+        "email": "ancharskiadvisory@gmail.com",
+        "group": "OWASP AI Security and Privacy Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-ai-security-and-privacy-guide/"
+    },
+    {
+        "name": "Behnaz Karimi",
+        "email": "behnazkarimi91.bk67@gmail.com",
         "group": "OWASP AI Security and Privacy Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-ai-security-and-privacy-guide/"
