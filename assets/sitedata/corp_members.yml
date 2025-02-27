@@ -299,15 +299,6 @@
   description: Traefik Labs helps organizations adopt and scale cloud-native architectures by providing a modern, intuitive, and open platform that reimagines application connectivity and API management, paving the way for seamless operations and enhanced productivity. Traefik’s flagship open source project, Traefik Proxy, is used by the world’s largest enterprises and is one of Docker Hub’s top 10 projects, with over 3 billion downloads. Founded in 2016, Traefik Labs is backed by investors including Balderton Capital, Elaia, 360 Capital Partner, and Kima Ventures. For more information, visit traefik.io and follow @traefik on X.
 - member: true
   sponsor: -1
-  name: Hitachi Systems, Ltd.
-  sortname: Hitachi Systems, Ltd.
-  membertype: 4
-  image: /assets/images/corp-member-logo/Hitachi.png
-  url: https://www.securebrain.co.jp/eng/
-  job_url: 
-  description: Hitachi Systems is committed to promoting sustainability management and supporting social innovation initiatives within the Hitachi Group in order to achieve the goal of contributing to the realization of a truly affluent society. Through our ability to solve real-world problems in various industries, we have built up a vast service infrastructure and well-trained human resources that have a solid understanding of customers’ business requirements. This can be utilized to provide a range of digitalization services and comprehensive support for customers’ digital transformations by offering Hitachi's Lumada that utilizes advanced digital technology as well as unique services in collaboration with partners.
-- member: true
-  sponsor: -1
   name: Impart Security
   sortname: Impart Security
   membertype: 4
@@ -535,12 +526,23 @@
   sponsor: -1
   name: Red Hat
   sortname: Red Hat
-  membertype: 4
+  member type: 4
   image: /assets/images/corp-member-logo/Red_Hat.svg
   URL: http://www.redhat.com
   job_url:
   description: Red Hat is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, hybrid cloud, edge, and Kubernetes technologies.
-  
+- member: true
+  sponsor: -1
+  name: Hitachi Systems, Ltd. 
+  sortname: Hitachi Systems, Ltd. 
+  member type: 4
+  image: /assets/images/corp-member-logo/hitachien.png
+  URL: https://www.hitachi-systems.com/eng/index.html
+  job_url:
+  description: >-
+    Hitachi Systems is committed to promoting sustainability management and supporting social innovation initiatives within the Hitachi Group to achieve the goal of contributing to the realization of a truly affluent society.
+    Through our ability to solve real-world problems in various industries, we have built up a vast service infrastructure and well-trained human resources that have a solid understanding of our customers' business requirements.
+    This can be utilized to provide a range of digitalization services and comprehensive support for our customers’ digital transformations by offering Hitachi's Lumada which utilizes advanced digital technology as well as unique services in collaboration with our partners.
   
 
 
