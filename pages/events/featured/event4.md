@@ -1,8 +1,7 @@
-[![More than a Password Day 2024](/pages/events/featured/guidance_part_3.png){:width="100%" height="auto"}](https://owasp.org/blog/2024/11/12/more-than-a-password-day-2024.html)
+[![OWASP AppSec Days France 2025](/assets/images/events/2025-appsec-france-header.png){:width="100%" height="auto"}](https://www.owaspappsecdays.fr/2025/#page-top)
 
-## Add layers of security
+## Come to Paris for OWASP AppSec Days France 2025!
 
-Additional security measures can help prevent phishing and other attacks, if used in addition to your password.
+OWASP AppSec Days France 2025 is the first OWASP local conference held in Paris, France. It will be held on Tuesday, September 23, 2025. It will be a conference with presentations from speakers and renowned European experts. We hope to welcome more than 150 security professionals for this day that promises to be full of opportunities.
 
-- A hardware security key (or token)
-- An authenticator app
+[More details](https://www.owaspappsecdays.fr/2025/#page-top)
