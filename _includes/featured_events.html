@@ -15,30 +15,6 @@
     {% capture my_include %}{% include_relative pages/events/featured/event4.md %}{% endcapture %}
     {{ my_include | markdownify }}
 </div>
-<!-- <div id="ev4" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event5.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
-<div id="ev5" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event6.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
-<div id="ev6" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event7.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
-<div id="ev7" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event1.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
-<div id="ev8" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event2.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
-<div id="ev9" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event3.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div> -->
 </section>
 {% assign event_files = site.static_files | where: "event", true %}
 
