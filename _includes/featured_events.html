@@ -15,7 +15,7 @@
     {% capture my_include %}{% include_relative pages/events/featured/event4.md %}{% endcapture %}
     {{ my_include | markdownify }}
 </div>
-<div id="ev4" style="display:none;">
+<!-- <div id="ev4" style="display:none;">
     {% capture my_include %}{% include_relative pages/events/featured/event5.md %}{% endcapture %}
     {{ my_include | markdownify }}
 </div>
@@ -38,7 +38,7 @@
 <div id="ev9" style="display:none;">
     {% capture my_include %}{% include_relative pages/events/featured/event3.md %}{% endcapture %}
     {{ my_include | markdownify }}
-</div>
+</div> -->
 </section>
 {% assign event_files = site.static_files | where: "event", true %}
 
