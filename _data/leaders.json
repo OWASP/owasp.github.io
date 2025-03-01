@@ -4333,8 +4333,8 @@
         "group_url": "https://owasp.org/www-chapter-ruhrpott/"
     },
     {
-        "name": "Sven Schluter",
-        "email": "sven.schluter@owasp.org",
+        "name": "Sven Schlüter",
+        "email": "sven.schlueter@owasp.org",
         "group": "OWASP Ruhrpott",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-ruhrpott/"
@@ -5929,6 +5929,13 @@
         "group_url": "https://owasp.org/www-project-api-security/"
     },
     {
+        "name": "Govindarajan Lakshmikanthan",
+        "email": "govindarajan.lakshmikanthan@owasp.org",
+        "group": "OWASP API Security Testing Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-api-security-testing-framework/"
+    },
+    {
         "name": "Gian-Luca Frei",
         "email": "gian-luca.frei@owasp.org",
         "group": "OWASP Application Gateway",
@@ -6280,7 +6287,7 @@
     },
     {
         "name": "Julian Petersohn",
-        "email": "julian@petersohn.it",
+        "email": "julian.petersohn@owasp.org",
         "group": "OWASP Core Business Application Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-core-business-application-security/"
@@ -6795,6 +6802,13 @@
         "group": "OWASP Enterprise Security API (ESAPI)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-enterprise-security-api/"
+    },
+    {
+        "name": "Josh Summitt",
+        "email": "josh.summitt80@owasp.org",
+        "group": "OWASP Faction",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-faction/"
     },
     {
         "name": "Philippe Arteau",
