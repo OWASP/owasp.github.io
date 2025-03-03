@@ -6874,6 +6874,13 @@
         "group_url": "https://owasp.org/www-project-hacking-lab/"
     },
     {
+        "name": "Mark Roxberry",
+        "email": "mark.roxberry@owasp.org",
+        "group": "OWASP HACTU8",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-hactu8/"
+    },
+    {
         "name": "Adrian Winckles",
         "email": "adrian.winckles@owasp.org",
         "group": "OWASP Honeypot",
@@ -7530,6 +7537,13 @@
         "group": "OWASP OWTF",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-owtf/"
+    },
+    {
+        "name": "Jitu Ranjan",
+        "email": "jitu.ranjan@owasp.org",
+        "group": "OWASP PCI DSS Toolkit",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-pci-dss-toolkit/"
     },
     {
         "name": "Jamieson OReilly",
@@ -8652,22 +8666,8 @@
         "group_url": "https://owasp.org/www-project-web-security-testing-guide/"
     },
     {
-        "name": "Bruce Mayhew",
-        "email": "webgoat@owasp.org",
-        "group": "OWASP WebGoat",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webgoat/"
-    },
-    {
         "name": "Nanne Baars",
         "email": "nanne.baars@owasp.org",
-        "group": "OWASP WebGoat",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-webgoat/"
-    },
-    {
-        "name": "Jason White",
-        "email": "jason.white@owasp.org",
         "group": "OWASP WebGoat",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-webgoat/"
