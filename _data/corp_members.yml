@@ -553,7 +553,16 @@
   job_url:
   description: >-
     Beagle Security empowers developers and security teams with AI-driven automated penetration testing for web applications, APIs & GraphQL. Seamlessly integrate robust security testing into your CI/CD pipeline to catch vulnerabilities early, receive actionable remediation guidance, and generate compliance reports for HIPAA, PCI DSS, and GDPR standards. Trusted by 1800+ customers across 144 countries, Beagle Security helps organizations ship more secure applications while maintaining development velocity and achieving continuous security validation throughout the software development lifecycle.
- 
+- member: true
+  sponsor: -1
+  name: Corgea
+  sortname: Corgea
+  member type: 4
+  image: /assets/images/corp-member-logo/Corgea.png
+  URL: 	http://corgea.com
+  job_url:
+  description: >-
+    	Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.
 
   
 
