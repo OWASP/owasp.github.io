@@ -3,7 +3,7 @@
 date: 2025-03-06 00:00:00-0700
 categories: blog
 author: Shruti Kulkarni
-author_image: /assets/images/people/Shruti.jpg
+author_image: /assets/images/people/shruti_kulkarni.jpeg
 layout: blogpost
 title: OWASP Education and Training Committee update
 excerpt_separator: <!--more-->
