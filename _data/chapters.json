@@ -2676,7 +2676,7 @@
         "url": "https://owasp.org/www-chapter-cebu/",
         "created": "2025-02-25",
         "updated": "2025-03-07",
-        "build": "building",
+        "build": "built",
         "codeurl": "",
         "title": "OWASP Cebu",
         "level": "-1",
@@ -2733,22 +2733,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Cologne",
-        "url": "https://owasp.org/www-chapter-cologne/",
-        "created": "2025-02-24",
-        "updated": "2025-02-26",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Cologne",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Germany",
         "meetings": 0
     },
     {
@@ -4464,6 +4448,22 @@
         "meetings": 0
     },
     {
+        "name": "Cologne",
+        "url": "https://owasp.org/www-chapter-cologne/",
+        "created": "2025-02-24",
+        "updated": "2025-03-07",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Cologne",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "tbd",
+        "country": "Germany",
+        "meetings": 0
+    },
+    {
         "name": "Copenhagen",
         "url": "https://owasp.org/www-chapter-copenhagen/",
         "created": "2019-09-12",
@@ -4749,7 +4749,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-italy-meetup-group",
         "country": "Italy",
-        "meetings": 2
+        "meetings": 1
     },
     {
         "name": "Izmir",
@@ -8771,7 +8771,7 @@
         "name": "Morocco",
         "url": "https://owasp.org/www-chapter-morocco/",
         "created": "2019-09-12",
-        "updated": "2024-10-28",
+        "updated": "2025-03-07",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Morocco",
