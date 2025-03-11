@@ -1,21 +1,5 @@
 [
     {
-        "name": "Memphis",
-        "url": "https://owasp.org/www-chapter-memphis/",
-        "created": "2019-09-12",
-        "updated": "2025-03-08",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Memphis",
-        "level": "-1",
-        "type": "",
-        "region": "Unknown",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "USA",
-        "meetings": 0
-    },
-    {
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
@@ -1296,6 +1280,22 @@
         "meetings": 0
     },
     {
+        "name": "Hermosillo",
+        "url": "https://owasp.org/www-chapter-hermosillo/",
+        "created": "2025-02-14",
+        "updated": "2025-03-10",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Hermosillo",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Mexico",
+        "meetings": 0
+    },
+    {
         "name": "Houston",
         "url": "https://owasp.org/www-chapter-houston/",
         "created": "2019-09-12",
@@ -1516,6 +1516,22 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-maui",
+        "country": "USA",
+        "meetings": 0
+    },
+    {
+        "name": "Memphis",
+        "url": "https://owasp.org/www-chapter-memphis/",
+        "created": "2019-09-12",
+        "updated": "2025-03-10",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Memphis",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
         "country": "USA",
         "meetings": 0
     },
@@ -2078,6 +2094,22 @@
         "meetup-group": "OWASP-Seattle-Chapter",
         "country": "USA",
         "meetings": 16
+    },
+    {
+        "name": "Somerset",
+        "url": "https://owasp.org/www-chapter-somerset/",
+        "created": "2020-02-24",
+        "updated": "2025-03-10",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Somerset",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "United States",
+        "meetings": 0
     },
     {
         "name": "South Florida",
@@ -3040,22 +3072,6 @@
         "meetings": 0
     },
     {
-        "name": "Hermosillo",
-        "url": "https://owasp.org/www-chapter-hermosillo/",
-        "created": "2025-02-14",
-        "updated": "2025-02-14",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Hermosillo",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Mexico",
-        "meetings": 0
-    },
-    {
         "name": "Hodor",
         "url": "https://owasp.org/www-chapter-hodor/",
         "created": "2019-11-19",
@@ -3856,22 +3872,6 @@
         "meetings": 0
     },
     {
-        "name": "Somerset",
-        "url": "https://owasp.org/www-chapter-somerset/",
-        "created": "2020-02-24",
-        "updated": "2025-02-16",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "",
-        "meetings": 0
-    },
-    {
         "name": "South Sweden",
         "url": "https://owasp.org/www-chapter-south-sweden/",
         "created": "2019-09-12",
@@ -4573,7 +4573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-france",
         "country": "France",
-        "meetings": 10
+        "meetings": 11
     },
     {
         "name": "Frankfurt",
@@ -4813,7 +4813,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-klagenfurt-chapter",
         "country": "Austria",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Kristiansand",
@@ -7523,7 +7523,7 @@
         "name": "National Institute Of Engineering Mysuru",
         "url": "https://owasp.org/www-chapter-national-institute-of-engineering-mysuru/",
         "created": "2023-07-12",
-        "updated": "2025-03-03",
+        "updated": "2025-03-10",
         "build": "built",
         "codeurl": "",
         "title": "OWASP National Institute of Engineering Mysuru",
@@ -8787,7 +8787,7 @@
         "name": "Nairobi",
         "url": "https://owasp.org/www-chapter-nairobi/",
         "created": "2021-01-26",
-        "updated": "2024-04-29",
+        "updated": "2025-03-11",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Nairobi",
