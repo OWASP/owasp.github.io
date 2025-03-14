@@ -83,7 +83,7 @@
         "name": "Belo Horizonte",
         "url": "https://owasp.org/www-chapter-belo-horizonte/",
         "created": "2019-09-12",
-        "updated": "2024-12-03",
+        "updated": "2025-03-13",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Belo Horizonte",
@@ -717,7 +717,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Brisbane-OWASP-Meetup-Group",
         "country": "Australia",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Canberra",
@@ -931,7 +931,7 @@
         "name": "Boston",
         "url": "https://owasp.org/www-chapter-boston/",
         "created": "2019-09-12",
-        "updated": "2025-02-21",
+        "updated": "2025-03-13",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Boston",
@@ -1629,7 +1629,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nashville-Chapter",
         "country": "USA",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "New Braunfels",
@@ -4611,7 +4611,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-03-04",
+        "updated": "2025-03-13",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -4749,7 +4749,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-italy-meetup-group",
         "country": "Italy",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Izmir",
@@ -6749,7 +6749,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jakarta-Chapter",
         "country": "Indonesia",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Jalpaiguri Government Engineering College",
@@ -6845,6 +6845,22 @@
         "pitch": "More info soon...",
         "meetup-group": "Jeddah-OWASP-Meetup-Group",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Jis University Student Chapter",
+        "url": "https://owasp.org/www-chapter-jis-university-student-chapter/",
+        "created": "2025-03-13",
+        "updated": "2025-03-13",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-jis-university-student-chapter\thttps://github.com/OWASP/www-chapter-jis-university-student-chapter",
+        "title": "OWASP JIS University Student Chapter",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-JIS-University",
+        "country": "India",
         "meetings": 0
     },
     {
