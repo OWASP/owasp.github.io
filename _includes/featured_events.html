@@ -11,10 +11,6 @@
     {% capture my_include %}{% include_relative pages/events/featured/event3.md %}{% endcapture %}
     {{ my_include | markdownify }}
 </div>
-<div id="ev3" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event4.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
 </section>
 {% assign event_files = site.static_files | where: "event", true %}
 

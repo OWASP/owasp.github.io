@@ -1,7 +1,7 @@
-[![OWASP SnowFroc 2025](/assets/images/events/2025-snowfroc-header.png){:width="100%" height="auto"}](https://www.eventbrite.com/e/owasp-snowfroc-2025-tickets-1015564008287)
+[![OWASP AppSec Days France 2025](/assets/images/events/2025-appsec-france-header.png){:width="100%" height="auto"}](https://www.owaspappsecdays.fr/2025/#page-top)
 
-## The Denver OWASP Chapter is proud to present SnowFROC '25!
+## Come to Paris for OWASP AppSec Days France 2025!
 
-SnowFROC (Front Range OWASP Conference) is Denver's premier application security conference. It is an annual, one-day conference which draws about 400 people. For SnowFROC 2025 the event will be held Friday March 14th. While billed as, "Denver's premier application security conference", SnowFROC's presentations and workshops focus on many facets of cybersecurity and over the years, SnowFROC has come to be known for its exceptional value: Hands-on training, excellent food, spectacular networking, great location/venue and professional orchestration.
+OWASP AppSec Days France 2025 is the first OWASP local conference held in Paris, France. It will be held on Tuesday, September 23, 2025. It will be a conference with presentations from speakers and renowned European experts. We hope to welcome more than 150 security professionals for this day that promises to be full of opportunities.
 
-[Register today](https://www.eventbrite.com/e/owasp-snowfroc-2025-tickets-1015564008287)
+[More details](https://www.owaspappsecdays.fr/2025/#page-top)
