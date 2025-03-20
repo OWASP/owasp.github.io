@@ -564,17 +564,15 @@
   description: >-
     Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.
 - member: true
-   sponsor: -1
-   sponsor: 4
+   sponsor: 1
    name: InfoSecMap
    sortname: InfoSecMap
    membertype: 3
    image: /assets/images/corp-member-logo/InfoSecMap-logo-small.png
-   URL: https://infosecmap.com
-   job_url: https://infosecmap.com
    url: https://infosecmap.com
    job_url: https://infosecmap.com/contact/
-   description: InfoSecMap is a worldwide directory of InfoSec events and groups, created and maintained by community members and industry professionals. From major conferences to CTFs and local meetups, it features carefully curated, up-to-date content tailored for the InfoSec community. The platform's advanced filtering system allows users to conduct detailed searches across thousands of events, including active Call for Papers, Trainers, Sponsors, and Volunteers. Community-driven and free to use, InfoSecMap is the ultimate resource for staying connected and engaged in InfoSec.
+   description: >-
+   InfoSecMap is a worldwide directory of InfoSec events and groups, created and maintained by community members and industry professionals. From major conferences to CTFs and local meetups, it features carefully curated, up-to-date content tailored for the InfoSec community. The platform's advanced filtering system allows users to conduct detailed searches across thousands of events, including active Call for Papers, Trainers, Sponsors, and Volunteers. Community-driven and free to use, InfoSecMap is the ultimate resource for staying connected and engaged in InfoSec.
 
 
 
