@@ -595,7 +595,7 @@
         "name": "Sao Paulo",
         "url": "https://owasp.org/www-chapter-sao-paulo/",
         "created": "2019-09-12",
-        "updated": "2025-03-15",
+        "updated": "2025-03-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Sao Paulo",
@@ -1181,7 +1181,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-edmonton",
         "country": "Canada",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Georgetown",
@@ -1235,7 +1235,7 @@
         "name": "Harrisburg",
         "url": "https://owasp.org/www-chapter-harrisburg/",
         "created": "2020-01-17",
-        "updated": "2025-02-25",
+        "updated": "2025-03-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Harrisburg",
@@ -1243,7 +1243,7 @@
         "type": "",
         "region": "North America",
         "pitch": "More info soon...",
-        "meetup-group": "",
+        "meetup-group": "owasp-harrisburg",
         "country": "USA",
         "meetings": 0
     },
@@ -1805,7 +1805,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Philadelphia-Chapter",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Phoenix",
@@ -2461,6 +2461,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Bansal Institute Of Science And Technology",
+        "url": "https://owasp.org/www-chapter-bansal-institute-of-science-and-technology/",
+        "created": "2025-03-25",
+        "updated": "2025-03-25",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Bansal Institute of Science and Technology",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -4189,7 +4205,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Aarhus-Chapter",
         "country": "Denmark",
-        "meetings": 6
+        "meetings": 7
     },
     {
         "name": "Armenia",
@@ -4413,7 +4429,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bristol",
         "country": "United Kingdom",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Cambridge",
@@ -4723,7 +4739,7 @@
         "name": "Israel",
         "url": "https://owasp.org/www-chapter-israel/",
         "created": "2019-09-12",
-        "updated": "2025-02-18",
+        "updated": "2025-03-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Israel",
@@ -7731,7 +7747,7 @@
         "name": "Pune",
         "url": "https://owasp.org/www-chapter-pune/",
         "created": "2019-09-12",
-        "updated": "2022-01-08",
+        "updated": "2025-03-25",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Pune",
