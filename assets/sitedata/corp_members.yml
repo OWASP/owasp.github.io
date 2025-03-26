@@ -564,12 +564,32 @@
   description: >-
     Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.
 - member: true
-  sponsor: 2
+  sponsor: 
   name: InfoSecMap
   sortname: InfoSecMap
   membertype: 2
   image: /assets/images/corp-member-logo/InfoSecMap-logo-small.png
   url: https://infosecmap.com
-  job_url: https://infosecmap.com/contact/
+  job_url: 
   description: >-
    InfoSecMap is a worldwide directory of InfoSec events and groups, created and maintained by community members and industry professionals. From major conferences to CTFs and local meetups, it features carefully curated, up-to-date content tailored for the InfoSec community. The platform's advanced filtering system allows users to conduct detailed searches across thousands of events, including active Call for Papers, Trainers, Sponsors, and Volunteers. Community-driven and free to use, InfoSecMap is the ultimate resource for staying connected and engaged in InfoSec.
+- member: true
+  sponsor:
+  name: BDO Global LLP
+  sortname: BDO Global LLP
+  membertype: 3
+  image: /assets/images/corp-member-logo/BDO.png
+  URL: https://www.bdo.global/en-gb/services/advisory/cybersecurity
+  job_url: https://www.bdo.global/en-gb/contact-us
+  description: >-
+    BDO’s Global Cybersecurity practice is comprised of professionals from a diverse range of backgrounds, including experienced IT, operations, and data privacy consultants, as well as forensic technology, business advisory, and accounting practitioners. We are built to provide comprehensive, customized services for each client, focusing on your specific operating model, technical demands, regulatory environment, and industry dynamics. Whether it’s financial services, healthcare, retail, natural resources, or any other industry – we understand your needs.
+- member: true
+  sponsor:
+  name: Black Duck
+  sortname: Black Duck
+  membertype: 4
+  image: /assets/images/corp-member-logo/BlackDuck.png
+  URL: https://www.blackduck.com/
+  job_url:
+  description: >-
+    Black Duck® offers the most comprehensive, powerful, and trusted portfolio of application security solutions in the industry. We have an unmatched track record of helping organizations around the world secure their software quickly, integrate security efficiently in their development environments, and safely innovate with new technologies. As the recognized leaders, experts, and innovators in software security, Black Duck has everything you need to build trust in your software. Learn more at www.blackduck.com.
