@@ -1,5 +1,21 @@
 [
     {
+        "name": "Memphis",
+        "url": "https://owasp.org/www-chapter-memphis/",
+        "created": "2019-09-12",
+        "updated": "2025-03-28",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Memphis",
+        "level": "-1",
+        "type": "",
+        "region": "Unknown",
+        "pitch": "More info soon...",
+        "meetup-group": "memphis-technology-user-groups",
+        "country": "USA",
+        "meetings": 0
+    },
+    {
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
@@ -1443,7 +1459,7 @@
         "name": "Los Angeles",
         "url": "https://owasp.org/www-chapter-los-angeles/",
         "created": "2019-09-12",
-        "updated": "2025-03-18",
+        "updated": "2025-03-28",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Los Angeles",
@@ -1516,22 +1532,6 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-maui",
-        "country": "USA",
-        "meetings": 0
-    },
-    {
-        "name": "Memphis",
-        "url": "https://owasp.org/www-chapter-memphis/",
-        "created": "2019-09-12",
-        "updated": "2025-03-24",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Memphis",
-        "level": "-1",
-        "type": "",
-        "region": "North America",
-        "pitch": "More info soon...",
-        "meetup-group": "",
         "country": "USA",
         "meetings": 0
     },
@@ -1741,7 +1741,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-OC",
         "country": "USA",
-        "meetings": 12
+        "meetings": 13
     },
     {
         "name": "Orlando",
@@ -2179,7 +2179,7 @@
         "name": "Tampa",
         "url": "https://owasp.org/www-chapter-tampa/",
         "created": "2019-09-12",
-        "updated": "2025-01-15",
+        "updated": "2025-03-28",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Tampa",
@@ -2189,7 +2189,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-tampa",
         "country": "USA",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Toronto",
@@ -4307,7 +4307,7 @@
         "name": "Belgium",
         "url": "https://owasp.org/www-chapter-belgium/",
         "created": "2019-09-12",
-        "updated": "2025-01-28",
+        "updated": "2025-03-28",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Belgium",
@@ -4627,7 +4627,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-03-27",
+        "updated": "2025-03-28",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -6573,7 +6573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-hong-kong-chapter",
         "country": "China",
-        "meetings": 0
+        "meetings": 1
     },
     {
         "name": "Hyderabad",
@@ -6701,7 +6701,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-indraprastha-institute-of-information-technology",
         "country": "India",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Islamabad",
@@ -8819,7 +8819,7 @@
         "name": "Morocco",
         "url": "https://owasp.org/www-chapter-morocco/",
         "created": "2019-09-12",
-        "updated": "2025-03-07",
+        "updated": "2025-03-29",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Morocco",
