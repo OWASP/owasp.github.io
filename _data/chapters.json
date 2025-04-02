@@ -1,21 +1,5 @@
 [
     {
-        "name": "Memphis",
-        "url": "https://owasp.org/www-chapter-memphis/",
-        "created": "2019-09-12",
-        "updated": "2025-03-28",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Memphis",
-        "level": "-1",
-        "type": "",
-        "region": "Unknown",
-        "pitch": "More info soon...",
-        "meetup-group": "memphis-technology-user-groups",
-        "country": "USA",
-        "meetings": 0
-    },
-    {
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
@@ -1469,7 +1453,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 26
+        "meetings": 27
     },
     {
         "name": "Madison",
@@ -1532,6 +1516,22 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "owasp-maui",
+        "country": "USA",
+        "meetings": 0
+    },
+    {
+        "name": "Memphis",
+        "url": "https://owasp.org/www-chapter-memphis/",
+        "created": "2019-09-12",
+        "updated": "2025-04-01",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Memphis",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "memphis-technology-user-groups",
         "country": "USA",
         "meetings": 0
     },
@@ -1821,7 +1821,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Phoenix-Chapter",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Pittsburgh",
@@ -4829,7 +4829,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-klagenfurt-chapter",
         "country": "Austria",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Kristiansand",
@@ -5091,7 +5091,7 @@
         "name": "Netherlands",
         "url": "https://owasp.org/www-chapter-netherlands/",
         "created": "2019-09-12",
-        "updated": "2025-03-29",
+        "updated": "2025-04-01",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Netherlands",
@@ -5357,7 +5357,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-stuttgart-chapter",
         "country": "Germany",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Suffolk",
