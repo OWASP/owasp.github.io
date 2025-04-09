@@ -1,10 +1,7 @@
-<!-- 
+[![Global AppSec USA](/assets/images/events/2025-usa-header.png){:width="100%" height="auto"}](https://owasp.glueup.com/event/131624/register/)
 
-[![OWASP 2024 AppSec Days Singapore](/assets/images/events/SFHeader.png){:width="100%" height="auto"}](https://singapore.appsecdays.org/)
+## Get ready for the ultimate cybersecurity experience at the OWASP Global AppSec US Conference in Washington, D.C.!
 
-### Conference Registration is Open!
-### Exhibitor and Sponsorship opportunities are being accepted!
+From November 3-7, 2025, [join over 800 industry experts](https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/) at the stunning Marriott Marquis for an event that promises to ignite your passion for security. This is your chance to connect, learn, and grow with some of the brightest minds in the field. Prepare to be inspired by powerful keynote speakers and dive deep into six action-packed tracks covering everything from OWASP Projects to specialized topics like builder/developer, breaker, defender, and manager-culture. Whether you're looking to expand your skills or discover new solutions, you'll find everything you need to stay ahead of the curve.
 
-Join us for the 2024 OWASP AppSec Days Singapore at Marina Bay Sands hotel. Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering three educational **1-day training courses on 01-October that requires a separate ticket purchase followed by the conference and exhibition on 02-October. Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Conference. With amazing speakers and networking opportunities, this is an event you will not want to miss. [Register Here](https://owaspappsecdayssingapore2.rsvpify.com/) and if you'd like to sponsor or exhibit, please [download the prospectus](https://owasp.wufoo.com/forms/2024-appsec-days-singapore-exhibit-interest/).
-
--->
+[Register today and take advantage of super early bird pricing!](https://owasp.glueup.com/event/131624/register/)
