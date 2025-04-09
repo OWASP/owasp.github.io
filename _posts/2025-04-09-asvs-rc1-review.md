@@ -5,7 +5,7 @@ categories: blog
 author: Josh Grossman
 author_image: /assets/images/people/josh_grossman_headshot.jpg
 layout: blogpost
-title: ASVS 5.0 - The Final Countdown
+title: ASVS 5.0 RC1 is ready for your review!
 excerpt_separator: <!--more-->
 
 ---
