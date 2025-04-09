@@ -25,7 +25,7 @@ We have now released a release candidate version of 5.0 and we are waiting for y
 
 ## How can I help?
 
-Reading through the release candidate version of ASVS is a great place to start. We would strongly recommend that you use [the markdown version](https://github.com/OWASP/ASVS/tree/master/5.0/en) as we are constantly incorporating updates. There is also an [unofficial web based version](https://asvs.dev/v5.0.draft/0x00-Header/) which is kept frequently updated.
+Reading through the release candidate version of ASVS is a great place to start. We would strongly recommend that you use [the markdown version](https://github.com/OWASP/ASVS/tree/master/5.0/en) as we are constantly incorporating updates. There is also a [semi-official web based version](https://asvs.dev/v5.0.draft/0x00-Header/) (maintained by Elar, one of the project leaders) which is kept frequently updated.
 
 A few questions to ask yourself as you review the document:
 
@@ -34,7 +34,7 @@ A few questions to ask yourself as you review the document:
 
 Please first log ideas, issues or questions here: <https://github.com/OWASP/ASVS/issues>. It’s helpful to share if you have any ideas or if you find any bugs or typos (but see the extra guidance below).
 
-We may subsequently ask you to open a pull request, <https://github.com/OWASP/ASVS/pulls>, based on the discussion in the issue. 
+We may subsequently ask you to open a pull request, <https://github.com/OWASP/ASVS/pulls>, based on the discussion in the issue, if you are willing to do so, or we do that ourselves if you prefer. 
 
 After familiarizing yourself with the current version and if you don't have additional questions or feedback, the next area to focus on is the "Issues" section. 
 
