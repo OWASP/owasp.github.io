@@ -39,7 +39,8 @@ We may subsequently ask you to open a pull request, <https://github.com/OWASP/AS
 After familiarizing yourself with the current version and if you don't have additional questions or feedback, the next area to focus on is the "Issues" section. 
 
 The issues to focus on for RC1 are listed here:
-https://github.com/OWASP/ASVS/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22_5.0%20-%20rc1%22
+
+<https://github.com/OWASP/ASVS/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22_5.0%20-%20rc1%22>
 
 ## What's next
 
