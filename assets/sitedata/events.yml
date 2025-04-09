@@ -18,12 +18,7 @@
       #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:
-    - name: OWASP Boston Application Security Conference 2025
-      start-date: 2025-04-05
-      dates: April 5, 2025
-      url: https://basconf.org/
-      optional-text: BASC is an annual conference held by the Boston chapter of the OWASP that includes presenters and workshops focused on current trends in application security.        
+  events:       
     - name: OWASP AppSec Israel 2025
       start-date: 2025-06-05
       dates: June 5, 2025
@@ -42,7 +37,7 @@
     - name: OWASP AppSec Days Singapore 2025
       start-date: 2025-09-12
       dates: September 12-13, 2025
-      url: https://https://owasp.org/
+      url: http://singapore.appsecdays.org/
       optional-text: OWASP is excited to announce or second annual AppSec Days Singapore Conference complete with one day of training followed by one day of conference and expo.   
     - name: OWASP AppSec Days Bangalore 2025
       start-date: 2025-09-19
