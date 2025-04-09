@@ -43,7 +43,7 @@ https://github.com/OWASP/ASVS/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22_5
 
 ## What's next
 
-Our very own Elar Lang will be presenting at [OWASP Global AppSec EU Barcelona](https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/) about the final 5.0 version so make sure you [check out his session there](https://owasp2025globalappseceu.sched.com/event/1whCc/introducing-the-50-release-of-the-asvs) in the builder track on Friday, 11:30am - 12:15pm. 
+Our very own Elar Lang, the key driving force behind version 5.0, will be presenting at [OWASP Global AppSec EU Barcelona](https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/) about the final 5.0 version so make sure you [check out his session there](https://owasp2025globalappseceu.sched.com/event/1whCc/introducing-the-50-release-of-the-asvs) in the builder track on Friday, 11:30am - 12:15pm. 
 
 ## Stay in contact
 
