@@ -7,6 +7,7 @@ tags: Application Security, Cyber Security, Information Security, Web, Cloud, Vu
 spnews: False
 
 ---
+
 <!-- Mastodon verification -->
 <link rel="me" href="https://infosec.exchange/@owasp">
 
