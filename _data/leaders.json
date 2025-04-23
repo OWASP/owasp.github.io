@@ -301,6 +301,20 @@
         "group_url": "https://owasp.org/www-chapter-bangkok/"
     },
     {
+        "name": "Vanja Popovic",
+        "email": "vanja.popovic@owasp.org",
+        "group": "OWASP Banja Luka Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-banja-luka/"
+    },
+    {
+        "name": "Adam Maric",
+        "email": "adam.maric@owasp.org",
+        "group": "OWASP Banja Luka Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-banja-luka/"
+    },
+    {
         "name": "Anant Sharma",
         "email": "anant.sharma@owasp.org",
         "group": "OWASP Bansal Institute of Science and Technology",
@@ -1631,6 +1645,27 @@
         "group_url": "https://owasp.org/www-chapter-edmonton/"
     },
     {
+        "name": "Ahmed Shatnawi: Faculty Advisor",
+        "email": "ahmed.shatnawi@owasp.org",
+        "group": "OWASP Fahd Bin Sultan University Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fahd-bin-sultan-university/"
+    },
+    {
+        "name": "Mohammad Hujooj: Faculty Advisor",
+        "email": "mohammad.hujooj@owasp.org",
+        "group": "OWASP Fahd Bin Sultan University Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fahd-bin-sultan-university/"
+    },
+    {
+        "name": "Ahmad AlFallah",
+        "email": "ahmad.alfallah@owasp.org",
+        "group": "OWASP Fahd Bin Sultan University Student Chapter",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-fahd-bin-sultan-university/"
+    },
+    {
         "name": "Doç. Dr. Erhan Akbal",
         "email": "erhan.akbal@owasp.org",
         "group": "OWASP Firat University",
@@ -2255,14 +2290,14 @@
     },
     {
         "name": "Nitin Raghavendra Gajjala",
-        "email": "",
+        "email": "nitin.gajjala@owasp.org",
         "group": "OWASP Institute of Aeronautical Engineering",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-institute-of-aeronautical-engineering/"
     },
     {
         "name": "P L Srinivasa Murthy",
-        "email": "",
+        "email": "srinivasa.murthy@owasp.org",
         "group": "OWASP Institute of Aeronautical Engineering",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-institute-of-aeronautical-engineering/"
@@ -8668,6 +8703,13 @@
     {
         "name": "Kayla Underkoffler",
         "email": "kayla.underkoffler@owasp.org",
+        "group": "OWASP Low-Code/No-Code Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
+    },
+    {
+        "name": "Ziv Hagbi",
+        "email": "zivh@zenity.io",
         "group": "OWASP Low-Code/No-Code Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
