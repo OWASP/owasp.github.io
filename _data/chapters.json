@@ -893,7 +893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 13
+        "meetings": 12
     },
     {
         "name": "Bellingham",
@@ -1373,7 +1373,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jacksonville-Chapter",
         "country": "USA",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Kansas City",
@@ -1907,7 +1907,7 @@
         "name": "Quebec City",
         "url": "https://owasp.org/www-chapter-quebec-city/",
         "created": "2019-09-12",
-        "updated": "2025-04-14",
+        "updated": "2025-04-23",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Quebec City",
@@ -2083,7 +2083,7 @@
         "name": "Santa Barbara",
         "url": "https://owasp.org/www-chapter-santa-barbara/",
         "created": "2019-09-12",
-        "updated": "2025-03-22",
+        "updated": "2025-04-22",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-santa-barbara",
         "title": "OWASP Santa Barbara",
@@ -2976,6 +2976,22 @@
         "meetings": 0
     },
     {
+        "name": "Fahd Bin Sultan University",
+        "url": "https://owasp.org/www-chapter-fahd-bin-sultan-university/",
+        "created": "2025-03-12",
+        "updated": "2025-04-22",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Fahd Bin Sultan University Student Chapter",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Kingdom of Saudi Arabia",
+        "meetings": 0
+    },
+    {
         "name": "Gaborone",
         "url": "https://owasp.org/www-chapter-gaborone/",
         "created": "2021-11-04",
@@ -3187,7 +3203,7 @@
         "name": "Institute Of Aeronautical Engineering",
         "url": "https://owasp.org/www-chapter-institute-of-aeronautical-engineering/",
         "created": "2025-04-15",
-        "updated": "2025-04-16",
+        "updated": "2025-04-22",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Institute of Aeronautical Engineering",
@@ -4000,10 +4016,10 @@
         "meetings": 0
     },
     {
-        "name": "Sri Lanka Institute Of Information Technology Student Chapter",
-        "url": "https://owasp.org/www-chapter-sri-lanka-institute-of-information-technology---student-chapter/",
+        "name": "Sri Lanka Institute Of Information Technology",
+        "url": "https://owasp.org/www-chapter-sri-lanka-institute-of-information-technology/",
         "created": "2020-12-15",
-        "updated": "2021-04-20",
+        "updated": "2025-04-22",
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Sri Lanka Institute of Information Technology - Student Chapter",
@@ -4269,7 +4285,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Aarhus-Chapter",
         "country": "Denmark",
-        "meetings": 7
+        "meetings": 5
     },
     {
         "name": "Armenia",
@@ -4318,6 +4334,22 @@
         "meetup-group": "owasp-augsburg-chapter",
         "country": "Germany",
         "meetings": 9
+    },
+    {
+        "name": "Banja Luka",
+        "url": "https://owasp.org/www-chapter-banja-luka/",
+        "created": "2025-02-25",
+        "updated": "2025-04-22",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Banja Luka Chapter",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Bosnia & Herzegovina",
+        "meetings": 0
     },
     {
         "name": "Barcelona",
@@ -4691,7 +4723,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-03-28",
+        "updated": "2025-04-22",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
