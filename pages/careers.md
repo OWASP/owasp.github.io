@@ -5,6 +5,30 @@ title: Careers
 permalink: /careers/
 
 ---
+<style>
+  .callout-mono {
+    font-family: monospace;
+    background: #f4f4f4;
+    padding: 1rem;
+    margin: 1rem 0;
+    display: block;
+    border-left: 4px solid #999;
+  }
+
+  .callout-mono.right {
+    float: right;
+    margin-left: 1rem;
+    max-width: 300px;
+  }
+
+  @media (max-width: 768px) {
+    .callout-mono.right {
+      float: none;
+      max-width: 100%;
+      margin-left: 0;
+    }
+  }
+</style>
 
 ## Working for the OWASP Foundation
 
