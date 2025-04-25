@@ -406,7 +406,7 @@
   job_url: 
   description: Architects and Developers of a world leading, top tier Optical Practice Management System. Formed in 1989, SDS is a strategic software supplier to many 'Top 10'​ Optical Retailers in North America. We have a comprehensive and fully flexible solution which allows our clients to operate successfully in their unique environments. SDS also offers custom development to handle any client specific requirements.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Promon
   sortname: Promon
   membertype: 3
@@ -415,7 +415,7 @@
   job_url: https://careers.promon.co/
   description: Promon is the leader in proactive mobile app security. We exist to make the world a little bit safer, one app at a time. Since 2006, some of the world’s most impactful companies have trusted Promon to secure their mobile apps. Today, more than 2 billion people use a Promon-protected app. Promon is headquartered in Oslo, Norway with offices throughout the globe. Learn more at Promon.co.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Zen Exim Pvt. Ltd.
   sortname: Zen Exim Pvt. Ltd.
   membertype: 4
@@ -424,7 +424,7 @@
   job_url: 
   description: Zen Exim is India’s leading value-added distributor since 2000, providing IT infrastructure solutions like Wireless, Network, and Data Centre Switches, SD-WAN, Data Centre Security, Cloud-Based applications, and more. Zen has 4,000+ channel partners across India and SAARC, supporting key sectors such as Hospitality, Healthcare, Corporate, Education, BFSI, Telecom, and Government. With a presence of sales and technical teams in major Indian cities, Zen Exim partners with global OEMs like F5, CommScope, Arista, and other networking products. Quantum Networks, a brand under Zen Exim, manufactures advanced networking solutions in India, driving connectivity innovation for businesses in the digital era.
 - member: true
-  sponsor:
+  sponsor: -1
   name: SKUDONET
   sortname: SKUDONET
   membertype: 4
@@ -519,7 +519,7 @@
   sortname: Bright Security
   membertype: 4
   image: /assets/images/corp-member-logo/BrightSecurity.png
-  URL: https://brightsec.com/
+  url: https://brightsec.com/
   job_url:
   description: Bright Security delivers an enterprise-grade, developer-centric Dynamic Application Security Testing (DAST) platform, enabling organizations to identify and remediate vulnerabilities early and seamlessly throughout the Software Development Life Cycle (SDLC). Trusted by leading organizations across the globe, Bright excels in securing web applications, APIs, business logic, and LLMs. By integrating directly into development workflows, Bright empowers teams to accelerate vulnerability resolution by up to 10X, ensuring robust security without compromising speed or innovation.
 - member: true
@@ -528,7 +528,7 @@
   sortname: Red Hat
   member type: 4
   image: /assets/images/corp-member-logo/Red_Hat.svg
-  URL: http://www.redhat.com
+  url: http://www.redhat.com
   job_url:
   description: Red Hat is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, hybrid cloud, edge, and Kubernetes technologies.
 - member: true
@@ -537,7 +537,7 @@
   sortname: Hitachi Systems, Ltd. 
   member type: 4
   image: /assets/images/corp-member-logo/hitachien.png
-  URL: https://www.hitachi-systems.com/eng/index.html
+  url: https://www.hitachi-systems.com/eng/index.html
   job_url:
   description: >-
     Hitachi Systems is committed to promoting sustainability management and supporting social innovation initiatives within the Hitachi Group to achieve the goal of contributing to the realization of a truly affluent society.
@@ -549,7 +549,7 @@
   sortname: Beagle Security
   member type: 4
   image: /assets/images/corp-member-logo/Beagle.png
-  URL: https://beaglesecurity.com
+  url: https://beaglesecurity.com
   job_url:
   description: >-
     Beagle Security empowers developers and security teams with AI-driven automated penetration testing for web applications, APIs & GraphQL. Seamlessly integrate robust security testing into your CI/CD pipeline to catch vulnerabilities early, receive actionable remediation guidance, and generate compliance reports for HIPAA, PCI DSS, and GDPR standards. Trusted by 1800+ customers across 144 countries, Beagle Security helps organizations ship more secure applications while maintaining development velocity and achieving continuous security validation throughout the software development lifecycle.
@@ -559,12 +559,12 @@
   sortname: Corgea
   member type: 4
   image: /assets/images/corp-member-logo/Corgea.png
-  URL: 	http://corgea.com
+  url: 	http://corgea.com
   job_url:
   description: >-
     Corgea helps engineers ship code and not vulnerabilities. It's an AI-powered SAST, unlike traditional SAST with tons of false positives, Corgea can find vulnerabilities like business logic flaws, API vulnerabilities, and broken authentication with little false positives (<5%). It also writes security fixes for engineers to approve.
 - member: true
-  sponsor: 
+  sponsor: -1
   name: InfoSecMap
   sortname: InfoSecMap
   membertype: 2
@@ -574,72 +574,75 @@
   description: >-
    InfoSecMap is a worldwide directory of InfoSec events and groups, created and maintained by community members and industry professionals. From major conferences to CTFs and local meetups, it features carefully curated, up-to-date content tailored for the InfoSec community. The platform's advanced filtering system allows users to conduct detailed searches across thousands of events, including active Call for Papers, Trainers, Sponsors, and Volunteers. Community-driven and free to use, InfoSecMap is the ultimate resource for staying connected and engaged in InfoSec.
 - member: true
-  sponsor:
+  sponsor: -1
   name: BDO Global LLP
   sortname: BDO Global LLP
   membertype: 3
   image: /assets/images/corp-member-logo/BDO.png
-  URL: https://www.bdo.global/en-gb/services/advisory/cybersecurity
+  url: https://www.bdo.global/en-gb/services/advisory/cybersecurity
   job_url: https://www.bdo.global/en-gb/contact-us
   description: >-
     BDO’s Global Cybersecurity practice is comprised of professionals from a diverse range of backgrounds, including experienced IT, operations, and data privacy consultants, as well as forensic technology, business advisory, and accounting practitioners. We are built to provide comprehensive, customized services for each client, focusing on your specific operating model, technical demands, regulatory environment, and industry dynamics. Whether it’s financial services, healthcare, retail, natural resources, or any other industry – we understand your needs.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Black Duck
   sortname: Black Duck
   membertype: 4
   image: /assets/images/corp-member-logo/BlackDuck.png
-  URL: https://www.blackduck.com/
+  url: https://www.blackduck.com/
   job_url:
   description: >-
     Black Duck® offers the most comprehensive, powerful, and trusted portfolio of application security solutions in the industry. We have an unmatched track record of helping organizations around the world secure their software quickly, integrate security efficiently in their development environments, and safely innovate with new technologies. As the recognized leaders, experts, and innovators in software security, Black Duck has everything you need to build trust in your software. Learn more at www.blackduck.com.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Secure Code Warrior
   sortname:	Secure Code Warrior
   membertype: 2
   image: /assets/images/corp-member-logo/SecureCodeWarrior.png
-  URL: https://www.securecodewarrior.com/
+  url: https://www.securecodewarrior.com/
   job_url:
   description: >-
     Secure Code Warrior is a Developer Risk Management Platform enabling enterprises to implement new standards for secure code throughout the software development lifecycle. With an integrated approach of organizationally benchmarking secure code skills, governance by quality gates integrated during code changes, and upskilling with dynamic agile learning opportunities. Secure Code Warrior allows cybersecurity teams and CISOs to go beyond basic compliance initiatives. Efficiently measure, manage, and mitigate security risk to eliminate introduced vulnerabilities by up to 53%, reduce MTTR by 2x, ease tension between security and engineering teams, and provide continued development opportunities to help retain top talent.
 - member: true
-  sponsor:
+  sponsor: -1
   name: Akto
   sortname: Akto
   membertype: 4
   image: /assets/images/corp-member-logo/Akto.png
-  URL: http://Akto.io
+  url: http://Akto.io
   job_url:
   description: >-
     Akto is the best platform for appsec teams to build an enterprise-grade API security program throughout their DevSecOps pipeline. Our industry-leading suite of — API discovery, API security posture management, sensitive data exposure, and API security testing solutions enables organizations to gain visibility in their API security posture. 1,000+ appsec teams globally trust Akto for their API security needs. Akto is a representative vendor in Gartner® Market Guide for API Protection, Gartner® Hype Cycle for APIs, and Gartner® Hype Cycle for Application Security.
 - member: true
-  sponsor:
+  sponsor: -1
   name: IriusRisk
   sortname: IriusRisk
   membertype: 4
   image: /assets/images/corp-member-logo/IriusRisk.png
-  URL: https://www.iriusrisk.com/
+  url: https://www.iriusrisk.com/
   job_url:
   description: >-
     We make secure design the standard, scalable practice for all digital teams. IriusRisk makes secure design fast, reliable, and accessible, even to non-security users, thanks to our automated and AI-augmented Threat Modeling Solution.
 - member: true
-  sponsor:
-  name: SQ1 Security Infotech, Inc.
-  sortname: SQ1 Security Infotech, Inc.
-  membertype: 3
-  image: /assets/images/corp-member-logo/sq1_logo_dark_version.png
-  URL: http://www.sq1.security
-  job_url: https://www.secqureone.com/careers
-  description: >-
-    SQ1, formerly SecqureOne, is a global cybersecurity leader offering end-to-end cybersecurity and compliance solution. Our AI-powered security platforms are designed to protect endpoints & cloud assets from advanced cyber-attacks and threats, including APTs, malware, and ransomware. SQ1 offers a comprehensive range of managed cybersecurity services that identify & assess, protect and prevent, detect, analyse & respond to cyber threats and risks. SQ1 has been a trusted security partner for several thousands of businesses globally of various sizes across verticals from Healthcare, Pharma, Financial Services, Govt, Manufacturing, Technology, Oil and Energy.
-- member: true
-  sponsor: 
+  sponsor: -1
   name: Fujitsu Limited
   sortname: Fujitsu Limited
   membertype: 3
   image: /assets/images/corp-member-logo/FujitsuLimited.png
-  URL: https://global.fujitsu/en-global
+  url: https://global.fujitsu/en-global
   job_url: https://www.fujitsu.com/global/about/careers/
   description: >-
     The Fujitsu Group has operations in different regions around the world, including Japan, and provides digital services globally. We have built large-scale, cutting-edge systems that leverage our advanced technologies and extensive track record, garnering the No. 1 market share in Japan and a top-class position worldwide in the IT services field.
+- member: true
+  sponsor: -1
+  name: SQ1 Security Infotech, Inc.
+  sortname: SQ1 Security Infotech
+  membertype: 3
+  image: /assets/images/corp-member-logo/sq1_logo_dark_version.png
+  url: https://www.sq1.security
+  job_url: https://www.secqureone.com/careers
+  description: >-
+    SQ1, formerly SecqureOne, is a global cybersecurity leader offering end-to-end cybersecurity and compliance solution. Our AI-powered security platforms are designed to protect endpoints & cloud 
+    assets from advanced cyber-attacks and threats, including APTs, malware, and ransomware. SQ1 offers a comprehensive range of managed cybersecurity services that identify & assess, protect and prevent, 
+    detect, analyse & respond to cyber threats and risks. SQ1 has been a trusted security partner for several thousands of businesses globally of various sizes across verticals from Healthcare, Pharma, 
+    Financial Services, Govt, Manufacturing, Technology, Oil and Energy.
