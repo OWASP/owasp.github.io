@@ -6265,6 +6265,27 @@
         "group_url": "https://owasp.org/www-project-appsensor/"
     },
     {
+        "name": "Jim Manico",
+        "email": "jim@owasp.org",
+        "group": "OWASP Artificial Intelligence Security Verification Standard AISVS Docs",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/"
+    },
+    {
+        "name": "Russ Memisyazici",
+        "email": "jim@owasp.org",
+        "group": "OWASP Artificial Intelligence Security Verification Standard AISVS Docs",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/"
+    },
+    {
+        "name": "Ken Huang",
+        "email": "ken.huang@owasp.org",
+        "group": "OWASP Artificial Intelligence Vulnerability Scoring System",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-artificial-intelligence-vulnerability-scoring-system/"
+    },
+    {
         "name": "Uday Korlimarla",
         "email": "uday@inspektre.io",
         "group": "OWASP ASVS-Graph",
@@ -6284,6 +6305,27 @@
         "group": "OWASP Attack Surface Detector",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-attack-surface-detector/"
+    },
+    {
+        "name": "Shubham Mittal",
+        "email": "shubham.mittal@owasp.org",
+        "group": "OWASP Attack Surface Management Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-attack-surface-management-top-10/"
+    },
+    {
+        "name": "Sudhanshu Chauhan",
+        "email": "shubham.mittal@owasp.org",
+        "group": "OWASP Attack Surface Management Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-attack-surface-management-top-10/"
+    },
+    {
+        "name": "Krutarth Shukla",
+        "email": "shubham.mittal@owasp.org",
+        "group": "OWASP Attack Surface Management Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-attack-surface-management-top-10/"
     },
     {
         "name": "Kim Wuyts",
@@ -6356,6 +6398,27 @@
         "group_url": "https://owasp.org/www-project-benchmark/"
     },
     {
+        "name": "Andrew Ash",
+        "email": "andrew.ash@owasp.org",
+        "group": "OWASP BLADE Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-blade-framework/"
+    },
+    {
+        "name": "Andy Still",
+        "email": "andrew.ash@owasp.org",
+        "group": "OWASP BLADE Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-blade-framework/"
+    },
+    {
+        "name": "Matt Gracey-McMinn",
+        "email": "andrew.ash@owasp.org",
+        "group": "OWASP BLADE Framework",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-blade-framework/"
+    },
+    {
         "name": "Jon McCoy",
         "email": "jon.mccoy@owasp.org",
         "group": "OWASP BlockChain AppSec Standard",
@@ -6410,6 +6473,27 @@
         "group": "OWASP ChainGoat",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-chaingoat/"
+    },
+    {
+        "name": "Aleksei Ryzhkov",
+        "email": "aleksei.ryzhkov@owasp.org",
+        "group": "OWASP Cheat Code Series",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cheat-code-series/"
+    },
+    {
+        "name": "Vladimir Fedotov",
+        "email": "aleksei.ryzhkov@owasp.org",
+        "group": "OWASP Cheat Code Series",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cheat-code-series/"
+    },
+    {
+        "name": "Kanat Nurzhanov",
+        "email": "aleksei.ryzhkov@owasp.org",
+        "group": "OWASP Cheat Code Series",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-cheat-code-series/"
     },
     {
         "name": "Jim Manico",
@@ -8162,6 +8246,13 @@
         "group_url": "https://owasp.org/www-project-scrappy/"
     },
     {
+        "name": "Adam Lumsden",
+        "email": "adam.lumsden@owasp.org",
+        "group": "OWASP Secure API Gateway Blueprint",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-secure-api-gateway-blueprint/"
+    },
+    {
         "name": "Paul Ionescu",
         "email": "paul.ionescu@owasp.org",
         "group": "OWASP Secure Coding Dojo",
@@ -8790,6 +8881,13 @@
         "group": "OWASP untrust",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-untrust/"
+    },
+    {
+        "name": "Shubham Sharma",
+        "email": "shubham.sharma@owasp.org",
+        "group": "OWASP VulnCodeLab",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulncodelab/"
     },
     {
         "name": "Michał Walkowski",
