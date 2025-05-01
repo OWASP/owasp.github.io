@@ -1162,15 +1162,8 @@
         "group_url": "https://owasp.org/www-chapter-cleveland/"
     },
     {
-        "name": "Arun Saravanan",
-        "email": "arun.saravanan@owasp.org",
-        "group": "OWASP Coimbatore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-coimbatore/"
-    },
-    {
-        "name": "Rohit Saravanan",
-        "email": "rohit.saravanan@owasp.org",
+        "name": "Avinash R",
+        "email": "avinash.ravi@owasp.org",
         "group": "OWASP Coimbatore",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-coimbatore/"
@@ -1183,8 +1176,15 @@
         "group_url": "https://owasp.org/www-chapter-coimbatore/"
     },
     {
-        "name": "Avinash Ravi",
-        "email": "avinash.ravi@owasp.org",
+        "name": "Rohit Saravanan",
+        "email": "rohit.saravanan@owasp.org",
+        "group": "OWASP Coimbatore",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-coimbatore/"
+    },
+    {
+        "name": "Arun Saravanan",
+        "email": "arun.saravanan@owasp.org",
         "group": "OWASP Coimbatore",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-coimbatore/"
@@ -4564,15 +4564,15 @@
         "group_url": "https://owasp.org/www-chapter-rv-university/"
     },
     {
-        "name": "S Shreyas",
-        "email": "s.shreyas@owasp.org",
+        "name": "Pratham K",
+        "email": "pratham.k@owasp.org",
         "group": "OWASP RV University Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-rv-university/"
     },
     {
-        "name": "Pratham K",
-        "email": "pratham.k@owasp.org",
+        "name": "S Shreyas",
+        "email": "s.shreyas@owasp.org",
         "group": "OWASP RV University Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-rv-university/"
@@ -5633,6 +5633,34 @@
         "group": "OWASP Tunisia",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-tunisia/"
+    },
+    {
+        "name": "Ali Dehghantanha",
+        "email": "ali.dehghantanha@owasp.org",
+        "group": "OWASP University of Guelph",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-university-of-guelph/"
+    },
+    {
+        "name": "Rudraksh Gupta",
+        "email": "rudraksh.gupta@owasp.org",
+        "group": "OWASP University of Guelph",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-university-of-guelph/"
+    },
+    {
+        "name": "Varij Saini",
+        "email": "varij.saini@owasp.org",
+        "group": "OWASP University of Guelph",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-university-of-guelph/"
+    },
+    {
+        "name": "Neel Soni",
+        "email": "neel.soni@owasp.org",
+        "group": "OWASP University of Guelph",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-university-of-guelph/"
     },
     {
         "name": "Martín Marsicano",
