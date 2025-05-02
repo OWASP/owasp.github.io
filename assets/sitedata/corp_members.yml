@@ -353,15 +353,6 @@
   description: Pynt is an innovative API Security Testing platform exposing verified API threats through simulated attacks. We help hundreds of companies such as Telefonica, Sage, Halodoc, and more, to continuously monitor, classify and attack poorly secured APIs, before hackers do. Pynt's leverages an integrated shift-left approach, and unique hack technology using home-grown attack scenarios, to detect real threats, discover APIs, and eliminate the API attack surface risk.
 - member: true
   sponsor: -1
-  name: Root
-  sortname: Root
-  membertype: 2
-  image: /assets/images/corp-member-logo/Root.png
-  url: http://root.io
-  job_url: https://www.root.io/contact
-  description: Root is the fastest way to achieve software acceptance and zero vulnerabilities. We are a robust two-sided SaaS platform designed to enhance transparency and trust in application security. By seamlessly integrating with your existing tools like vulnerability scanners, ticketing systems, and CI/CD pipelines, Root streamlines the security verification process, enabling quicker acceptance of software releases through clear communication and effective collaboration.
-- member: true
-  sponsor: -1
   name: Appdome
   sortname: Appdome
   membertype: 3
@@ -646,3 +637,13 @@
     assets from advanced cyber-attacks and threats, including APTs, malware, and ransomware. SQ1 offers a comprehensive range of managed cybersecurity services that identify & assess, protect and prevent, 
     detect, analyse & respond to cyber threats and risks. SQ1 has been a trusted security partner for several thousands of businesses globally of various sizes across verticals from Healthcare, Pharma, 
     Financial Services, Govt, Manufacturing, Technology, Oil and Energy.
+- member: true
+  sponsor: -1
+  name: Root
+  sortname: Root
+  membertype: 2
+  image: /assets/images/corp-member-logo/Root.png
+  url: https://www.root.io/
+  job_url: https://www.root.io/careers/
+  description: >- 
+    Root.io delivers Autonomous Container Security through Automated Vulnerability Remediation (AVR), eliminating CVEs without disrupting developer workflows. Powered by agentic AI, our platform applies targeted, in-place patches—no rebasing, no re-architecting, and no vendor lock-in—while preserving base images and ensuring SLA-backed compliance and alignment with emerging regulatory standards. Root integrates with CI/CD and developer tools, complements your existing scanners by fixing what they flag, and backports patches even when no upstream fix exists. Trusted by security-conscious enterprises in defense, AI, and regulated industries, Root pairs SBOM + VEX automation with audit-readiness. Remediation that’s automatic, auditable, and already done.
