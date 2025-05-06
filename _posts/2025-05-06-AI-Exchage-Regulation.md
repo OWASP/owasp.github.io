@@ -2,8 +2,8 @@
 
 date: 2025-05-06 00:00:00-0700
 categories: blog
-author: Rob van der Veer
-author_image: /assets/images/people/rob-van-der-veer.jpg
+author: Ricardo Griffith
+author_image: /assets/images/people/board-ricardo.png
 layout: blogpost
 title: OWASP Enables AI Regulation That Works with OWASP AI Exchange
 excerpt_separator: <!--more-->
