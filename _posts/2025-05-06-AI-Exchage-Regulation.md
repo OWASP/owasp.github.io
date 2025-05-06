@@ -10,9 +10,9 @@ excerpt_separator: <!--more-->
 
 ---
 
-# OWASP Enables AI Regulation That Works With OWASP AI Exchange
-
 **OWASP** has forged a coalition between the global security community and formal standardization bodies on AI. The **‘AI Exchange’ Project** is now driving the creation of AI security standards that protect people and businesses while still allowing innovation to thrive.
+
+<!--more-->
 
 By establishing an official liaison partnership with international standardization organizations, the **Open Worldwide Application Security Project (OWASP)** has opened the door for its community of 8,500 security professionals to contribute directly to critical standards. This partnership has already made a meaningful impact—especially on key standards for AI security. Thanks to the active involvement of OWASP’s practitioners, the draft standards now include clear, practical, and fair requirements.
 
