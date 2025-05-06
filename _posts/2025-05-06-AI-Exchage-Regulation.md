@@ -2,7 +2,7 @@
 
 date: 2025-05-06 00:00:00-0700
 categories: blog
-author: Ricardo Griffith
+author: Ricardo Griffith, OWASP Foundation, Global Board Chair
 author_image: /assets/images/people/board-ricardo.png
 layout: blogpost
 title: OWASP Enables AI Regulation That Works with OWASP AI Exchange
