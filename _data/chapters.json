@@ -333,7 +333,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Joao-Pessoa-Chapter",
         "country": "Brazil",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Juiz De Fora",
@@ -1747,7 +1747,7 @@
         "name": "Orange County",
         "url": "https://owasp.org/www-chapter-orange-county/",
         "created": "2019-09-12",
-        "updated": "2025-02-17",
+        "updated": "2025-05-05",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Orange County",
@@ -1795,7 +1795,7 @@
         "name": "Ottawa",
         "url": "https://owasp.org/www-chapter-ottawa/",
         "created": "2019-09-12",
-        "updated": "2025-04-13",
+        "updated": "2025-05-05",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Ottawa",
@@ -4064,6 +4064,22 @@
         "meetings": 0
     },
     {
+        "name": "Tashkent",
+        "url": "https://owasp.org/www-chapter-tashkent/",
+        "created": "2025-05-05",
+        "updated": "2025-05-05",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Tashkent",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Uzbekistan",
+        "meetings": 0
+    },
+    {
         "name": "Tehran",
         "url": "https://owasp.org/www-chapter-tehran/",
         "created": "2020-05-06",
@@ -4739,7 +4755,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-05-04",
+        "updated": "2025-05-05",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -4867,8 +4883,8 @@
         "name": "Italy",
         "url": "https://owasp.org/www-chapter-italy/",
         "created": "2019-09-12",
-        "updated": "2025-05-02",
-        "build": "built",
+        "updated": "2025-05-05",
+        "build": "errored",
         "codeurl": "https://github.com/OWASP/www-chapter-italy",
         "title": "OWASP Italy",
         "level": "-1",
@@ -4941,7 +4957,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-klagenfurt-chapter",
         "country": "Austria",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Kristiansand",
