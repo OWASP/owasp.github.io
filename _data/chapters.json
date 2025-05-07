@@ -669,7 +669,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
         "country": "Uruguay",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Vina Del Mar",
@@ -1123,7 +1123,7 @@
         "name": "Delaware",
         "url": "https://owasp.org/www-chapter-delaware/",
         "created": "2019-09-12",
-        "updated": "2023-07-21",
+        "updated": "2025-05-06",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-delaware",
         "title": "OWASP Delaware",
@@ -1363,7 +1363,7 @@
         "name": "Jacksonville",
         "url": "https://owasp.org/www-chapter-jacksonville/",
         "created": "2019-09-12",
-        "updated": "2025-04-14",
+        "updated": "2025-05-07",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-jacksonville",
         "title": "OWASP Jacksonville",
@@ -1821,7 +1821,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Philadelphia-Chapter",
         "country": "USA",
-        "meetings": 9
+        "meetings": 8
     },
     {
         "name": "Phoenix",
@@ -1837,7 +1837,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Phoenix-Chapter",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Pittsburgh",
@@ -1907,7 +1907,7 @@
         "name": "Quebec City",
         "url": "https://owasp.org/www-chapter-quebec-city/",
         "created": "2019-09-12",
-        "updated": "2025-04-23",
+        "updated": "2025-05-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Quebec City",
@@ -2211,7 +2211,7 @@
         "name": "Toronto",
         "url": "https://owasp.org/www-chapter-toronto/",
         "created": "2019-09-12",
-        "updated": "2025-03-30",
+        "updated": "2025-05-07",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Toronto",
@@ -2253,6 +2253,22 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Tulsa-Chapter",
         "country": "USA",
+        "meetings": 0
+    },
+    {
+        "name": "University Of Guelph",
+        "url": "https://owasp.org/www-chapter-university-of-guelph/",
+        "created": "2025-05-01",
+        "updated": "2025-05-06",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP University of Guelph",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Canada",
         "meetings": 0
     },
     {
@@ -4192,22 +4208,6 @@
         "meetings": 0
     },
     {
-        "name": "University Of Guelph",
-        "url": "https://owasp.org/www-chapter-university-of-guelph/",
-        "created": "2025-05-01",
-        "updated": "2025-05-03",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP University of Guelph",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Canada",
-        "meetings": 0
-    },
-    {
         "name": "Uttaranchal School Of Computing Sciences",
         "url": "https://owasp.org/www-chapter-uttaranchal-school-of-computing-sciences/",
         "created": "2022-09-22",
@@ -4595,7 +4595,7 @@
         "name": "Cologne",
         "url": "https://owasp.org/www-chapter-cologne/",
         "created": "2025-02-24",
-        "updated": "2025-04-03",
+        "updated": "2025-05-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Cologne",
@@ -7443,7 +7443,7 @@
         "name": "Mahendra Engineering College",
         "url": "https://owasp.org/www-chapter-mahendra-engineering-college/",
         "created": "2023-02-28",
-        "updated": "2025-03-03",
+        "updated": "2025-05-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Mahendra Engineering College Student Chapter",
@@ -7827,7 +7827,7 @@
         "name": "Penang",
         "url": "https://owasp.org/www-chapter-penang/",
         "created": "2024-03-25",
-        "updated": "2024-12-13",
+        "updated": "2025-05-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Penang",
