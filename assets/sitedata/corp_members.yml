@@ -389,15 +389,6 @@
   description: Security Journey offers robust application security education tools to help developers and the entire SDLC team recognize and understand vulnerabilities and threats and proactively mitigate these risks. The knowledge learners acquire in our programs goes beyond helping learners code more securely – it turns everyone in the SDLC into security champions.
 - member: true
   sponsor: -1
-  name: SDS Ltd
-  sortname: SDS Ltd
-  membertype: 4
-  image: /assets/images/corp-member-logo/sds_logo_owasp.png
-  url: https://www.specialistdata.com/
-  job_url: 
-  description: Architects and Developers of a world leading, top tier Optical Practice Management System. Formed in 1989, SDS is a strategic software supplier to many 'Top 10'​ Optical Retailers in North America. We have a comprehensive and fully flexible solution which allows our clients to operate successfully in their unique environments. SDS also offers custom development to handle any client specific requirements.
-- member: true
-  sponsor: -1
   name: Promon
   sortname: Promon
   membertype: 3
@@ -647,3 +638,23 @@
   job_url: https://www.root.io/careers/
   description: >- 
     Root.io delivers Autonomous Container Security through Automated Vulnerability Remediation (AVR), eliminating CVEs without disrupting developer workflows. Powered by agentic AI, our platform applies targeted, in-place patches—no rebasing, no re-architecting, and no vendor lock-in—while preserving base images and ensuring SLA-backed compliance and alignment with emerging regulatory standards. Root integrates with CI/CD and developer tools, complements your existing scanners by fixing what they flag, and backports patches even when no upstream fix exists. Trusted by security-conscious enterprises in defense, AI, and regulated industries, Root pairs SBOM + VEX automation with audit-readiness. Remediation that’s automatic, auditable, and already done.
+- member: true
+  sponsor: -1
+  name: DevSecAI
+  sortname: DevSecAI
+  membertype: 4
+  image: /assets/images/corp-member-logo/DevSecAI.png
+  url: http://www.devsecai.io
+  job_url:
+  description: >-
+    The DevSecAI Platform helps organisations securely design, build, and deploy AI systems by embedding security best practices across the entire AI/ML lifecycle-covering data handling, model training, deployment, and post-deployment monitoring. Every customer is also assigned an embedded DevSecAI engineer to fine-tune platform results. We are a global security consultancy that also provides AI Security Advisory services which are also automated and integrated within our DevSecAI Platform.
+- member: true
+  sponsor: -1
+  name: SDS Ltd
+  sortname: SDS Ltd
+  membertype: 4
+  image: /assets/images/corp-member-logo/SDS.png
+  URL: https://www.specialistdata.com
+  job-url:
+  description: >-
+    Architects and Developers of a world leading, top tier Optical Practice Management System. Formed in 1989, SDS is a strategic software supplier to many 'Top 10'​ Optical Retailers in North America. We have a comprehensive and fully flexible solution which allows our clients to operate successfully in their unique environments. SDS also offers custom development to handle any client specific requirement
