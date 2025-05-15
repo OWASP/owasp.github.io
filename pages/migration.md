@@ -22,7 +22,6 @@ Each project and chapter will have their own repository located in the organizat
 
 **www-chapter-[chaptername]** for chapters.
 
-If you do not have access to your repository yet, please contact [Harold Blankenship](mailto:harold.blankenship@owasp.com)
 
 The following files are included in the repository.  Only the index.md, leaders.md, and info.md files are required:
 
