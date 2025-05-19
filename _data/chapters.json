@@ -3680,22 +3680,6 @@
         "meetings": 0
     },
     {
-        "name": "Nakhchivan",
-        "url": "https://owasp.org/www-chapter-nakhchivan/",
-        "created": "2025-05-14",
-        "updated": "2025-05-15",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Nakhchivan",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Azerbaijan",
-        "meetings": 0
-    },
-    {
         "name": "Natori",
         "url": "https://owasp.org/www-chapter-natori/",
         "created": "2019-09-12",
@@ -7709,6 +7693,22 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nagpur-Chapter",
         "country": "India",
+        "meetings": 0
+    },
+    {
+        "name": "Nakhchivan",
+        "url": "https://owasp.org/www-chapter-nakhchivan/",
+        "created": "2025-05-14",
+        "updated": "2025-05-18",
+        "build": "built",
+        "codeurl": "https://github.com/OWASP/www-chapter-nakhchivan",
+        "title": "OWASP Nakhchivan",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Azerbaijan",
         "meetings": 0
     },
     {
