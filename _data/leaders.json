@@ -1211,13 +1211,6 @@
         "group_url": "https://owasp.org/www-chapter-coimbatore/"
     },
     {
-        "name": "Arun Saravanan",
-        "email": "arun.saravanan@owasp.org",
-        "group": "OWASP Coimbatore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-coimbatore/"
-    },
-    {
         "name": "Pablo Endres",
         "email": "pablo.endres@owasp.org",
         "group": "OWASP Cologne",
@@ -5070,6 +5063,13 @@
     {
         "name": "Youngjae Jeon",
         "email": "youngjae.jeon@owasp.org",
+        "group": "OWASP Seoul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seoul/"
+    },
+    {
+        "name": "Jin Kwak",
+        "email": "security@owasp.org",
         "group": "OWASP Seoul",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-seoul/"
