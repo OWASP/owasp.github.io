@@ -2436,6 +2436,27 @@
         "group_url": "https://owasp.org/www-chapter-jacksonville/"
     },
     {
+        "name": "Parth Patil",
+        "email": "parth.patil@owasp.org",
+        "group": "OWASP Jaihind College of Engineering Kuran",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jaihind-college-of-engineering-kuran/"
+    },
+    {
+        "name": "Pranav Malkunaik",
+        "email": "pranav.malkunaik@owasp.org",
+        "group": "OWASP Jaihind College of Engineering Kuran",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jaihind-college-of-engineering-kuran/"
+    },
+    {
+        "name": "A.P. Bangar",
+        "email": "ap.banger@owasp.org",
+        "group": "OWASP Jaihind College of Engineering Kuran",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-jaihind-college-of-engineering-kuran/"
+    },
+    {
         "name": "Ade Yoseman Putra",
         "email": "ade.putra@owasp.org",
         "group": "OWASP Jakarta",
@@ -3722,13 +3743,6 @@
         "group": "OWASP Nakhchivan",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-nakhchivan/"
-    },
-    {
-        "name": "Brandon Evans",
-        "email": "brandon.evans@owasp.org",
-        "group": "OWASP Nashville",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-nashville/"
     },
     {
         "name": "Jeremy Young",
@@ -5075,6 +5089,20 @@
         "group_url": "https://owasp.org/www-chapter-seoul/"
     },
     {
+        "name": "Donghyun Kim",
+        "email": "ben.kim@owasp.org",
+        "group": "OWASP Seoul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seoul/"
+    },
+    {
+        "name": "Seongjin Hong",
+        "email": "seongjin.hong@owasp.org",
+        "group": "OWASP Seoul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seoul/"
+    },
+    {
         "name": "Juan Jose Domenech",
         "email": "juanjose.domenech@owasp.org",
         "group": "OWASP Sevilla",
@@ -6008,6 +6036,13 @@
     {
         "name": "Valery Melou Gouegni",
         "email": "valery.melou@owasp.org",
+        "group": "OWASP Yaounde",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-yaounde/"
+    },
+    {
+        "name": "Enzo Kamtchouang",
+        "email": "enzo.kamtchouang@owasp.org",
         "group": "OWASP Yaounde",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-yaounde/"
@@ -9079,6 +9114,13 @@
         "group_url": "https://owasp.org/www-project-vulnerable-container-hub/"
     },
     {
+        "name": "Rick Mitchell (kingthorin)",
+        "email": "rick.mitchell@owasp.org",
+        "group": "OWASP Vulnerable Web Applications Directory",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerable-web-applications-directory/"
+    },
+    {
         "name": "Simon Bennetts (psiinon)",
         "email": "simon.bennetts@owasp.org",
         "group": "OWASP Vulnerable Web Applications Directory",
@@ -9088,13 +9130,6 @@
     {
         "name": "Raul Siles",
         "email": "raul.siles@owasp.org",
-        "group": "OWASP Vulnerable Web Applications Directory",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-vulnerable-web-applications-directory/"
-    },
-    {
-        "name": "Rick Mitchell (kingthorin)",
-        "email": "rick.mitchell@owasp.org",
         "group": "OWASP Vulnerable Web Applications Directory",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-vulnerable-web-applications-directory/"
@@ -9116,7 +9151,7 @@
     {
         "name": "Mihir Shah",
         "email": "mihir.shah@owasp.org",
-        "group": "OWASP VXDF",
+        "group": "OWASP VXDF (Validated Exploitable Data Flow) Format",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-vxdf/"
     },
