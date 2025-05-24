@@ -1,7 +1,8 @@
 ---
 
 title: Cornucopia Redirect
-permalink: /copi
+permalink: /cornucopia
+redirect_from: /copi
 redirect_to: /www-project-cornucopia/
 
 ---
