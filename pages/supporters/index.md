@@ -13,7 +13,7 @@ Corporate Supporters can show their support for our mission and programs, reachi
 
 ## Support OWASP today!
 Your support is critical to the success of OWASP. There are many ways to support the foundation:
-### - [Become a Corporate Supporter](mailto:kelly.santalucia@owasp.com)
+### - [Become a Corporate Supporter](mailto:corporate.relations@owasp.org)
 ### - [Sponsor OWASP Global AppSec and participating AppSec Days events](mailto:events@owasp.com)
 ### - [Make a charitable gift](/donate)
 
