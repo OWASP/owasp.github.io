@@ -1,7 +1,7 @@
 ---
 
-title: Cornucopia Redirect
+title: COPI Redirect
 permalink: /copi
-redirect_to: /www-project-cornucopia/
+redirect_to: https://copi.owasp.org/
 
 ---
