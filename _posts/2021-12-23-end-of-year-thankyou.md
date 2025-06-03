@@ -30,7 +30,7 @@ We have worked with our accountants to work with our Corporate Supporters and Me
 
 Donations may be tax deductible for US based organizations. Please consult a qualified tax accountant to determine your eligibility.
 
-To make a donation, please use our automated [donation system](https://owasp.org/donate/). If you want to direct your donation to a cause or get an invoice for your accountants, please contact[Kelly Santalucia](mailto:kelly.santalucia@owasp.com) (and [cc me](mailto:andrew.vanderstock@owasp.com)).
+To make a donation, please use our automated [donation system](https://owasp.org/donate/). If you want to direct your donation to a cause or get an invoice for your accountants, please contact[Kelly Santalucia](mailto:corporate.relations@owasp.com) (and [cc me](mailto:andrew.vanderstock@owasp.com)).
 
 ### End of year Corporate Membership Drive
 
@@ -38,7 +38,7 @@ Our current Corporate Membership offer is if an existing member renews early at 
 
 You can find out about what's in our [Corporate Membership Packages here](https://owasp.org/supporters/packages). There's a package for everyone, including startup and regional discounts, as well as various levels of support.
 
-For corporate membership, please contact [Kelly Santalucia](mailto:kelly.santalucia@owasp.com) and [cc me](mailto:andrew.vanderstock@owasp.com) for more details and let's make it happen. Everyone is on leave from today until January 3, but I will be checking my mail once a day, and if I will make sure it can happen before the end of the year for you.
+For corporate membership, please contact [Kelly Santalucia](mailto:corporate.relations@owasp.com) and [cc me](mailto:andrew.vanderstock@owasp.com) for more details and let's make it happen. Everyone is on leave from today until January 3, but I will be checking my mail once a day, and if I will make sure it can happen before the end of the year for you.
 
 ## 20th Anniversary Keynotes Videos Now Available
 

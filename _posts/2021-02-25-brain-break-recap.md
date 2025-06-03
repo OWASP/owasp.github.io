@@ -23,7 +23,7 @@ If you missed our first Brain Break event, be sure to watch social media and our
 
 This event also welcomed our sponsor [Micro Focus](https://www.microfocus.com/en-us/portfolio/application-security), who served not only as event sponsor but a great "MC" to introduce our guest entertainer to the virtual attendees. Be sure to learn more about Micro Focus in this [short video](https://players.brightcove.net/5456344257001/HkaDA1joZ_default/index.html?videoId=6205287240001).
 
-If you're interested in becoming a sponsor for our Brain Break series, you can find details on our [event website](https://brainbreak.owasp.org/sponsors/) or contact [kelly.santalucia@owasp.com](kelly.santalucia@owasp.com) for details. 
+If you're interested in becoming a sponsor for our Brain Break series, you can find details on our [event website](https://brainbreak.owasp.org/sponsors/) or contact [corporate.relations@owasp.com](corporate.relations@owasp.com) for details. 
 
 We look forward to seeing you at our next installment of [Brain Break on April 20th](https://brainbreak.owasp.org/)!
 

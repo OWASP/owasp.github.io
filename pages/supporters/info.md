@@ -1,5 +1,5 @@
 ### Support the Foundation
-- [Become a Corporate Supporter](mailto:kelly.santalucia@owasp.com)
+- [Become a Corporate Supporter](mailto:corporate.relations@owasp.com)
 - [Sponsor events](mailto:events@owasp.com)
 - [Make a charitable gift](/donate) 
 

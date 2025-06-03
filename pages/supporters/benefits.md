@@ -34,7 +34,7 @@ Many employers offer conferences as an employment benefit. Your staff can take a
 | Gold     | 5 discount codes  | 5 discount codes  |
 | Silver | 1 discount code   | 1 discount code   |
 
-Please [Contact Us](mailto:kelly.santalucia@owasp.com) for your discount code entitlements for each event to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec registration period and are not transferrable to another event.
+Please [Contact Us](mailto:corporate.relations@owasp.com) for your discount code entitlements for each event to ensure your staff doesn't miss out. The discount codes are only valid for the relevant Global AppSec registration period and are not transferrable to another event.
 
 * Global AppSec H1 is usually held in Europe in the first half of the year
 * Global AppSec H2 is usually held in North America in the second half of the year

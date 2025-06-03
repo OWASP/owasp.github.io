@@ -20,7 +20,7 @@ It is my pleasure to announce Kelly Santalucia's appointment as OWASP's Director
 
  - Kelly Santalucia OWASP Foundation Director of Events and Corporate Support
 
-Alonna Stock, our Senior Events Manager, reports to and will ably support Kelly in organizing all our events, as well as supporting our community as they start to safely return to in person local and regional events. In the meantime, we have a fantastic line up of virtual events, call to battles, training, and fun events, and a single Global AppSec later this year. Stay tuned for these announcements and more! If you want to sponsor an event or join as a Corporate Member, please get in touch with [Kelly](mailto:kelly.santalucia@owasp.com) or [Alonna](mailto:alonna.stock@owasp.com). 
+Alonna Stock, our Senior Events Manager, reports to and will ably support Kelly in organizing all our events, as well as supporting our community as they start to safely return to in person local and regional events. In the meantime, we have a fantastic line up of virtual events, call to battles, training, and fun events, and a single Global AppSec later this year. Stay tuned for these announcements and more! If you want to sponsor an event or join as a Corporate Member, please get in touch with [Kelly](mailto:corporate.relations@owasp.com) or [Alonna](mailto:alonna.stock@owasp.com). 
 
 OWASP Events are genuinely the best place on Earth to learn about new research, connect with your peers, learn new skills, and stay in the forefront of application security throughout the year and all over the world. No one else comes close to our reach and core mission. I am excited to see what our community and the Events team comes up with next!
 

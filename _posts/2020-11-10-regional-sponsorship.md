@@ -21,5 +21,5 @@ The OWASP Foundation is a global organization. Our community consists of individ
 Contact me now to learn how you can join and begin receiving all of the benefits our Corporate Supporter packages offer!
 
 
-[Kelly Santalucia](mailto:kelly.santalucia@owasp.com)<br>
+[Kelly Santalucia](mailto:corporate.relations@owasp.com)<br>
 Director of Corporate Support 
