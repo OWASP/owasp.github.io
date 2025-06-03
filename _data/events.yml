@@ -1,11 +1,6 @@
 - category: Global
   description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
   events:
-    - name: OWASP Global AppSec EU 2025
-      start-date: 2025-05-26
-      dates: May 26-30, 2025
-      url: https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/
-      #optional-text:     
     - name: OWASP Global AppSec USA 2025 - Washington, DC
       start-date: 2025-11-03
       dates: November 3-7, 2025
@@ -67,13 +62,8 @@
 - category: Partner
   description: Throughout the year, the OWASP Foundation partners with major AppSec conferences to offer discounted tickets and other benefits for OWASP members. If you would like to establish a global partnership with us don't hesitate to get in touch with [Partnership Marketing](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/83) for more information.
   events:
-  - name: NDC 2025 Oslo
-    start-date: 2025-05-19
-    dates: May 19-23, 2025
-    url: https://event.checkin.no/82562/ndc-oslo-2025?action=campaignInvite&campaignInviteHash=ZGF3bi5haXRrZW5Ab3dhc3AuY29t&campaignInviteId=4927
-    optional-text: Be sure to use the link above for discounted tickets.
-  - name: Techorama
-    start-date: 2025-05-26
-    dates: May 25 - 28, 2025
-    url: https://www.techorama.be/
-    
+  - name: TBA
+    # start-date: 2025-XX-19
+    # dates: May 19-23, 2025
+    # url: https://event.checkin.no/82562/ndc-oslo-2025?action=campaignInvite&campaignInviteHash=ZGF3bi5haXRrZW5Ab3dhc3AuY29t&campaignInviteId=4927
+    # optional-text: Be sure to use the link above for discounted tickets.

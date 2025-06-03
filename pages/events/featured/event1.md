@@ -1,7 +1,7 @@
-[![Global AppSec EU](/assets/images/events/2025-eu-header.png){:width="100%" height="auto"}](https://owasp.glueup.com/event/123983/register/)
+[![Global AppSec USA](/assets/images/events/2025-usa-header.png){:width="100%" height="auto"}](https://owasp.glueup.com/event/131624/register/)
 
-## Get ready for an unforgettable experience at the OWASP Global AppSec EU Conference!
+## Get ready for the ultimate cybersecurity experience at the OWASP Global AppSec US Conference in Washington, D.C.!
 
-From May 26-30, 2025, [join over 700 cybersecurity experts](https://barcelona.globalappsec.org) at the spectacular Centre de Convencions Internacional de Barcelona (CCIB) for an event like no other. This year's reimagined conference promises to ignite your passion for security with cutting-edge presentations from world-class keynote speakers. Dive into one of six action-packed tracks covering everything from OWASP projects to specialized sessions for builders, developers, breakers, defenders, and manager/culture.
+From November 3-7, 2025, [join over 800 industry experts](https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/) at the stunning Marriott Marquis for an event that promises to ignite your passion for security. This is your chance to connect, learn, and grow with some of the brightest minds in the field. Prepare to be inspired by powerful keynote speakers and dive deep into six action-packed tracks covering everything from OWASP Projects to specialized topics like builder/developer, breaker, defender, and manager-culture. Whether you're looking to expand your skills or discover new solutions, you'll find everything you need to stay ahead of the curve.
 
-[Register today and take advantage of early bird pricing!](https://owasp.glueup.com/event/123983/register/)
+[Register today and take advantage of super early bird pricing!](https://owasp.glueup.com/event/131624/register/)

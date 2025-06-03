@@ -1,25 +1,21 @@
 <section id="featured_events">
-<div id="ev0" style="display:none;">
+  <div id="ev0" style="display: none">
     {% capture my_include %}{% include_relative pages/events/featured/event1.md %}{% endcapture %}
     {{ my_include | markdownify }}
-</div>
-<div id="ev1" style="display:none;">
+  </div>
+  <div id="ev1" style="display: none">
     {% capture my_include %}{% include_relative pages/events/featured/event2.md %}{% endcapture %}
     {{ my_include | markdownify }}
-</div>
-<div id="ev2" style="display:none;">
-    {% capture my_include %}{% include_relative pages/events/featured/event3.md %}{% endcapture %}
-    {{ my_include | markdownify }}
-</div>
+  </div>
 </section>
 {% assign event_files = site.static_files | where: "event", true %}
 
 <script type="text/javascript">
-    $(function(){
-        numdivs = {{ event_files.size }};
-        
-        id = Math.floor(Math.random() * numdivs);
-        strdiv = "ev" + id;
-        $('#' + strdiv).show();
-    });
+  $(function(){
+      numdivs = {{ event_files.size }};
+
+      id = Math.floor(Math.random() * numdivs);
+      strdiv = "ev" + id;
+      $('#' + strdiv).show();
+  });
 </script>

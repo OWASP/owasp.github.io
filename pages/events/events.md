@@ -22,7 +22,7 @@ Skip to {% for category in site.data.events %}<a href="#{{category.category}}"><
 <a name='{{category.category}}'>
 ## {{ category.category }} Events
 {% if category.category == 'Regional' %}
-  Planning your own regional event?  Use our <a href="https://ocms.owasp.org">OCMS Tool</a> to request approval.
+  Planning your own AppSec Days regional event?  Use our <a href="https://ocms.owasp.org">OCMS Tool</a> to request approval.
 {% endif %}
   
 {{ category.description }}
