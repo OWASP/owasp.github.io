@@ -1,17 +1,13 @@
 <div style="width:100%;display:grid;grid-column: 1/3; background-color:#ddd;">
 <section class="homepage-promo">
 <span>
-<strong>A SPECIAL THANK YOU</strong>
+<strong>Interview with John Amaral, CTO and Co-Founder of root.io</strong>
 <div>
-<a href="https://www.linkedin.com/in/jmanico/"><img class="featured-proj-image" src="assets/images/people/leader_manico.jpg"/></a>
-In 2022 you may have seen or participated in one or more of our four online Developer training sessions led by Mr. Jim Manico.  Jim is the Founder, CEO, and Application Security Educator at Manicode Security. He has been an OWASP Volunteer since 2008 and a former OWASP Global Board Member. 
-Last year, Jim went above and beyond to continue his selfless support for the OWASP Foundation. He graciously offered to provide four virtual online training sessions for OWASP, with all proceeds donated back to OWASP. The four trainings wrapped up with 167 students, generating over $90k in profit!
-Training sessions were rotated around the globe to accommodate all time zones, and although it was a virtual training, it was presented live. Students could chat with each other and Jim and ask questions in real-time.
-On behalf of the OWASP Foundation,  thank you, Jim, for your continued support throughout the years, especially in 2022.
-Watch for more OWASP Virtual Training courses coming to you in 2023.
+<a href="https://youtu.be/88WjNmfXDcI"><img class="featured-proj-image" src="assets/images/content/corp-supporter-root-io.png"/></a>
+This month, we are featuring <a href="https://root.io/">Root IO</a>, a Platinum Corporate Supporter of OWASP, which specializes in automated container remediation. In this interview, we discuss the origins of root.io, root's use of OWASP materials and our impact on their operations, how they use software bill of materials with OWASP CycloneDX, and how you can get your project startup idea off the ground and some advice for future OWASP project entrepreneurs. 
+
+A huge thank you to all our Corporate Supporters! We will be featuring more corporate supporter stories in the coming months, so stay tuned!
 </div>
 </span>
 </section>
 </div>
-
-
