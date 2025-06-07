@@ -333,7 +333,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Joao-Pessoa-Chapter",
         "country": "Brazil",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Juiz De Fora",
@@ -4096,22 +4096,6 @@
         "meetings": 0
     },
     {
-        "name": "Tashkent",
-        "url": "https://owasp.org/www-chapter-tashkent/",
-        "created": "2025-05-05",
-        "updated": "2025-05-05",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Tashkent",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Uzbekistan",
-        "meetings": 0
-    },
-    {
         "name": "Tehran",
         "url": "https://owasp.org/www-chapter-tehran/",
         "created": "2020-05-06",
@@ -4771,7 +4755,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-06-02",
+        "updated": "2025-06-06",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -8384,6 +8368,22 @@
         "meetings": 0
     },
     {
+        "name": "Tashkent",
+        "url": "https://owasp.org/www-chapter-tashkent/",
+        "created": "2025-05-05",
+        "updated": "2025-06-06",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Tashkent",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-tashkent",
+        "country": "Uzbekistan",
+        "meetings": 0
+    },
+    {
         "name": "Tbilisi",
         "url": "https://owasp.org/www-chapter-tbilisi/",
         "created": "2019-09-12",
@@ -8787,7 +8787,7 @@
         "name": "Buea",
         "url": "https://owasp.org/www-chapter-buea/",
         "created": "2024-02-28",
-        "updated": "2024-09-23",
+        "updated": "2025-06-06",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-buea",
         "title": "OWASP Buea",
