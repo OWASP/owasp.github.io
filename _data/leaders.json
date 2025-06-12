@@ -3136,16 +3136,16 @@
         "group_url": "https://owasp.org/www-chapter-ljubljana/"
     },
     {
-        "name": "Komlan Djifa TCHALA",
+        "name": "Hakim TCHALA",
         "email": "hakim.tchala@owasp.org",
-        "group": "Lome",
+        "group": "Togo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-lome/"
     },
     {
         "name": "Alassani ABODJI",
         "email": "alassani.abodji@owasp.org",
-        "group": "Lome",
+        "group": "Togo",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-lome/"
     },
@@ -6258,6 +6258,13 @@
         "group_url": "https://owasp.org/www-project-ai-testing-guide/"
     },
     {
+        "name": "Marco Morana",
+        "email": "marco.m.morana@gmail.com",
+        "group": "OWASP AI Testing Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-ai-testing-guide/"
+    },
+    {
         "name": "Daniel Miessler",
         "email": "daniel.miessler@owasp.org",
         "group": "OWASP AI Top Ten",
@@ -8967,13 +8974,6 @@
         "group_url": "https://owasp.org/www-project-top-10-infrastructure-security-risks/"
     },
     {
-        "name": "Michael Bargury",
-        "email": "michael.bargury@owasp.org",
-        "group": "OWASP Low-Code/No-Code Top 10",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
-    },
-    {
         "name": "Kayla Underkoffler",
         "email": "kayla.underkoffler@owasp.org",
         "group": "OWASP Low-Code/No-Code Top 10",
@@ -8983,6 +8983,13 @@
     {
         "name": "Ziv Hagbi",
         "email": "zivh@zenity.io",
+        "group": "OWASP Low-Code/No-Code Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
+    },
+    {
+        "name": "Ory Segal",
+        "email": "ory.segal@owasp.org",
         "group": "OWASP Low-Code/No-Code Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
