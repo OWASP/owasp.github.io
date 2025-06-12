@@ -19,7 +19,7 @@
         "name": "Aguascalientes",
         "url": "https://owasp.org/www-chapter-aguascalientes/",
         "created": "2019-09-12",
-        "updated": "2025-03-04",
+        "updated": "2025-06-11",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Aguascalientes",
@@ -27,9 +27,9 @@
         "type": "",
         "region": "South America",
         "pitch": "More info soon...",
-        "meetup-group": "owasp-aguascalientes-meetup-group",
+        "meetup-group": "",
         "country": "Mexico",
-        "meetings": 1
+        "meetings": 0
     },
     {
         "name": "Asuncion",
@@ -531,7 +531,7 @@
         "name": "Rio De Janeiro",
         "url": "https://owasp.org/www-chapter-rio-de-janeiro/",
         "created": "2019-09-12",
-        "updated": "2025-05-22",
+        "updated": "2025-06-11",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Rio De Janeiro",
@@ -621,7 +621,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sao-Paulo-Chapter",
         "country": "Brazil",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Sorocaba",
@@ -957,7 +957,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owaspboston",
         "country": "USA",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Boulder",
@@ -1123,7 +1123,7 @@
         "name": "Delaware",
         "url": "https://owasp.org/www-chapter-delaware/",
         "created": "2019-09-12",
-        "updated": "2025-05-06",
+        "updated": "2025-06-11",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-delaware",
         "title": "OWASP Delaware",
@@ -1197,7 +1197,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-edmonton",
         "country": "Canada",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Georgetown",
@@ -1891,8 +1891,8 @@
         "name": "Princeton",
         "url": "https://owasp.org/www-chapter-princeton/",
         "created": "2021-10-28",
-        "updated": "2024-08-12",
-        "build": "built",
+        "updated": "2025-06-11",
+        "build": "errored",
         "codeurl": "",
         "title": "OWASP Princeton",
         "level": "-1",
@@ -2109,7 +2109,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Seattle-Chapter",
         "country": "USA",
-        "meetings": 15
+        "meetings": 14
     },
     {
         "name": "Somerset",
@@ -2221,7 +2221,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Toronto",
         "country": "Canada",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Triangle Nc",
@@ -4755,7 +4755,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-06-06",
+        "updated": "2025-06-11",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -5469,7 +5469,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-stockholm",
         "country": "Sweden",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Stuttgart",
@@ -5629,7 +5629,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Warwick",
         "country": "United Kingdom",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Worcestershire",
@@ -6035,7 +6035,7 @@
         "name": "Bangkok",
         "url": "https://owasp.org/www-chapter-bangkok/",
         "created": "2023-02-02",
-        "updated": "2025-05-02",
+        "updated": "2025-06-11",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Bangkok",
@@ -8963,15 +8963,15 @@
         "name": "Lome",
         "url": "https://owasp.org/www-chapter-lome/",
         "created": "2019-09-12",
-        "updated": "2025-05-13",
-        "build": "built",
+        "updated": "2025-06-11",
+        "build": "errored",
         "codeurl": "",
-        "title": "Lome",
+        "title": "Togo",
         "level": "-1",
         "type": "",
         "region": "Africa",
         "pitch": "More info soon...",
-        "meetup-group": "owasp-lome",
+        "meetup-group": "owasp-Togo",
         "country": "Togo",
         "meetings": 0
     },
