@@ -13,7 +13,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-virtual-chapter",
         "country": "",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Aguascalientes",
@@ -1645,7 +1645,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nashville-Chapter",
         "country": "USA",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "New Braunfels",
@@ -1693,7 +1693,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Northern-Virginia-Chapter",
         "country": "USA",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Oakland County",
@@ -1805,7 +1805,7 @@
         "pitch": "OWASP Chapter serving Canada's National Capital Region.",
         "meetup-group": "OWASP-Ottawa",
         "country": "Canada",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Philadelphia",
@@ -1821,7 +1821,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Philadelphia-Chapter",
         "country": "USA",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Phoenix",
@@ -2861,22 +2861,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Coimbra",
-        "url": "https://owasp.org/www-chapter-coimbra/",
-        "created": "2025-06-17",
-        "updated": "2025-06-17",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Coimbra",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Portugal",
         "meetings": 0
     },
     {
@@ -3939,7 +3923,7 @@
         "name": "Rajasthan Technical University",
         "url": "https://owasp.org/www-chapter-rajasthan-technical-university/",
         "created": "2025-06-17",
-        "updated": "2025-06-17",
+        "updated": "2025-06-18",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Rajasthan Technical University",
@@ -4656,10 +4640,26 @@
         "meetings": 0
     },
     {
+        "name": "Coimbra",
+        "url": "https://owasp.org/www-chapter-coimbra/",
+        "created": "2025-06-17",
+        "updated": "2025-06-18",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Coimbra",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "Portugal",
+        "meetings": 0
+    },
+    {
         "name": "Cologne",
         "url": "https://owasp.org/www-chapter-cologne/",
         "created": "2025-02-24",
-        "updated": "2025-05-26",
+        "updated": "2025-06-18",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Cologne",
@@ -4947,7 +4947,7 @@
         "name": "Italy",
         "url": "https://owasp.org/www-chapter-italy/",
         "created": "2019-09-12",
-        "updated": "2025-06-13",
+        "updated": "2025-06-18",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-italy",
         "title": "OWASP Italy",
@@ -5325,7 +5325,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Newcastle-Chapter",
         "country": "United Kingdom",
-        "meetings": 2
+        "meetings": 1
     },
     {
         "name": "Oslo",
@@ -5811,7 +5811,7 @@
         "name": "Panama City",
         "url": "https://owasp.org/www-chapter-panama-city/",
         "created": "2019-09-12",
-        "updated": "2025-05-28",
+        "updated": "2025-06-18",
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Panama City",
@@ -5820,7 +5820,7 @@
         "region": "Central America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Panama-City-Chapter",
-        "country": "Panama",
+        "country": "",
         "meetings": 0
     },
     {
@@ -6573,7 +6573,7 @@
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-svgchist",
         "country": "United Arab Emirates",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Dy Patil International University",
@@ -7235,7 +7235,7 @@
         "name": "Kanpur",
         "url": "https://owasp.org/www-chapter-kanpur/",
         "created": "2020-06-24",
-        "updated": "2025-05-20",
+        "updated": "2025-06-18",
         "build": "no pages",
         "codeurl": "",
         "title": "OWASP Kanpur",
