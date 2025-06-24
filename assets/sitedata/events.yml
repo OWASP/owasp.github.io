@@ -6,19 +6,18 @@
       dates: November 3-7, 2025
       url: https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/
       #optional-text: 
-    - name: OWASP Global AppSec USA 2026 - San Francisco, CA
+    - name: OWASP Global AppSec EU 2026 - Vienna
+      start-date: 2026-06-22
+      dates: June 22-26, 2026
+      #url:
+      #optional-text:     - name: OWASP Global AppSec USA 2026 - San Francisco, CA
       start-date: 2026-11-02
       dates: November 2-6, 2026
       #url:
       #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:       
-    - name: OWASP Italy Day 2025
-      start-date: 2025-06-19
-      dates: June 19, 2025
-      url: https://owasp.org/www-chapter-italy/events/OWASPItalyDay2025-06-19
-      optional-text: OWASP Italy Day 2025 will be in Cagliari. This is a free, one-day, informal event aimed at increasing awareness and knowledge of web application security. The event is primarily intended to appeal to security professionals, software developers, software quality engineers, and computer science students with a strong interest in computer security.    
+  events:          
     - name: OWASP New Zealand Day 2025
       start-date: 2025-09-02
       dates: September 2-5, 2025
