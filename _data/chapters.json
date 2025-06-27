@@ -845,7 +845,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Atlanta",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Austin",
@@ -861,7 +861,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Austin-Chapter",
         "country": "USA",
-        "meetings": 21
+        "meetings": 20
     },
     {
         "name": "Bartlesville",
@@ -893,7 +893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 12
+        "meetings": 11
     },
     {
         "name": "Bellingham",
@@ -973,7 +973,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Boulder",
         "country": "USA",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Cedar Rapids",
@@ -1069,7 +1069,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Colorado-Springs-Meetup",
         "country": "USA",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "Columbia Sc",
@@ -1133,7 +1133,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Delaware-Chapter",
         "country": "USA",
-        "meetings": 2
+        "meetings": 3
     },
     {
         "name": "Denver",
@@ -1469,7 +1469,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Los-Angeles",
         "country": "USA",
-        "meetings": 27
+        "meetings": 28
     },
     {
         "name": "Madison",
@@ -1597,7 +1597,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-MSP-Meetup",
         "country": "USA",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Moncton",
@@ -1773,7 +1773,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Orlando",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "Oshawa",
@@ -1859,7 +1859,7 @@
         "name": "Portland",
         "url": "https://owasp.org/www-chapter-portland/",
         "created": "2019-09-12",
-        "updated": "2025-06-20",
+        "updated": "2025-06-26",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Portland",
@@ -4032,6 +4032,22 @@
         "meetings": 0
     },
     {
+        "name": "Shiv Nadar Chennai",
+        "url": "https://owasp.org/www-chapter-shiv-nadar-chennai/",
+        "created": "2025-06-26",
+        "updated": "2025-06-26",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Shiv Nadar Chennai",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
+        "meetings": 0
+    },
+    {
         "name": "Sioux Falls",
         "url": "https://owasp.org/www-chapter-sioux-falls/",
         "created": "2019-09-12",
@@ -4413,7 +4429,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-augsburg-chapter",
         "country": "Germany",
-        "meetings": 9
+        "meetings": 10
     },
     {
         "name": "Banja Luka",
@@ -4947,8 +4963,8 @@
         "name": "Italy",
         "url": "https://owasp.org/www-chapter-italy/",
         "created": "2019-09-12",
-        "updated": "2025-06-25",
-        "build": "errored",
+        "updated": "2025-06-26",
+        "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-italy",
         "title": "OWASP Italy",
         "level": "-1",
@@ -5181,7 +5197,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-London",
         "country": "United Kingdom",
-        "meetings": 5
+        "meetings": 6
     },
     {
         "name": "Luxembourg City",
@@ -5251,7 +5267,7 @@
         "name": "Manchester",
         "url": "https://owasp.org/www-chapter-manchester/",
         "created": "2019-09-12",
-        "updated": "2025-03-27",
+        "updated": "2025-06-26",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Manchester",
