@@ -333,7 +333,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Joao-Pessoa-Chapter",
         "country": "Brazil",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Juiz De Fora",
@@ -701,7 +701,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-capixaba",
         "country": "Brazil",
-        "meetings": 2
+        "meetings": 1
     },
     {
         "name": "Adelaide",
@@ -1837,7 +1837,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Phoenix-Chapter",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Pittsburgh",
@@ -2461,6 +2461,22 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
+        "meetings": 0
+    },
+    {
+        "name": "Amrita Vishwa Vidyapeetham Chennai",
+        "url": "https://owasp.org/www-chapter-amrita-vishwa-vidyapeetham-chennai/",
+        "created": "2025-07-01",
+        "updated": "2025-07-01",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Amrita Vishwa Vidyapeetham Chennai",
+        "level": "-1",
+        "type": "",
+        "region": "Needs Website Update",
+        "pitch": "More info soon...",
+        "meetup-group": "",
+        "country": "India",
         "meetings": 0
     },
     {
@@ -4803,7 +4819,7 @@
         "name": "Frankfurt",
         "url": "https://owasp.org/www-chapter-frankfurt/",
         "created": "2022-09-19",
-        "updated": "2025-06-10",
+        "updated": "2025-07-01",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-frankfurt",
         "title": "OWASP Frankfurt",
@@ -8227,7 +8243,7 @@
         "name": "Seoul",
         "url": "https://owasp.org/www-chapter-seoul/",
         "created": "2019-09-12",
-        "updated": "2025-06-28",
+        "updated": "2025-07-01",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Seoul",
