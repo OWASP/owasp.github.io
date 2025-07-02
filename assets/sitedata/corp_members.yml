@@ -317,15 +317,6 @@
   description: Aikido is the no-nonsense security platform for developers. The all-in-one security platform that covers you from code-to-cloud and helps you get security done. Engineering teams execute faster with Aikido thanks to centralized scans, aggressive false positive reduction, automatic risk triaging & fixing, risk bundling, and easy step-by-step risk fixes. Aikido makes security simple for SMEs and doable for developers, so companies can win customers, grow up-market, and ace compliance. Don’t just get security done fast, get it done automatically.
 - member: true
   sponsor: -1
-  name: Black Duck
-  sortname: Black Duck
-  membertype: 4
-  image: /assets/images/corp-member-logo/BlackDuck.png
-  url: https://www.blackduck.com
-  job_url:
-  description: Black Duck® offers the most comprehensive, powerful, and trusted portfolio of application security solutions in the industry. We have an unmatched track record of helping organizations around the world secure their software quickly, integrate security efficiently in their development environments, and safely innovate with new technologies. As the recognized leaders, experts, and innovators in software security, Black Duck has everything you need to build trust in your software. Learn more at www.blackduck.com.
-- member: true
-  sponsor: -1
   name: Raxis
   sortname: Raxis
   membertype: 4
@@ -654,7 +645,7 @@
   sortname: SDS Ltd
   membertype: 4
   image: /assets/images/corp-member-logo/SDS.png
-  URL: https://www.specialistdata.com
+  url: https://www.specialistdata.com
   job_url:
   description: >-
     Architects and Developers of a world leading, top tier Optical Practice Management System. Formed in 1989, SDS is a strategic software supplier to many 'Top 10'​ Optical Retailers in North America. We have a comprehensive and fully flexible solution which allows our clients to operate successfully in their unique environments. SDS also offers custom development to handle any client specific requirements.
@@ -664,7 +655,7 @@
   sortname:	Zelvin Security
   membertype: 4
   image: /assets/images/corp-member-logo/Zelvin.jpg
-  URL: https://zelvin.com
+  url: https://zelvin.com
   job_url:
   description: >-
     Zelvin Security is a penetration testing and proactive cyber security consulting company. Our primary vision is to help businesses protect themselves from malicious hackers. We perform network, mobile, and application penetration tests against large and small businesses throughout the United States with the goal of reducing cyber risks and making it more difficult for cybercriminals to carry out their cyber-attacks.
@@ -674,7 +665,17 @@
   sortname: Adobe
   membertype: 2
   image: /assets/images/corp-member-logo/Adobe.png
-  URL: http://trust.adobe.com
+  url: http://trust.adobe.com
   job_url: https://www.adobe.com/careers.html
   description: >-
     Changing the world through personalized digital experiences. Adobe empowers everyone, everywhere to imagine, create, and bring any digital experience to life. From creators and students to small businesses, global enterprises, and nonprofit organizations — customers choose Adobe products to ideate, collaborate, be more productive, drive business growth, and build remarkable experiences.
+- member: true
+  sponosr: 4
+  name:	Noma Security
+  sortname: Noma Security
+  membertype: 4
+  image: /assets/images/corp-member-logo/noma_security_logo.png
+  url: https://noma.security
+  job_url: https://noma.security/careers
+  description: >-
+    Noma Security is the enterprise AI security and governance platform designed to give organizations the confidence to rapidly build and deploy AI at scale. As the comprehensive solution for both enterprise AI applications and agentic AI, Noma Security provides deep visibility and discovery, AI supply chain security, red teaming, and runtime protection for applications and AI agents, all in one powerful, enterprise-ready platform. With seamless integration to your AI stack and alignment with AI security and regulatory compliance frameworks, Noma Security empowers teams to embrace AI innovation confidently while addressing the unique threats posed by enterprise AI development and adoption.
