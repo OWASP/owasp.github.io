@@ -46,7 +46,7 @@ training, and works closely with the events team on event offerings, and the Pro
 
 [Full Job Description Here](/assets/files/Director%20of%20Corporate%20Relations%20Job%20Description%202025.pdf)
 
-Please [apply (no recruiters please) directly](mailto: Andrew.vanderstock@owasp.com?subject=MarketingManager) with your resume, and a cover letter describing why you'd be a good fit for the role. Applications close July 21, 2025.
+Please [apply (no recruiters please) directly](mailto: Andrew.vanderstock@owasp.com?subject=DirCorpRelations) with your resume, and a cover letter describing why you'd be a good fit for the role. Applications close July 21, 2025.
 
 ### Communications and Marketing Manager
 
