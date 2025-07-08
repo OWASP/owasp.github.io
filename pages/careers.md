@@ -58,6 +58,8 @@ We are actively seeking a Communications and Marketing manager to enhance our ma
 
 The Communications and Marketing Manager plays a vital role in shaping and executing the organization’s communication strategy. This individual will oversee marketing efforts, event promotion, project campaigns, and engagement with members and chapters, ensuring alignment with OWASP’s mission and goals. The ideal candidate will be a creative and strategic thinker with expertise in digital and traditional marketing, social media, and content development.
 
+[Full Job Description Here](/assets/files/Communications%20and%20Marketing%20Manager%20Description%202025.pdf)
+
 Please [apply (no recruiters please) directly](mailto: Andrew.vanderstock@owasp.com?subject=MarketingManager) with your resume, and a cover letter describing why you'd be a good fit for the role. Applications close July 21, 2025.
 
 Please follow the [OWASP Foundation Careers at Linked In](https://www.linkedin.com/company/owasp/jobs/){:rel="noopener" target="_blank"} to be notified about future careers. 
