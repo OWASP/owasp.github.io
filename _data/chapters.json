@@ -669,7 +669,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Uruguay-Chapter",
         "country": "Uruguay",
-        "meetings": 7
+        "meetings": 6
     },
     {
         "name": "Vina Del Mar",
@@ -781,7 +781,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-new-zealand-chapter-auckland",
         "country": "New Zealand",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Perth",
@@ -835,7 +835,7 @@
         "name": "Atlanta",
         "url": "https://owasp.org/www-chapter-atlanta/",
         "created": "2019-09-12",
-        "updated": "2025-03-21",
+        "updated": "2025-07-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Atlanta",
@@ -851,7 +851,7 @@
         "name": "Austin",
         "url": "https://owasp.org/www-chapter-austin/",
         "created": "2019-09-12",
-        "updated": "2025-07-10",
+        "updated": "2025-07-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Austin",
@@ -1667,7 +1667,7 @@
         "name": "New York City",
         "url": "https://owasp.org/www-chapter-new-york-city/",
         "created": "2019-09-12",
-        "updated": "2025-04-07",
+        "updated": "2025-07-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP New York City",
@@ -3936,22 +3936,6 @@
         "meetings": 0
     },
     {
-        "name": "Rajasthan Technical University",
-        "url": "https://owasp.org/www-chapter-rajasthan-technical-university/",
-        "created": "2025-06-17",
-        "updated": "2025-06-18",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Rajasthan Technical University",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "India",
-        "meetings": 0
-    },
-    {
         "name": "Rhode Island",
         "url": "https://owasp.org/www-chapter-rhode-island/",
         "created": "2019-09-12",
@@ -4653,7 +4637,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Bristol",
         "country": "United Kingdom",
-        "meetings": 1
+        "meetings": 2
     },
     {
         "name": "Cambridge",
@@ -4867,7 +4851,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-07-04",
+        "updated": "2025-07-15",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -4989,13 +4973,13 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Israel",
         "country": "Israel",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Italy",
         "url": "https://owasp.org/www-chapter-italy/",
         "created": "2019-09-12",
-        "updated": "2025-06-26",
+        "updated": "2025-07-15",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-italy",
         "title": "OWASP Italy",
@@ -8030,6 +8014,22 @@
         "meetup-group": "OWASP-Pune-Chapter",
         "country": "India",
         "meetings": 1
+    },
+    {
+        "name": "Rajasthan Technical University",
+        "url": "https://owasp.org/www-chapter-rajasthan-technical-university/",
+        "created": "2025-06-17",
+        "updated": "2025-07-15",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Rajasthan Technical University",
+        "level": "-1",
+        "type": "",
+        "region": "Asia",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-rajasthan-technical-univesity meetup group",
+        "country": "India",
+        "meetings": 0
     },
     {
         "name": "Rajiv Gandhi Institute Of Petroleum Technology",
