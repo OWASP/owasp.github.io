@@ -611,7 +611,7 @@
         "name": "Sao Paulo",
         "url": "https://owasp.org/www-chapter-sao-paulo/",
         "created": "2019-09-12",
-        "updated": "2025-05-13",
+        "updated": "2025-07-18",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Sao Paulo",
@@ -1101,7 +1101,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Columbus-OWASP",
         "country": "USA",
-        "meetings": 7
+        "meetings": 8
     },
     {
         "name": "Dallas",
@@ -2013,7 +2013,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-sanantonio",
         "country": "USA",
-        "meetings": 5
+        "meetings": 4
     },
     {
         "name": "San Diego",
@@ -2205,7 +2205,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-tampa",
         "country": "USA",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Toronto",
@@ -2301,7 +2301,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Vancouver-Chapter",
         "country": "Canada",
-        "meetings": 8
+        "meetings": 9
     },
     {
         "name": "Victoria",
@@ -2989,22 +2989,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Diyarbakir",
-        "url": "https://owasp.org/www-chapter-diyarbakir/",
-        "created": "2025-06-17",
-        "updated": "2025-07-16",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Diyarbak\u0131r",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Turkiye",
         "meetings": 0
     },
     {
@@ -4752,6 +4736,22 @@
         "meetings": 0
     },
     {
+        "name": "Diyarbakir",
+        "url": "https://owasp.org/www-chapter-diyarbakir/",
+        "created": "2025-06-17",
+        "updated": "2025-07-18",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Diyarbak\u0131r",
+        "level": "-1",
+        "type": "",
+        "region": "Europe",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Diyarbak-Chapter",
+        "country": "Turkiye",
+        "meetings": 0
+    },
+    {
         "name": "Dnipro",
         "url": "https://owasp.org/www-chapter-dnipro/",
         "created": "2019-09-12",
@@ -4851,7 +4851,7 @@
         "name": "Germany",
         "url": "https://owasp.org/www-chapter-germany/",
         "created": "2019-09-12",
-        "updated": "2025-07-17",
+        "updated": "2025-07-18",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Germany",
@@ -5203,7 +5203,7 @@
         "name": "London",
         "url": "https://owasp.org/www-chapter-london/",
         "created": "2019-09-12",
-        "updated": "2025-06-28",
+        "updated": "2025-07-18",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-london",
         "title": "OWASP London",
@@ -7091,7 +7091,7 @@
         "name": "Japan",
         "url": "https://owasp.org/www-chapter-japan/",
         "created": "2019-09-12",
-        "updated": "2025-07-09",
+        "updated": "2025-07-18",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-japan",
         "title": "OWASP Japan",
