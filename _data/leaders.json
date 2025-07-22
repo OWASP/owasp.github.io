@@ -826,13 +826,6 @@
         "group_url": "https://owasp.org/www-chapter-brisbane/"
     },
     {
-        "name": "Katy Anton",
-        "email": "katy.anton@owasp.org",
-        "group": "OWASP Bristol, UK",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-bristol-uk/"
-    },
-    {
         "name": "Craig Francis",
         "email": "craig.francis@owasp.org",
         "group": "OWASP Bristol, UK",
@@ -9574,6 +9567,13 @@
         "group": "OWASP WrongSecrets",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-wrongsecrets/"
+    },
+    {
+        "name": "Balaji Balakrishnan",
+        "email": "balaji@owasp.org",
+        "group": "OWASP xAI",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-xai/"
     },
     {
         "name": "Gustavo Nieves Arreaza",
