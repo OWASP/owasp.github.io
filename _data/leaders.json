@@ -5117,29 +5117,8 @@
         "group_url": "https://owasp.org/www-chapter-scotland/"
     },
     {
-        "name": "Keri Kusznir",
-        "email": "keri.kusznir@owasp.org",
-        "group": "OWASP Seattle",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-seattle/"
-    },
-    {
         "name": "Clara Andress",
         "email": "clara.andress@owasp.org",
-        "group": "OWASP Seattle",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-seattle/"
-    },
-    {
-        "name": "Eva Benn",
-        "email": "eva.benn@owasp.org",
-        "group": "OWASP Seattle",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-seattle/"
-    },
-    {
-        "name": "Michael Hendrickx",
-        "email": "michael.hendrickx@owasp.org",
         "group": "OWASP Seattle",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-seattle/"
@@ -7567,6 +7546,13 @@
         "group_url": "https://owasp.org/www-project-enterprise-security-api/"
     },
     {
+        "name": "Balaji Balakrishnan",
+        "email": "balaji@owasp.org",
+        "group": "OWASP Explainable AI",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-explainable-ai/"
+    },
+    {
         "name": "Josh Summitt",
         "email": "josh.summitt80@owasp.org",
         "group": "OWASP Faction",
@@ -7632,7 +7618,7 @@
     {
         "name": "Chris Cooper",
         "email": "chris.cooper@owasp.org",
-        "group": "OWASP Hack Heroes",
+        "group": "🦸 OWASP Hack Heroes",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-hack-heroes/"
     },
@@ -9567,13 +9553,6 @@
         "group": "OWASP WrongSecrets",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-wrongsecrets/"
-    },
-    {
-        "name": "Balaji Balakrishnan",
-        "email": "balaji@owasp.org",
-        "group": "OWASP xAI",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-xai/"
     },
     {
         "name": "Gustavo Nieves Arreaza",
