@@ -205,7 +205,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-chile-meetup-group",
         "country": "Chile",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Cuiaba",
@@ -1645,7 +1645,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Nashville-Chapter",
         "country": "USA",
-        "meetings": 8
+        "meetings": 7
     },
     {
         "name": "New Braunfels",
@@ -1980,6 +1980,22 @@
         "region": "North America",
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Sacramento-Chapter",
+        "country": "USA",
+        "meetings": 0
+    },
+    {
+        "name": "Saint Louis",
+        "url": "https://owasp.org/www-chapter-saint-louis/",
+        "created": "2019-09-12",
+        "updated": "2025-07-23",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP St. Louis",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-saint-louis-chapter",
         "country": "USA",
         "meetings": 0
     },
@@ -3984,22 +4000,6 @@
         "meetings": 0
     },
     {
-        "name": "Saint Louis",
-        "url": "https://owasp.org/www-chapter-saint-louis/",
-        "created": "2019-09-12",
-        "updated": "2025-07-20",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP Saint Louis",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "owasp-saint-louis-chapter",
-        "country": "USA",
-        "meetings": 0
-    },
-    {
         "name": "San Fernando Valley",
         "url": "https://owasp.org/www-chapter-san-fernando-valley/",
         "created": "2019-09-12",
@@ -5389,7 +5389,7 @@
         "pitch": "More info soon...",
         "meetup-group": "meetup-group-nsrmjush",
         "country": "United Kingdom",
-        "meetings": 13
+        "meetings": 14
     },
     {
         "name": "Poland",
@@ -5843,7 +5843,7 @@
         "name": "Panama City",
         "url": "https://owasp.org/www-chapter-panama-city/",
         "created": "2019-09-12",
-        "updated": "2025-07-19",
+        "updated": "2025-07-23",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Panama City",
@@ -6115,7 +6115,7 @@
         "name": "Baku",
         "url": "https://owasp.org/www-chapter-baku/",
         "created": "2022-11-28",
-        "updated": "2025-05-19",
+        "updated": "2025-07-23",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-baku",
         "title": "OWASP Baku",
@@ -7843,7 +7843,7 @@
         "name": "National Institute Of Engineering Mysuru",
         "url": "https://owasp.org/www-chapter-national-institute-of-engineering-mysuru/",
         "created": "2023-07-12",
-        "updated": "2025-07-22",
+        "updated": "2025-07-23",
         "build": "built",
         "codeurl": "",
         "title": "OWASP National Institute of Engineering Mysuru",
