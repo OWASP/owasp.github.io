@@ -6454,13 +6454,6 @@
         "group_url": "https://owasp.org/www-project-ai-testing-guide/"
     },
     {
-        "name": "Daniel Miessler",
-        "email": "daniel.miessler@owasp.org",
-        "group": "OWASP AI Top Ten",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-ai-top-ten/"
-    },
-    {
         "name": "Aruneesh Salhotra",
         "email": "aruneesh.salhotra@owasp.org",
         "group": "OWASP AIBOM",
@@ -6559,20 +6552,6 @@
         "group_url": "https://owasp.org/www-project-application-security-curriculum/"
     },
     {
-        "name": "Thomas Moore",
-        "email": "tmoore@signalhill.tech",
-        "group": "OWASP Application Security Monitoring Standard",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-application-security-monitoring-standard/"
-    },
-    {
-        "name": "Josh Wilson",
-        "email": "josh.wilson@owasp.org",
-        "group": "OWASP Application Security Playbook",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-application-security-playbook/"
-    },
-    {
         "name": "Daniel Cuthbert",
         "email": "daniel.cuthbert@owasp.org",
         "group": "OWASP Application Security Verification Standard (ASVS)",
@@ -6599,13 +6578,6 @@
         "group": "OWASP Application Security Verification Standard (ASVS)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-application-security-verification-standard/"
-    },
-    {
-        "name": "Sebastian Avarvarei",
-        "email": "sebastian.avarvarei@owasp.org",
-        "group": "OWASP AppSec Contract Builder",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-appsec-contract-builder/"
     },
     {
         "name": "Dmitrii Mariushkin",
@@ -6846,13 +6818,6 @@
         "group_url": "https://owasp.org/www-project-cervantes/"
     },
     {
-        "name": "Mehmet Yilmaz",
-        "email": "mehmet.yilmaz@owasp.org",
-        "group": "OWASP ChainGoat",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-chaingoat/"
-    },
-    {
         "name": "Aleksei Ryzhkov",
         "email": "aleksei.ryzhkov@owasp.org",
         "group": "OWASP Cheat Code Series",
@@ -6928,13 +6893,6 @@
         "group": "OWASP Code Pulse",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-code-pulse/"
-    },
-    {
-        "name": "Divyanshu Shukla",
-        "email": "divyanshushukl@gmail.com",
-        "group": "OWASP Cognito Catastrophe",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cognito-catastrophe/"
     },
     {
         "name": "Steve Springett",
@@ -7152,13 +7110,6 @@
         "group": "OWASP Data Security Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-data-security-top-10/"
-    },
-    {
-        "name": "Guljar Hasan",
-        "email": "guljar.hasan@owasp.org",
-        "group": "OWASP De-addiction",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-de-addiction/"
     },
     {
         "name": "Nikolai Khechumov",
@@ -7532,13 +7483,6 @@
         "group_url": "https://owasp.org/www-project-embedded-application-security/"
     },
     {
-        "name": "Achim Hoffmann",
-        "email": "achim@owasp.org",
-        "group": "OWASP Ende",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-ende/"
-    },
-    {
         "name": "Kevin Wall",
         "email": "kevin.w.wall@owasp.org",
         "group": "OWASP Enterprise Security API (ESAPI)",
@@ -7595,20 +7539,6 @@
         "group_url": "https://owasp.org/www-project-gamesec-framework/"
     },
     {
-        "name": "Omer Levi Hevroni",
-        "email": "omer.levihevroni@owasp.org",
-        "group": "OWASP Glue Tool",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-glue-tool/"
-    },
-    {
-        "name": "Matt Konda",
-        "email": "matt.konda@owasp.org",
-        "group": "OWASP Glue Tool",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-glue-tool/"
-    },
-    {
         "name": "Erez Yalon",
         "email": "erez.yalon@owasp.org",
         "group": "OWASP Go Secure Coding Practices Guide",
@@ -7628,20 +7558,6 @@
         "group": "🦸 OWASP Hack Heroes",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-hack-heroes/"
-    },
-    {
-        "name": "Mateo Martinez",
-        "email": "mateo.martinez@owasp.org",
-        "group": "OWASP hacking-lab",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-hacking-lab/"
-    },
-    {
-        "name": "Ivan Buetler",
-        "email": "ivan.buetler@owasp.org",
-        "group": "OWASP hacking-lab",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-hacking-lab/"
     },
     {
         "name": "Mark Roxberry",
@@ -7742,20 +7658,6 @@
         "group_url": "https://owasp.org/www-project-intelligent-intrusion-detection-system/"
     },
     {
-        "name": "Daniel Miessler",
-        "email": "daniel.miessler@owasp.org",
-        "group": "OWASP internet of things top 10",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-internet-of-things-top-10/"
-    },
-    {
-        "name": "Craig Smith",
-        "email": "craig.smith@owasp.org",
-        "group": "OWASP internet of things top 10",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-internet-of-things-top-10/"
-    },
-    {
         "name": "Luca Pascal Rotsch",
         "email": "luca.pascalrotsch@owasp.org",
         "group": "OWASP IoT Security Testing Guide",
@@ -7810,20 +7712,6 @@
         "group": "OWASP Java HTML Sanitizer",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-java-html-sanitizer/"
-    },
-    {
-        "name": "Arshan Dabirsiaghi",
-        "email": "arshan.dabirsiaghi@owasp.org",
-        "group": "OWASP Java Security Toolkit",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-java-security-toolkit/"
-    },
-    {
-        "name": "Ryan Dens",
-        "email": "ryan.dens@owasp.org",
-        "group": "OWASP Java Security Toolkit",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-java-security-toolkit/"
     },
     {
         "name": "Bjoern Kimminich",
