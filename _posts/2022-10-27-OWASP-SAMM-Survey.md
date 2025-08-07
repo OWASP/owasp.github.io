@@ -3,7 +3,7 @@
 date: 2022-10-28 00:00:00-0700
 categories: blog
 author: Seba Deleersnyder
-author_image: /assets/images/people/Seba_Deleersnyder.png
+author_image: /assets/images/people/seba_deleersnyder.png
 layout: blogpost
 title: Help OWASP SAMM Improve Global Software Security
 excerpt_separator: <!--more-->
