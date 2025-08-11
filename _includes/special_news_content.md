@@ -1,12 +1,13 @@
 <div style="width:100%;display:grid;grid-column: 1/3; background-color:#ddd;">
 <section class="homepage-promo">
 <span>
-<strong>Corporate Supporter Spotlight: Interview with John Amaral, CTO and Co-Founder of root.io</strong>
+<strong>Donate Blood Today! A message from Sherif Mansour</strong>
 <div>
-<p><a href="https://youtu.be/88WjNmfXDcI"><img class="featured-proj-image" src="/assets/images/corp-supporter-root-io.png"/></a>
-This month, we are featuring <a href="https://root.io/">root.io</a>, a Platinum Corporate Supporter of OWASP, which specializes in automated container remediation. In this interview, we discuss the origins of root.io, root's use of OWASP materials and our impact on their operations, how they use software bill of materials with OWASP CycloneDX, and how you can get your project startup idea off the ground and some advice for future OWASP project entrepreneurs.</p>
+<p><a href="https://www.youtube.com/watch?v=LKZTppmAS84"><img style="width:50%"class="featured-proj-image" src="/assets/images/content/blood-drive-donate.png"></a>
 
-<p>A huge thank you to all our Corporate Supporters! We will be featuring more corporate supporter stories in the coming months, so stay tuned!</p>
+<p>Sherif Mansour, OWASP's 2022 Chair of the Global Board of Directors, was recently diagnosed with leukemia and is urging everyone to donate blood to help those in need. Learn more by watching the video, and consider making a blood donation today.</p>
+
+<p>Don't hesitate to contact your local blood donation service and make an appointment today. In the UK, you can donate via the NHS (<a href="https://www.blood.co.uk/why-give-blood/">https://www.blood.co.uk/why-give-blood/</a>). You can donate via the Red Cross Blood Service or Red Cross Lifeblood in many countries. Search for "donate blood" in your search engine to find out more.</p>
 </div>
 </span>
 </section>
