@@ -218,8 +218,9 @@ permalink: /donate/
       <p>The Open Worldwide Application Security Project (OWASP) is a nonprofit
       foundation that works to improve the security of software. Through community-led open
       source software projects and hundreds of local chapters worldwide, your gift* will support the Foundation and its many activities
-      around the world to secure the web. Existing donors can <a href="/manage-membership">Modify Recurring Gifts</a>.</p>
+      around the world to secure the web. If you have a recurring donation and wish to modify or cancel your donation, <a href="https://contact.owasp.org">please log a ticket.</a></p>
 
+      <p>OWASP is a 501(c)3 nonprofit organization, and your gift may be tax-deductible. Please consult with your tax professional for more details. Many employers offer a donation matching program through <a href="https://benevity.com/nonprofits">Benevity</a>. Please search for "OWASP Foundation, Inc" in Benevity to potentially double your donation.</p>
 
       <form class="form-container" v-on:submit.prevent="handleSubmit">
         <div class="error-text" style="font-size: 90%; margin-bottom: 16px" id="error-message" v-if="Object.keys(errors).length">
