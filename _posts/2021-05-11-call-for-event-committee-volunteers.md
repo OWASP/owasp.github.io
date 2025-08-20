@@ -20,7 +20,7 @@ To solve this and help drive stronger events I propose we form an events committ
 
 Short term, we could create a GitHub wiki (mirrored in owasp.org) where we publish processes, advice and instructions on how to set up OWASP events. A [draft charter for this committee can be found here](https://docs.google.com/document/d/1_2HiBuqh7ZmJn_Tn0WFmdm9A-JcIGbxjJfxEXPORPvc/edit?ts=60674e7b)
 
-To this end, we would like to ask for volunteers to lead this committee under the [Committees policy](https://owasp.org/www-policy/operational/committees.html)
+To this end, we would like to ask for volunteers to lead this committee under the [Committees policy](https://policy.owasp.org/operational/committees.html)
 
 We already have established committees, such as:
 

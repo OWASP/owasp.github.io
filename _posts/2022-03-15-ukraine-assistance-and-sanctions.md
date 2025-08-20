@@ -22,7 +22,7 @@ OWASP is adopting an apolitical approach that provides relief and assistance for
 
 OWASP Members have at least 30 days to comment on the new policy and offer advice and improvements:
 
-[Draft Force Majeure and Sanctions Policy](https://owasp.org/www-policy/operational/force-majeure-sanctions)
+[Draft Force Majeure and Sanctions Policy](https://policy.owasp.org/operational/force-majeure-sanctions)
 
 ### Force Majeure Implementation
 

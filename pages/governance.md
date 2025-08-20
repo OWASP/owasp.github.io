@@ -19,22 +19,22 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 ## Global Board of Directors
 
 - [Home Page and Upcoming Meetings](/www-board)
-- [Meeting Typical Agenda](/www-board/typical_agenda)
-- [Historical Board Actions](/www-board/#div-voting)
-- [Board Member Commitment Agreement](/www-policy/legal/directors-committment-agreement)
-- [Board Elections](/www-board/elections/)
+- [Meeting Typical Agenda](https://board.owasp.org/typical_agenda)
+- [Historical Board Actions](https://board.owasp.org/#div-voting)
+- [Board Member Commitment Agreement](https://policy.owasp.org/legal/directors-committment-agreement)
+- [Board Elections](https://board.owasp.org/elections/)
 
 ## Governing Documents
 
-- [OWASP Foundation By-Laws](/www-policy/legal/bylaws)
-- [OWASP Foundation Restated Certificate and Articles of Incorporation 2024](/www-policy/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf)
+- [OWASP Foundation By-Laws](https://policy.owasp.org/legal/bylaws)
+- [OWASP Foundation Restated Certificate and Articles of Incorporation 2024](https://policy.owasp.org/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf)
 - [OWASP Certificate of Revival 2012](/assets/legal/OWASP-Certificate-of-Revival-2012.pdf){:target='_blank'}
 - [OWASP Foundation Original Certificate and Articles of Incorporation 2004](/assets/legal/OWASP-DE-Certificate-of-Incorporation-2004.pdf){:target='_blank'}
-- [General Disclaimer](/www-policy/operational/general-disclaimer)
-- [Privacy Policy](/www-policy/operational/privacy)
-- [Conflict Resolution](/www-policy/operational/conflict-resolution)
-- [Conflict of Interest](/www-policy/operational/conflict-of-interest)
-- [Whistleblower & Anti-Retaliation](/www-policy/operational/whistleblower)
+- [General Disclaimer](https://policy.owasp.org/operational/general-disclaimer)
+- [Privacy Policy](https://policy.owasp.org/operational/privacy)
+- [Conflict Resolution](https://policy.owasp.org/operational/conflict-resolution)
+- [Conflict of Interest](https://policy.owasp.org/operational/conflict-of-interest)
+- [Whistleblower & Anti-Retaliation](https://policy.owasp.org/operational/whistleblower)
 
 ## Operations
 

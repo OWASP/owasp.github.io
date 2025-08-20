@@ -15,9 +15,9 @@ Members of the OWASP Foundation, we value your commitment and expertise. The Fou
 
 Today we are notifying you the following draft policies are open to comments for the next 20 days:
 
-- [Chapters](https://owasp.org/www-policy/operational/chapters)
+- [Chapters](https://policy.owasp.org/operational/chapters)
 
-Please use the email address/link on each policy page to send your comments. Following the Comment Period, the Policy Review Team will process comments and prepare the policy for final Global Board approval. The complete details on the process can be found in the [Community Review Process](https://owasp.org/www-policy/operational/community-review-process).
+Please use the email address/link on each policy page to send your comments. Following the Comment Period, the Policy Review Team will process comments and prepare the policy for final Global Board approval. The complete details on the process can be found in the [Community Review Process](https://policy.owasp.org/operational/community-review-process).
 
 Obviously you are under no obligation to participate in this review. But unlike many other groups in the software and security sector, it is important to us that our policies are shaped by our community. Thank you for your ongoing support of the OWASP Foundation.
 

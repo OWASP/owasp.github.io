@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-I'm excited to announce that [OWASP's restated Articles and Certificate of Incorporation](/www-policy/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf) and new [Bylaws](/www-policy/legal/bylaws) have been approved by the Delaware Secretary of State. These documents are the foundation of our governance and provide the framework for how the Foundation operates. The new bylaws are the result of a comprehensive review and update process that began in 2021. The changes are designed to modernize and streamline the governance of the Foundation, and to ensure that we are operating in the best interests of our members and the broader community.
+I'm excited to announce that [OWASP's restated Articles and Certificate of Incorporation](https://policy.owasp.org/legal/OWASP-Foundation-Restated-Certificate-of-Incorporation-2024.pdf) and new [Bylaws](https://policy.owasp.org/legal/bylaws) have been approved by the Delaware Secretary of State. These documents are the foundation of our governance and provide the framework for how the Foundation operates. The new bylaws are the result of a comprehensive review and update process that began in 2021. The changes are designed to modernize and streamline the governance of the Foundation, and to ensure that we are operating in the best interests of our members and the broader community.
 
 <!--more-->
 

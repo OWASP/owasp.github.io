@@ -69,7 +69,7 @@ The European legal address and VAT number is:
 
 ## Ethical Behavior
 
-The activities, programs, and events of the Foundation conform to a number of policies set forth in our [Policies & Procedures](/www-policy/) and the [Code of Conduct](/www-policy/operational/code-of-conduct). Additionally we expect our Board Members, Leaders, Staff, and volunteers to model the upmost in integrity, honesty, and patience with supporting our extended communities.
+The activities, programs, and events of the Foundation conform to a number of policies set forth in our [Policies & Procedures](https://policy.owasp.org/) and the [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct). Additionally we expect our Board Members, Leaders, Staff, and volunteers to model the upmost in integrity, honesty, and patience with supporting our extended communities.
 
 ## Licensing
 

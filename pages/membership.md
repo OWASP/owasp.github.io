@@ -87,7 +87,7 @@ maintenance_message: We are currently experiencing issues with our Membership po
 	    <input type="checkbox" v-model="mailing_list">
 	    <span class="checkmark"></span>
 	  </label>
-    <label class="checkbox-container">I am requesting <a href="https://owasp.org/www-policy/operational/membership#complimentary-membership" target="_blank">Complimentary Membership for OWASP Leaders</a>
+    <label class="checkbox-container">I am requesting <a href="https://policy.owasp.org/operational/membership#complimentary-membership" target="_blank">Complimentary Membership for OWASP Leaders</a>
 	    <input type="checkbox" v-model="free_leader">
 	    <span class="checkmark"></span>
 	  </label>
@@ -95,7 +95,7 @@ maintenance_message: We are currently experiencing issues with our Membership po
        {{ errors.free_leader[0] }}
        <br>Please <a href='https://contact.owasp.org/'>Contact Us</a> if you feel this was in error.
     </div>
-    <label class="checkbox-container" v-if="free_leader">I agree to be bound by the <a href="https://owasp.org/www-policy/legal/leaders-commitment-agreement">Leader Agreement</a>
+    <label class="checkbox-container" v-if="free_leader">I agree to be bound by the <a href="https://policy.owasp.org/legal/leaders-commitment-agreement">Leader Agreement</a>
 	    <input type="checkbox" v-model="free_leader_agreement">
 	    <span class="checkmark"></span>
 	  </label>
@@ -156,7 +156,7 @@ maintenance_message: We are currently experiencing issues with our Membership po
         
       </form>
 
-      <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership and agree to adhere to the OWASP Foundation <a href="/www-policy/operational/code-of-conduct">Code of Conduct</a>. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
+      <p class="legal-text">By submitting this form, you are consenting to receive communications from the OWASP Foundation concerning the status of your membership and agree to adhere to the OWASP Foundation <a href="https://policy.owasp.org/operational/code-of-conduct">Code of Conduct</a>. Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and <a href="/membership?student=yes">Student Memberships</a> are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. You can elect to receive marketing mails from us by also selecting "Join the OWASP Marketing Mail List." Marketing mails include information and special offers for upcoming conferences, meetings, and other opportunities offered to you. You can revoke your consent to receive Marketing Mail List emails at any time by using the Unsubscribe link found at the bottom of these emails.</p>
 
       <!-- end membership form -->
 

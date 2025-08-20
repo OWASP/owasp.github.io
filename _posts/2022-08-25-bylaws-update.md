@@ -20,7 +20,7 @@ Once we have clarity on the status of members' fees and privileges, the process 
 
 Please review the following bylaws, and please let me know if you have any questions. I'll update this post with any great questions from our community.
 
-- [DRAFT OWASP Bylaws](https://owasp.org/www-board/attachments/202208-draft-bylaws.pdf)
+- [DRAFT OWASP Bylaws](https://board.owasp.org/attachments/202208-draft-bylaws.pdf)
 
 ### Why is this necessary?
 

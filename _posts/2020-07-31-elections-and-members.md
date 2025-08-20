@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-The future of OWASP is driven by passionate individuals who sit on the Global Board of Directors. They represent you and are elected by you, our members. We have just published the [Global Board of Directors elections timeline and procedures](https://owasp.org/www-board/elections/2020_elections). 
+The future of OWASP is driven by passionate individuals who sit on the Global Board of Directors. They represent you and are elected by you, our members. We have just published the [Global Board of Directors elections timeline and procedures](https://board.owasp.org/elections/2020_elections). 
 
 We ask all members to check that their membership is valid, and necessary communications settings are correct. I encourage anyone to stand for the Board if they are passionate about OWASP, and I encourage every single member to vote. 
 
@@ -27,7 +27,7 @@ tl;dr:
 * **Vote** All OWASP members can vote between October 15 - 30. 
 
 For more information, the official OWASP Board of Directors 2020 Election timeline and process is here:
-* [Official Elections Page](https://owasp.org/www-board/elections/2020_elections)
+* [Official Elections Page](https://board.owasp.org/elections/2020_elections)
 
 If you want to be a Board member or want to know more about voting in the election, please read on.
 
@@ -73,7 +73,7 @@ Voting is straightforward:
 
 The bylaws, policies, and procedures for this year's elections will be the same as in previous years. The bylaws will be changing soon to reflect recommendations by the Compliance Committee and votes conducted by the Board. These changes clarify the intent and the letter of vacancy, appointments, Director eligibility, and Director qualification bylaws. If passed, one of the measures provides a grace period to maintain good standing. 
 
-There has been a great deal of misinformation and fear-mongering about Board eligibility and the election process. To dispel misinformation and quell disquiet around what happened, anyone can verify the facts around the eligibility issue by [watching the relevant Board meetings, voting history, and reviewing the minutes](https://owasp.org/www-board/#div-historical).
+There has been a great deal of misinformation and fear-mongering about Board eligibility and the election process. To dispel misinformation and quell disquiet around what happened, anyone can verify the facts around the eligibility issue by [watching the relevant Board meetings, voting history, and reviewing the minutes](https://board.owasp.org/#div-historical).
 
 To recap: A ruling was requested from the Compliance Committee to make recommendations on two matters. The two questions were:
 

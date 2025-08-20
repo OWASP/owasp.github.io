@@ -70,7 +70,7 @@ The OWASP Foundation has an external audit of our financials every year, startin
 
 ## Chapter & Project Expenses
 
-OWASP Leaders are permitted to make expense claims on behalf of their chapters, projects, or events. Expenses under $250 do not need to be pre-approved, but must always comply with the [OWASP Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement). Expenses over $250 need dual leader approval and in some cases, pre-approval from the OWASP Foundation prior to incurring the charge.
+OWASP Leaders are permitted to make expense claims on behalf of their chapters, projects, or events. Expenses under $250 do not need to be pre-approved, but must always comply with the [OWASP Expense Policy](https://policy.owasp.org/operational/expense-reimbursement). Expenses over $250 need dual leader approval and in some cases, pre-approval from the OWASP Foundation prior to incurring the charge.
 
 - [Request Reimbursements](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
 - [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for support requests

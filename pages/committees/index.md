@@ -7,7 +7,7 @@ tags: committees
 
 ---
 
-OWASP Committees provide an opportunity to directly impact the future of the OWASP Foundation. As a committee member you are the voice for focus areas and represent the OWASP community around the world. The committees design a committee plan to focus on specific areas of improvement within their domain. OWASP Committees are governed under the [OWASP Committee 2.0 policy](/www-policy/operational/committees.html).
+OWASP Committees provide an opportunity to directly impact the future of the OWASP Foundation. As a committee member you are the voice for focus areas and represent the OWASP community around the world. The committees design a committee plan to focus on specific areas of improvement within their domain. OWASP Committees are governed under the [OWASP Committee 2.0 policy](https://policy.owasp.org/operational/committees.html).
 
 
 <p class="callout-mono left">Represent the OWASP Community around the world.</p>

@@ -17,7 +17,7 @@ Some countries have dealt with COVID in a very strong way, and their economy is 
 
 Please review the updated temporary restrictions, and provide feedback or improvements per the instructions down the bottom.
 
-- [https://owasp.org/www-policy/operational/covid-restrictions](https://owasp.org/www-policy/operational/covid-restrictions)
+- [https://policy.owasp.org/operational/covid-restrictions](https://policy.owasp.org/operational/covid-restrictions)
 
 Thank you and stay safe!
 

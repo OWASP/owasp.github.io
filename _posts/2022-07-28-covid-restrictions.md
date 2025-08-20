@@ -32,4 +32,4 @@ Please stay home if you're sick, even if this means cancelling the meeting. Requ
 
 As this is becoming a permanent policy, I am opening up comments for a period of thirty days to improve the policy and make it more general. Please follow the instructions to provide feedback on policies.
 
-The updated COVID policy can be found here: [https://owasp.org/www-policy/operational/covid-restrictions](https://owasp.org/www-policy/operational/covid-restrictions)
+The updated COVID policy can be found here: [https://policy.owasp.org/operational/covid-restrictions](https://policy.owasp.org/operational/covid-restrictions)

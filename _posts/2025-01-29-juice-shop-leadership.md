@@ -21,7 +21,7 @@ Effective immediately, [Jannik Hollenbach](https://infosec.exchange/@jannik) joi
 
 ![](/assets/images/posts/juice-shop-leadership/juice-shop_project-leaders.jpg)
 
-Lacking a second project leader was an open topic of OWASP Juice Shop since a new release of the [Project Policy](https://owasp.org/www-policy/operational/projects) in 2021. Not only are we now addressing this compliance issue, but an operational continuity issue as well. 
+Lacking a second project leader was an open topic of OWASP Juice Shop since a new release of the [Project Policy](https://policy.owasp.org/operational/projects) in 2021. Not only are we now addressing this compliance issue, but an operational continuity issue as well. 
 
 ## Enhanced contributor engagement
 

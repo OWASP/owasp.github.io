@@ -41,7 +41,7 @@ permalink: /sitemap/
   <li><h2>Who are we?</h2></li>
   <li><a href="/about/">About OWASP</a></li>
   <li><a href="/news/">News</a></li>
-  <li><a href="/www-board/#div-board">Board</a></li>
+  <li><a href="https://board.owasp.org/#div-board">Board</a></li>
   <li><a href="/corporate/">Staff</a></li>
   <li><a href="/www-staff/budget/2020">Budget for 2020</a></li>  
   <li><a href="/careers/">Careers</a></li>
@@ -49,7 +49,7 @@ permalink: /sitemap/
   <li><a href="/governance/">Governance</a></li>
   <li><a href="/membership/">Membership</a></li>
   <li><a href="/news/">Opinions & News</a></li>
-  <li><a href="/www-policy/">Policies & Procedures</a></li>
+  <li><a href="https://policy.owasp.org/">Policies & Procedures</a></li>
   <li><a href="/www-staff/">Staff Projects</a></li>
   <li><a href="/supporters/">Supporters</a></li>
 </ul>
@@ -74,19 +74,19 @@ permalink: /sitemap/
   <li><a href="/finance/">Tax Information</a></li>
   <li><a href="/membership/">Become a Member</a></li>
   <li><a href="/manage-membership/">Update your Billing Information</a></li>  
-  <li><a href="/www-policy/operational/general-disclaimer">General Disclaimer</a></li>
-  <li><a href="/www-policy/operational/privacy">Privacy Policy</a></li>
-  <li><a href="/www-policy/operational/whistleblower">Whistleblower</a></li>
+  <li><a href="https://policy.owasp.org/operational/general-disclaimer">General Disclaimer</a></li>
+  <li><a href="https://policy.owasp.org/operational/privacy">Privacy Policy</a></li>
+  <li><a href="https://policy.owasp.org/operational/whistleblower">Whistleblower</a></li>
   <li><a href="https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72" target="_blank">Contact Us</a></li>
 </ul>
 
 <ul>
   <li><h2>Legal</h2></li>
-  <li><a href="/www-policy/operational/code-of-conduct">Code of Conduct</a></li>
-  <li><a href="/www-policy/operational/conflict-of-interest">Conflict of Interest</a></li>
-  <li><a href="/www-policy/operational/conferences-events">Event Attendee Policy</a></li>
-  <li><a href="/www-policy/operational/general-disclaimer">General Disclaimer</a></li>
-  <li><a href="/www-policy/operational/privacy">Privacy Policy</a></li>
+  <li><a href="https://policy.owasp.org/operational/code-of-conduct">Code of Conduct</a></li>
+  <li><a href="https://policy.owasp.org/operational/conflict-of-interest">Conflict of Interest</a></li>
+  <li><a href="https://policy.owasp.org/operational/conferences-events">Event Attendee Policy</a></li>
+  <li><a href="https://policy.owasp.org/operational/general-disclaimer">General Disclaimer</a></li>
+  <li><a href="https://policy.owasp.org/operational/privacy">Privacy Policy</a></li>
 </ul>
 
 </div>

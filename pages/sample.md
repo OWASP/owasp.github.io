@@ -27,7 +27,7 @@ Title: {{m.title}}
   <p><s>This is a strikethrough text.</s></p>
   <p><a href="#">This is a link.</a></p>
 
-  [Link with empty target window](/www-policy/operational/donations){:target="_blank" rel="noopener"}
+  [Link with empty target window](https://policy.owasp.org/operational/donations){:target="_blank" rel="noopener"}
   
   <ol>
     <li>Ordered list item 1</li>
