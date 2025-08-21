@@ -26,9 +26,9 @@ We at OWASP wish Sherif all the best, as although he is in remission, he still f
 
 - World Health Organization – [World Blood Donor Day Resources](https://www.who.int/campaigns/world-blood-donor-day/2025)
 - IFRC – [Find a Red Cross/Red Crescent](https://www.ifrc.org/our-work/health-and-care/community-health/blood-donation)
-- 🇺🇸 USA – [American Red Cross |AABB Blood Bank Locator - enter your zip code to find your nearest donation center](https://www.aabb.org/home)
+- 🇺🇸 USA – [American Red Cross - AABB Blood Bank Locator](https://www.aabb.org/home)
 - 🇬🇧 UK – [NHS Blood Donation](https://www.blood.co.uk/)
 - 🇨🇦 Canada – [Canadian Blood Services](https://www.blood.ca/en/blood/donating-blood)
 - 🇦🇺 Australia – [Australian Red Cross Lifeblood](https://www.lifeblood.com.au/)
-- 🇮🇳 India – [National Blood Transfusion Council](https://www.nbtcindia.nic.in/) | [Indian Red Cross Society](https://www.indianredcross.org/donate-blood/)
+- 🇮🇳 India – [National Blood Transfusion Council](https://www.nbtcindia.nic.in/) - [Indian Red Cross Society](https://www.indianredcross.org/donate-blood/)
 - 🇪🇺 EU-wide – [European Blood Alliance](https://www.europeanbloodalliance.eu/)
