@@ -5,7 +5,7 @@ categories: blog
 author: Sherif Mansour
 author_image: /assets/images/people/sherif-mansour.png
 layout: blogpost
-title: Help Support Sharif Mansour by donating blood today!
+title: Help Support Sherif Mansour by donating blood today!
 excerpt_separator: <!--more-->
 
 ---
