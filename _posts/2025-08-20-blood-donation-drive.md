@@ -18,8 +18,6 @@ OWASP's 2021 Board of Directors Chairman, Sherif Mansour, was recently diagnosed
 
 "One thing all of us talk about is blood donations. Leukemia treatment wipes out your immune system, leaving you dependent on transfusions of blood and platelets to survive. There is no synthetic substitute — we all live and heal because strangers give. Every donation can save up to three lives. I’ve asked my friends to donate, and many did. The OWASP Foundation have even organized a blood drive, which we hope will reach even more people. I want to encourage everyone — in InfoSec, in the professional community, and beyond — to donate blood. You’ll never know when you or someone you love will need it, but every time you do, you embody the kindness and resilience of the human spirit, and you’re part of the quiet, beautiful truth that we are here for each other." says Sherif.
 
-"I’m in remission from AML (acute myeloid leukemia). Historically, the survival rate has been roughly around 30 percent. Treatments are improving, such as with the new myelotarg-targeted medication, but it’s still one of the toughest cancers to deal with overall. I was lucky — we caught it early, I responded right away, and I’m otherwise healthy, which is all on my side."
-
 We at OWASP wish Sherif all the best, as although he is in remission, he still faces regular tests and blood transfusions. The best way for our community to support him is by donating blood. Please make a time to go donate blood today!
 
 🌍 Global Resources:
