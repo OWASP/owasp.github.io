@@ -18,7 +18,7 @@ The OWASP Foundation, Inc. is a United States 501(c)3 nonprofit charity governed
 
 ## Global Board of Directors
 
-- [Home Page and Upcoming Meetings](/www-board)
+- [Home Page and Upcoming Meetings](https://board.owasp.org)
 - [Meeting Typical Agenda](https://board.owasp.org/typical_agenda)
 - [Historical Board Actions](https://board.owasp.org/#div-voting)
 - [Board Member Commitment Agreement](https://policy.owasp.org/legal/directors-committment-agreement)
