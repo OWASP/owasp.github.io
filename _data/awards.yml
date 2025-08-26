@@ -10,6 +10,14 @@
   type: category
   description: >-
       Awarded by the Board for outstanding involvement in the organization over the course of many years.
+- title: Project Person of the Year
+  type: award
+  category: WASPY
+  year:  2025
+  winners:
+    - name: Jannik 
+      image: 
+      info:  >-
 - title: Event Person of the Year
   type: award
   category: WASPY
@@ -27,15 +35,18 @@
         <br>- Recognition. Honored with OWASP’s Lifetime Achievement Award (2023) for sustained, high-impact service—a testament to his belief in the foundation’s mission of “making software security visible, so that individuals and organizations can make informed decisions.
         <br>
         <br>A true believer in OWASP’s open, vendor-neutral ethos, Jim remains an active contributor, mentor, and evangelist—continuing to advance the state of software security through community-driven standards, education, and tooling.
-- title: Event Person of the Year
+- title: Chapter Person of the Year
   type: award
   category: WASPY
-  year: 2024
+  year:  2025
   winners:
-    - name: Shruti Kulkarni
-      image: /assets/images/people/shruti_kulkarni.jpeg
+    - name: John DiLeo
+      image: 
       info:  >-
-        Shruti Kulkarni is a cyber security / enterprise security architect with experience in ISO27001, PCI-DSS, policies, standards, security tools, threat modeling, risk assessments. Shruti works on security strategies and collaborates with cross-functional groups to implement information security controls in software development life-cycle, service operations, service delivery such that security controls support business requirements. An ardent fan, Shruti joined OWASP in 2013 and is currently  project leader for Developer Guide and is the Secretary of the Education Committee.
+        John is a Lifetime Member of OWASP, having first joined in 2014, while living and working in Kansas City, Missouri. He has been active in the New Zealand Chapter since moving to Auckland in late 2017.
+        <br>John took on a leadership role in the New Zealand Chapter in April 2018, restarting the Auckland Meetup, which he led until May 2024, when he moved to Hamilton. Once settled there, John launched the Hamilton Meetup, which is now going strong.
+        <br>John became Chair of the annual OWASP New Zealand Day conference in 2019, keeping it going through COVID lockdowns, border closures, and travel bans. This year, he is coaching his successor, so he can 'retire' as conference chair after his seventh. John helped organize the student-focused security.ac.nz event, in 2019 and 2022. He also organizes OWASP Training Day events around New Zealand.
+        <br>Beyond the chapter, John has been a member of the OWASP SAMM Project's core team since 2018, has been part of the Chapters and Education and Training Committees, and has founded a number of small OWASP projects.
 - title: Project Person of the Year
   type: award
   category: WASPY
@@ -46,6 +57,15 @@
       info:  >-
         Felipe Zipitria is an expert in computer security, graduated with an MSc from the Universidad de la República in Uruguay. With over 20 years of experience in SRE, DevOps, and SysAdmin roles, Felipe has transitioned into specialized areas, dedicating the past 5 years to AppSec and Cloud SecOps. His extensive expertise spans security consulting for over a decade.
         Passionate about education, Felipe instructs pregraduate students in Computer Security Fundamentals and guides postgraduates in Web Application Security at the local public University, with the help of OWASP published materials. He started as the Uruguay Co-Chapter Leader in 2013, and started engaging in projects with global outreach. He is a longstanding contributor to OWASP CRS, serving as a developer and co-leader since 2021 and he is part of the OWASP Coraza leadership team, focusing on the development of new Web Application Firewalls (WAFs). Committed to fostering open-source engagement, he has served as a Google Summer of Code mentor for four consecutive years, nurturing students involvement in open-source and OWASP initiatives.
+- title: Event Person of the Year
+  type: award
+  category: WASPY
+  year: 2024
+  winners:
+    - name: Shruti Kulkarni
+      image: /assets/images/people/shruti_kulkarni.jpeg
+      info:  >-
+        Shruti Kulkarni is a cyber security / enterprise security architect with experience in ISO27001, PCI-DSS, policies, standards, security tools, threat modeling, risk assessments. Shruti works on security strategies and collaborates with cross-functional groups to implement information security controls in software development life-cycle, service operations, service delivery such that security controls support business requirements. An ardent fan, Shruti joined OWASP in 2013 and is currently  project leader for Developer Guide and is the Secretary of the Education Committee.
 - title: Chapter Person of the Year
   type: award
   category: WASPY
@@ -65,24 +85,6 @@
          <br>2017: Joining the OWASP Global Foundation Board of DIrectors, until 2022
          <br>2019: Joining the OWASP Europe Board
          <br>Over the years, I have been promoting, mentoring and supporting OWASP in general; the various projects, chapters and events.  The leaders, organizers, members and volunteers. Anyone trying to find their way into AppSec. 
-- title: Chapter Person of the Year
-  type: award
-  category:  WASPY
-  year: 2023
-  winners:
-    - name: Sam Stepanyan
-      image: /assets/images/people/board_sam_stepanyan.jpg
-      info:  >-
-        Sam Stepanyan is an Independent Application Security Consultant and Security Architect with over 20 years of experience in the IT industry with a background in software engineering and web application development. Sam has worked for various financial services institutions in the City of London specialising in Application Security consulting, Secure SoftwareDevelopment Lifecycle (SDLC), developer training, source code reviews and vulnerability management. He is also a Subject MatterExpert in Web Application Firewalls (WAF) and SIEM systems. Sam holds a Master’s degree in Software Engineering and a CISSP certification.  Sam has been serving as an OWASP London Chapter Leader since November 2015 (with Sherif Mansour) and as OWASP Chapter Committee Chair since August 2020. Sam is also a Project Leader of OWASP Nettacker and a co-leader of OWASP WAFEC project. Sam is a frequent speaker at several BSides conferences as well as OWASP Global AppSec conferences.
-- title: Event Person of the Year
-  type: award
-  category: WASPY
-  year: 2023
-  winners:
-    - name: Meghan Jacquot
-      image:  /assets/images/people/meghan_jacquot-photo.jpg
-      info:  >-
-         Meghan Jacquot is a Security Engineer with Inspectiv and focuses on vulnerabilities and attack surface management. She is particularly interested in application security, threat intelligence, investigating vulnerabilities, and the ethical use of data. Meghan shares her research via conferences and publications. Throughout the year, she helps a variety of organizations and folks including DEF CON as a SOC GOON, Diana Initiative, OWASP, SANS, and WiCyS.  To relax she also spends time visiting national parks, gardening, and hanging with her chinchilla. She’s happy to connect with others on LinkedIn and Mastodon and her handle is CarpeDiemT3ch. 
 - title: Project Person of the Year
   type: award
   category: WASPY
@@ -92,6 +94,24 @@
       image: /assets/images/people/brian_glas_photo.jpg
       info:  >-
         Brian has more than 22 years of experience in various roles in IT with the majority of that in application development and security. His day job is serving as Department Chair and Assistant Professor teaching a full load of Computer Science and Cybersecurity classes at Union University. He helped build the FedEx AppSec team, worked on the Trustworthy Computing team at Microsoft, consulted on software security, and served as a project lead and active contributor for SAMM v1.1-2.0+ and OWASP Top 10 2017, 2021, and 2024.  Brian is a contributor to the RABET-V Program for assessing non-voting election technology. He holds several Cybersecurity and IT certifications and is working on his Doctor of Computer Science in Cybersecurity and Information Assurance.
+- title: Event Person of the Year
+  type: award
+  category: WASPY
+  year: 2023
+  winners:
+    - name: Meghan Jacquot
+      image:  /assets/images/people/meghan_jacquot-photo.jpg
+      info:  >-
+         Meghan Jacquot is a Security Engineer with Inspectiv and focuses on vulnerabilities and attack surface management. She is particularly interested in application security, threat intelligence, investigating vulnerabilities, and the ethical use of data. Meghan shares her research via conferences and publications. Throughout the year, she helps a variety of organizations and folks including DEF CON as a SOC GOON, Diana Initiative, OWASP, SANS, and WiCyS.  To relax she also spends time visiting national parks, gardening, and hanging with her chinchilla. She’s happy to connect with others on LinkedIn and Mastodon and her handle is CarpeDiemT3ch. 
+- title: Chapter Person of the Year
+  type: award
+  category:  WASPY
+  year: 2023
+  winners:
+    - name: Sam Stepanyan
+      image: /assets/images/people/board_sam_stepanyan.jpg
+      info:  >-
+        Sam Stepanyan is an Independent Application Security Consultant and Security Architect with over 20 years of experience in the IT industry with a background in software engineering and web application development. Sam has worked for various financial services institutions in the City of London specialising in Application Security consulting, Secure SoftwareDevelopment Lifecycle (SDLC), developer training, source code reviews and vulnerability management. He is also a Subject MatterExpert in Web Application Firewalls (WAF) and SIEM systems. Sam holds a Master’s degree in Software Engineering and a CISSP certification.  Sam has been serving as an OWASP London Chapter Leader since November 2015 (with Sherif Mansour) and as OWASP Chapter Committee Chair since August 2020. Sam is also a Project Leader of OWASP Nettacker and a co-leader of OWASP WAFEC project. Sam is a frequent speaker at several BSides conferences as well as OWASP Global AppSec conferences.
 - title: Project Person of the Year
   type: award
   category: WASPY
