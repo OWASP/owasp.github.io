@@ -5215,7 +5215,7 @@
         "group_url": "https://owasp.org/www-chapter-shiv-nadar-chennai/"
     },
     {
-        "name": "Adithya B",
+        "name": "Aditya B",
         "email": "adithya.b@owasp.org",
         "group": "OWASP Shiv Nadar Chennai",
         "group-type": "chapter",
@@ -6307,6 +6307,20 @@
         "group_url": "https://owasp.org/www-committee-chapter/"
     },
     {
+        "name": "Hayden Corry",
+        "email": "hayden.corry@owasp.org",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
+        "name": "Sam Stepanyan",
+        "email": "sam.stepanyan@owasp.org",
+        "group": "OWASP Chapter Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-chapter/"
+    },
+    {
         "name": "Adrian Winckles",
         "email": "adrian.winckles@owasp.org",
         "group": "OWASP Education and Training Committee",
@@ -6323,6 +6337,20 @@
     {
         "name": "Shruti Kulkarni",
         "email": "shruti.kulkarni@owasp.org",
+        "group": "OWASP Education and Training Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-education-and-training/"
+    },
+    {
+        "name": "John Ellingsworth",
+        "email": "john.ellingsworth@owasp.org",
+        "group": "OWASP Education and Training Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-education-and-training/"
+    },
+    {
+        "name": "Azzeddine Ramrami",
+        "email": "azzeddine.ramrami@owasp.org",
         "group": "OWASP Education and Training Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-education-and-training/"
@@ -6349,6 +6377,20 @@
         "group_url": "https://owasp.org/www-committee-events/"
     },
     {
+        "name": "Lauren Thomas",
+        "email": "lauren.thomas@owasp.com",
+        "group": "OWASP Events Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-events/"
+    },
+    {
+        "name": "Harold Blankenship",
+        "email": "harold.blankenship@owasp.org",
+        "group": "OWASP Events Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-events/"
+    },
+    {
         "name": "Bjoern Kimminich",
         "email": "bjoern.kimminich@owasp.org",
         "group": "OWASP Project Committee",
@@ -6365,6 +6407,20 @@
     {
         "name": "Donnie Brown",
         "email": "donnie.brown@owasp.org",
+        "group": "OWASP Project Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Jason Gillam",
+        "email": "jason.gillam@owasp.org",
+        "group": "OWASP Project Committee",
+        "group-type": "committee",
+        "group_url": "https://owasp.org/www-committee-project/"
+    },
+    {
+        "name": "Michael Bargury",
+        "email": "michael.bargury@owasp.org",
         "group": "OWASP Project Committee",
         "group-type": "committee",
         "group_url": "https://owasp.org/www-committee-project/"
@@ -6652,6 +6708,13 @@
     {
         "name": "Hamed Salimian",
         "email": "hamed.salimian@owasp.org",
+        "group": "OWASP ASVS Security Evaluation Templates with Nuclei",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-asvs-security-evaluation-templates-with-nuclei/"
+    },
+    {
+        "name": "AmirHossein Raeisi",
+        "email": "https://github.com/ahsraeisi",
         "group": "OWASP ASVS Security Evaluation Templates with Nuclei",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-asvs-security-evaluation-templates-with-nuclei/"
