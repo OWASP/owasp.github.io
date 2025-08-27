@@ -205,7 +205,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-chile-meetup-group",
         "country": "Chile",
-        "meetings": 3
+        "meetings": 2
     },
     {
         "name": "Cuiaba",
@@ -893,7 +893,7 @@
         "pitch": "More info soon...",
         "meetup-group": "Bay-Area-OWASP",
         "country": "USA",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Bellingham",
@@ -4381,7 +4381,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Aarhus-Chapter",
         "country": "Denmark",
-        "meetings": 6
+        "meetings": 5
     },
     {
         "name": "Armenia",
@@ -4467,7 +4467,7 @@
         "name": "Beja",
         "url": "https://owasp.org/www-chapter-beja/",
         "created": "2023-05-10",
-        "updated": "2025-03-24",
+        "updated": "2025-08-26",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Beja",
@@ -4611,7 +4611,7 @@
         "name": "Bristol Uk",
         "url": "https://owasp.org/www-chapter-bristol-uk/",
         "created": "2019-09-12",
-        "updated": "2025-08-13",
+        "updated": "2025-08-26",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-bristol-uk",
         "title": "OWASP Bristol",
@@ -8163,7 +8163,7 @@
         "name": "Saitama",
         "url": "https://owasp.org/www-chapter-saitama/",
         "created": "2021-03-22",
-        "updated": "2025-07-13",
+        "updated": "2025-08-26",
         "build": "built",
         "codeurl": "",
         "title": "OWASP Saitama",
@@ -8259,8 +8259,8 @@
         "name": "Seoul",
         "url": "https://owasp.org/www-chapter-seoul/",
         "created": "2019-09-12",
-        "updated": "2025-08-17",
-        "build": "built",
+        "updated": "2025-08-26",
+        "build": "errored",
         "codeurl": "",
         "title": "OWASP Seoul",
         "level": "-1",
