@@ -18,12 +18,7 @@
       #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:          
-    - name: OWASP New Zealand Day 2025
-      start-date: 2025-09-02
-      dates: September 2-5, 2025
-      url: https://appsec.org.nz/conference/
-      optional-text: OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the OWASP New Zealand Chapter and organised by AppSec New Zealand Incorporated. There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities    
+  events:            
     - name: OWASP AppSec Days Singapore 2025
       start-date: 2025-09-12
       dates: September 12-13, 2025
