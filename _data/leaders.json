@@ -3780,8 +3780,8 @@
         "group_url": "https://owasp.org/www-chapter-nairobi/"
     },
     {
-        "name": "Ilkin Javadov",
-        "email": "ilkincavadovweb@gmail.com",
+        "name": "Ilkin Javadov - Founder",
+        "email": "ilkin.javadov@owasp.org",
         "group": "OWASP Nakhchivan",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-nakhchivan/"
@@ -5794,6 +5794,20 @@
         "group": "OWASP Timisoara",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-timisoara/"
+    },
+    {
+        "name": "Kreshnik Rexha",
+        "email": "kreshnik.rexha@owasp.org",
+        "group": "OWASP Tirana",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-tirana/"
+    },
+    {
+        "name": "Mario Kazazi",
+        "email": "mario.kazazi@owasp.org",
+        "group": "OWASP Tirana",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-tirana/"
     },
     {
         "name": "Jaswanthravichandran",
@@ -7873,6 +7887,13 @@
         "group": "OWASP Kubernetes Top Ten",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-kubernetes-top-ten/"
+    },
+    {
+        "name": "Jesus Martinez",
+        "email": "jesuscmartinez@owasp.org",
+        "group": "OWASP Lets Threat Model",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-lets-threat-model/"
     },
     {
         "name": "Chetan Karande",
