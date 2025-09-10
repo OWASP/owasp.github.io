@@ -1603,13 +1603,6 @@
         "group_url": "https://owasp.org/www-chapter-dorset/"
     },
     {
-        "name": "Nigel Kay",
-        "email": "nigel.kay@owasp.org",
-        "group": "OWASP Dorset",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dorset/"
-    },
-    {
         "name": "Mike Warner",
         "email": "michael.warner@owasp.org",
         "group": "OWASP Dorset",
@@ -1617,8 +1610,22 @@
         "group_url": "https://owasp.org/www-chapter-dorset/"
     },
     {
-        "name": "Oliver Ide",
-        "email": "oliver.ide@owasp.org",
+        "name": "Arron Johnson",
+        "email": "arron.johnson@owasp.org",
+        "group": "OWASP Dorset",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dorset/"
+    },
+    {
+        "name": "Daryl Angel",
+        "email": "daryl.angel@owasp.org",
+        "group": "OWASP Dorset",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-dorset/"
+    },
+    {
+        "name": "Nigel Kay",
+        "email": "nigel.kay@owasp.org",
         "group": "OWASP Dorset",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dorset/"
@@ -4949,6 +4956,13 @@
         "group_url": "https://owasp.org/www-chapter-san-antonio/"
     },
     {
+        "name": "Can Vo",
+        "email": "can.vo@owasp.org",
+        "group": "OWASP San Antonio",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-san-antonio/"
+    },
+    {
         "name": "Joseph Gregorio",
         "email": "joseph.gregorio@owasp.org",
         "group": "OWASP San Antonio",
@@ -4965,13 +4979,6 @@
     {
         "name": "Chris Sellards",
         "email": "chris.sellards@owasp.org",
-        "group": "OWASP San Antonio",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-san-antonio/"
-    },
-    {
-        "name": "Xavier Jimenez",
-        "email": "xavier.jimenez@owasp.org",
         "group": "OWASP San Antonio",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-san-antonio/"
@@ -8106,7 +8113,7 @@
         "group_url": "https://owasp.org/www-project-nest/"
     },
     {
-        "name": "Kateryna Golovanova",
+        "name": "Kate Golovanova",
         "email": "kateryna.golovanova@owasp.org",
         "group": "OWASP Nest",
         "group-type": "project",
@@ -9063,6 +9070,13 @@
         "group": "OWASP Threat Modeling Playbook (OTMP)",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-modeling-playbook/"
+    },
+    {
+        "name": "Adrian Sroka",
+        "email": "adrian.sroka@owasp.org",
+        "group": "OWASP Threat Modelling Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modelling-guide/"
     },
     {
         "name": "Daniel Krivelevich",
