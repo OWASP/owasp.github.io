@@ -1715,6 +1715,13 @@
         "group_url": "https://owasp.org/www-chapter-edmonton/"
     },
     {
+        "name": "Masha Antoshkina",
+        "email": "masha.antoshkina@owasp.org",
+        "group": "OWASP Edmonton",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-edmonton/"
+    },
+    {
         "name": "Ahmed Shatnawi: Faculty Advisor",
         "email": "ahmed.shatnawi@owasp.org",
         "group": "OWASP Fahd Bin Sultan University Student Chapter",
@@ -2364,6 +2371,20 @@
         "group": "OWASP Indraprastha Institute of Information Technology - Student Chapter",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-indraprastha-institute-of-information-technology/"
+    },
+    {
+        "name": "Sven Schleier",
+        "email": "sven.schleier@owasp.org",
+        "group": "OWASP Innsbruck",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-innsbruck/"
+    },
+    {
+        "name": "Bettina Schleier",
+        "email": "bettina.schleier@owasp.org",
+        "group": "OWASP Innsbruck",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-innsbruck/"
     },
     {
         "name": "Nitin Raghavendra Gajjala",
@@ -7568,7 +7589,7 @@
     },
     {
         "name": "Steven Wierckx",
-        "email": "johan.sydseter@owasp.org",
+        "email": "steven.wierckx@owasp.org",
         "group": "OWASP Dungeons and Daemons",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-dungeons-and-daemons/"
@@ -7582,7 +7603,7 @@
     },
     {
         "name": "Sagar Bhure",
-        "email": "sagarbhureaerospace@gmail.com",
+        "email": "sagar.bhure@owasp.org",
         "group": "OWASP eBPFShield",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-ebpfshield/"
@@ -7757,7 +7778,7 @@
     },
     {
         "name": "Nick Lorenz",
-        "email": "tim.barsch@owasp.org",
+        "email": "nick.lorenz@owasp.org",
         "group": "OWASP Infrastructure Security Testing Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-infrastructure-security-testing-guide/"
