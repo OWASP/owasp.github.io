@@ -18,12 +18,7 @@
       #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:            
-    - name: OWASP AppSec Days Singapore 2025
-      start-date: 2025-09-12
-      dates: September 12-13, 2025
-      url: http://singapore.appsecdays.org/
-      optional-text: OWASP is excited to announce or second annual AppSec Days Singapore Conference complete with one day of training followed by one day of conference and expo.       
+  events:                  
     - name: OWASP AppSec Days France 2025
       start-date: 2025-09-23
       dates: September 23, 2025
