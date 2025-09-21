@@ -160,6 +160,22 @@
         "meetings": 0
     },
     {
+        "name": "Buenos Aires",
+        "url": "https://owasp.org/www-chapter-buenos-aires/",
+        "created": "2019-09-12",
+        "updated": "2025-09-20",
+        "build": "no pages",
+        "codeurl": "",
+        "title": "OWASP Buenos Aires",
+        "level": "-1",
+        "type": "",
+        "region": "South America",
+        "pitch": "More info soon...",
+        "meetup-group": "OWASP-Buenos-Aires",
+        "country": "Argentina",
+        "meetings": 0
+    },
+    {
         "name": "Cartagena",
         "url": "https://owasp.org/www-chapter-cartagena/",
         "created": "2019-09-12",
@@ -1661,7 +1677,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-New-York-City-Chapter",
         "country": "USA",
-        "meetings": 15
+        "meetings": 14
     },
     {
         "name": "Northern Virginia",
@@ -2272,6 +2288,22 @@
         "meetings": 0
     },
     {
+        "name": "Universidad Politecnica De Yucatan Student Chapter",
+        "url": "https://owasp.org/www-chapter-universidad-politecnica-de-yucatan-student-chapter/",
+        "created": "2025-07-12",
+        "updated": "2025-09-21",
+        "build": "built",
+        "codeurl": "",
+        "title": "OWASP Universidad Politecnica de Yucatan Student Chapter",
+        "level": "-1",
+        "type": "",
+        "region": "North America",
+        "pitch": "More info soon...",
+        "meetup-group": "owasp-universidad-politecnica-de-yucatan-student-chapter",
+        "country": "Mexico",
+        "meetings": 0
+    },
+    {
         "name": "University Of Guelph",
         "url": "https://owasp.org/www-chapter-university-of-guelph/",
         "created": "2025-05-01",
@@ -2749,22 +2781,6 @@
         "pitch": "More info soon...",
         "meetup-group": "",
         "country": "",
-        "meetings": 0
-    },
-    {
-        "name": "Buenos Aires",
-        "url": "https://owasp.org/www-chapter-buenos-aires/",
-        "created": "2019-09-12",
-        "updated": "2025-09-19",
-        "build": "no pages",
-        "codeurl": "",
-        "title": "OWASP Buenos Aires",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "OWASP-Buenos-Aires",
-        "country": "Argentina",
         "meetings": 0
     },
     {
@@ -4304,22 +4320,6 @@
         "meetings": 0
     },
     {
-        "name": "Universidad Politecnica De Yucatan Student Chapter",
-        "url": "https://owasp.org/www-chapter-universidad-politecnica-de-yucatan-student-chapter/",
-        "created": "2025-07-12",
-        "updated": "2025-09-10",
-        "build": "built",
-        "codeurl": "",
-        "title": "OWASP Universidad Politecnica de Yucatan Student Chapter",
-        "level": "-1",
-        "type": "",
-        "region": "Needs Website Update",
-        "pitch": "More info soon...",
-        "meetup-group": "",
-        "country": "Mexico",
-        "meetings": 0
-    },
-    {
         "name": "Uttaranchal School Of Computing Sciences",
         "url": "https://owasp.org/www-chapter-uttaranchal-school-of-computing-sciences/",
         "created": "2022-09-22",
@@ -4925,7 +4925,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-gothenburg-meetup-group",
         "country": "Sweden",
-        "meetings": 4
+        "meetings": 5
     },
     {
         "name": "Greece",
@@ -5011,7 +5011,7 @@
         "name": "Innsbruck",
         "url": "https://owasp.org/www-chapter-innsbruck/",
         "created": "2025-09-12",
-        "updated": "2025-09-16",
+        "updated": "2025-09-20",
         "build": "built",
         "codeurl": "https://github.com/OWASP/www-chapter-innsbruck",
         "title": "OWASP Innsbruck",
@@ -5645,7 +5645,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-stockholm",
         "country": "Sweden",
-        "meetings": 11
+        "meetings": 10
     },
     {
         "name": "Stuttgart",
@@ -6205,7 +6205,7 @@
         "pitch": "More info soon...",
         "meetup-group": "owasp-bangalore-chapter",
         "country": "India",
-        "meetings": 10
+        "meetings": 9
     },
     {
         "name": "Bangkok",
@@ -7117,7 +7117,7 @@
         "pitch": "More info soon...",
         "meetup-group": "OWASP-Jakarta-Chapter",
         "country": "Indonesia",
-        "meetings": 3
+        "meetings": 4
     },
     {
         "name": "Jalpaiguri Government Engineering College",
