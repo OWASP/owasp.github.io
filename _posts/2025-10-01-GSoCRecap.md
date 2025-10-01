@@ -3,7 +3,7 @@
 date: 2025-10-01 00:00:00-0700
 categories: blog
 author: Fabio Cerullo & Starr Brown
-author_image:
+author_image: /assets/images/people/staff-starr-brown.jpeg
 layout: blogpost
 title: GSoC 2025 Recap
 excerpt_separator: <!--more-->
