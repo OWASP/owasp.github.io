@@ -798,22 +798,15 @@
         "group_url": "https://owasp.org/www-chapter-brasilia/"
     },
     {
-        "name": "Glyn Geoghegan",
-        "email": "glyng@owasp.org",
-        "group": "OWASP Brisbane",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brisbane/"
-    },
-    {
-        "name": "Dale Hewitson",
-        "email": "dale.hewitson@owasp.org",
-        "group": "OWASP Brisbane",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-brisbane/"
-    },
-    {
         "name": "Wade Alcorn",
         "email": "wade.alcorn@owasp.org",
+        "group": "OWASP Brisbane",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-brisbane/"
+    },
+    {
+        "name": "Glyn Geoghegan",
+        "email": "glyng@owasp.org",
         "group": "OWASP Brisbane",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-brisbane/"
@@ -7826,15 +7819,15 @@
         "group_url": "https://owasp.org/www-project-gamesec-framework/"
     },
     {
-        "name": "* Anjali Shukla",
-        "email": "* [anjali.shukla@owasp.org|anjali.shukla@owasp.org]",
+        "name": "Anjali Shukla",
+        "email": "[anjali.shukla@owasp.org]",
         "group": "OWASP GKE Goat",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-gke-goat/"
     },
     {
-        "name": "* Divyanshu Shukla",
-        "email": "* [anjali.shukla@owasp.org|anjali.shukla@owasp.org]",
+        "name": "Divyanshu Shukla",
+        "email": "[anjali.shukla@owasp.org]",
         "group": "OWASP GKE Goat",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-gke-goat/"
@@ -8513,14 +8506,14 @@
     },
     {
         "name": "Anurag Mishra",
-        "email": "[anurag.mishra@owasp.org|anurag.mishra@owasp.org]",
+        "email": "[anurag.mishra@owasp.org]",
         "group": "OWASP Payment Security Testing Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-payment-security-testing-guide/"
     },
     {
         "name": "Ravi Mishra",
-        "email": "[ravi.mishra@owasp.org|ravi.mishra@owasp.org]",
+        "email": "[ravi.mishra@owasp.org]",
         "group": "OWASP Payment Security Testing Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-payment-security-testing-guide/"
