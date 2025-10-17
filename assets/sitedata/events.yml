@@ -18,12 +18,7 @@
       #optional-text:  
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:                      
-    - name: OWASP AppSec Days Bangalore 2025
-      start-date: 2025-10-18
-      dates: October 18, 2025
-      url: https://bangalore.appsecdays.org/
-      optional-text: OWASP AppSec Days Bangalore is designed for all infosec professionals. Join us for a full day of conference talks and exhibitions.    
+  events:                        
     - name: OWASP 2025 LASCON
       start-date: 2025-10-21
       dates: October 21-24, 2025
