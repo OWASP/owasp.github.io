@@ -2128,20 +2128,6 @@
         "group_url": "https://owasp.org/www-chapter-helsinki/"
     },
     {
-        "name": "Petteri Arola",
-        "email": "petteri.arola@owasp.org",
-        "group": "OWASP Helsinki",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-helsinki/"
-    },
-    {
-        "name": "Timo Meriläinen",
-        "email": "timo@owasp.org",
-        "group": "OWASP Helsinki",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-helsinki/"
-    },
-    {
         "name": "Lasse Korvala",
         "email": "lasse.korvala@owasp.org",
         "group": "OWASP Helsinki",
@@ -9310,6 +9296,13 @@
         "group_url": "https://owasp.org/www-project-threat-dragon/"
     },
     {
+        "name": "Matt Coles",
+        "email": "matthew.coles@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-model/"
+    },
+    {
         "name": "Avi Douglen",
         "email": "avi.douglen@owasp.org",
         "group": "OWASP Threat Modeling Project",
@@ -9317,8 +9310,22 @@
         "group_url": "https://owasp.org/www-project-threat-model/"
     },
     {
-        "name": "Steven Wierckx",
-        "email": "steven.wierckx@owasp.org",
+        "name": "Jon Gadsden",
+        "email": "jon.gadsden@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-model/"
+    },
+    {
+        "name": "Brook Schoenfield",
+        "email": "brook.schoenfield@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-model/"
+    },
+    {
+        "name": "Adam Shostack",
+        "email": "adam.shostack@owasp.org",
         "group": "OWASP Threat Modeling Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-model/"
