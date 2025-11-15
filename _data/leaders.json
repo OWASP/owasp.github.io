@@ -6251,6 +6251,13 @@
         "group_url": "https://owasp.org/www-chapter-vienna/"
     },
     {
+        "name": "Mathias Tausig",
+        "email": "mathias.tausig@owasp.org",
+        "group": "OWASP Vienna",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-vienna/"
+    },
+    {
         "name": "Dominykas Seikis",
         "email": "dominykas.seikis@owasp.org",
         "group": "OWASP Vilnius",
@@ -9310,13 +9317,6 @@
         "group_url": "https://owasp.org/www-project-threat-model/"
     },
     {
-        "name": "Jon Gadsden",
-        "email": "jon.gadsden@owasp.org",
-        "group": "OWASP Threat Modeling Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-model/"
-    },
-    {
         "name": "Brook Schoenfield",
         "email": "brook.schoenfield@owasp.org",
         "group": "OWASP Threat Modeling Project",
@@ -9326,6 +9326,13 @@
     {
         "name": "Adam Shostack",
         "email": "adam.shostack@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-model/"
+    },
+    {
+        "name": "John Taylor",
+        "email": "john.taylor@owasp.org",
         "group": "OWASP Threat Modeling Project",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-model/"
