@@ -1,12 +1,7 @@
 - category: Global
   description: Our premier events bring together our multifaceted communities to engage in various education events, trainings, and entertainment-based gatherings to enhance your skills, increase your connections, and balance your daily AppSec world.
   events:
-    - name: OWASP Global AppSec USA 2025 - Washington, DC
-      start-date: 2025-11-03
-      dates: November 3-7, 2025
-      url: https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/
-      #optional-text: 
-    - name: OWASP Global AppSec EU 2026 - Vienna
+    - name: OWASP Global AppSec EU 2026 - Vienna, Austria
       start-date: 2026-06-22
       dates: June 22-26, 2026
       #url:
@@ -16,6 +11,21 @@
       dates: November 2-6, 2026
       #url:
       #optional-text:  
+    - name: OWASP Global AppSec EU 2027 - Vienna, Austria
+      start-date: 2027-06-21
+      dates: June 21-25, 2027
+      #url:
+      #optional-text:      
+    - name: OWASP Global AppSec USA 2027 - Atlanta, GA
+      start-date: 2026-09-17
+      dates: September 17-25, 2027
+      #url:
+      #optional-text:  
+    - name: OWASP Global AppSec EU 2028 - Vienna, Austria
+      start-date: 2028-06-19
+      dates: June 19-23, 2028
+      #url:
+      #optional-text:   
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:                          
@@ -34,6 +44,16 @@
       dates: December 2-3, 2025
       url: https://www.owaspbenelux.eu/
       optional-text: What Happens at a OWASP BeNeLux Days Conference? Never been to an OWASP BeNeLux Days Conference? Here’s a bit of info to provide some background. Technical talks by experts in security, devops, and cloud - Training sessions for hands on learning in top security areas - Keynotes from industry leaders - Vendor booths to promote the latest advances in security technology - A variety of other activities such as capture the flag, security tool training, and more
+    - name: OWASP BASC 2026
+      start-date: 2026-04-11
+      dates: April 11, 2026
+      url: https://basconf.org/
+      optional-text: BASC is an annual conference held by the Boston chapter of the Open Web Application Security Project, OWASP, that includes presenters and workshops focused on current trends in application security.
+    - name: OWASP AppSec Italy Day 2026
+      start-date: 2026-06-17
+      dates: June 17-18, 2026
+      url: https://owasp.org/www-chapter-italy/events/OWASPItalyDay2026-06-18
+      optional-text: OWASP Italy Day 2026 will take place on June 18th, 2026, in Cagliari, Sardinia Italy — returning to one of the most inspiring locations for cybersecurity innovation and collaboration. This will be a free, one-day, in-person event focused on application security, AI security, DevSecOps, and secure software development, bringing together researchers, professionals, and students to exchange ideas, share experiences, and strengthen the AppSec community. The main conference will start on June 18th at 3:30 PM, following a day of training sessions and workshops on June 17th   
     - name: OWASP LASCON 2026
       start-date: 2026-10-27
       dates: October 27-30, 2026
