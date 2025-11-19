@@ -154,29 +154,22 @@
         "group_url": "https://owasp.org/www-chapter-ankara/"
     },
     {
+        "name": "Ekin Gurel",
+        "email": "* [ekin gurel",
+        "group": "OWASP Ankara",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-ankara/"
+    },
+    {
         "name": "Aleyna Kiziltas",
-        "email": "aleyna.kiziltas@owasp.org",
+        "email": "* [aleyna kiziltas",
         "group": "OWASP Ankara",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-ankara/"
     },
     {
-        "name": "Beyza Erturk",
-        "email": "beyza.erturk@owasp.org",
-        "group": "OWASP Ankara",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-ankara/"
-    },
-    {
-        "name": "Murat Demirci",
-        "email": "murat.demirci@owasp.org",
-        "group": "OWASP Ankara",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-ankara/"
-    },
-    {
-        "name": "Ahmet Salih Seckin",
-        "email": "ahmet.seckin@owasp.org",
+        "name": "Melih Uzun",
+        "email": "* [melih uzun",
         "group": "OWASP Ankara",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-ankara/"
@@ -1694,13 +1687,6 @@
         "group_url": "https://owasp.org/www-chapter-edmonton/"
     },
     {
-        "name": "Brad Ballard",
-        "email": "brad.ballard@owasp.org",
-        "group": "OWASP Edmonton",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-edmonton/"
-    },
-    {
         "name": "Dema Gorkun",
         "email": "dema.gorkun@owasp.org",
         "group": "OWASP Edmonton",
@@ -2256,34 +2242,6 @@
     {
         "name": "Dr. Lavanya Settipalli",
         "email": "lavanya.settipalli@owasp.org",
-        "group": "OWASP Indian Institute of Information Technology Kottayam",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-indian-institute-of-information-technology-kottayam/"
-    },
-    {
-        "name": "Shravasti Ohol",
-        "email": "shravasti.ohol@owasp.org",
-        "group": "OWASP Indian Institute of Information Technology Kottayam",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-indian-institute-of-information-technology-kottayam/"
-    },
-    {
-        "name": "Purandhar Reddy Madduri",
-        "email": "purandhar.madduri@owasp.org",
-        "group": "OWASP Indian Institute of Information Technology Kottayam",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-indian-institute-of-information-technology-kottayam/"
-    },
-    {
-        "name": "Kaustubh Bhalerao",
-        "email": "kaustubh.bhalerao@owasp.org",
-        "group": "OWASP Indian Institute of Information Technology Kottayam",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-indian-institute-of-information-technology-kottayam/"
-    },
-    {
-        "name": "Vedanta SP",
-        "email": "vedanta.p@owasp.org",
         "group": "OWASP Indian Institute of Information Technology Kottayam",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-indian-institute-of-information-technology-kottayam/"
@@ -9303,41 +9261,6 @@
         "group_url": "https://owasp.org/www-project-threat-dragon/"
     },
     {
-        "name": "Matt Coles",
-        "email": "matthew.coles@owasp.org",
-        "group": "OWASP Threat Modeling Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-model/"
-    },
-    {
-        "name": "Avi Douglen",
-        "email": "avi.douglen@owasp.org",
-        "group": "OWASP Threat Modeling Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-model/"
-    },
-    {
-        "name": "Brook Schoenfield",
-        "email": "brook.schoenfield@owasp.org",
-        "group": "OWASP Threat Modeling Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-model/"
-    },
-    {
-        "name": "Adam Shostack",
-        "email": "adam.shostack@owasp.org",
-        "group": "OWASP Threat Modeling Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-model/"
-    },
-    {
-        "name": "John Taylor",
-        "email": "john.taylor@owasp.org",
-        "group": "OWASP Threat Modeling Project",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-threat-model/"
-    },
-    {
         "name": "Petra Vukmirovic",
         "email": "petra.vukmirovic@owasp.org",
         "group": "OWASP Threat Model Library",
@@ -9350,6 +9273,41 @@
         "group": "OWASP Threat Model Library",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-threat-model-library/"
+    },
+    {
+        "name": "Matt Coles",
+        "email": "matthew.coles@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modeling/"
+    },
+    {
+        "name": "Avi Douglen",
+        "email": "avi.douglen@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modeling/"
+    },
+    {
+        "name": "Brook Schoenfield",
+        "email": "brook.schoenfield@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modeling/"
+    },
+    {
+        "name": "Adam Shostack",
+        "email": "adam.shostack@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modeling/"
+    },
+    {
+        "name": "John Taylor",
+        "email": "john.taylor@owasp.org",
+        "group": "OWASP Threat Modeling Project",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-threat-modeling/"
     },
     {
         "name": "Sebastien Deleersnyder",
