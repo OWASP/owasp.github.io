@@ -1,6 +1,6 @@
 ---
 
-date: 2024-11-19 00:07:00-0500
+date: 2024-11-19 00:00:00-0500
 categories: blog
 author: Andrew van der Stock
 author_image: /assets/images/people/staff_andrew.jpg
