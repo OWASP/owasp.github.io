@@ -46,6 +46,6 @@ training, and works closely with the events team on event offerings, and the Pro
 
 [Full Job Description Here](/assets/files/Director%20of%20Corporate%20Relations%20Job%20Description%202025.pdf)
 
-Please [apply (no recruiters please) directly](mailto: Andrew.vanderstock@owasp.com?subject=DirCorpRelations) with your resume, and a cover letter describing why you'd be a good fit for the role. Applications close July 21, 2025.
+Please [apply (no recruiters please) directly](https://www.linkedin.com/jobs/view/4341824494/). Applications close December 5, 2025.
 
 Please follow the [OWASP Foundation Careers at Linked In](https://www.linkedin.com/company/owasp/jobs/){:rel="noopener" target="_blank"} to be notified about future careers. 
