@@ -6006,6 +6006,13 @@
         "group_url": "https://owasp.org/www-chapter-triangle-nc/"
     },
     {
+        "name": "Navneet Keshav",
+        "email": "navneet.keshav@owasp.org",
+        "group": "OWASP Triangle-NC",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-triangle-nc/"
+    },
+    {
         "name": "Nihel Ben Youssef",
         "email": "nihel.benyoussef@owasp.org",
         "group": "OWASP Tunisia",
@@ -6664,6 +6671,13 @@
         "group_url": "https://owasp.org/www-project-ai-maturity-assessment/"
     },
     {
+        "name": "Krishanu Dhar",
+        "email": "krish.dhar@owasp.org",
+        "group": "OWASP AI Model Watermarking",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-ai-model-watermarking/"
+    },
+    {
         "name": "Rob van der Veer",
         "email": "rob.vanderveer@owasp.org",
         "group": "OWASP AI Exchange",
@@ -6701,7 +6715,7 @@
     {
         "name": "Aruneesh Salhotra",
         "email": "aruneesh.salhotra@owasp.org",
-        "group": "OWASP-AIBOM",
+        "group": "www-project-aibom",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-aibom/"
     },
@@ -7138,6 +7152,34 @@
         "group": "OWASP Cheat Sheet Series",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-cheat-sheets/"
+    },
+    {
+        "name": "Kayla Underkoffler",
+        "email": "kayla.underkoffler@owasp.org",
+        "group": "OWASP Citizen Development Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-citizen-development-top10-security-risks/"
+    },
+    {
+        "name": "Shauna Rathbun",
+        "email": "shauna.rathbun@owasp.org",
+        "group": "OWASP Citizen Development Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-citizen-development-top10-security-risks/"
+    },
+    {
+        "name": "Ziv Hagbi",
+        "email": "zivh@zenity.io",
+        "group": "OWASP Citizen Development Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-citizen-development-top10-security-risks/"
+    },
+    {
+        "name": "Ory Segal",
+        "email": "ory.segal@owasp.org",
+        "group": "OWASP Citizen Development Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-citizen-development-top10-security-risks/"
     },
     {
         "name": "Ory Segal",
@@ -9420,27 +9462,6 @@
         "group": "OWASP Top 10 Infrastructure Security Risks",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-top-10-infrastructure-security-risks/"
-    },
-    {
-        "name": "Kayla Underkoffler",
-        "email": "kayla.underkoffler@owasp.org",
-        "group": "OWASP Low-Code/No-Code Top 10",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
-    },
-    {
-        "name": "Ziv Hagbi",
-        "email": "zivh@zenity.io",
-        "group": "OWASP Low-Code/No-Code Top 10",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
-    },
-    {
-        "name": "Ory Segal",
-        "email": "ory.segal@owasp.org",
-        "group": "OWASP Low-Code/No-Code Top 10",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-top-10-low-code-no-code-security-risks/"
     },
     {
         "name": "Florian Stahl",
