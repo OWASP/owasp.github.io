@@ -29,11 +29,6 @@
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
   events:                          
-    - name: OWASP AppSec Days Uruguay 2025
-      start-date: 2025-11-19
-      dates: November 19-20, 2025
-      url: https://owasp-uruguay.github.io/
-      optional-text: OWASP AppSec Days Uruguay is designed for infosec professionals from the public and private sectors. This two-day event will equip developers, advocates, and advocates to build a more secure web. This is a regional OWASP conference to be held in Montevideo, Uruguay on November 19th and 20th, 2025. The conference will include one day of training sessions taught by Latin American and international professionals and one day of conference talks devoted to the most advanced techniques and topics in software security.
     - name: German OWASP Day 2025
       start-date: 2025-11-25
       dates: November 25-26, 2025
@@ -43,7 +38,12 @@
       start-date: 2025-12-02
       dates: December 2-3, 2025
       url: https://www.owaspbenelux.eu/
-      optional-text: What Happens at a OWASP BeNeLux Days Conference? Never been to an OWASP BeNeLux Days Conference? Here’s a bit of info to provide some background. Technical talks by experts in security, devops, and cloud - Training sessions for hands on learning in top security areas - Keynotes from industry leaders - Vendor booths to promote the latest advances in security technology - A variety of other activities such as capture the flag, security tool training, and more
+      optional-text: What Happens at a OWASP BeNeLux Days Conference? Never been to an OWASP BeNeLux Days Conference? Here’s a bit of info to provide some background. Technical talks by experts in security, devops, and cloud - Training sessions for hands on learning in top security areas - Keynotes from industry leaders - Vendor booths to promote the latest advances in security technology - A variety of other activities such as capture the flag, security tool training, and more.    
+    - name: OWASP London Training Days 2026
+      start-date: 2026-02-25
+      dates: February 25-27, 2026
+      url: https://owasp.glueup.com/event/london-owasp-training-days-2026-162538/
+      optional-text: Kick off the New Year with engaging OWASP Training Courses and level up on your education. Choose from a variety of training courses aimed at your particular area of interest, we have something for everyone! Join top notch OWASP Trainers for 1-day, 2-days, or 3-days of hands-on training February 25-27, 2025 at Kings College.    
     - name: OWASP BASC 2026
       start-date: 2026-04-11
       dates: April 11, 2026
