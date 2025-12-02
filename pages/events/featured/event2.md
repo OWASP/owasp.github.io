@@ -1,7 +1,14 @@
-[![OWASP AppSec Days France 2025](/assets/images/events/2025-appsec-france-header.png){:width="100%" height="auto"}](https://www.owaspappsecdays.fr/2025/#page-top)
+<a href="https://www.youtube.com/watch?v=LKZTppmAS84"><img src="/assets/images/content/blood-drive-donate.png" alt="Donate Blood" /></a>
+<br/>
+<p>Sherif Mansour, OWASP's 2021 Chair of the Global Board of Directors, was recently diagnosed with leukemia and is urging everyone to donate blood to help those in need. Learn more by watching the video, and consider making a blood donation today. 🌍 Global Resources</p>
 
-## Come to Paris for OWASP AppSec Days France 2025!
+<li>World Health Organization – <a href="https://www.who.int/campaigns/world-blood-donor-day">Blood Services Directory</a></li>
+<li>IFRC – <a href="https://www.ifrc.org/national-societies">Find a Red Cross/Red Crescent</a></li>
+<li>🇺🇸 USA – <a href="https://www.aabb.org/">American Red Cross | AABB Blood Bank Locator</a></li>
+<li>🇬🇧 UK – <a href="https://www.blood.co.uk/">NHS Blood Donation</a></li>
+<li>🇨🇦 Canada – <a href="https://www.blood.ca/">Canadian Blood Services</a></li>
+<li>🇦🇺 Australia – <a href="https://www.lifeblood.com.au/">Australian Red Cross Lifeblood</a></li>
+<li>🇮🇳 India – <a href="https://www.nbtcindia.nic.in/">National Blood Transfusion Council</a></li>
+<li>🇪🇺 EU-wide – <a href="https://www.europeanbloodalliance.eu/">European Blood Alliance</a></li>
 
-OWASP AppSec Days France 2025 is the first OWASP local conference held in Paris, France. It will be held on Tuesday, September 23, 2025. It will be a conference with presentations from speakers and renowned European experts. We hope to welcome more than 150 security professionals for this day that promises to be full of opportunities.
-
-[More details](https://www.owaspappsecdays.fr/2025/#page-top)
+<p>Or search for "donate blood" in your search engine to find out more.</p>
