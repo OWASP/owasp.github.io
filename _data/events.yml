@@ -28,13 +28,8 @@
       #optional-text:   
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:                             
-    - name: OWASP BeNeLux 2025
-      start-date: 2025-12-02
-      dates: December 2-3, 2025
-      url: https://www.owaspbenelux.eu/
-      optional-text: What Happens at a OWASP BeNeLux Days Conference? Never been to an OWASP BeNeLux Days Conference? Here’s a bit of info to provide some background. Technical talks by experts in security, devops, and cloud - Training sessions for hands on learning in top security areas - Keynotes from industry leaders - Vendor booths to promote the latest advances in security technology - A variety of other activities such as capture the flag, security tool training, and more.    
-     - name: So You Want to be an OWASP Speaker - Virtual Webinar
+  events:                                 
+    - name: So You Want to be an OWASP Speaker Virtual Webinar
       start-date: 2026-01-14
       dates: January 14, 2026
       url: https://owasp.glueup.com/event/so-you-want-to-be-an-owasp-speaker-virtual-event-163522/
