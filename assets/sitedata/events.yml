@@ -28,12 +28,7 @@
       #optional-text:   
 - category: AppSec Days
   description: Ranging from a single day to week-long events, local OWASP volunteers organize and host conferences around the world. 
-  events:                          
-    - name: German OWASP Day 2025
-      start-date: 2025-11-25
-      dates: November 25-26, 2025
-      url: https://god.owasp.de/2025/index.html
-      optional-text: The German OWASP Day 2025 is a security conference focused on expert talks covering secure development, operations, testing, and organizational aspects related to web-based applications.    
+  events:                             
     - name: OWASP BeNeLux 2025
       start-date: 2025-12-02
       dates: December 2-3, 2025
