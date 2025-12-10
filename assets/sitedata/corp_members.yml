@@ -9,6 +9,14 @@
 # job_url: company job website 
 # description: description of the company
 - member: true	
+  sponsor: -1	
+  name: Approov	
+  sortname: Approov
+  membertype: 4
+  image: /assets/images/corp-member-logo/approovlogo.png	
+  url: 	http://www.approov.io/	
+  description: Approov is the world leader in mobile security. As cybercriminals adopt AI tools and a mobile-first attack strategy, Approov helps organizations stay ahead of threats with runtime, zero-trust protection of both the mobile apps that run your business and all the APIs they use. Approov secures the world’s most targeted mobile apps and APIs with patented app attestation and runtime API protection. Our cloud-first approach ensures only your genuine mobile app, running on a safe device, can access your backends—stopping fake and repackaged apps, emulators, bots, and man-in-the-middle attacks.
+- member: true	
   sponsor: 4	
   name: NowSecure	
   sortname: NowSecure
