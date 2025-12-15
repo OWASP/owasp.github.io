@@ -37,8 +37,9 @@ As a US-based 501(c)3 registered non-profit charity, donations to the OWASP Foun
 
 ## Tax Returns (Form 990)
 
-The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December. We post our 990 as soon as we can each year.
+The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fiscal year runs January through December.
 
+- [2024](/assets/financial-taxreturns/2024_Form_990.pdf){:target='_blank'}
 - [2023](/assets/financial-taxreturns/2023_Form_990.pdf){:target='_blank'}
 - [2022](/assets/financial-taxreturns/2022_Form_990.pdf){:target='_blank'}
 - [2021](/assets/financial-taxreturns/2021_Form_990.pdf){:target='_blank'}
@@ -59,8 +60,10 @@ The OWASP Foundation is a registered 501(c)(3) non-profit organization. Our fisc
 
 ## Audited Financial Statements
 
-The OWASP Foundation has an external audit of our financials every year, starting with the 2022 financial year. The next audit year is 2023.
+The OWASP Foundation has an external audit of our financials every year, starting with the 2022 financial year.
 
+- [2024](/assets/financial-audits/OWASP_Audit_Report_2024.pdf){:target='_blank'}
+- [2023](/assets/financial-audits/OWASP_Audit_Report_2023.pdf){:target='_blank'}
 - [2022](/assets/financial-audits/OWASP_Audit_Report_2022.pdf){:target='_blank'}
 - [2019](/assets/financial-audits/OWASP_Audit_Report_2019.pdf){:target='_blank'}
 - [2016](/assets/financial-audits/OWASP_Audit_Report_2016.pdf){:target='_blank'}
