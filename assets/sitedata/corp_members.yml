@@ -10,6 +10,14 @@
 # description: description of the company
 - member: true	
   sponsor: -1	
+  name: Trent AI	
+  sortname: trentai
+  membertype: 4
+  image: /assets/images/corp-member-logo/trent-ai-logo.png	
+  url: 	https://trent.ai	
+  description: Trent AI. Securing Your Agentic Software. We make every software product secure and compliant by design delivering invisible, automatic security for the AI age, empowering teams to innovate freely.
+- member: true	
+  sponsor: -1	
   name: Approov	
   sortname: Approov
   membertype: 4
@@ -129,7 +137,7 @@
 - member: true
   sponsor: -1
   name: mindsetters OG
-  sortname: mindsetters OG
+  sortname: mindsetters
   membertype: 4
   image: /assets/images/corp-member-logo/mindsetters_logo_transparent_web_owasp.png
   url: 	http://www.mindsetters.com
@@ -215,7 +223,7 @@
 - member: true
   sponsor: 4
   name: eShard
-  sortname: eShard
+  sortname: eshard
   membertype: 4
   image: /assets/images/corp-member-logo/eShard_Logo.png
   url: https://eshard.com/eschecker
@@ -666,7 +674,7 @@
   url: https://zelvin.com
   job_url:
   description: >-
-    Zelvin Security is a penetration testing and proactive cyber security consulting company. Our primary vision is to help businesses protect themselves from malicious hackers. We perform network, mobile, and application penetration tests against large and small businesses throughout the United States with the goal of reducing cyber risks and making it more difficult for cybercriminals to carry out their cyber-attacks.
+    Zelvin Security is a penetration testing and proactive cybersecurity consulting firm that helps organizations protect their applications, infrastructure, and data from real-world threats. Our team specializes in manual application security testing, including Web Application Penetration Testing, LLM Security Testing, API Security Assessments, and Source Code Review, while also delivering comprehensive internal and external network penetration testing to evaluate risk across the full environment. These engagements align with OWASP best practices and other widely recognized industry and regulatory standards, enabling organizations to identify vulnerabilities early, improve resilience, and reduce the likelihood of successful attacks. We work closely with technology and security teams throughout the United States to validate risk, provide clear remediation guidance, and strengthen security programs with confidence.
 - member: true
   sponosr: -1
   name: Adobe
