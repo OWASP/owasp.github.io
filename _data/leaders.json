@@ -1883,8 +1883,15 @@
         "group_url": "https://owasp.org/www-chapter-germany/"
     },
     {
-        "name": "Bastian Braun",
-        "email": "bastian.braun@owasp.org",
+        "name": "Jasmin Mair",
+        "email": "jasmin.mair@owasp.org",
+        "group": "OWASP Germany",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-germany/"
+    },
+    {
+        "name": "Dirk Wetter",
+        "email": "dirk@owasp.org",
         "group": "OWASP Germany",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-germany/"
@@ -1899,13 +1906,6 @@
     {
         "name": "Jan Wolff",
         "email": "jan.wolff@owasp.org",
-        "group": "OWASP Germany",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-germany/"
-    },
-    {
-        "name": "Dirk Wetter",
-        "email": "dirk@owasp.org",
         "group": "OWASP Germany",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-germany/"
@@ -9861,6 +9861,27 @@
         "group": "OWASP Web Security Testing Guide",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-web-security-testing-guide/"
+    },
+    {
+        "name": "Chidubem Chukwu ",
+        "email": "[chidubem.chukwu@owasp.org|chidubem.chukwu@owasp.org]",
+        "group": "OWASP Web3 Wallet Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-web3-wallet-security/"
+    },
+    {
+        "name": "",
+        "email": "[chidubem.chukwu@owasp.org|chidubem.chukwu@owasp.org]",
+        "group": "OWASP Web3 Wallet Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-web3-wallet-security/"
+    },
+    {
+        "name": "Bryan Ndum ",
+        "email": "[chidubem.chukwu@owasp.org|chidubem.chukwu@owasp.org]",
+        "group": "OWASP Web3 Wallet Security",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-web3-wallet-security/"
     },
     {
         "name": "Nanne Baars",
