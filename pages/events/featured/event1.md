@@ -3,6 +3,6 @@
 
 ## Are you an OWASP Member?
 
-The 2025 Elections are around the corner! Do you want a say in how OWASP is run? Please join or renew your membership today!
+Join or renew your OWASP Membership today to continue supporting our mission of making software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks. Lifetime Membership is due to increase on January 1, 2027, so act now to lock in the current rate!
 
 [More details](https://owasp.org/blog/2025/09/03/owasp-membership-drive.html)
