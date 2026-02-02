@@ -516,9 +516,19 @@
     - name: Rick Mitchell
       image: /assets/images/people/Rick_Mitchell.jpg
       info:   
-    - name: Jim 
-      image: /assets/images/people/leader_.jpg
-      info:
+    - name: Jim Manico 
+      image: /assets/images/people/people/jim_manico.jpeg
+      info: >-
+        Jim Manico has been deeply involved in the OWASP community for more than two decades, beginning his volunteer journey in 2003. Over the years he has taken on a wide range of leadership and hands-on roles.
+        <br>
+        <br>- Global Governance. Elected to OWASP’s Global Board of Directors (2011 – 2014), where he helped shape the foundation’s strategic direction, fundraising model, and community-driven governance.
+        <br>- OWASP Cheat Sheet Series (2009 – present) - Co-founder and long-time project manager, coordinating dozens of security cheat sheets that distill complex topics into actionable, developer-friendly guidance.
+        <br>- OWASP Application Security Verification Standard (ASVS) & Artificial Intelligence Security Verification Standard (AISVS) - Core contributor and project manager, ensuring that both standards remain technically rigorous, developer-centric, and mapped to modern threat landscapes.
+        <br>- Regular contributor to other flagship initiatives, including the OWASP Top Ten and Proactive Controls.
+        <br>- Community Building & Education. A frequent keynote speaker and trainer at AppSec USA, AppSec EU, and dozens of local OWASP chapters, Jim has delivered hundreds of secure-coding workshops worldwide, championing open knowledge and evidence-based practices.
+        <br>- Recognition. Honored with OWASP’s Lifetime Achievement Award (2023) for sustained, high-impact service—a testament to his belief in the foundation’s mission of “making software security visible, so that individuals and organizations can make informed decisions.
+        <br>
+        <br>A true believer in OWASP’s open, vendor-neutral ethos, Jim remains an active contributor, mentor, and evangelist—continuing to advance the state of software security through community-driven standards, education, and tooling.
 - title: OWASP Distinguished Lifetime Award
   type: award
   category: Distinguished Lifetime
