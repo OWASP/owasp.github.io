@@ -1,9 +1,7 @@
-[![BASC 2026 CFT/CFP](/assets/images/events/2026/basc2026.jpeg){:width="100%" height="auto"}](https://basconf.org/)
+[![7A Security Interview](/assets/images/content/interview-abh7as3.png){:width="100%" height="auto"}](https://youtu.be/hEHGLUFtWN0)
 
-Application Security practitioners, software engineers, and researchers from all over the world gather at OWASP’s BASC conferences to discover, present and discuss the latest developments in software security, collaborate with their peers, and share the newest innovations in the field.
+## 7A Security Platinum Corporate Supporter
 
-The conference will take place on April 11, 2026 in Boston, MA The event will also offer hands-on training with vetted and leading trainers on the same day.
+In this wide-ranging interview with Abraham Aranguren, Managing Director of 7A Security, who is an OWASP Platinum Corporate Supporter. We go over 7A Security's community resources available to all security researchers, their contributions to the OWASP OWTF project, and many other topics.
 
-The OWASP BASC Team is formally issuing a call for presentations, opening Nov 1st, 2025, and closing Jan 11th, 2026, at 11:59 EST. 
-
-[Submit your talk today!](https://sessionize.com/owasp-basc-2026)
+More details, including how 7A Security's audit process works can be found in the [video](https://youtu.be/hEHGLUFtWN0)
