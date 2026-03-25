@@ -1197,27 +1197,6 @@
         "group_url": "https://owasp.org/www-chapter-cleveland/"
     },
     {
-        "name": "Avinash R",
-        "email": "avinash.ravi@owasp.org",
-        "group": "OWASP Coimbatore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-coimbatore/"
-    },
-    {
-        "name": "Subash Jaganathan",
-        "email": "subash.jaganathan@owasp.org",
-        "group": "OWASP Coimbatore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-coimbatore/"
-    },
-    {
-        "name": "Rohit Saravanan",
-        "email": "rohit.saravanan@owasp.org",
-        "group": "OWASP Coimbatore",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-coimbatore/"
-    },
-    {
         "name": "Bernardo Rodrigues",
         "email": "bernardo.rodrigues@owasp.org",
         "group": "OWASP Coimbra",
@@ -7049,6 +7028,13 @@
         "group_url": "https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/"
     },
     {
+        "name": "Rico Komenda",
+        "email": "https://github.com/ricokomenda",
+        "group": "OWASP Artificial Intelligence Security Verification Standard AISVS Docs",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-artificial-intelligence-security-verification-standard-aisvs-docs/"
+    },
+    {
         "name": "Russ Memisyazici",
         "email": "russ.m@owasp.org",
         "group": "OWASP Artificial Intelligence Security Verification Standard AISVS Docs",
@@ -9805,6 +9791,13 @@
         "group": "OWASP VulnCodeLab",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-vulncodelab/"
+    },
+    {
+        "name": "Jeff Williams",
+        "email": "jeff.williams@owasp.org",
+        "group": "OWASP Vulnerability Communication Guide",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-vulnerability-communication-guide/"
     },
     {
         "name": "Michał Walkowski",
