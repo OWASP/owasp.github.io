@@ -49,6 +49,7 @@ This report shares some of those moments. It reflects what happens when a passio
 
 ![2025 Impact Report Key Stats](/assets/files/2025_Impact_Report_ Key_Stats.png)
 
+
 Inside this report, you’ll find:
 - Real stories from across our community
 - Insights into statistics and what’s next
@@ -58,7 +59,7 @@ Inside this report, you’ll find:
 [OWASP Impact Report 2025](/assets/files/OWASP_Impact_Report_2025.pdf){:target='_blank'}
 
 Thank you to everyone who made this report possible: our volunteers, members, partners, and supporters.
-​
+
 This is just the beginning. We will make this an annual report, so be ready to contribute when we reflect on 2026!
 
 ## Participation and Membership
