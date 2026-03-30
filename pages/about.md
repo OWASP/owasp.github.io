@@ -35,6 +35,28 @@ As the world’s largest non-profit organization concerned with software securit
 
 in order to enable developers to write better software, and security professionals to make the world's software more secure.
 
+## Our 2025 Impact Report
+
+### Explore the highlights, stories, and achievements that shaped our 2025, all made possible by our community, volunteers, and supporters.
+[OWASP Impact Report 2025](/assets/files/OWASP_Impact_Report_2025){:target='_blank'}
+
+This year marked an exciting milestone for us with the release of our very first **Impact Report**.
+Throughout our chapters, events, and projects, people participated, shared ideas, built relationships, and made meaningful change in their communities.
+This report shares some of those moments. It reflects what happens when a passionate community comes together with a shared purpose. From local chapters to global conferences and key projects, each achievement is the result of collective effort.
+
+![2025 Impact Report Key Stats](/assets/files/2025_Impact_Report_ Key_Stats.png)
+
+Inside this report, you’ll find:
+- Real stories from across our community
+- Insights into statistics and what’s next
+- Reflections from members, leaders, Corporate supporters, and the BOD  
+- A closer look at the impact we’re building together
+
+[OWASP Impact Report 2025](/assets/files/OWASP_Impact_Report_2025){:target='_blank'}
+
+Thank you to everyone who made this report possible: our volunteers, members, partners, and supporters.​
+This is just the beginning. We will make this an annual report, so be ready to contribute when we reflect on 2026!
+
 ## Participation and Membership
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
