@@ -15,8 +15,8 @@ spnews: False
 
 <!-- Rebuild Site Tag 190 -->
 
-<div class="homepage-promo" style='background: url(/assets/images/content/ams-preso-new.jpg) no-repeat center center;background-size: cover;'>
-  <!--<img src="/assets/images/content/ams-preso-new.jpg" alt="Presentation at Global AppSec AMS">-->
+<div class="homepage-promo" style='background: url(/assets/images/content/owasp-lahore/owasp-lahore-hero.jpg) no-repeat center center;background-size: cover;background-color:#000;min-height:420px;'>
+  <!-- Hero image: OWASP LAHORE x tkxel - AI Security Summit 2026, "Global Expertise. Stronger Together." -->
 </div>
 
  <hr class="mobile">
