@@ -22,7 +22,7 @@ What You’ll Learn:
 
 This strategic plan provides a comprehensive look at how OWASP will drive meaningful, lasting impact through these five strategic areas:
 
-![Strategy Plan](/assets/images/posts/strategic-plan.png)
+![Strategy Plan](/assets/images/posts/strategic-plan.png){:style="display:block; float:none; width:100%; max-width:900px; margin:1.5rem auto;"}
 
 Why This Matters:
 
