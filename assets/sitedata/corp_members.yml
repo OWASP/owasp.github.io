@@ -656,7 +656,7 @@
   description: >-
     The DevSecAI Platform helps organisations securely design, build, and deploy AI systems by embedding security best practices across the entire AI/ML lifecycle-covering data handling, model training, deployment, and post-deployment monitoring. Every customer is also assigned an embedded DevSecAI engineer to fine-tune platform results. We are a global security consultancy that also provides AI Security Advisory services which are also automated and integrated within our DevSecAI Platform.
 - member: true
-  sponsor: -1
+  sponsor: 4
   name: SDS Ltd
   sortname: SDS Ltd
   membertype: 4
@@ -733,6 +733,16 @@
   url: http://www.appsecai.io	
   description: >-
     AppSecAI is transforming application security through AI-powered expert automation, enabling security champions to secure applications at portfolio scale. Our success-centric business model delivers guaranteed ROI by only charging for vulnerabilities fixed! Led by security pioneers from Contrast Security, Aspect Security, and Cloudflare, AppSecAI is driving the future of application security to with tools that work.
+- member: true
+  sponsor: 4	
+  name: Xint.io	
+  sortname: Xint
+  membertype: 4
+  image: /assets/images/corp-member-logo/xintio_logo.png
+  url: https://xint.io	
+  description: >-
+    What if the world's best hackers rebuilt AppSec from the ground up based on what actually matters to attackers? Meet Xint.io: AI-native AppSec to find real vulnerabilities in your code and then prove they’re exploitable in your live application. In just hours find the real vulnerabilities attackers target without drowning your team in false positives, with full trigger/impact reports to quickly validate and triage severe vulnerabilities.
+
 
 
 
