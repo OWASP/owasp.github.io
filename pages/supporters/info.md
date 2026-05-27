@@ -1,5 +1,5 @@
 ### Support the Foundation
-- [Become a Corporate Supporter](mailto:corporate.relations@owasp.com)
+- [Become a Corporate Supporter](mailto:corporate.relations@owasp.org)
 - [Sponsor events](mailto:events@owasp.com)
 - [Make a charitable gift](/donate) 
 
