@@ -3,7 +3,7 @@
 date: 2026-06-09 00:00:00-0700
 categories: blog
 author: 
-author_image: 
+author_image: /assets/images/none.png
 layout: blogpost
 title: OWASP Dependency-Track 5.0 Is Now Generally Available
 excerpt_separator: <!--more-->
