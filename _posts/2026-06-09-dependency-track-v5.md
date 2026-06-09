@@ -10,8 +10,6 @@ excerpt_separator: <!--more-->
 
 ---
 
-### OWASP Dependency-Track 5.0 Is Now Generally Available
-
 The largest redesign in the project's history brings horizontal scaling, fault tolerance, and software supply chain integrity verification to the widely used open source platform
 
 <!--more-->
@@ -35,9 +33,9 @@ Those guarantees already hold up in the field. Early adopters running the v5 alp
 
 - Smarter, expression based policies. A new policy engine built on Common Expression Language (CEL) powers component policies, vulnerability policies that can automatically audit or suppress findings before they reach analysts, and notification filters that can match on any field of an event, such as firing only at or above a chosen severity.
 
-- - One database, fewer failure modes. v5 standardizes on PostgreSQL and moves search, caching, and metrics into the database. The local search index disappears, along with the index corruption and disk space failures that came with it, and metrics become a proper time series with bounded retention.
+- One database, fewer failure modes. v5 standardizes on PostgreSQL and moves search, caching, and metrics into the database. The local search index disappears, along with the index corruption and disk space failures that came with it, and metrics become a proper time series with bounded retention.
 
-Built for operations. A dedicated management endpoint exposes Prometheus metrics and Kubernetes style liveness and readiness probes on their own port, integration secrets are centralized behind a pluggable provider for easier rotation and audit, and pluggable file storage supports shared volumes or S3 compatible object storage.
+- Built for operations. A dedicated management endpoint exposes Prometheus metrics and Kubernetes style liveness and readiness probes on their own port, integration secrets are centralized behind a pluggable provider for easier rotation and audit, and pluggable file storage supports shared volumes or S3 compatible object storage.
 
 - Governance and data lifecycle. Portfolio access control graduates out of beta with bounded overhead at scale, and configurable retention keeps inactive project versions and time series metrics from growing without bound.
 
@@ -52,7 +50,7 @@ Regulation is turning software inventory from good practice into legal obligatio
 The same foundation reaches well beyond software. A platform that already tracks millions of components is the natural place to inventory everything else an organization ships and runs, including hardware, AI and machine learning models, and the cryptography embedded across its products.
 
 
-> "Dependency-Track has always been about making software bill of materials analysis practical for everyone, and v5 is about making it dependable at any  scale, from a single team to enterprise portfolios of hundreds of thousands of projects," said Steve Springett, founder and project co-lead of OWASP  Dependency-Track. "We rebuilt the engine so the platform stays up, never silently loses work, and gives teams stronger guarantees about the integrity of what they ship, without losing the openness that made the project what it is."
+>"Dependency-Track has always been about making software bill of materials analysis practical for everyone, and v5 is about making it dependable at any  scale, from a single team to enterprise portfolios of hundreds of thousands of projects," said Steve Springett, founder and project co-lead of OWASP  Dependency-Track. "We rebuilt the engine so the platform stays up, never silently loses work, and gives teams stronger guarantees about the integrity of what they ship, without losing the openness that made the project what it is."
 
 
 The strategic premise underneath all of it is simple: an organization cannot assess, prioritize, or reduce risk in what it has not inventoried. By making a complete and current component inventory feasible at enterprise scale, v5 gives security and risk teams the foundation that every downstream assessment depends on, whether regulatory, vulnerability, license, cryptographic, or supply chain.
@@ -75,7 +73,10 @@ Dependency-Track 5.0 is available now as container images from Docker Hub and th
 ---
 
 ### About OWASP Dependency-Track
-OWASP Dependency-Track is an OWASP flagship project and an intelligent component analysis platform that helps organizations identify and reduce risk in the software supply chain. It consumes software bill of materials (SBOM) data, including the CycloneDX standard, continuously monitors components for newly disclosed vulnerabilities and policy violations, and integrates with the tools that security and development teams already use. Learn more at dependencytrack.org[dependencytrack.org](https://dependencytrack.org/).
+OWASP Dependency-Track is an OWASP flagship project and an intelligent component analysis platform that helps organizations identify and reduce risk in the software supply chain. It consumes software bill of materials (SBOM) data, including the CycloneDX standard, continuously monitors components for newly disclosed vulnerabilities and policy violations, and integrates with the tools that security and development teams already use. Learn more at [dependencytrack.org](https://dependencytrack.org/).
+
+### About OWASP
+The OWASP Foundation is a nonprofit organization that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. For nearly two decades, corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. To learn more or to become a member, visit [owasp.org](owasp.org).
 
 ---
 
