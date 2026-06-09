@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-The largest redesign in the project's history brings horizontal scaling, fault tolerance, and software supply chain integrity verification to the widely used open source platform
+The largest redesign in the project's history brings horizontal scaling, fault tolerance, and software supply chain integrity verification to the widely used open source platform.
 
 <!--more-->
 ---
@@ -50,7 +50,8 @@ Regulation is turning software inventory from good practice into legal obligatio
 The same foundation reaches well beyond software. A platform that already tracks millions of components is the natural place to inventory everything else an organization ships and runs, including hardware, AI and machine learning models, and the cryptography embedded across its products.
 
 
->"Dependency-Track has always been about making software bill of materials analysis practical for everyone, and v5 is about making it dependable at any  scale, from a single team to enterprise portfolios of hundreds of thousands of projects," said Steve Springett, founder and project co-lead of OWASP  Dependency-Track. "We rebuilt the engine so the platform stays up, never silently loses work, and gives teams stronger guarantees about the integrity of what they ship, without losing the openness that made the project what it is."
+>"Dependency-Track has always been about making software bill of materials analysis practical for everyone, and v5 is about making it dependable at any  scale, from a single team to enterprise portfolios of hundreds of thousands of projects," said Steve Springett, founder and project co-lead of OWASP Dependency-Track.
+>"We rebuilt the engine so the platform stays up, never silently loses work, and gives teams stronger guarantees about the integrity of what they ship, without losing the openness that made the project what it is."
 
 
 The strategic premise underneath all of it is simple: an organization cannot assess, prioritize, or reduce risk in what it has not inventoried. By making a complete and current component inventory feasible at enterprise scale, v5 gives security and risk teams the foundation that every downstream assessment depends on, whether regulatory, vulnerability, license, cryptographic, or supply chain.
@@ -65,7 +66,8 @@ Existing Dependency-Track 4.x deployments continue to receive security and high 
 Operators should note the headline breaking changes. PostgreSQL is now the only supported database, replacing H2, MySQL, and Microsoft SQL Server. Notification payloads move to Protobuf, so existing templates need updating. The REST API enforces pagination by default and changes some response schemas. The bundled container image and the executable WAR are discontinued in favor of separate API server and frontend container images. Lucene based fuzzy vulnerability matching is removed. Full upgrade and migration guides, including a rehearsal procedure and a parallel run option, are available in the documentation.
 
 
->"This release was two years in the making, and not a line of it happened in isolation," said Niklas Düster, co-leader of OWASP Dependency-Track and lead architect of v5. "Countless individuals and organizations contributed code, infrastructure, funding, and feedback, and many ran the early builds in production so we could scale v5 against real workloads. We are deeply grateful to every one of them. Dependency-Track v5 is a community effort, and it shows."
+>"This release was two years in the making, and not a line of it happened in isolation," said Niklas Düster, co-leader of OWASP Dependency-Track and lead architect of v5.
+>"Countless individuals and organizations contributed code, infrastructure, funding, and feedback, and many ran the early builds in production so we could scale v5 against real workloads. We are deeply grateful to every one of them. Dependency-Track v5 is a community effort, and it shows."
 ---
 
 ### Availability
