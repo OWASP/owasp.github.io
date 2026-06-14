@@ -2008,5 +2008,15 @@
         "name": "CVE Assessment Guide",
         "repo": "www-project-cve-assessment-guide",
         "level": 2
+    },
+    {
+        "name": "DockSec",
+        "repo": "www-project-docksec",
+        "level": 3
+    },
+    {
+        "name": "cve-lite cli",
+        "repo": "cve-lite-cli",
+        "level": 3
     }
 ]
