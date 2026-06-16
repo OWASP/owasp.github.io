@@ -760,6 +760,17 @@
   url: https://tryhackme.com
   description: >-
     TryHackMe is a hands-on cybersecurity training platform used by millions of people to build real-world offensive and defensive skills. Pre-configured virtual machines run directly in the browser, so learners can spend time on the work, not the setup, regardless of what equipment they have. For organisations, TryHackMe for Business helps security teams close skill gaps and track progress through customisable learning paths and a central management dashboard, trusted by 1,000+ companies. Ideal for CTFs, workshops, assessments, and structured training.
+- member: true
+  sponsor: 4	
+  name: Chainloop	
+  sortname: chainloop
+  membertype: 4
+  image: /assets/images/corp-member-logo/chainloop.png
+  url: https://chainloop.dev
+  description: >-
+    Chainloop is the trust and governance platform for AI-driven software delivery. It gives security and engineering teams one source of truth for everything they ship: capturing signed evidence and artifacts, enforcing policies as code, and using AI to assess risk and open a pull request to fix it. The payoff is simple. Ship AI-generated software faster, and prove it is secure. The Chainloop core is open source and runs in production at Fortune 500 enterprises, banks, and government agencies.
+
+
 
 
 
