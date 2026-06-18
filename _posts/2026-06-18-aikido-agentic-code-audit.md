@@ -49,6 +49,8 @@ Because AI Code Audit reads source directly, there’s no crawl phase, no traffi
 
 OWASP individual members can claim their credits and run their first AI Code Audit at [https://www.aikido.dev/code/code-audit](www.aikido.dev/code/code-audit). The program runs for 6 months starting today (June 18th, 2026). Cost per audit depends on the size and complexity of the repositories selected; the exact credit total is shown in Aikido before the audit begins.
 
+---
+
 ### About OWASP
 The OWASP Foundation is a nonprofit organization that works to improve the security of software. Through community-led open source software projects, over 260 local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web. For nearly two decades, corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. To learn more or to become a member, visit [owasp.org](owasp.org).
 
