@@ -19,7 +19,7 @@ In celebration of our 20th Anniversary, OWASP is pleased to announce our new mer
 <br>
 <br>
 <br>
-[Go to the OWASP Fundraising Store](https://owasp.org/store)
+<!-- [Go to the OWASP Fundraising Store](https://owasp.org/store) -->
 
 The OWASP Foundation store is strictly for fundraising purposes.  There will be no reimbursements from OWASP for any purchases.  
 
