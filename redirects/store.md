@@ -4,8 +4,6 @@ title: Store Redirect
 permalink: /store/
 redirect_from: 
     - /store
-redirect_to: /pages/transient/store
+redirect_to: https://cybersecgames.com/pages/owasp-merchandise
 
 ---
-
-<!-- https://www.zazzle.com/store/owasp_foundation/products -->
