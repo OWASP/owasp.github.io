@@ -1,7 +1,7 @@
-[![7A Security Interview](/assets/images/content/interview-abh7as3.png){:width="100%" height="auto"}](https://youtu.be/hEHGLUFtWN0)
+[![AppSec Days Portugal](/assets/images/events/2026/appsecdaysportugal.png){:width="100%" height="auto"}](https://www.eventbrite.com/e/owasp-appsec-days-portugal-2026-tickets-1985865367773)
 
-## 7ASecurity Platinum Corporate Supporter
+## AppSec Days Portugal
 
-In this wide-ranging interview with Abraham Aranguren, Managing Director of 7ASecurity, who is an OWASP Platinum Corporate Supporter. We go over 7ASecurity's community resources available to all security researchers, their contributions to the OWASP OWTF project, and many other topics.
+Join 400+ security professionals, developers, and architects for Portugal's premier application security conference. Two days of keynotes, workshops, CTF, and networking.
 
-More details, including how 7ASecurity's audit process works can be found in the [video](https://youtu.be/hEHGLUFtWN0)
+[Ticket sales are open! Secure your spot at this event now.](https://www.eventbrite.com/e/owasp-appsec-days-portugal-2026-tickets-1985865367773) Space is filling up quickly!
