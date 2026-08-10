@@ -7,7 +7,7 @@ site_side: true
 tags: projects
 
 ---
-
+<!-- rebuild -->
 <strong>Lab Projects:</strong> OWASP Labs projects represent projects that have produced an OWASP reviewed deliverable of value.<br>
 <strong>Incubator Projects:</strong> OWASP Incubator projects represent the experimental playground where projects are still being fleshed out, ideas are still being proven, and development is still underway.
 
