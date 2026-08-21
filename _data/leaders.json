@@ -427,6 +427,13 @@
         "group_url": "https://owasp.org/www-chapter-barcelona/"
     },
     {
+        "name": "Dag Flachet",
+        "email": "dag.flachet@owasp.org",
+        "group": "OWASP Barcelona",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-barcelona/"
+    },
+    {
         "name": "Prashant KV",
         "email": "kvprashant@owasp.org",
         "group": "OWASP Bay Area",
@@ -749,13 +756,6 @@
         "group_url": "https://owasp.org/www-chapter-bonita-springs/"
     },
     {
-        "name": "Tom Conner",
-        "email": "tom.conner@owasp.org",
-        "group": "OWASP Boston",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-boston/"
-    },
-    {
         "name": "Nivedita Murthy",
         "email": "nivedita.murthy@owasp.org",
         "group": "OWASP Boston",
@@ -779,6 +779,13 @@
     {
         "name": "Caroline Lee",
         "email": "caroline.lee@owasp.org",
+        "group": "OWASP Boston",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-boston/"
+    },
+    {
+        "name": "Boston Leaders",
+        "email": "boston-leaders@owasp.org",
         "group": "OWASP Boston",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-boston/"
@@ -1689,13 +1696,6 @@
     {
         "name": "Arron Johnson",
         "email": "arron.johnson@owasp.org",
-        "group": "OWASP Dorset",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-dorset/"
-    },
-    {
-        "name": "Daryl Angel",
-        "email": "daryl.angel@owasp.org",
         "group": "OWASP Dorset",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-dorset/"
@@ -3472,8 +3472,8 @@
         "group_url": "https://owasp.org/www-chapter-los-angeles/"
     },
     {
-        "name": "Open Position",
-        "email": "* [open position",
+        "name": "Yev Avidon",
+        "email": "yev.avidon@owasp.org",
         "group": "OWASP Los Angeles",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-los-angeles/"
@@ -4454,6 +4454,13 @@
     {
         "name": "Onam Diaz",
         "email": "onam.diaz@owasp.org",
+        "group": "OWASP Panama City",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-panama-city/"
+    },
+    {
+        "name": "Andre Conte",
+        "email": "andre.contesanchez@owasp.org",
         "group": "OWASP Panama City",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-panama-city/"
@@ -6403,6 +6410,20 @@
         "group": "OWASP Uruguay",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-uruguay/"
+    },
+    {
+        "name": "Florencio Cano",
+        "email": "florencio.garbada@owasp.org",
+        "group": "OWASP Valencia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-valencia/"
+    },
+    {
+        "name": "Santiago Escobar",
+        "email": "santiago.escobar@owasp.org",
+        "group": "OWASP Valencia",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-valencia/"
     },
     {
         "name": "Farshad Abasi",
