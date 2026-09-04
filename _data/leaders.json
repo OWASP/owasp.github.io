@@ -105,6 +105,20 @@
         "group_url": "https://owasp.org/www-chapter-algiers/"
     },
     {
+        "name": "Bagdat Sauanov",
+        "email": "bagdat.sauanov@owasp.org",
+        "group": "OWASP Almaty",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-almaty/"
+    },
+    {
+        "name": "Dmitriy Shaposhnikov",
+        "email": "dmitriy.shaposhnikov@owasp.org",
+        "group": "OWASP Almaty",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-almaty/"
+    },
+    {
         "name": "Saed Manna",
         "email": "saed.manna@owasp.org",
         "group": "OWASP Amman",
@@ -3045,6 +3059,20 @@
         "group_url": "https://owasp.org/www-chapter-kerala/"
     },
     {
+        "name": "Swapna Rani",
+        "email": "swapna.rani@owasp.org",
+        "group": "OWASP KG Reddy College of Engineering and Technology, Hyderabad",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kgreddy-college-engineering-technology-hyderabad/"
+    },
+    {
+        "name": "Jashanth Gonipati",
+        "email": "jashanth.gonipati@owasp.org",
+        "group": "OWASP KG Reddy College of Engineering and Technology, Hyderabad",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kgreddy-college-engineering-technology-hyderabad/"
+    },
+    {
         "name": "Vitalii Balashow",
         "email": "vitalii.balashov@owasp.org",
         "group": "OWASP Kharkiv",
@@ -4457,20 +4485,6 @@
         "group": "OWASP Ottawa",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-ottawa/"
-    },
-    {
-        "name": "Daniel Díez",
-        "email": "daniel.diez@owasp.org",
-        "group": "OWASP Pamplona",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-pamplona/"
-    },
-    {
-        "name": "Roman Mesa",
-        "email": "roman.mesa@owasp.org",
-        "group": "OWASP Pamplona",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-pamplona/"
     },
     {
         "name": "Diego Gonzalez Arango",
@@ -5964,13 +5978,6 @@
         "group_url": "https://owasp.org/www-chapter-stockholm/"
     },
     {
-        "name": "Davis Freimanis",
-        "email": "davis.freimanis@owasp.org",
-        "group": "OWASP Stockholm",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-stockholm/"
-    },
-    {
         "name": "Henrik Åslund",
         "email": "henrik.aslund@owasp.org",
         "group": "OWASP Stockholm",
@@ -5978,15 +5985,15 @@
         "group_url": "https://owasp.org/www-chapter-stockholm/"
     },
     {
-        "name": "Akzharkyn Duisembiyeva",
-        "email": "akzharkyn.duisembiyeva@owasp.org",
+        "name": "Naime Surenkok",
+        "email": "naime.surenkok@owasp.org",
         "group": "OWASP Stockholm",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-stockholm/"
     },
     {
-        "name": "Naime Surenkok",
-        "email": "naime.surenkok@owasp.org",
+        "name": "Daniel Hållbro",
+        "email": "daniel.hallbro@owasp.org",
         "group": "OWASP Stockholm",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-stockholm/"
@@ -7413,13 +7420,6 @@
         "group_url": "https://owasp.org/www-project-automated-threats-to-web-applications/"
     },
     {
-        "name": "Colin Watson",
-        "email": "colin.watson@owasp.org",
-        "group": "OWASP Automated Threats to Web Applications",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-automated-threats-to-web-applications/"
-    },
-    {
         "name": "Alexander Meisel",
         "email": "owasp.org@meisel.cc",
         "group": "OWASP Automotive EMB 60",
@@ -7698,13 +7698,6 @@
         "group": "OWASP Core Business Application Security",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-core-business-application-security/"
-    },
-    {
-        "name": "Colin Watson",
-        "email": "colin.watson@owasp.org",
-        "group": "OWASP Cornucopia",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-cornucopia/"
     },
     {
         "name": "Grant Ongers",
@@ -9613,13 +9606,6 @@
     {
         "name": "Katy Anton",
         "email": "katy.anton@owasp.org",
-        "group": "OWASP Snakes And Ladders",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-snakes-and-ladders/"
-    },
-    {
-        "name": "Colin Watson",
-        "email": "colin.watson@owasp.org",
         "group": "OWASP Snakes And Ladders",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-snakes-and-ladders/"
