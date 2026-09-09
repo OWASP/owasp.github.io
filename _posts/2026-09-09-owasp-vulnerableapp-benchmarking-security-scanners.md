@@ -61,7 +61,7 @@ VulnerableApp is evolving in three areas:
 
 VulnerableApp is a community project. Developers, security researchers, educators, security professionals, and scanner developers can contribute vulnerability scenarios, technology-specific implementations, benchmarking improvements, documentation, and learning experiences.
 
-Build reproducible security-testing environments that help the community understand how well security tools perform against known conditions.
+**Build reproducible security-testing environments that help the community understand how well security tools perform against known conditions.**
 
 ### Get involved
 
