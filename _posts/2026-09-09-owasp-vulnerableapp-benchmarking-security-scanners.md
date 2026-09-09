@@ -18,7 +18,7 @@ VulnerableApp is designed around known vulnerability scenarios that can serve as
 
 The idea began in 2019 while developing add-ons for ZAP by Checkmarx (formerly known as OWASP ZAP or Zed Attack Proxy). While working on a JWT vulnerability detection rule, testing required finding a suitable vulnerable application or building one specifically for that purpose.
 
-That experience led to VulnerableApp:a deliberately vulnerable application designed with **security testing and extensibility as core considerations**.
+That experience led to VulnerableApp: A deliberately vulnerable application designed with **security testing and extensibility as core considerations**.
 
 ## By the numbers
 
