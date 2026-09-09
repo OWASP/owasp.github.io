@@ -3101,6 +3101,20 @@
         "group_url": "https://owasp.org/www-chapter-king-of-prussia/"
     },
     {
+        "name": "Baijnath Singh",
+        "email": "baijnath.singh@owasp.org",
+        "group": "OWASP Kinnaur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kinnaur/"
+    },
+    {
+        "name": "Priyanshu Gupta",
+        "email": "priyanshu.gupta@owasp.org",
+        "group": "OWASP Kinnaur",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-kinnaur/"
+    },
+    {
         "name": "Gerald Mueller",
         "email": "gerald.mueller@owasp.org",
         "group": "OWASP Klagenfurt",
@@ -4272,6 +4286,13 @@
     {
         "name": "Simon Gurney",
         "email": "simon.gurney@owasp.org",
+        "group": "OWASP Newcastle (UK)",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
+    },
+    {
+        "name": "Michael Lamb",
+        "email": "michael.lamb@owasp.org",
         "group": "OWASP Newcastle (UK)",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-newcastle-uk/"
@@ -6001,6 +6022,13 @@
     {
         "name": "Daniel Hållbro",
         "email": "daniel.hallbro@owasp.org",
+        "group": "OWASP Stockholm",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-stockholm/"
+    },
+    {
+        "name": "Ahmed Beder",
+        "email": "ahmed.beder@owasp.org",
         "group": "OWASP Stockholm",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-stockholm/"
@@ -8433,13 +8461,6 @@
         "group": "OWASP Java Encoder",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-java-encoder/"
-    },
-    {
-        "name": "Mike Samuel",
-        "email": "mikesamuel@gmail.com",
-        "group": "OWASP Java HTML Sanitizer",
-        "group-type": "project",
-        "group_url": "https://owasp.org/www-project-java-html-sanitizer/"
     },
     {
         "name": "Jim Manico",
