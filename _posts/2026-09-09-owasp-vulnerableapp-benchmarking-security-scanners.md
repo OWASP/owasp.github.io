@@ -1,4 +1,14 @@
-## OWASP VulnerableApp: Building a Benchmark for the Next Generation of Security Scanners
+---
+
+date: 2026-09-09 00:00:00-0700
+categories: blog
+author: Karan Preet Singh Sasan
+author_image: /assets/images/people/karanpreetsinghsasan.jpg
+layout: blogpost
+title: OWASP VulnerableApp: Building a Benchmark for the Next Generation of Security Scanners 
+excerpt_separator: <!--more-->
+
+---
 
 Security scanners are getting better, but how do we actually know how good they are?
 
