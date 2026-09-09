@@ -28,6 +28,8 @@ The project has grown across as the ecosystem of Vulnerable Applications. As of 
 
 Vulnerability behavior can depend on the underlying technology. The VulnerableApp has built a Facade architecture that provides a common layer between users and security tools and technology-specific vulnerable applications.
 
+![VulnerableApp-Architecture](../assets/images/posts/VulnerableApp/VulnerableApp-Architecture-2026-09-09.png)
+
 The facade provides common capabilities such as request routing, generic consistent scalable react based UI and a common metadata and benchmarking apis. Behind it, vulnerable scenarios can be implemented using technologies such as Java/Spring Boot, JSP/Servlet, PHP, and other technology stacks.
 
 The purpose is to provide a consistent interaction model while allowing vulnerability behavior to remain technology-specific.
