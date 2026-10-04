@@ -1,5 +1,5 @@
 ### Important Links
-* [Project Handbook](/www-pdf-archive/PROJECT_LEADER-HANDBOOK_2014.pdf)
+* [Project Handbook](https://owasp.org/project-handbook)
 * [Start a New Project]( https://owasporg.atlassian.net/servicedesk/customer/portal/43/group/55/create/209)
 * [Project Graduation Application](https://owasporg.atlassian.net/servicedesk/customer/portal/43/group/55/create/242)
 * [OWASP Github](https://github.com/OWASP)
