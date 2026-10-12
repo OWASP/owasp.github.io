@@ -1576,21 +1576,7 @@
     },
     {
         "name": "David Rhoades",
-        "email": "david.rhoades@owasp.org",
-        "group": "OWASP Delaware",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-delaware/"
-    },
-    {
-        "name": "Gionne Cannister",
-        "email": "gionne.cannister@owasp.org",
-        "group": "OWASP Delaware",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-delaware/"
-    },
-    {
-        "name": "Eric Truitte",
-        "email": "eric.truitte@owasp.org",
+        "email": "david.rhoades@owasp.or",
         "group": "OWASP Delaware",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-delaware/"
@@ -2354,13 +2340,6 @@
     {
         "name": "Ramalo Singh",
         "email": "ramalo.singh@owasp.org",
-        "group": "OWASP Houston",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-houston/"
-    },
-    {
-        "name": "Jacob Lawther",
-        "email": "jacob.lawther@owasp.org",
         "group": "OWASP Houston",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-houston/"
@@ -3864,20 +3843,6 @@
         "group_url": "https://owasp.org/www-chapter-memphis/"
     },
     {
-        "name": "Danilo Vezzoni",
-        "email": "danilo.vezzoni@owasp.org",
-        "group": "OWASP Mendoza",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-mendoza/"
-    },
-    {
-        "name": "Paula Gantus",
-        "email": "paula.gantus@owasp.org",
-        "group": "OWASP Mendoza",
-        "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-mendoza/"
-    },
-    {
         "name": "Elsa Estrada",
         "email": "elsa.estrada@owasp.org",
         "group": "OWASP Mexico City",
@@ -4334,7 +4299,7 @@
     },
     {
         "name": "Shabnaj Liaqat",
-        "email": "shabnad.liaqat@owasp.org",
+        "email": "shabnaj.liaqat@owasp.org",
         "group": "OWASP North Dakota State University",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-north-dakota-state-university/"
@@ -6538,15 +6503,22 @@
         "group_url": "https://owasp.org/www-chapter-university-of-guelph/"
     },
     {
-        "name": "Gerardo Canedo",
-        "email": "gerardo.canedo@owasp.org",
+        "name": "Martín Marsicano",
+        "email": "martin.marsicano@owasp.org",
         "group": "OWASP Uruguay",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-uruguay/"
     },
     {
-        "name": "Sebastián Passaro",
-        "email": "sebastian.passaro@owasp.org",
+        "name": "Mateo Martínez",
+        "email": "mateo.martinez@owasp.org",
+        "group": "OWASP Uruguay",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-uruguay/"
+    },
+    {
+        "name": "Pablo Alzuri",
+        "email": "pablo.alzuri@owasp.org",
         "group": "OWASP Uruguay",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-uruguay/"
@@ -8920,6 +8892,13 @@
     {
         "name": "Andreas Happe",
         "email": "andreas.happe@owasp.org",
+        "group": "OWASP Operational Technology Top 10",
+        "group-type": "project",
+        "group_url": "https://owasp.org/www-project-operational-technology-top-10/"
+    },
+    {
+        "name": "Felix Eberstaller",
+        "email": "f0rw4rd@owasp.org",
         "group": "OWASP Operational Technology Top 10",
         "group-type": "project",
         "group_url": "https://owasp.org/www-project-operational-technology-top-10/"
