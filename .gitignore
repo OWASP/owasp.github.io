@@ -1,11 +1,48 @@
-/Gemfile.lock
-/favicon.ico
+# Jekyll build output
 _site/
-.sass-cache
+.jekyll-cache/
+.sass-cache/
+
+# Bundler / Ruby Gems
+/vendor/bundle/
+/vendor/cache/
+.bundle/
+
+# IDEs and editors
 .idea/
 *.iml
+.vscode/
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jekyll and site-specific
+_jekyll_cache/
+jekyll-cache/
+.sass-cache
+.jekyll-metadata
+
+# Misc
 devsite.txt
 rafts/
-.vscode/
 .junie/
